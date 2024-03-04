@@ -2,9 +2,7 @@
 
 Extracted from Azure Portal version 13.155.1.113.155.0.136897.240219-1803 on 2024-03-04.
 
-Microsoft icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
-
-Download latest [Azure icons package](https://github.com/MallowOy/azure-icons/actions/runs/8139598606/artifacts/1294633088).
+Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
 | Icon | Type |
 | --- | --- |
