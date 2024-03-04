@@ -167,6 +167,7 @@ jobs:
     runs-on: ubuntu-22.04
     name: Commit
     permissions:
+      actions: write # required for workflow_dispatch
       contents: write # required for git push
     needs: download
     steps:
@@ -196,3 +197,13 @@ jobs:
       - name: Git push
         run: |
           git push origin main
+      - name: Trigger publish
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.actions.createWorkflowDispatch({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              workflow_id: 'static.yml',
+              ref: 'main',
+            })
