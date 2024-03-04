@@ -130,7 +130,7 @@ jobs:
           $html=$icondata|% `
             {"<html><head><meta name=`"viewport`" content=`"width=device-width, initial-scale=1`"><title>Azure Icons</title><style>body{margin:0}table,th,td{border:1px solid #CCCCCC;border-collapse:collapse;padding:3px}tbody{word-break:break-all;}thead,tfoot{position:sticky;}thead{inset-block-start:0;background-color:#CCCCCC}tfoot{inset-block-end:0;background-color:#CCCCCC}a:link,a:visited,a:hover{color:black}a:active{color:blue}</style><script>function download(uri, name){const a=document.createElement(`"a`");a.href=uri;a.download=name+`".svg`";a.click();}</script></head><body><table><thead><tr><th scope=`"col`" style=`"width: 10%`">Click to download</th><th scope=`"col`" style=`"width: 20%`">Name</th><th scope=`"col`" style=`"width: 20%`">Type</th><th scope=`"col`" style=`"width: 20%`">Keywords</th><th scope=`"col`" style=`"width: 30%`">Description</th></tr></thead><tbody>"} `
             {"<tr title=`"$($_.name)`"><td><img loading=`"lazy`" decoding=`"async`" src=`"svg/$($_.name).svg`" alt=`"$($_.singularDisplayName)`" title=`"Click to download`" onclick=`"download(this.src, this.alt)`" /></td><td>$($_.singularDisplayName)</td><td>$($_.resourceType)</td><td>$($_.keywords)</td><td>$($_.description)</td></tr>"} `
-            {"</tbody><tfoot><tr><td colspan=`"5`">Extracted from Azure Portal version ${{ steps.src.outputs.pageversion }} on $(get-date -f 'yyyy-MM-dd'). Microsoft icons <a target=`"_blank`" href=`"https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions`">used with permission from Microsoft</a>.</td></tr></tfoot></table></body></html>"}|out-string
+            {"</tbody><tfoot><tr><td colspan=`"5`">Extracted from Azure Portal version ${{ steps.src.outputs.pageversion }} on $(get-date -f 'yyyy-MM-dd'). Icons <a target=`"_blank`" href=`"https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions`">used with permission from Microsoft</a>. Source on <a target=`"_blank`" href=`"https://github.com/maskati/azure-icons`">GitHub</a>.</td></tr></tfoot></table></body></html>"}|out-string
           $html|out-file index.html
           "Created HTML of $([math]::round((gi index.html).length/1024/1024, 1))MB" >> $env:GITHUB_STEP_SUMMARY
 
@@ -150,7 +150,7 @@ jobs:
         run: |
           $icondata=gc icon-data.json|convertfrom-json
           $markdown=$icondata|% `
-            {"# Azure Icons`n`nExtracted from Azure Portal version ${{ steps.src.outputs.pageversion }} on $(get-date -f 'yyyy-MM-dd').`n`nMicrosoft icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).`n`nDownload latest [Azure icons package](${{ steps.upload-azure-icons.outputs.artifact-url }}).`n`n| Icon | Type |`n| --- | --- |"} `
+            {"# Azure Icons`n`nExtracted from Azure Portal version ${{ steps.src.outputs.pageversion }} on $(get-date -f 'yyyy-MM-dd').`n`nIcons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).`n`n| Icon | Type |`n| --- | --- |"} `
             {"| [$($_.singularDisplayName -replace '\[|\]|\|','')](svg/$($_.name).svg) | $($_.resourceType -replace '/','/ ') |"} `
             {""}|out-string
           $markdown|out-file README.md
