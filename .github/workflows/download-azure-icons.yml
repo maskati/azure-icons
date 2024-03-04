@@ -14,6 +14,12 @@ jobs:
       confighash: ${{ steps.src.outputs.confighash }}
       pageversion: ${{ steps.src.outputs.pageversion }}
     steps:
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: 3.8
+
       - id: src
         name: Download sources
         shell: pwsh
@@ -46,6 +52,7 @@ jobs:
           $iconassets=(irm "https://portal.azure.com/Content/ExtensionManifest/$manifesthash.json").manifest
           $iconassets|convertto-json -depth 100|out-file icon-assets.json
           "Got total of $($iconassets.psobject.properties.value.count) manifests and $($iconassets.psobject.properties.value.assettypes.count) assets" >> $env:GITHUB_STEP_SUMMARY
+
       - id: upload-src
         name: Save sources
         uses: actions/upload-artifact@v4
@@ -56,6 +63,7 @@ jobs:
             icon-styles.css
             icon-library.json
             icon-assets.json
+            
       - name: Convert sources to icon data
         shell: pwsh
         run: |
@@ -92,6 +100,7 @@ jobs:
           }
           "Resolved $($icondata.count) icons" >> $env:GITHUB_STEP_SUMMARY
           $icondata|convertto-json -depth 100|out-file icon-data.json
+
       - id: upload-data
         name: Upload icon data
         uses: actions/upload-artifact@v4
@@ -99,6 +108,7 @@ jobs:
           name: data
           compression-level: 9
           path: icon-data.json
+
       - name: Save SVG icons
         shell: pwsh
         run: |
@@ -106,6 +116,15 @@ jobs:
           new-item -itemtype directory -name svg|out-null
           $iconstat=$icondata|%{$_.svg|new-item -path "svg/$($_.name).svg" -force}|measure-object -property length -sum
           "Created $($iconstat.count) svg files with total size $([math]::round($iconstat.sum/1024/1024, 1))MB"
+
+      - name: Export Draw.io shape library
+        run: |
+          pip install drawio-svg-library
+          mkdir temp_svgs
+          mkdir drawio
+          python3 create_svgs_with_displayname.py icon-data.json temp_svgs
+          drawio-svg-library $(find . -name "temp_svgs/*.svg") --output "drawio/Azure portal icons.xml"
+
       - name: Compose HTML
         shell: pwsh
         run: |
@@ -116,6 +135,7 @@ jobs:
             {"</tbody><tfoot><tr><td colspan=`"5`">Extracted from Azure Portal version ${{ steps.src.outputs.pageversion }} on $(get-date -f 'yyyy-MM-dd'). Icons <a target=`"_blank`" href=`"https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions`">used with permission from Microsoft</a>. Source on <a target=`"_blank`" href=`"https://github.com/maskati/azure-icons`">GitHub</a>.</td></tr></tfoot></table></body></html>"}|out-string
           $html|out-file index.html
           "Created HTML of $([math]::round((gi index.html).length/1024/1024, 1))MB" >> $env:GITHUB_STEP_SUMMARY
+
       - id: upload-azure-icons
         name: Upload Azure Icons
         uses: actions/upload-artifact@v4
@@ -124,7 +144,9 @@ jobs:
           compression-level: 9
           path: |
             svg/
+            drawio/
             index.html
+
       - name: Compose Markdown
         shell: pwsh
         run: |
@@ -135,6 +157,7 @@ jobs:
             {""}|out-string
           $markdown|out-file README.md
           "Created Markdown of $([math]::round((gi README.md).length/1024/1024, 1))MB" >> $env:GITHUB_STEP_SUMMARY
+
       - name: Upload Markdown
         uses: actions/upload-artifact@v4
         with:
@@ -171,6 +194,7 @@ jobs:
           git add svg/*
           git add index.html
           git add README.md
+          git add drawio/*
           git diff-index --quiet HEAD || git commit -m 'Update to version ${{ needs.download.outputs.pageversion }}'
       - name: Git push
         run: |
