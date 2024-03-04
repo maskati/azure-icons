@@ -120,8 +120,10 @@ jobs:
       - name: Export Draw.io shape library
         run: |
           pip install drawio-svg-library
+          mkdir temp_svgs
           mkdir drawio
-          drawio-svg-library $(find . -name "*.svg") --output "drawio/Azure portal icons.xml"
+          python3 create_svgs_with_displayname.py icon-data.json temp_svgs
+          drawio-svg-library $(find . -name "temp_svgs/*.svg") --output "drawio/Azure portal icons.xml"
 
       - name: Compose HTML
         shell: pwsh
