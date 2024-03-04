@@ -1,6 +1,8 @@
 name: Download Azure Icons
 
 on:
+  schedule:
+    - cron: '12 3 * * *'
   workflow_dispatch:
   
 jobs:
