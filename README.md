@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 13.155.1.113.155.0.136897.240219-1803 on 2024-03-05.
+Extracted from Azure Portal version 13.202.0.18965916.240228-0808 on 2024-03-06.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -1041,6 +1041,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [My Cases & Support](svg/VLCentral_CaseManagement/VLCentralCaseManagement.svg) |  |
 | [VLCentral Help](svg/VLCentral_HelpAndSupport/VLCentralHelp.svg) |  |
 | [VLCentral Home](svg/VLCentral_Home/VLCentralHome.svg) |  |
+| [My Resource](svg/VLCentral_OrderCredits/MyResource.svg) |  |
 | [My Resource](svg/VLCentral_Ordering/VLCentral_Ordering.svg) |  |
 | [My Resource](svg/VLCentral_OrganizationManagementService/MyResource.svg) |  |
 | [			Deal & Quote Management		](svg/VLCentral_Quote/VLCentralQuote.svg) |  |
