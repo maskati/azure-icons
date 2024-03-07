@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 13.202.0.18965916.240228-0808 on 2024-03-06.
+Extracted from Azure Portal version 13.204.0.1162.240229-0516 on 2024-03-07.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -865,7 +865,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Site Recovery vault](svg/Microsoft_Azure_SiteRecovery/SiteRecoveryResource.svg) | Microsoft.DataReplication/ replicationVaults |
 | [Azure Sphere Catalog](svg/Microsoft_Azure_Sphere/AzureSphereArm.svg) | microsoft.azuresphere/ catalogs |
 | [Azure Sphere (Legacy)](svg/Microsoft_Azure_Sphere/AzureSphere.svg) |  |
-| [My Resource](svg/Microsoft_Azure_SpringApps/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Storage account (classic)](svg/Microsoft_Azure_Storage/ClassicStorageAccount.svg) | Microsoft.ClassicStorage/ StorageAccounts |
 | [Storage account](svg/Microsoft_Azure_Storage/StorageAccount.svg) | Microsoft.Storage/ StorageAccounts |
 | [Storage browser](svg/Microsoft_Azure_Storage/StorageBrowser.svg) |  |
