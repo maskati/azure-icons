@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 13.155.1.113.155.0.136897.240219-1803 on 2024-03-04.
+Extracted from Azure Portal version 13.206.0.152587248.240301-0037 on 2024-03-08.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -477,7 +477,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Experiment Workspace](svg/Microsoft_Azure_Experimentation/Browse.svg) | Microsoft.Experimentation/ experimentWorkspaces |
 | [Advisor](svg/Microsoft_Azure_Expert/AzureAdvisor.svg) |  |
 | [Azure Data Box](svg/Microsoft_Azure_ExpressPod/DataBox.svg) | Microsoft.DataBox/ jobs |
-| [My Resource](svg/Microsoft_Azure_FairfieldGardens/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
+| [Provisioning policy](svg/Microsoft_Azure_FairfieldGardens/provisioningpolicies.svg) | Microsoft.FairfieldGardens/ ProvisioningResources/ ProvisioningPolicies |
+| [FairfieldGardens](svg/Microsoft_Azure_FairfieldGardens/fairfieldgardens.svg) | Microsoft.FairfieldGardens/ ProvisioningResources |
 | [Azure Edge Zone Enterprise](svg/Microsoft_Azure_FijiEdgeZones/EdgeZone.svg) | Microsoft.EdgeZones/ edgeZones |
 | [File share](svg/Microsoft_Azure_FileShare/FileShares.svg) | Microsoft.FileShares/ fileshares |
 | [Microsoft Defender for Firmware](svg/Microsoft_Azure_FIST/FirmwareDefender.svg) |  |
@@ -865,7 +866,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Site Recovery vault](svg/Microsoft_Azure_SiteRecovery/SiteRecoveryResource.svg) | Microsoft.DataReplication/ replicationVaults |
 | [Azure Sphere Catalog](svg/Microsoft_Azure_Sphere/AzureSphereArm.svg) | microsoft.azuresphere/ catalogs |
 | [Azure Sphere (Legacy)](svg/Microsoft_Azure_Sphere/AzureSphere.svg) |  |
-| [My Resource](svg/Microsoft_Azure_SpringApps/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Storage account (classic)](svg/Microsoft_Azure_Storage/ClassicStorageAccount.svg) | Microsoft.ClassicStorage/ StorageAccounts |
 | [Storage account](svg/Microsoft_Azure_Storage/StorageAccount.svg) | Microsoft.Storage/ StorageAccounts |
 | [Storage browser](svg/Microsoft_Azure_Storage/StorageBrowser.svg) |  |
@@ -1041,6 +1041,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [My Cases & Support](svg/VLCentral_CaseManagement/VLCentralCaseManagement.svg) |  |
 | [VLCentral Help](svg/VLCentral_HelpAndSupport/VLCentralHelp.svg) |  |
 | [VLCentral Home](svg/VLCentral_Home/VLCentralHome.svg) |  |
+| [My Resource](svg/VLCentral_OrderCredits/MyResource.svg) |  |
 | [My Resource](svg/VLCentral_Ordering/VLCentral_Ordering.svg) |  |
 | [My Resource](svg/VLCentral_OrganizationManagementService/MyResource.svg) |  |
 | [			Deal & Quote Management		](svg/VLCentral_Quote/VLCentralQuote.svg) |  |
