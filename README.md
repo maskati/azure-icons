@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 13.210.0.145346.240303-0153 on 2024-03-10.
+Extracted from Azure Portal version 13.206.0.152587248.240301-0037 on 2024-03-11.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -316,6 +316,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Capacity Reservation Group](svg/Microsoft_Azure_Compute/CapacityReservationGroup.svg) | Microsoft.Compute/ capacityReservationGroups |
 | [Host group](svg/Microsoft_Azure_Compute/DedicatedHostGroup.svg) | Microsoft.Compute/ hostgroups |
 | [Host](svg/Microsoft_Azure_Compute/DedicatedHost.svg) | Microsoft.Compute/ hostgroups/ hosts |
+| [Standby pool](svg/Microsoft_Azure_Compute/StandbyPoolInstance.svg) | microsoft.compute/ standbypoolinstance |
 | [Instance](svg/Microsoft_Azure_Compute/VirtualMachineFlexInstance.svg) | microsoft.compute/ virtualmachineflexinstances |
 | [Proximity placement group](svg/Microsoft_Azure_Compute/ProximityPlacementGroup.svg) | Microsoft.Compute/ ProximityPlacementGroups |
 | [SSH key](svg/Microsoft_Azure_Compute/SshKey.svg) | Microsoft.Compute/ sshPublicKeys |
