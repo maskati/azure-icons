@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 13.210.0.145346.240303-0153 on 2024-03-12.
+Extracted from Azure Portal version 13.210.0.145346.240303-0153 on 2024-03-13.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -530,7 +530,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [SQL managed instance - Azure Arc](svg/Microsoft_Azure_HybridData_Platform/SqlManagedInstance.svg) | Microsoft.AzureArcData/ sqlManagedInstances |
 | [SQL Server - Azure Arc](svg/Microsoft_Azure_HybridData_Platform/SqlServerInstance.svg) | Microsoft.AzureArcData/ sqlServerInstances |
 | [SQL Server database - Azure Arc](svg/Microsoft_Azure_HybridData_Platform/SqlServerInstancesDatabases.svg) | Microsoft.AzureArcData/ SqlServerInstances/ Databases |
-| [Microsoft.AzureArcData SQL Server License](svg/Microsoft_Azure_HybridData_Platform/SqlServerLicenses.svg) | microsoft.azurearcdata/ sqlserverlicenses |
+| [SQL Server License](svg/Microsoft_Azure_HybridData_Platform/SqlServerLicenses.svg) | microsoft.azurearcdata/ sqlserverlicenses |
 | [Application Gateway for Containers](svg/Microsoft_Azure_HybridNetworking/AppGwForContainers.svg) | Microsoft.ServiceNetworking/ trafficControllers |
 | [Application gateway](svg/Microsoft_Azure_HybridNetworking/ApplicationGateway.svg) | Microsoft.Network/ applicationGateways |
 | [Bastion](svg/Microsoft_Azure_HybridNetworking/BastionHost.svg) | Microsoft.Network/ bastionHosts |
