@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 13.216.0.1578480.240308-0645 on 2024-03-15.
+Extracted from Azure Portal version 13.221.0.115958450.240309-1536 on 2024-03-16.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -199,7 +199,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Microsoft Entra Application Activity](svg/Microsoft_AAD_IAM/ServicePrincipalActivity.svg) |  |
 | [Workflow Settings](svg/Microsoft_AAD_IAM/Settings.svg) |  |
 | [Verified ID Setup](svg/Microsoft_AAD_IAM/SetupBlade.svg) |  |
-| [Setup Guide](svg/Microsoft_AAD_IAM/SetupGuideBlade.svg) |  |
 | [Sign-in Log](svg/Microsoft_AAD_IAM/SignInLogs.svg) |  |
 | [Sign-In Risk Policy](svg/Microsoft_AAD_IAM/SignInRiskPolicyBlade.svg) |  |
 | [Microsoft Entra ID](svg/Microsoft_AAD_IAM/TenantOverview.svg) |  |
