@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 13.216.0.1578480.240308-0645 on 2024-03-18.
+Extracted from Azure Portal version 13.216.0.1578480.240308-0645 on 2024-03-19.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -199,7 +199,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Microsoft Entra Application Activity](svg/Microsoft_AAD_IAM/ServicePrincipalActivity.svg) |  |
 | [Workflow Settings](svg/Microsoft_AAD_IAM/Settings.svg) |  |
 | [Verified ID Setup](svg/Microsoft_AAD_IAM/SetupBlade.svg) |  |
-| [Setup Guide](svg/Microsoft_AAD_IAM/SetupGuideBlade.svg) |  |
 | [Sign-in Log](svg/Microsoft_AAD_IAM/SignInLogs.svg) |  |
 | [Sign-In Risk Policy](svg/Microsoft_AAD_IAM/SignInRiskPolicyBlade.svg) |  |
 | [Microsoft Entra ID](svg/Microsoft_AAD_IAM/TenantOverview.svg) |  |
@@ -865,6 +864,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Web PubSub Service](svg/Microsoft_Azure_SignalR/WebPubSub.svg) | Microsoft.SignalRService/ WebPubSub |
 | [Web PubSub Service Replica](svg/Microsoft_Azure_SignalR/WebPubSubReplica.svg) | Microsoft.SignalRService/ WebPubSub/ replicas |
 | [Site Recovery vault](svg/Microsoft_Azure_SiteRecovery/SiteRecoveryResource.svg) | Microsoft.DataReplication/ replicationVaults |
+| [Solution Center Sandbox](svg/Microsoft_Azure_SolutionCenterSandbox/SolutionCenter.svg) | Providers.Test/ statefulIbizaEngines |
 | [Azure Sphere Catalog](svg/Microsoft_Azure_Sphere/AzureSphereArm.svg) | microsoft.azuresphere/ catalogs |
 | [Azure Sphere (Legacy)](svg/Microsoft_Azure_Sphere/AzureSphere.svg) |  |
 | [Storage account (classic)](svg/Microsoft_Azure_Storage/ClassicStorageAccount.svg) | Microsoft.ClassicStorage/ StorageAccounts |
