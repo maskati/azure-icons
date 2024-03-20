@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 13.216.0.1578480.240308-0645 on 2024-03-19.
+Extracted from Azure Portal version 13.216.0.1578480.240308-0645 on 2024-03-20.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -830,6 +830,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Operation log (classic)](svg/Microsoft_Azure_Resources/OperationLog.svg) |  |
 | [Quickstart Center](svg/Microsoft_Azure_Resources/Quickstart.svg) |  |
 | [Resource change](svg/Microsoft_Azure_Resources/ResourceChanges.svg) | Microsoft.Resources/ resourceChanges |
+| [Resource Manager](svg/Microsoft_Azure_Resources/ResourceManager.svg) |  |
 | [User privacy](svg/Microsoft_Azure_Resources/UserPrivacy.svg) |  |
 | [What's new](svg/Microsoft_Azure_Resources/WhatsNew.svg) |  |
 | [AzureLargeInstance](svg/Microsoft_Azure_SapHanaInstances/AzureLargeInstance.svg) | Microsoft.AzureLargeInstance/ azureLargeInstances |
