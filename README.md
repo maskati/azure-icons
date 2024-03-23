@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 13.216.0.1578480.240308-0645 on 2024-03-22.
+Extracted from Azure Portal version 13.221.0.115958450.240309-1536 on 2024-03-23.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -906,9 +906,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Virtual Enclaves](svg/Microsoft_Azure_VirtualEnclaves/AzureVirtualEnclave.svg) |  |
 | [Catalog](svg/Microsoft_Azure_VirtualEnclaves/Catalog.svg) | Microsoft.Mission/ catalogs |
 | [Community](svg/Microsoft_Azure_VirtualEnclaves/Community.svg) | Microsoft.Mission/ communities |
-| [Community Endpoint](svg/Microsoft_Azure_VirtualEnclaves/CommunityEndpoint.svg) | Microsoft.Mission/ communities/ communityEndpoints |
+| [Community endpoint](svg/Microsoft_Azure_VirtualEnclaves/CommunityEndpoint.svg) | Microsoft.Mission/ communities/ communityEndpoints |
 | [Enclave connection](svg/Microsoft_Azure_VirtualEnclaves/EnclaveConnection.svg) | Microsoft.Mission/ EnclaveConnections |
-| [Enclave Endpoint](svg/Microsoft_Azure_VirtualEnclaves/EnclaveEndpoints.svg) | Microsoft.Mission/ virtualEnclaves/ enclaveEndpoints |
+| [Enclave endpoint](svg/Microsoft_Azure_VirtualEnclaves/EnclaveEndpoints.svg) | Microsoft.Mission/ virtualEnclaves/ enclaveEndpoints |
 | [Endpoint](svg/Microsoft_Azure_VirtualEnclaves/Endpoint.svg) | Microsoft.Mission/ virtualEnclaves/ endpoints |
 | [External connection](svg/Microsoft_Azure_VirtualEnclaves/ExternalConnection.svg) | Microsoft.Mission/ externalConnections |
 | [Internal connection](svg/Microsoft_Azure_VirtualEnclaves/InternalConnection.svg) | Microsoft.Mission/ internalConnections |
