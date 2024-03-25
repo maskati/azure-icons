@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 13.216.0.1578480.240308-0645 on 2024-03-24.
+Extracted from Azure Portal version 13.221.0.115958450.240309-1536 on 2024-03-25.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -595,7 +595,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [SaaS (classic)](svg/Microsoft_Azure_Marketplace/Saas.svg) | Microsoft.SaaS/ saasresources |
 | [Software as a Service (classic)](svg/Microsoft_Azure_Marketplace/SaasClassic.svg) | Microsoft.SaaS/ applications |
 | [SaaS](svg/Microsoft_Azure_Marketplace/SaasSubscriptionLevel.svg) | Microsoft.SaaS/ resources |
-| [Professional Service](svg/Microsoft_Azure_MarketplaceTransact/ProfessionalService.svg) | Microsoft.ProfessionalService/ resources |
 | [Media service](svg/Microsoft_Azure_Media/MediaServiceAccount.svg) | microsoft.media/ mediaservices |
 | [Event](svg/Microsoft_Azure_MetaverseExtension/Events.svg) | microsoft.metaverse/ metaverses/ events |
 | [Mesh world](svg/Microsoft_Azure_MetaverseExtension/metaverse.svg) | microsoft.metaverse/ metaverses |
