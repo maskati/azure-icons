@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 13.221.0.115958450.240309-1536 on 2024-03-25.
+Extracted from Azure Portal version 13.236.0.1500954721.240318-1641 on 2024-03-26.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -38,7 +38,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Native Qumulo Scalable File Service](svg/Azure_Marketplace_Qumulo/MyResource.svg) | Qumulo.Storage/ fileSystems |
 | [Sample Partner Resource](svg/Azure_Marketplace_SamplePartner/MyResource.svg) | Microsoft.SamplePartner/ organizations |
 | [SolarWinds Observability](svg/Azure_Marketplace_SolarWindsObservability/SolarWinds.svg) | SolarWinds.Observability/ Organizations |
-| [Split IO](svg/Azure_Marketplace_SplitIO/experimentationWorkspaces.svg) | SplitIO.Experimentation/ experimentationWorkspaces |
+| [Split Experimentation Workspace (preview)](svg/Azure_Marketplace_SplitIO/experimentationWorkspaces.svg) | SplitIO.Experimentation/ experimentationWorkspaces |
 | [Citrix Virtual Apps Essentials](svg/Citrix_XenApp_Essentials/XenAppEssentials.svg) | Citrix.Services/ XenAppEssentials |
 | [Citrix Virtual Desktops Essentials](svg/Citrix_XenDesktop_Essentials/XenDesktopEssentials.svg) | Citrix.Services/ XenDesktopEssentials |
 | [Resource Explorer](svg/HubsExtension/ArmExplorer.svg) |  |
