@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 13.236.0.1500954721.240318-1641 on 2024-03-26.
+Extracted from Azure Portal version 13.236.0.1500954721.240318-1641 on 2024-03-27.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -1004,6 +1004,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Security Baselines](svg/Microsoft_Intune_Workflows/SecurityBaselineAsset.svg) |  |
 | [Endpoint security](svg/Microsoft_Intune_Workflows/SecurityManagementAsset.svg) |  |
 | [Data Manager For Manufacturing](svg/Microsoft_ManufacturingPlatform_DMM/DataManagerForManufacturing.svg) | Microsoft.ManufacturingPlatform/ ManufacturingDataServices |
+| [My Resource](svg/Microsoft_Marketplace_SolutionFinder/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [AzPubSub](svg/Microsoft_OneFleet_DataHub/AzPubSub.svg) |  |
 | [Grip](svg/Microsoft_OneFleet_DataHub/Grip.svg) |  |
 | [Skylarc](svg/Microsoft_OneFleet_DataHub/Skylark.svg) |  |
