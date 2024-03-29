@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 13.221.0.115958450.240309-1536 on 2024-03-28.
+Extracted from Azure Portal version 13.221.0.115958450.240309-1536 on 2024-03-29.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -52,7 +52,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Resource group](svg/HubsExtension/ResourceGroups.svg) | Microsoft.Resources/ subscriptions/ resourceGroups |
 | [Tag](svg/HubsExtension/Tag.svg) |  |
 | [B2C Tenant](svg/Microsoft_AAD_B2CAdmin/B2CTenant.svg) | Microsoft.AzureActiveDirectory/ b2cDirectories |
-| [Azure AD for customers (Preview)](svg/Microsoft_AAD_B2CAdmin/CIAMTenant.svg) | Microsoft.AzureActiveDirectory/ ciamDirectories |
+| [External Configuration Tenant (Preview)](svg/Microsoft_AAD_B2CAdmin/CIAMTenant.svg) | Microsoft.AzureActiveDirectory/ ciamDirectories |
 | [Guest Usage](svg/Microsoft_AAD_B2CAdmin/GuestUsages.svg) | Microsoft.AzureActiveDirectory/ guestUsages |
 | [Azure AD B2C](svg/Microsoft_AAD_B2CAdmin/RootAsset.svg) |  |
 | [Microsoft Entra Conditional Access](svg/Microsoft_AAD_ConditionalAccess/PolicyRootAsset.svg) |  |
@@ -341,6 +341,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Kubernetes namespace](svg/Microsoft_Azure_ContainerService/ManagedClusterNamespaces.svg) | Microsoft.ContainerService/ managedClusters/ Microsoft.KubernetesConfiguration/ namespaces |
 | [GitOps configuration](svg/Microsoft_Azure_ContainerService/ConnectedClustersGitOpsConfiguration.svg) | Microsoft.Kubernetes/ connectedClusters/ Microsoft.KubernetesConfiguration/ fluxConfigurations |
 | [GitOps configuration](svg/Microsoft_Azure_ContainerService/ManagedClustersGitOpsConfiguration.svg) | Microsoft.ContainerService/ managedClusters/ Microsoft.KubernetesConfiguration/ fluxConfigurations |
+| [Container storage](svg/Microsoft_Azure_ContainerStorage/ContainerStorage.svg) | Microsoft.ContainerStorage/ pools |
 | [Budgets](svg/Microsoft_Azure_CostManagement/Budgets.svg) |  |
 | [Cost Management for AWS](svg/Microsoft_Azure_CostManagement/Connectors.svg) |  |
 | [Cost alerts](svg/Microsoft_Azure_CostManagement/CostAlerts.svg) |  |
@@ -594,6 +595,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [SaaS (classic)](svg/Microsoft_Azure_Marketplace/Saas.svg) | Microsoft.SaaS/ saasresources |
 | [Software as a Service (classic)](svg/Microsoft_Azure_Marketplace/SaasClassic.svg) | Microsoft.SaaS/ applications |
 | [SaaS](svg/Microsoft_Azure_Marketplace/SaasSubscriptionLevel.svg) | Microsoft.SaaS/ resources |
+| [Professional Service](svg/Microsoft_Azure_MarketplaceTransact/ProfessionalService.svg) | Microsoft.ProfessionalService/ resources |
 | [Media service](svg/Microsoft_Azure_Media/MediaServiceAccount.svg) | microsoft.media/ mediaservices |
 | [Event](svg/Microsoft_Azure_MetaverseExtension/Events.svg) | microsoft.metaverse/ metaverses/ events |
 | [Mesh world](svg/Microsoft_Azure_MetaverseExtension/metaverse.svg) | microsoft.metaverse/ metaverses |
