@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 13.221.0.115958450.240309-1536 on 2024-03-29.
+Extracted from Azure Portal version 13.221.0.115958450.240309-1536 on 2024-03-30.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -865,6 +865,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [SignalR Replica](svg/Microsoft_Azure_SignalR/SignalRReplica.svg) | Microsoft.SignalRService/ SignalR/ replicas |
 | [Web PubSub Service](svg/Microsoft_Azure_SignalR/WebPubSub.svg) | Microsoft.SignalRService/ WebPubSub |
 | [Web PubSub Service Replica](svg/Microsoft_Azure_SignalR/WebPubSubReplica.svg) | Microsoft.SignalRService/ WebPubSub/ replicas |
+| [Site  Preview](svg/Microsoft_Azure_SiteManager/SiteManager.svg) | Microsoft.Edge/ sites |
 | [Site Recovery vault](svg/Microsoft_Azure_SiteRecovery/SiteRecoveryResource.svg) | Microsoft.DataReplication/ replicationVaults |
 | [My Resource](svg/Microsoft_Azure_SolutionCenterSandbox/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Azure Sphere Catalog](svg/Microsoft_Azure_Sphere/AzureSphereArm.svg) | microsoft.azuresphere/ catalogs |
