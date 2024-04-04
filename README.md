@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 13.221.0.115958450.240309-1536 on 2024-04-03.
+Extracted from Azure Portal version 13.238.0.1236333.240328-0601 on 2024-04-04.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -599,10 +599,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [SaaS](svg/Microsoft_Azure_Marketplace/SaasSubscriptionLevel.svg) | Microsoft.SaaS/ resources |
 | [Professional Service](svg/Microsoft_Azure_MarketplaceTransact/ProfessionalService.svg) | Microsoft.ProfessionalService/ resources |
 | [Media service](svg/Microsoft_Azure_Media/MediaServiceAccount.svg) | microsoft.media/ mediaservices |
-| [Event](svg/Microsoft_Azure_MetaverseExtension/Events.svg) | microsoft.metaverse/ metaverses/ events |
-| [Mesh world](svg/Microsoft_Azure_MetaverseExtension/metaverse.svg) | microsoft.metaverse/ metaverses |
-| [Space](svg/Microsoft_Azure_MetaverseExtension/Spaces.svg) | microsoft.metaverse/ metaverses/ spaces |
-| [Template](svg/Microsoft_Azure_MetaverseExtension/Templates.svg) | microsoft.metaverse/ metaverses/ templates |
 | [Azure Migrate](svg/Microsoft_Azure_Migrate/AzureMigrationHub.svg) |  |
 | [Migration project](svg/Microsoft_Azure_Migrate/MigrationProject.svg) | Microsoft.Migrate/ projects |
 | [Migrate Assessment](svg/Microsoft_Azure_MigrateAssessment/MigrateAssessmentResource.svg) | Providers.Test/ statefulIbizaEngines |
