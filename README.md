@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 13.238.0.1236333.240328-0601 on 2024-04-04.
+Extracted from Azure Portal version 13.238.0.1236333.240328-0601 on 2024-04-05.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -306,7 +306,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [1ES Hosted Pool](svg/Microsoft_Azure_CloudTest/HostedPools.svg) | Microsoft.CloudTest/ hostedpools |
 | [1ES Image](svg/Microsoft_Azure_CloudTest/CloudTestImages.svg) | Microsoft.CloudTest/ images |
 | [CloudTest Pool](svg/Microsoft_Azure_CloudTest/CloudTestPools.svg) | Microsoft.CloudTest/ pools |
-| [Code Signing Account](svg/Microsoft_Azure_CodeSigning/CodeSigningAccounts.svg) | Microsoft.CodeSigning/ codesigningaccounts |
+| [Trusted Signing Account](svg/Microsoft_Azure_CodeSigning/CodeSigningAccounts.svg) | Microsoft.CodeSigning/ codesigningaccounts |
 | [Communication Service](svg/Microsoft_Azure_CommunicationServices/Communication.svg) | Microsoft.Communication/ CommunicationServices |
 | [Communications Gateway](svg/Microsoft_Azure_CommunicationsGatewayExtension/CommunicationsGateways.svg) | Microsoft.VoiceServices/ CommunicationsGateways |
 | [Communications Gateway Test Line](svg/Microsoft_Azure_CommunicationsGatewayExtension/TestLines.svg) | Microsoft.VoiceServices/ CommunicationsGateways/ TestLines |
