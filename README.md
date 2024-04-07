@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 13.239.0.1900798.240329-2341 on 2024-04-06.
+Extracted from Azure Portal version 13.238.2.113.238.0.16813359.240405-2354 on 2024-04-07.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -726,7 +726,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Notification Hub Namespace](svg/Microsoft_Azure_NotificationHubs/Namespace.svg) | Microsoft.NotificationHubs/ namespaces |
 | [Notification Hub](svg/Microsoft_Azure_NotificationHubs/NotificationHub.svg) | Microsoft.NotificationHubs/ namespaces/ notificationHubs |
 | [My Resource](svg/Microsoft_Azure_OneInventory/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
-| [Resource Change](svg/Microsoft_Azure_OneInventory/ResourceChange.svg) | Microsoft.Resources/ resourceChange |
+| [Change Analysis (preview)](svg/Microsoft_Azure_OneInventory/ResourceChange.svg) | Microsoft.Resources/ resourceChange |
 | [Resource Graph Visualizer](svg/Microsoft_Azure_OneInventory/ResourceGraphVisualizer.svg) | Microsoft.Resources/ resourceGraphVisualizer |
 | [OneMigrate](svg/Microsoft_Azure_OneMigrate/AzureOneMigrate.svg) |  |
 | [Azure Data Manager for Energy](svg/Microsoft_Azure_OpenEnergyPlatform/OpenEnergyResource.svg) | Microsoft.OpenEnergyPlatform/ energyServices |
