@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 13.238.2.113.238.0.16813359.240405-2354 on 2024-04-09.
+Extracted from Azure Portal version 13.238.2.113.238.0.16813359.240405-2354 on 2024-04-10.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -621,6 +621,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Chamber VM (preview)](svg/Microsoft_Azure_ModSimWorkbench/SdwChamberWorkloadResource.svg) | Microsoft.ModSimWorkbench/ workbenches/ chambers/ workloads |
 | [Shared Storage (preview)](svg/Microsoft_Azure_ModSimWorkbench/SdwSharedStorageResource.svg) | Microsoft.ModSimWorkbench/ workbenches/ sharedStorages |
 | [Modeling and Simulation Workbench (preview)](svg/Microsoft_Azure_ModSimWorkbench/WorkbenchResource.svg) | Microsoft.ModSimWorkbench/ workbenches |
+| [Azure monitor pipeline](svg/Microsoft_Azure_Monitoring/AzureEdgePipeline.svg) | Microsoft.monitor/ pipelineGroups |
+| [Azure monitor pipeline extension](svg/Microsoft_Azure_Monitoring/AzureEdgePipelineExtension.svg) | Microsoft.KubernetesConfiguration/ extensions |
 | [Autoscale](svg/Microsoft_Azure_Monitoring/Autoscale.svg) |  |
 | [Monitor](svg/Microsoft_Azure_Monitoring/AzureMonitoring.svg) |  |
 | [Diagnostic settings](svg/Microsoft_Azure_Monitoring/AzureMonitoringDiagnostics.svg) |  |
@@ -631,7 +633,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Data collection endpoint](svg/Microsoft_Azure_Monitoring/DataCollectionEndpoints.svg) | microsoft.insights/ datacollectionendpoints |
 | [Data collection rule](svg/Microsoft_Azure_Monitoring/DataCollectionRules.svg) | microsoft.insights/ datacollectionrules |
 | [Azure Monitor workspace](svg/Microsoft_Azure_Monitoring/MonitoringAccount.svg) | microsoft.monitor/ accounts |
-| [Prometheus rule group (preview)](svg/Microsoft_Azure_Monitoring/PrometheusRuleGroup.svg) | microsoft.alertsmanagement/ prometheusrulegroups |
+| [Prometheus rule group](svg/Microsoft_Azure_Monitoring/PrometheusRuleGroup.svg) | microsoft.alertsmanagement/ prometheusrulegroups |
 | [Action group](svg/Microsoft_Azure_Monitoring_Alerts/ActionGroup.svg) | microsoft.insights/ actiongroups |
 | [Activity log alert rule](svg/Microsoft_Azure_Monitoring_Alerts/ActivityLogAlertRule.svg) | microsoft.insights/ activitylogalerts |
 | [Alert processing rule](svg/Microsoft_Azure_Monitoring_Alerts/AlertProcessingRule.svg) | microsoft.alertsmanagement/ actionrules |
@@ -719,6 +721,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Virtual Machine (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/VirtualMachineResource.svg) | Microsoft.NetworkCloud/ virtualMachines |
 | [Virtual Machine Console (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/ConsoleResource.svg) | Microsoft.NetworkCloud/ virtualMachines/ consoles |
 | [Volume (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/VolumeResource.svg) | Microsoft.NetworkCloud/ volumes |
+| [My Resource](svg/Microsoft_Azure_NetworkCopilot/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Network Security Perimeter](svg/Microsoft_Azure_NetworkSecurityPerimeter/NspProfiles.svg) | Microsoft.Network/ networkSecurityPerimeters/ profiles |
 | [Network Security Perimeter](svg/Microsoft_Azure_NetworkSecurityPerimeter/networkSecurityPerimeter.svg) | Microsoft.Network/ networkSecurityPerimeters |
 | [Virtual Network Verifier](svg/Microsoft_Azure_NetworkVerifier/networkVerifier.svg) | Microsoft.Network/ networkVerifiers |
