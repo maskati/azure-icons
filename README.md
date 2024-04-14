@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 13.238.2.113.238.0.16813359.240405-2354 on 2024-04-13.
+Extracted from Azure Portal version 13.238.2.113.238.0.16813359.240405-2354 on 2024-04-14.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -272,6 +272,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Update Manager](svg/Microsoft_Azure_Automation/UpdateCenter.svg) |  |
 | [](svg/Microsoft_Azure_Automation/UpdateAgentTroubleshooting.svg) |  |
 | [App Configuration](svg/Microsoft_Azure_AzConfig/StoreResource.svg) | Microsoft.AppConfiguration/ configurationStores |
+| [Azure fleet](svg/Microsoft_Azure_AzFleet/AzureFleet.svg) | microsoft.azurefleet/ fleets |
 | [Batch account](svg/Microsoft_Azure_Batch/BatchAccount.svg) | Microsoft.Batch/ batchAccounts |
 | [Business Continuity Center](svg/Microsoft_Azure_BCDRCenter/ABCCenter.svg) |  |
 | [Subscription](svg/Microsoft_Azure_Billing/Subscription.svg) | microsoft.resources/ subscriptions |
@@ -306,6 +307,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [1ES Hosted Pool](svg/Microsoft_Azure_CloudTest/HostedPools.svg) | Microsoft.CloudTest/ hostedpools |
 | [1ES Image](svg/Microsoft_Azure_CloudTest/CloudTestImages.svg) | Microsoft.CloudTest/ images |
 | [CloudTest Pool](svg/Microsoft_Azure_CloudTest/CloudTestPools.svg) | Microsoft.CloudTest/ pools |
+| [Code Optimizations](svg/Microsoft_Azure_CodeOptimizations/CodeOptimizations.svg) | Providers.Test/ statefulIbizaEngines |
 | [Trusted Signing Account](svg/Microsoft_Azure_CodeSigning/CodeSigningAccounts.svg) | Microsoft.CodeSigning/ codesigningaccounts |
 | [Communication Service](svg/Microsoft_Azure_CommunicationServices/Communication.svg) | Microsoft.Communication/ CommunicationServices |
 | [Communications Gateway](svg/Microsoft_Azure_CommunicationsGatewayExtension/CommunicationsGateways.svg) | Microsoft.VoiceServices/ CommunicationsGateways |
