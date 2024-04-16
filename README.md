@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 13.250.0.16001948.240405-1338 on 2024-04-15.
+Extracted from Azure Portal version 13.260.0.1570489.240408-1925 on 2024-04-16.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -609,6 +609,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Machine learning online endpoint](svg/Microsoft_Azure_MLTeamAccounts/OnlineEndpoint.svg) | Microsoft.MachineLearningServices/ workspaces/ onlineEndpoints |
 | [Azure Machine Learning registry](svg/Microsoft_Azure_MLTeamAccounts/Registry.svg) | Microsoft.MachineLearningServices/ registries |
 | [Azure AI Studio](svg/Microsoft_Azure_MLTeamAccounts/AIStudio.svg) | Microsoft.MachineLearningServices/ aistudio |
+| [Cohere](svg/Microsoft_Azure_MLTeamAccounts/Cohere.svg) |  |
 | [Llama2](svg/Microsoft_Azure_MLTeamAccounts/Llama2.svg) |  |
 | [Azure Machine Learning workspace](svg/Microsoft_Azure_MLTeamAccounts/MachineLearningServices.svg) | Microsoft.MachineLearningServices/ workspaces |
 | [Mistral](svg/Microsoft_Azure_MLTeamAccounts/Mistral.svg) |  |
