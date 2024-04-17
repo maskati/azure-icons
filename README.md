@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 13.260.0.1570489.240408-1925 on 2024-04-16.
+Extracted from Azure Portal version 13.250.0.16001948.240405-1338 on 2024-04-17.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -575,7 +575,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Data Explorer Database](svg/Microsoft_Azure_Kusto/kustoSynapsePoolDatabase.svg) | Microsoft.Synapse/ workspaces/ kustopools/ databases |
 | [Azure Maps Creator Resource](svg/Microsoft_Azure_LocationServices/Creator.svg) | Microsoft.Maps/ accounts/ creators |
 | [Azure Maps Account](svg/Microsoft_Azure_LocationServices/Maps.svg) | Microsoft.Maps/ accounts |
-| [Customer Lockbox for Microsoft Azure](svg/Microsoft_Azure_Lockbox/AzureLockbox.svg) |  |
+| [Customer Lockbox](svg/Microsoft_Azure_Lockbox/AzureLockbox.svg) |  |
 | [Maintenance Configuration](svg/Microsoft_Azure_Maintenance/MaintenanceConfiguration.svg) | Microsoft.Maintenance/ maintenanceConfigurations |
 | [Azure Key Vault Managed HSM](svg/Microsoft_Azure_ManagedHSM/ManagedHSM.svg) | Microsoft.KeyVault/ managedHSMs |
 | [Lab](svg/Microsoft_Azure_ManagedLab/Lab.svg) | Microsoft.LabServices/ labs |
