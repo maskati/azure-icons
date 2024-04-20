@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 13.250.0.16001948.240405-1338 on 2024-04-19.
+Extracted from Azure Portal version 13.260.2.113.260.0.1593201853.240415-2109 on 2024-04-20.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -557,7 +557,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Virtual WAN](svg/Microsoft_Azure_HybridNetworking/VirtualWan.svg) | Microsoft.Network/ virtualWans |
 | [Microsoft.Network network virtual appliance](svg/Microsoft_Azure_HybridNetworking/microsoft_network_networkvirtualappliances_2020_03_01.svg) | microsoft.network/ networkvirtualappliances |
 | [My Resource](svg/Microsoft_Azure_IdentityGovernance/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
-| [Internet Analyzer profile](svg/Microsoft_Azure_InternetAnalyzer/Profile.svg) | Microsoft.Network/ NetworkExperimentProfiles |
 | [IoT Central Application](svg/Microsoft_Azure_IoTCentral/IoTApps.svg) | Microsoft.IoTCentral/ IoTApps |
 | [Azure IoT Hub Device Provisioning Service (DPS)](svg/Microsoft_Azure_IotHub/DeviceProvisioning.svg) | Microsoft.Devices/ ProvisioningServices |
 | [IoT Hub](svg/Microsoft_Azure_IotHub/IotHubs.svg) | Microsoft.Devices/ IotHubs |
@@ -942,6 +941,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Network Function Manager – Network Function](svg/Microsoft_Azure_VnfManager/VnfManagerVnfs.svg) | Microsoft.HybridNetwork/ networkFunctions |
 | [Wave Migration](svg/Microsoft_Azure_WaveMigration/WaveMigrationResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Windows Push Notification Service](svg/Microsoft_Azure_WindowsPushNotificationServices/Microsoft_Azure_WindowsPushNotificationServices.svg) | Microsoft.WindowsPushNotificationServices/ registrations |
+| [Winfield  Preview](svg/Microsoft_Azure_Winfields/Winfields.svg) | private.edgeinternal/ winfields |
 | [MARIO](svg/Microsoft_Azure_WorkloadInsight/mario.svg) |  |
 | [Microsoft.Workloads insight](svg/Microsoft_Azure_WorkloadInsight/microsoft_workloads_insights_2022_10_15_preview.svg) | microsoft.workloads/ insights |
 | [Azure Monitor for SAP Solutions (classic)](svg/Microsoft_Azure_WorkloadMonitor/SapMonitorV1.svg) | Microsoft.HanaOnAzure/ sapMonitors |
