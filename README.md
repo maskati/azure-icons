@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 13.260.2.113.260.0.1593201853.240415-2109 on 2024-04-23.
+Extracted from Azure Portal version 13.260.2.113.260.0.1593201853.240415-2109 on 2024-04-24.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -696,6 +696,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Layer 2 Network (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/Layer2NetworksResource.svg) | Microsoft.NetworkCloud/ l2Networks |
 | [Layer 3 Network (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/Layer3NetworksResource.svg) | Microsoft.NetworkCloud/ l3Networks |
 | [Kubernetes Cluster (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/NexusAksClusterResource.svg) | Microsoft.NetworkCloud/ kubernetesClusters |
+| [Access Control List (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/AccessControlListsResource.svg) | Microsoft.ManagedNetworkFabric/ accessControlLists |
 | [External Network (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/ExternalNetworkResource.svg) | Microsoft.ManagedNetworkFabric/ l3IsolationDomains/ externalNetworks |
 | [Internal Network (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/InternalNetworkResource.svg) | Microsoft.ManagedNetworkFabric/ l3IsolationDomains/ internalNetworks |
 | [Internet Gateway (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/InternetGatewaysResource.svg) | Microsoft.ManagedNetworkFabric/ internetGateways |
