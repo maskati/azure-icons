@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 13.260.2.113.260.0.1593201853.240415-2109 on 2024-04-24.
+Extracted from Azure Portal version 13.260.2.113.260.0.1593201853.240415-2109 on 2024-04-25.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -298,6 +298,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Landing Zone Configuration](svg/Microsoft_Azure_CloudforSovereignty/LandingZoneConfigurationsAsset.svg) | microsoft.sovereign/ landingzoneconfigurations |
 | [Landing Zone Registration](svg/Microsoft_Azure_CloudforSovereignty/LandingZoneRegistrationsAsset.svg) | microsoft.sovereign/ landingzoneregistrations |
 | [Microsoft Cloud for Sovereignty](svg/Microsoft_Azure_CloudforSovereignty/SovereigntyAsset.svg) |  |
+| [Azure Cloud HSM](svg/Microsoft_Azure_CloudHSM/CloudHSM.svg) | Microsoft.HardwareSecurityModules/ cloudHsmClusters |
 | [Azure Load Testing](svg/Microsoft_Azure_CloudNativeTesting/CloudNativeTesting.svg) | Microsoft.LoadTestService/ LoadTests |
 | [Cloud service (classic)](svg/Microsoft_Azure_CloudServices/CloudService.svg) | microsoft.classicCompute/ domainNames |
 | [Cloud service role (classic)](svg/Microsoft_Azure_CloudServices/Role.svg) | microsoft.classiccompute/ domainnames/ slots/ roles |
