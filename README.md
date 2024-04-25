@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 13.260.2.113.260.0.1593201853.240415-2109 on 2024-04-24.
+Extracted from Azure Portal version 13.260.2.113.260.0.1593201853.240415-2109 on 2024-04-25.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -298,6 +298,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Landing Zone Configuration](svg/Microsoft_Azure_CloudforSovereignty/LandingZoneConfigurationsAsset.svg) | microsoft.sovereign/ landingzoneconfigurations |
 | [Landing Zone Registration](svg/Microsoft_Azure_CloudforSovereignty/LandingZoneRegistrationsAsset.svg) | microsoft.sovereign/ landingzoneregistrations |
 | [Microsoft Cloud for Sovereignty](svg/Microsoft_Azure_CloudforSovereignty/SovereigntyAsset.svg) |  |
+| [Azure Cloud HSM](svg/Microsoft_Azure_CloudHSM/CloudHSM.svg) | Microsoft.HardwareSecurityModules/ cloudHsmClusters |
 | [Azure Load Testing](svg/Microsoft_Azure_CloudNativeTesting/CloudNativeTesting.svg) | Microsoft.LoadTestService/ LoadTests |
 | [Cloud service (classic)](svg/Microsoft_Azure_CloudServices/CloudService.svg) | microsoft.classicCompute/ domainNames |
 | [Cloud service role (classic)](svg/Microsoft_Azure_CloudServices/Role.svg) | microsoft.classiccompute/ domainnames/ slots/ roles |
@@ -317,6 +318,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Capacity Reservation Group](svg/Microsoft_Azure_Compute/CapacityReservationGroup.svg) | Microsoft.Compute/ capacityReservationGroups |
 | [Host group](svg/Microsoft_Azure_Compute/DedicatedHostGroup.svg) | Microsoft.Compute/ hostgroups |
 | [Host](svg/Microsoft_Azure_Compute/DedicatedHost.svg) | Microsoft.Compute/ hostgroups/ hosts |
+| [Instance](svg/Microsoft_Azure_Compute/ComputeFleetInstance.svg) | microsoft.compute/ computefleetinstances |
 | [Standby pool](svg/Microsoft_Azure_Compute/StandbyPoolInstance.svg) | microsoft.compute/ standbypoolinstance |
 | [Instance](svg/Microsoft_Azure_Compute/VirtualMachineFlexInstance.svg) | microsoft.compute/ virtualmachineflexinstances |
 | [Proximity placement group](svg/Microsoft_Azure_Compute/ProximityPlacementGroup.svg) | Microsoft.Compute/ ProximityPlacementGroups |
