@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 13.260.2.113.260.0.1593201853.240415-2109 on 2024-04-28.
+Extracted from Azure Portal version 13.260.2.113.260.0.1593201853.240415-2109 on 2024-04-29.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -558,6 +558,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Virtual WAN](svg/Microsoft_Azure_HybridNetworking/VirtualWan.svg) | Microsoft.Network/ virtualWans |
 | [Microsoft.Network network virtual appliance](svg/Microsoft_Azure_HybridNetworking/microsoft_network_networkvirtualappliances_2020_03_01.svg) | microsoft.network/ networkvirtualappliances |
 | [My Resource](svg/Microsoft_Azure_IdentityGovernance/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
+| [Internet Analyzer profile](svg/Microsoft_Azure_InternetAnalyzer/Profile.svg) | Microsoft.Network/ NetworkExperimentProfiles |
 | [IoT Central Application](svg/Microsoft_Azure_IoTCentral/IoTApps.svg) | Microsoft.IoTCentral/ IoTApps |
 | [Azure IoT Hub Device Provisioning Service (DPS)](svg/Microsoft_Azure_IotHub/DeviceProvisioning.svg) | Microsoft.Devices/ ProvisioningServices |
 | [IoT Hub](svg/Microsoft_Azure_IotHub/IotHubs.svg) | Microsoft.Devices/ IotHubs |
@@ -1077,6 +1078,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Container Apps Connected Environment](svg/WebsitesExtension/ContainerAppConnectedEnvironment.svg) | Microsoft.App/ connectedEnvironments |
 | [Container Apps Environment](svg/WebsitesExtension/ContainerAppEnvironment.svg) | Microsoft.App/ managedEnvironments |
 | [Container App Job](svg/WebsitesExtension/ContainerAppJobs.svg) | Microsoft.App/ jobs |
+| [Container App Session Pool](svg/WebsitesExtension/ContainerAppSessionPool.svg) | Microsoft.App/ sessionPools |
 | [Mobile App](svg/WebsitesExtension/MobileApp.svg) |  |
 | [App Service Certificate](svg/WebsitesExtension/SslCertificate.svg) | Microsoft.CertificateRegistration/ certificateOrders |
 | [Static Web App](svg/WebsitesExtension/StaticSite.svg) | Microsoft.Web/ StaticSites |
