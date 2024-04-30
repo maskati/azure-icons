@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 13.260.2.113.260.0.1593201853.240415-2109 on 2024-04-29.
+Extracted from Azure Portal version 13.260.2.113.260.0.1593201853.240415-2109 on 2024-04-30.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -437,6 +437,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Cosmos DB for PostgreSQL Cluster](svg/Microsoft_Azure_DocumentDB/PostgreSqlServerGroupV2.svg) | Microsoft.DBforPostgreSQL/ serverGroupsv2 |
 | [Azure Cosmos DB for MongoDB (vCore)](svg/Microsoft_Azure_DocumentDB/MongoCluster.svg) | Microsoft.DocumentDB/ mongoClusters |
 | [Microsoft Defender EASM](svg/Microsoft_Azure_EASM/EasmWorkspace.svg) | Microsoft.Easm/ workspaces |
+| [Impact Reporting](svg/Microsoft_Azure_ECE/ImpactRP.svg) |  |
+| [Microsoft.Impact connector](svg/Microsoft_Azure_ECE/microsoft_impact_connectors_2024_05_01_preview.svg) | microsoft.impact/ connectors |
 | [Azure Stack Edge / Data Box Gateway](svg/Microsoft_Azure_EdgeGateway/EdgeGateway.svg) | Microsoft.DataBoxEdge/ dataBoxEdgeDevices |
 | [My Resource](svg/Microsoft_Azure_EdgeManagementCopilot/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Azure Edge Hardware Center Address](svg/Microsoft_Azure_EdgeOrder/AllAddressResources.svg) | Microsoft.EdgeOrder/ addresses |
@@ -625,8 +627,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Chamber VM (preview)](svg/Microsoft_Azure_ModSimWorkbench/SdwChamberWorkloadResource.svg) | Microsoft.ModSimWorkbench/ workbenches/ chambers/ workloads |
 | [Shared Storage (preview)](svg/Microsoft_Azure_ModSimWorkbench/SdwSharedStorageResource.svg) | Microsoft.ModSimWorkbench/ workbenches/ sharedStorages |
 | [Modeling and Simulation Workbench (preview)](svg/Microsoft_Azure_ModSimWorkbench/WorkbenchResource.svg) | Microsoft.ModSimWorkbench/ workbenches |
-| [Azure monitor pipeline](svg/Microsoft_Azure_Monitoring/AzureEdgePipeline.svg) | Microsoft.monitor/ pipelineGroups |
-| [Azure monitor pipeline extension](svg/Microsoft_Azure_Monitoring/AzureEdgePipelineExtension.svg) | Microsoft.KubernetesConfiguration/ extensions |
+| [Azure Monitor pipeline (preview)](svg/Microsoft_Azure_Monitoring/AzureEdgePipeline.svg) | Microsoft.monitor/ pipelineGroups |
 | [Autoscale](svg/Microsoft_Azure_Monitoring/Autoscale.svg) |  |
 | [Monitor](svg/Microsoft_Azure_Monitoring/AzureMonitoring.svg) |  |
 | [Diagnostic settings](svg/Microsoft_Azure_Monitoring/AzureMonitoringDiagnostics.svg) |  |
