@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 13.260.2.113.260.0.1593201853.240415-2109 on 2024-05-02.
+Extracted from Azure Portal version 13.260.2.113.260.0.1593201853.240415-2109 on 2024-05-03.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -1079,7 +1079,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Container Apps Connected Environment](svg/WebsitesExtension/ContainerAppConnectedEnvironment.svg) | Microsoft.App/ connectedEnvironments |
 | [Container Apps Environment](svg/WebsitesExtension/ContainerAppEnvironment.svg) | Microsoft.App/ managedEnvironments |
 | [Container App Job](svg/WebsitesExtension/ContainerAppJobs.svg) | Microsoft.App/ jobs |
-| [Container App Session Pool](svg/WebsitesExtension/ContainerAppSessionPool.svg) | Microsoft.App/ sessionPools |
 | [Mobile App](svg/WebsitesExtension/MobileApp.svg) |  |
 | [App Service Certificate](svg/WebsitesExtension/SslCertificate.svg) | Microsoft.CertificateRegistration/ certificateOrders |
 | [Static Web App](svg/WebsitesExtension/StaticSite.svg) | Microsoft.Web/ StaticSites |
