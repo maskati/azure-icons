@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 13.260.2.113.260.0.1593201853.240415-2109 on 2024-05-03.
+Extracted from Azure Portal version 13.313.0.121089.240426-0644 on 2024-05-04.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -52,7 +52,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Resource group](svg/HubsExtension/ResourceGroups.svg) | Microsoft.Resources/ subscriptions/ resourceGroups |
 | [Tag](svg/HubsExtension/Tag.svg) |  |
 | [B2C Tenant](svg/Microsoft_AAD_B2CAdmin/B2CTenant.svg) | Microsoft.AzureActiveDirectory/ b2cDirectories |
-| [External Configuration Tenant (Preview)](svg/Microsoft_AAD_B2CAdmin/CIAMTenant.svg) | Microsoft.AzureActiveDirectory/ ciamDirectories |
+| [External Configuration Tenant](svg/Microsoft_AAD_B2CAdmin/CIAMTenant.svg) | Microsoft.AzureActiveDirectory/ ciamDirectories |
 | [Guest Usage](svg/Microsoft_AAD_B2CAdmin/GuestUsages.svg) | Microsoft.AzureActiveDirectory/ guestUsages |
 | [Azure AD B2C](svg/Microsoft_AAD_B2CAdmin/RootAsset.svg) |  |
 | [Microsoft Entra Conditional Access](svg/Microsoft_AAD_ConditionalAccess/PolicyRootAsset.svg) |  |
@@ -318,6 +318,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Capacity Reservation Group](svg/Microsoft_Azure_Compute/CapacityReservationGroup.svg) | Microsoft.Compute/ capacityReservationGroups |
 | [Host group](svg/Microsoft_Azure_Compute/DedicatedHostGroup.svg) | Microsoft.Compute/ hostgroups |
 | [Host](svg/Microsoft_Azure_Compute/DedicatedHost.svg) | Microsoft.Compute/ hostgroups/ hosts |
+| [Instance](svg/Microsoft_Azure_Compute/ComputeFleetInstance.svg) | microsoft.compute/ computefleetinstances |
 | [Standby pool](svg/Microsoft_Azure_Compute/StandbyPoolInstance.svg) | microsoft.compute/ standbypoolinstance |
 | [Instance](svg/Microsoft_Azure_Compute/VirtualMachineFlexInstance.svg) | microsoft.compute/ virtualmachineflexinstances |
 | [Proximity placement group](svg/Microsoft_Azure_Compute/ProximityPlacementGroup.svg) | Microsoft.Compute/ ProximityPlacementGroups |
@@ -560,7 +561,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Virtual WAN](svg/Microsoft_Azure_HybridNetworking/VirtualWan.svg) | Microsoft.Network/ virtualWans |
 | [Microsoft.Network network virtual appliance](svg/Microsoft_Azure_HybridNetworking/microsoft_network_networkvirtualappliances_2020_03_01.svg) | microsoft.network/ networkvirtualappliances |
 | [My Resource](svg/Microsoft_Azure_IdentityGovernance/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
-| [Internet Analyzer profile](svg/Microsoft_Azure_InternetAnalyzer/Profile.svg) | Microsoft.Network/ NetworkExperimentProfiles |
 | [IoT Central Application](svg/Microsoft_Azure_IoTCentral/IoTApps.svg) | Microsoft.IoTCentral/ IoTApps |
 | [Azure IoT Hub Device Provisioning Service (DPS)](svg/Microsoft_Azure_IotHub/DeviceProvisioning.svg) | Microsoft.Devices/ ProvisioningServices |
 | [IoT Hub](svg/Microsoft_Azure_IotHub/IotHubs.svg) | Microsoft.Devices/ IotHubs |
@@ -769,7 +769,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Policy](svg/Microsoft_Azure_Policy/PolicyHub.svg) |  |
 | [Dashboard hub](svg/Microsoft_Azure_PortalDashboard/DashboardHub.svg) |  |
 | [Shared dashboard](svg/Microsoft_Azure_PortalDashboard/Dashboards.svg) | Microsoft.Portal/ dashboards |
-| [DashboardV2](svg/Microsoft_Azure_PortalDashboard/DashboardsV2.svg) | Microsoft.Portalservices/ dashboards |
+| [Shared dashboard (preview)](svg/Microsoft_Azure_PortalDashboard/DashboardsV2.svg) | Microsoft.Portalservices/ dashboards |
 | [Power BI Embedded](svg/Microsoft_Azure_PowerBIDedicated/PowerBIDedicated.svg) | Microsoft.PowerBIDedicated/ capacities |
 | [Power Platform](svg/Microsoft_Azure_PowerPlatform/PowerPlatform.svg) |  |
 | [Private DNS zone](svg/Microsoft_Azure_PrivateDNS/PrivateDnsZone.svg) | Microsoft.Network/ privateDnsZones |
@@ -1079,6 +1079,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Container Apps Connected Environment](svg/WebsitesExtension/ContainerAppConnectedEnvironment.svg) | Microsoft.App/ connectedEnvironments |
 | [Container Apps Environment](svg/WebsitesExtension/ContainerAppEnvironment.svg) | Microsoft.App/ managedEnvironments |
 | [Container App Job](svg/WebsitesExtension/ContainerAppJobs.svg) | Microsoft.App/ jobs |
+| [Container App Session Pool](svg/WebsitesExtension/ContainerAppSessionPool.svg) | Microsoft.App/ sessionPools |
 | [Mobile App](svg/WebsitesExtension/MobileApp.svg) |  |
 | [App Service Certificate](svg/WebsitesExtension/SslCertificate.svg) | Microsoft.CertificateRegistration/ certificateOrders |
 | [Static Web App](svg/WebsitesExtension/StaticSite.svg) | Microsoft.Web/ StaticSites |
