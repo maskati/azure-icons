@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 13.311.0.1281917.240426-0005 on 2024-05-04.
+Extracted from Azure Portal version 13.313.0.121089.240426-0644 on 2024-05-05.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -187,7 +187,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Privileged Identity Management Quickstart](svg/Microsoft_AAD_IAM/QuickStart.svg) |  |
 | [Registration and Reset Event](svg/Microsoft_AAD_IAM/RegistrationAndResetEventsList.svg) |  |
 | [Registration Campaign](svg/Microsoft_AAD_IAM/RegistrationCampaign.svg) |  |
-| [Verified ID Overview](svg/Microsoft_AAD_IAM/ResourceOverviewBlade.svg) |  |
 | [Access Review](svg/Microsoft_AAD_IAM/ReviewAccessBlade.svg) |  |
 | [Enterprise State Roaming](svg/Microsoft_AAD_IAM/RoamingSettingsBlade.svg) |  |
 | [Health](svg/Microsoft_AAD_IAM/ScenarioHealthSummary.svg) |  |
@@ -289,6 +288,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Chaos Experiment](svg/Microsoft_Azure_Chaos/chaosExperiment.svg) |  |
 | [Chaos Experiment](svg/Microsoft_Azure_Chaos/chaosExperimentResource.svg) | microsoft.chaos/ experiments |
 | [Chaos Studio](svg/Microsoft_Azure_Chaos/chaosStudio.svg) |  |
+| [Agent Private Access](svg/Microsoft_Azure_Chaos/privateAccess.svg) | microsoft.chaos/ privateaccesses |
 | [Target Management](svg/Microsoft_Azure_Chaos/targetsManagement.svg) |  |
 | [Domain Name](svg/Microsoft_Azure_Classic_Compute/DomainName.svg) |  |
 | [Disk (classic)](svg/Microsoft_Azure_Classic_Compute/Disks.svg) | Microsoft.ClassicStorage/ storageAccounts/ disks |
