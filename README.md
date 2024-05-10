@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 13.313.0.121089.240426-0644 on 2024-05-09.
+Extracted from Azure Portal version 13.313.0.121089.240426-0644 on 2024-05-10.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -247,6 +247,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Data Network](svg/Microsoft_Azure_AP5GC/MobileNetworkMobileNetworkDataNetworks.svg) | Microsoft.MobileNetwork/ mobileNetworks/ dataNetworks |
 | [Packet Core Data Plane](svg/Microsoft_Azure_AP5GC/MobileNetworkPacketCoreControlPlanesPacketCoreDataPlanes.svg) | Microsoft.MobileNetwork/ packetCoreControlPlanes/ packetCoreDataPlanes |
 | [Mobile Network](svg/Microsoft_Azure_AP5GC/MobileNetworkMobileNetworks.svg) | Microsoft.MobileNetwork/ mobileNetworks |
+| [Radio Access Network Insights](svg/Microsoft_Azure_AP5GC/MobileNetworkSiteRadioAccessNetworks.svg) | Microsoft.MobileNetwork/ radioAccessNetworks |
 | [Service](svg/Microsoft_Azure_AP5GC/MobileNetworkMobileNetworkServices.svg) | Microsoft.MobileNetwork/ mobileNetworks/ services |
 | [SIM](svg/Microsoft_Azure_AP5GC/MobileNetworkSims.svg) | Microsoft.MobileNetwork/ simGroups/ sims |
 | [SIM Group](svg/Microsoft_Azure_AP5GC/MobileNetworkSimGroups.svg) | Microsoft.MobileNetwork/ simGroups |
@@ -967,6 +968,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Connected Cache for Enterprise & Education](svg/Microsoft_ConnectedCache_Enterprise/MccEnterpriseResource.svg) | Microsoft.ConnectedCache/ enterpriseMccCustomers |
 | [Connected Cache for ISP](svg/Microsoft_ConnectedCache_ISP/MCCIspResource.svg) | Microsoft.ConnectedCache/ ispCustomers |
 | [Managed Desktop](svg/Microsoft_EMM_ModernWorkplace/MWaaS.svg) |  |
+| [My Resource](svg/Microsoft_Entra_AR/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [DICOM service](svg/Microsoft_Healthcare_APIs/DicomService.svg) | Microsoft.HealthcareApis/ workspaces/ dicomservices |
 | [Azure API for FHIR](svg/Microsoft_Healthcare_APIs/FhirService.svg) | Microsoft.HealthcareApis/ services |
 | [Health Data Services workspace](svg/Microsoft_Healthcare_APIs/HealthcareApisService.svg) | Microsoft.HealthcareApis/ workspaces |
@@ -1046,7 +1048,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Database for MySQL single server](svg/SqlAzureExtension/MySqlServer.svg) | Microsoft.DBforMySQL/ servers |
 | [Azure Database for PostgreSQL single server](svg/SqlAzureExtension/PostgreSqlServer.svg) | Microsoft.DBforPostgreSQL/ servers |
 | [SQL server](svg/SqlAzureExtension/Server.svg) | Microsoft.Sql/ servers |
-| [SQL Server on Azure Virtual Machine](svg/SqlAzureExtension/SqlVirtualMachine.svg) | Microsoft.SqlVirtualMachine/ SqlVirtualMachines |
+| [SQL virtual machine](svg/SqlAzureExtension/SqlVirtualMachine.svg) | Microsoft.SqlVirtualMachine/ SqlVirtualMachines |
 | [Virtual cluster](svg/SqlAzureExtension/VirtualCluster.svg) | Microsoft.Sql/ virtualClusters |
 | [Universal Print](svg/Universal_Print/universal_Print.svg) |  |
 | [My Resource](svg/VLCentral_Agreement/MyResource.svg) |  |
