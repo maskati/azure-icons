@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 13.322.0.136235615.240501-2055 on 2024-05-12.
+Extracted from Azure Portal version 13.313.0.121089.240426-0644 on 2024-05-13.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -1020,6 +1020,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [AzPubSub](svg/Microsoft_OneFleet_DataHub/AzPubSub.svg) |  |
 | [Grip](svg/Microsoft_OneFleet_DataHub/Grip.svg) |  |
 | [Skylarc](svg/Microsoft_OneFleet_DataHub/Skylark.svg) |  |
+| [Log Analytics dedicated cluster](svg/Microsoft_OperationsManagementSuite_Workspace/cluster.svg) | microsoft.operationalinsights/ clusters |
 | [Solution](svg/Microsoft_OperationsManagementSuite_Workspace/Solution.svg) | Microsoft.OperationsManagement/ solutions |
 | [Log Analytics workspace](svg/Microsoft_OperationsManagementSuite_Workspace/Workspace.svg) | Microsoft.OperationalInsights/ workspaces |
 | [Log Analytics query pack](svg/Microsoft_OperationsManagementSuite_Workspace/QueryPack.svg) | Microsoft.OperationalInsights/ querypacks |
