@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 13.329.0.14123452.240502-2335 on 2024-05-16.
+Extracted from Azure Portal version 13.329.1.113.329.0.126387328.240515-0204 on 2024-05-17.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -262,7 +262,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Managed applications center](svg/Microsoft_Azure_Appliance/ApplicationsHub.svg) |  |
 | [Managed application](svg/Microsoft_Azure_Appliance/ArmAppliance.svg) | Microsoft.Solutions/ applications |
 | [Visual Studio Online Plan](svg/Microsoft_Azure_Appliance/MicrosoftVSOnlinePlans.svg) | Microsoft.VSOnline/ Plans |
-| [Arc Load Balancer](svg/Microsoft_Azure_ArcNetworking/ArcNetworking.svg) | Microsoft.Kubernetes/ connectedClusters |
+| [Arc Load Balancer](svg/Microsoft_Azure_ArcNetworking/ArcNetworking.svg) | Microsoft.ArcNetworking/ arcNwLoadBalancers |
 | [Attestation provider](svg/Microsoft_Azure_Attestation/AttestResource.svg) | Microsoft.Attestation/ attestationProviders |
 | [Automanage](svg/Microsoft_Azure_AutoManagedVirtualMachines/AutoManagedVirtualMachines.svg) |  |
 | [Automation Account](svg/Microsoft_Azure_Automation/Account.svg) | Microsoft.Automation/ AutomationAccounts |
@@ -756,7 +756,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Spacecraft](svg/Microsoft_Azure_Orbital/Spacecrafts.svg) | Microsoft.Orbital/ spacecrafts |
 | [Azure Database for MySQL flexible server](svg/Microsoft_Azure_OSSDatabases/MySqlFlexibleServer.svg) | Microsoft.DBforMySQL/ flexibleServers |
 | [Azure Database for PostgreSQL flexible server](svg/Microsoft_Azure_OSSDatabases/PostgreSqlFlexibleServer.svg) | Microsoft.DBforPostgreSQL/ flexibleServers |
-| [App Space](svg/Microsoft_Azure_PaasServerless/AppSpaces.svg) |  |
+| [App Space](svg/Microsoft_Azure_PaasServerless/AppSpaces.svg) | Microsoft.App/ spaces |
 | [Integration Environment](svg/Microsoft_Azure_PaasServerless/IntegrationSpace.svg) | Microsoft.IntegrationSpaces/ spaces |
 | [My Resource](svg/Microsoft_Azure_PaasServerless/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Peering](svg/Microsoft_Azure_Peering/AzurePeering.svg) | Microsoft.Peering/ peerings |
