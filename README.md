@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 13.329.1.113.329.0.126387328.240515-0204 on 2024-05-17.
+Extracted from Azure Portal version 13.329.1.113.329.0.126387328.240515-0204 on 2024-05-18.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -390,11 +390,13 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Cray Server](svg/Microsoft_Azure_Dedicated_Cray/CrayServer.svg) | Microsoft.BareMetal/ crayServers |
 | [Monitoring Server](svg/Microsoft_Azure_Dedicated_Monitoring/MonitoringServer.svg) | Microsoft.BareMetal/ monitoringServers |
 | [Security Detonation Chamber](svg/Microsoft_Azure_DetonationService/DetonationChamber.svg) | Microsoft.SecurityDetonation/ chambers |
+| [Microsoft Code Studio](svg/Microsoft_Azure_DevCenter/CodeStudioService.svg) |  |
 | [Dev Box definition](svg/Microsoft_Azure_DevCenter/DevBoxDefinitions.svg) | Microsoft.DevCenter/ devcenters/ devboxdefinitions |
 | [Dev center](svg/Microsoft_Azure_DevCenter/DevCenter.svg) | Microsoft.DevCenter/ devcenters |
 | [Microsoft Dev Box](svg/Microsoft_Azure_DevCenter/DevCenterService.svg) |  |
 | [Azure Deployment Environment](svg/Microsoft_Azure_DevCenter/EnvironmentsService.svg) |  |
 | [Network connection](svg/Microsoft_Azure_DevCenter/NetworkConnection.svg) | Microsoft.DevCenter/ networkconnections |
+| [Dev center plan](svg/Microsoft_Azure_DevCenter/Plan.svg) | Microsoft.DevCenter/ plans |
 | [Pool](svg/Microsoft_Azure_DevCenter/Pools.svg) | Microsoft.DevCenter/ projects/ pools |
 | [Project](svg/Microsoft_Azure_DevCenter/Project.svg) | Microsoft.DevCenter/ projects |
 | [IoT Asset (Preview)](svg/Microsoft_Azure_DeviceRegistry/assets.svg) | microsoft.deviceregistry/ assets |
