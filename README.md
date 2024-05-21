@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 13.329.5.113.329.0.10324133.240516-0535 on 2024-05-20.
+Extracted from Azure Portal version 13.329.5.113.329.0.10324133.240516-0535 on 2024-05-21.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -616,6 +616,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Machine Learning registry](svg/Microsoft_Azure_MLTeamAccounts/Registry.svg) | Microsoft.MachineLearningServices/ registries |
 | [Azure AI Studio](svg/Microsoft_Azure_MLTeamAccounts/AIStudio.svg) | Microsoft.MachineLearningServices/ aistudio |
 | [Cohere](svg/Microsoft_Azure_MLTeamAccounts/Cohere.svg) |  |
+| [Core42](svg/Microsoft_Azure_MLTeamAccounts/Core42.svg) |  |
 | [Llama2](svg/Microsoft_Azure_MLTeamAccounts/Llama2.svg) |  |
 | [Azure Machine Learning workspace](svg/Microsoft_Azure_MLTeamAccounts/MachineLearningServices.svg) | Microsoft.MachineLearningServices/ workspaces |
 | [Mistral](svg/Microsoft_Azure_MLTeamAccounts/Mistral.svg) |  |
@@ -967,6 +968,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Spatial Anchors Account](svg/Microsoft_Cognition_MixedReality/SpatialAnchorsAccount.svg) | Microsoft.MixedReality/ spatialAnchorsAccounts |
 | [Connected Cache for ISP (early preview)](svg/Microsoft_ConnectedCache/DoincResource.svg) | Microsoft.ConnectedCache/ cacheNodes |
 | [Connected Cache for Enterprise & Education (early preview)](svg/Microsoft_ConnectedCache_Ent/DoincResource.svg) | Microsoft.ConnectedCache/ enterpriseCustomers |
+| [MCC CacheNode for Enterprise](svg/Microsoft_ConnectedCache_Enterprise/MccEnterpriseCacheNodeResource.svg) | Microsoft.ConnectedCache/ enterpriseMccCustomers/ enterpriseMccCacheNodes |
 | [Connected Cache for Enterprise & Education](svg/Microsoft_ConnectedCache_Enterprise/MccEnterpriseResource.svg) | Microsoft.ConnectedCache/ enterpriseMccCustomers |
 | [Connected Cache for ISP](svg/Microsoft_ConnectedCache_ISP/MCCIspResource.svg) | Microsoft.ConnectedCache/ ispCustomers |
 | [Managed Desktop](svg/Microsoft_EMM_ModernWorkplace/MWaaS.svg) |  |
