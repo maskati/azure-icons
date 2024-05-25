@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 13.329.5.113.329.0.10324133.240516-0535 on 2024-05-24.
+Extracted from Azure Portal version 13.329.5.113.329.0.10324133.240516-0535 on 2024-05-25.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -843,6 +843,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Resource Manager](svg/Microsoft_Azure_Resources/ResourceManager.svg) |  |
 | [User privacy](svg/Microsoft_Azure_Resources/UserPrivacy.svg) |  |
 | [What's new](svg/Microsoft_Azure_Resources/WhatsNew.svg) |  |
+| [Microsoft SaaS](svg/Microsoft_Azure_SaasHub/SaaSHub.svg) | Microsoft.SaaSHub/ cloudServices |
 | [Azure Large Instance](svg/Microsoft_Azure_SapHanaInstances/AzureLargeInstance.svg) | Microsoft.AzureLargeInstance/ azureLargeInstances |
 | [BareMetal Instance](svg/Microsoft_Azure_SapHanaInstances/BareMetalInstance.svg) | Microsoft.BareMetalInfrastructure/ bareMetalInstances |
 | [SAP HANA on Azure](svg/Microsoft_Azure_SapHanaInstances/HanaInstance.svg) | Microsoft.HanaOnAzure/ hanaInstances |
