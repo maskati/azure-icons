@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 13.329.9.113.329.0.12456098.240521-0536 on 2024-05-31.
+Extracted from Azure Portal version 13.329.9.113.329.0.12456098.240521-0536 on 2024-06-01.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -34,7 +34,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Local Rulestack for Cloud NGFW by Palo Alto Networks](svg/Azure_Marketplace_PaloAltoNetworks_Cloudngfw/PaloAltoNetworksLocalRulestack.svg) | PaloAltoNetworks.Cloudngfw/ localRulestacks |
 | [PureStorage.Block storage pools avs storage container](svg/Azure_Marketplace_PureStorage/purestorage_block_storagepools_avsstoragecontainers.svg) | purestorage.block/ storagepools/ avsstoragecontainers |
 | [Azure Native Pure Storage Cloud Service](svg/Azure_Marketplace_PureStorage/purestorage_block_reservations.svg) | purestorage.block/ reservations |
-| [PureStorage.Block storage pool](svg/Azure_Marketplace_PureStorage/purestorage_block_storagepools.svg) | purestorage.block/ storagepools |
+| [Storage pool](svg/Azure_Marketplace_PureStorage/purestorage_block_storagepools.svg) | purestorage.block/ storagepools |
 | [Azure Native Qumulo Scalable File Service](svg/Azure_Marketplace_Qumulo/MyResource.svg) | Qumulo.Storage/ fileSystems |
 | [Sample Partner Resource](svg/Azure_Marketplace_SamplePartner/MyResource.svg) | Microsoft.SamplePartner/ organizations |
 | [SolarWinds Observability](svg/Azure_Marketplace_SolarWindsObservability/SolarWinds.svg) | SolarWinds.Observability/ Organizations |
