@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 13.329.9.113.329.0.12456098.240521-0536 on 2024-06-03.
+Extracted from Azure Portal version 13.329.9.113.329.0.12456098.240521-0536 on 2024-06-04.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -15,7 +15,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Redis Enterprise](svg/AzureCacheExtension/RedisEnterpriseAsset.svg) | Microsoft.Cache/ RedisEnterprise |
 | [Cache](svg/AzureCacheExtension/RedisEnterpriseDatabaseAsset.svg) | Microsoft.Cache/ RedisEnterprise/ Databases |
 | [Azure Cache for Redis](svg/AzureCacheExtension/CacheAsset.svg) | Microsoft.Cache/ Redis |
-| [Azure Percept Studio](svg/AzureEdgeDevices/AzurePerceptStudio.svg) |  |
 | [Azure DevOps organization](svg/AzureTfsExtension/Account.svg) |  |
 | [Azure DevOps organization](svg/AzureTfsExtension/Organization.svg) | microsoft.visualstudio/ account |
 | [Astro Organization](svg/Azure_Marketplace_Astronomer/Astronomer.svg) | Astronomer.Astro/ organizations |
