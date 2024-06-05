@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 13.329.9.113.329.0.12456098.240521-0536 on 2024-06-04.
+Extracted from Azure Portal version 13.329.9.113.329.0.12456098.240521-0536 on 2024-06-05.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -15,6 +15,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Redis Enterprise](svg/AzureCacheExtension/RedisEnterpriseAsset.svg) | Microsoft.Cache/ RedisEnterprise |
 | [Cache](svg/AzureCacheExtension/RedisEnterpriseDatabaseAsset.svg) | Microsoft.Cache/ RedisEnterprise/ Databases |
 | [Azure Cache for Redis](svg/AzureCacheExtension/CacheAsset.svg) | Microsoft.Cache/ Redis |
+| [Azure Percept Studio](svg/AzureEdgeDevices/AzurePerceptStudio.svg) |  |
 | [Azure DevOps organization](svg/AzureTfsExtension/Account.svg) |  |
 | [Azure DevOps organization](svg/AzureTfsExtension/Organization.svg) | microsoft.visualstudio/ account |
 | [Astro Organization](svg/Azure_Marketplace_Astronomer/Astronomer.svg) | Astronomer.Astro/ organizations |
@@ -234,11 +235,13 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Device Update for IoT Hub](svg/Microsoft_Azure_ADU/IotDUResource.svg) | Microsoft.DeviceUpdate/ Accounts |
 | [Front Door and CDN profile](svg/Microsoft_Azure_AFDX/FrontdoorProfile.svg) | microsoft.cdn/ profiles |
 | [Azure Data Manager for Agriculture](svg/Microsoft_Azure_AgFoodPlatform/FarmbeatsResource.svg) | Microsoft.AgFoodPlatform/ farmBeats |
+| [AKS Hybrid Cluster for Light Edge](svg/Microsoft_Azure_AksHybrid/ProvisionedCluster.svg) | Private.AksHybrid/ provisionedClusters |
 | [Analysis Services](svg/Microsoft_Azure_AnalysisServices/AnalysisServices.svg) | Microsoft.AnalysisServices/ servers |
 | [Fabric Capacity](svg/Microsoft_Azure_Analytics/REDIDCILDCBJNGCP.svg) | Microsoft.Fabric/ capacities |
 | [Verifier Workspace](svg/Microsoft_Azure_ANMVerifier/verifierWorkspace.svg) | Microsoft.Network/ networkManagers/ verifierWorkspaces |
 | [AnyBuild cluster](svg/Microsoft_Azure_AnyBuild/Cluster.svg) | Microsoft.AnyBuild/ clusters |
 | [Operator 5G Core](svg/Microsoft_Azure_AO5GC/HealthChecks.svg) |  |
+| [Operator 5G Core 1.0](svg/Microsoft_Azure_AO5GC_Standard/NetworkFunction.svg) | Microsoft.MobilePacketCore/ networkFunctions |
 | [Attached Data Network](svg/Microsoft_Azure_AP5GC/MobileNetworkPacketCoreControlPlanesPacketCoreDataPlanesAttachedDataNetworks.svg) | Microsoft.MobileNetwork/ packetCoreControlPlanes/ packetCoreDataPlanes/ attachedDataNetworks |
 | [Packet Core Control Plane](svg/Microsoft_Azure_AP5GC/MobileNetworkPacketCoreControlPlanes.svg) | Microsoft.MobileNetwork/ packetCoreControlPlanes |
 | [Data Network](svg/Microsoft_Azure_AP5GC/MobileNetworkMobileNetworkDataNetworks.svg) | Microsoft.MobileNetwork/ mobileNetworks/ dataNetworks |
@@ -487,6 +490,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Data Box](svg/Microsoft_Azure_ExpressPod/DataBox.svg) | Microsoft.DataBox/ jobs |
 | [Provisioning policy](svg/Microsoft_Azure_FairfieldGardens/provisioningpolicies.svg) | Microsoft.FairfieldGardens/ ProvisioningResources/ ProvisioningPolicies |
 | [Fairfield Gardens](svg/Microsoft_Azure_FairfieldGardens/fairfieldgardens.svg) | Microsoft.FairfieldGardens/ ProvisioningResources |
+| [Azure Edge Zone Enterprise](svg/Microsoft_Azure_FijiEdgeZones/EdgeZone.svg) | Microsoft.EdgeZones/ edgeZones |
 | [File share](svg/Microsoft_Azure_FileShare/FileShares.svg) | Microsoft.FileShares/ fileshares |
 | [Microsoft Defender for Firmware](svg/Microsoft_Azure_FIST/FirmwareDefender.svg) |  |
 | [Fluid Relay](svg/Microsoft_Azure_FluidRelay/FrsResource.svg) | Microsoft.FluidRelay/ fluidRelayServers |
@@ -841,6 +845,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Resource Manager](svg/Microsoft_Azure_Resources/ResourceManager.svg) |  |
 | [User privacy](svg/Microsoft_Azure_Resources/UserPrivacy.svg) |  |
 | [What's new](svg/Microsoft_Azure_Resources/WhatsNew.svg) |  |
+| [Microsoft SaaS](svg/Microsoft_Azure_SaasHub/SaaSHub.svg) | Microsoft.SaaSHub/ cloudServices |
 | [Azure Large Instance](svg/Microsoft_Azure_SapHanaInstances/AzureLargeInstance.svg) | Microsoft.AzureLargeInstance/ azureLargeInstances |
 | [BareMetal Instance](svg/Microsoft_Azure_SapHanaInstances/BareMetalInstance.svg) | Microsoft.BareMetalInfrastructure/ bareMetalInstances |
 | [SAP HANA on Azure](svg/Microsoft_Azure_SapHanaInstances/HanaInstance.svg) | Microsoft.HanaOnAzure/ hanaInstances |
