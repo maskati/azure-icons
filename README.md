@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 13.329.9.113.329.0.12456098.240521-0536 on 2024-06-06.
+Extracted from Azure Portal version 13.329.9.113.329.0.12456098.240521-0536 on 2024-06-07.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -441,6 +441,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Managed Instance for Apache Cassandra](svg/Microsoft_Azure_DocumentDB/DocumentDBCassandraClusters.svg) | Microsoft.DocumentDB/ cassandraClusters |
 | [Azure Cosmos DB for PostgreSQL Cluster](svg/Microsoft_Azure_DocumentDB/PostgreSqlServerGroupV2.svg) | Microsoft.DBforPostgreSQL/ serverGroupsv2 |
 | [Azure Cosmos DB for MongoDB (vCore)](svg/Microsoft_Azure_DocumentDB/MongoCluster.svg) | Microsoft.DocumentDB/ mongoClusters |
+| [Reporting & Analytics](svg/Microsoft_Azure_DocumentManagement/Microsoft_Azure_DocumentManagement.svg) |  |
 | [Microsoft Defender EASM](svg/Microsoft_Azure_EASM/EasmWorkspace.svg) | Microsoft.Easm/ workspaces |
 | [Impact Reporting](svg/Microsoft_Azure_ECE/ImpactRP.svg) |  |
 | [Microsoft.Impact connector](svg/Microsoft_Azure_ECE/microsoft_impact_connectors_2024_05_01_preview.svg) | microsoft.impact/ connectors |
@@ -845,7 +846,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Resource Manager](svg/Microsoft_Azure_Resources/ResourceManager.svg) |  |
 | [User privacy](svg/Microsoft_Azure_Resources/UserPrivacy.svg) |  |
 | [What's new](svg/Microsoft_Azure_Resources/WhatsNew.svg) |  |
-| [Microsoft SaaS](svg/Microsoft_Azure_SaasHub/SaaSHub.svg) | Microsoft.SaaSHub/ cloudServices |
 | [Azure Large Instance](svg/Microsoft_Azure_SapHanaInstances/AzureLargeInstance.svg) | Microsoft.AzureLargeInstance/ azureLargeInstances |
 | [BareMetal Instance](svg/Microsoft_Azure_SapHanaInstances/BareMetalInstance.svg) | Microsoft.BareMetalInfrastructure/ bareMetalInstances |
 | [SAP HANA on Azure](svg/Microsoft_Azure_SapHanaInstances/HanaInstance.svg) | Microsoft.HanaOnAzure/ hanaInstances |
