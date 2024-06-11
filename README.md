@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 13.329.9.113.329.0.12456098.240521-0536 on 2024-06-10.
+Extracted from Azure Portal version 13.329.9.113.329.0.12456098.240521-0536 on 2024-06-11.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -491,6 +491,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Data Box](svg/Microsoft_Azure_ExpressPod/DataBox.svg) | Microsoft.DataBox/ jobs |
 | [Provisioning policy](svg/Microsoft_Azure_FairfieldGardens/provisioningpolicies.svg) | Microsoft.FairfieldGardens/ ProvisioningResources/ ProvisioningPolicies |
 | [Fairfield Gardens](svg/Microsoft_Azure_FairfieldGardens/fairfieldgardens.svg) | Microsoft.FairfieldGardens/ ProvisioningResources |
+| [Azure Edge Zone Enterprise](svg/Microsoft_Azure_FijiEdgeZones/EdgeZone.svg) | Microsoft.EdgeZones/ edgeZones |
 | [File share](svg/Microsoft_Azure_FileShare/FileShares.svg) | Microsoft.FileShares/ fileshares |
 | [Microsoft Defender for Firmware](svg/Microsoft_Azure_FIST/FirmwareDefender.svg) |  |
 | [Fluid Relay](svg/Microsoft_Azure_FluidRelay/FrsResource.svg) | Microsoft.FluidRelay/ fluidRelayServers |
