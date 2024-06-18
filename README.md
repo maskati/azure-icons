@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 13.367.0.166659819.240607-2201 on 2024-06-17.
+Extracted from Azure Portal version 14.65.0.1336572.240610-0004 on 2024-06-18.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -15,7 +15,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Redis Enterprise](svg/AzureCacheExtension/RedisEnterpriseAsset.svg) | Microsoft.Cache/ RedisEnterprise |
 | [Cache](svg/AzureCacheExtension/RedisEnterpriseDatabaseAsset.svg) | Microsoft.Cache/ RedisEnterprise/ Databases |
 | [Azure Cache for Redis](svg/AzureCacheExtension/CacheAsset.svg) | Microsoft.Cache/ Redis |
-| [Azure Percept Studio](svg/AzureEdgeDevices/AzurePerceptStudio.svg) |  |
 | [Azure DevOps organization](svg/AzureTfsExtension/Account.svg) |  |
 | [Azure DevOps organization](svg/AzureTfsExtension/Organization.svg) | microsoft.visualstudio/ account |
 | [Astro Organization](svg/Azure_Marketplace_Astronomer/Astronomer.svg) | Astronomer.Astro/ organizations |
@@ -235,13 +234,11 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Device Update for IoT Hub](svg/Microsoft_Azure_ADU/IotDUResource.svg) | Microsoft.DeviceUpdate/ Accounts |
 | [Front Door and CDN profile](svg/Microsoft_Azure_AFDX/FrontdoorProfile.svg) | microsoft.cdn/ profiles |
 | [Azure Data Manager for Agriculture](svg/Microsoft_Azure_AgFoodPlatform/FarmbeatsResource.svg) | Microsoft.AgFoodPlatform/ farmBeats |
-| [AKS Hybrid Cluster for Light Edge](svg/Microsoft_Azure_AksHybrid/ProvisionedCluster.svg) | Private.AksHybrid/ provisionedClusters |
 | [Analysis Services](svg/Microsoft_Azure_AnalysisServices/AnalysisServices.svg) | Microsoft.AnalysisServices/ servers |
 | [Fabric Capacity](svg/Microsoft_Azure_Analytics/REDIDCILDCBJNGCP.svg) | Microsoft.Fabric/ capacities |
 | [Verifier Workspace](svg/Microsoft_Azure_ANMVerifier/verifierWorkspace.svg) | Microsoft.Network/ networkManagers/ verifierWorkspaces |
 | [AnyBuild cluster](svg/Microsoft_Azure_AnyBuild/Cluster.svg) | Microsoft.AnyBuild/ clusters |
 | [Operator 5G Core](svg/Microsoft_Azure_AO5GC/HealthChecks.svg) |  |
-| [Operator 5G Core 1.0](svg/Microsoft_Azure_AO5GC_Standard/NetworkFunction.svg) | Microsoft.MobilePacketCore/ networkFunctions |
 | [Attached Data Network](svg/Microsoft_Azure_AP5GC/MobileNetworkPacketCoreControlPlanesPacketCoreDataPlanesAttachedDataNetworks.svg) | Microsoft.MobileNetwork/ packetCoreControlPlanes/ packetCoreDataPlanes/ attachedDataNetworks |
 | [Packet Core Control Plane](svg/Microsoft_Azure_AP5GC/MobileNetworkPacketCoreControlPlanes.svg) | Microsoft.MobileNetwork/ packetCoreControlPlanes |
 | [Data Network](svg/Microsoft_Azure_AP5GC/MobileNetworkMobileNetworkDataNetworks.svg) | Microsoft.MobileNetwork/ mobileNetworks/ dataNetworks |
@@ -318,21 +315,16 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Community Training](svg/Microsoft_Azure_CommunityTraining/CommunityTraining.svg) | Microsoft.Community/ communityTrainings |
 | [Availability set](svg/Microsoft_Azure_Compute/AvailabilitySet.svg) | Microsoft.Compute/ availabilitySets |
 | [Capacity Reservation Group](svg/Microsoft_Azure_Compute/CapacityReservationGroup.svg) | Microsoft.Compute/ capacityReservationGroups |
-| [Capacity Reservation Group (ComputeHub)](svg/Microsoft_Azure_Compute/CapacityReservationGroupComputeHub.svg) |  |
 | [Host group](svg/Microsoft_Azure_Compute/DedicatedHostGroup.svg) | Microsoft.Compute/ hostgroups |
 | [Host](svg/Microsoft_Azure_Compute/DedicatedHost.svg) | Microsoft.Compute/ hostgroups/ hosts |
-| [Host (ComputeHub)](svg/Microsoft_Azure_Compute/DedicatedHostComputeHub.svg) |  |
 | [Instance](svg/Microsoft_Azure_Compute/ComputeFleetInstance.svg) | microsoft.compute/ computefleetinstances |
 | [Standby pool](svg/Microsoft_Azure_Compute/StandbyPoolInstance.svg) | microsoft.compute/ standbypoolinstance |
 | [Instance](svg/Microsoft_Azure_Compute/VirtualMachineFlexInstance.svg) | microsoft.compute/ virtualmachineflexinstances |
 | [Proximity placement group](svg/Microsoft_Azure_Compute/ProximityPlacementGroup.svg) | Microsoft.Compute/ ProximityPlacementGroups |
-| [Proximity placement group (ComputeHub)](svg/Microsoft_Azure_Compute/ProximityPlacementGroupComputeHub.svg) |  |
 | [SSH key](svg/Microsoft_Azure_Compute/SshKey.svg) | Microsoft.Compute/ sshPublicKeys |
 | [Virtual machine](svg/Microsoft_Azure_Compute/AllVirtualMachine.svg) | Microsoft.All/ virtualMachines |
 | [Virtual machine](svg/Microsoft_Azure_Compute/VirtualMachine.svg) | Microsoft.Compute/ VirtualMachines |
-| [Virtual machine (ComputeHub)](svg/Microsoft_Azure_Compute/VirtualMachineComputeHub.svg) |  |
 | [Virtual machine scale set](svg/Microsoft_Azure_Compute/VirtualMachineScaleSet.svg) | Microsoft.Compute/ virtualMachineScaleSets |
-| [Virtual machine scale set (ComputeHub)](svg/Microsoft_Azure_Compute/VirtualMachineScaleSetComputeHub.svg) |  |
 | [All resources](svg/Microsoft_Azure_ComputeHub/AllResources.svg) | Microsoft.ComputeHub/ all |
 | [Compute hub](svg/Microsoft_Azure_ComputeHub/ComputeHub.svg) | Providers.Test/ statefulIbizaEngines |
 | [Managed CCF App](svg/Microsoft_Azure_ConfidentialLedger/ManagedCCF.svg) | Microsoft.ConfidentialLedger/ ManagedCCFs |
@@ -633,6 +625,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Llama2](svg/Microsoft_Azure_MLTeamAccounts/Llama2.svg) |  |
 | [Azure Machine Learning workspace](svg/Microsoft_Azure_MLTeamAccounts/MachineLearningServices.svg) | Microsoft.MachineLearningServices/ workspaces |
 | [Mistral](svg/Microsoft_Azure_MLTeamAccounts/Mistral.svg) |  |
+| [Model Provider](svg/Microsoft_Azure_MLTeamAccounts/ModelProvider.svg) |  |
 | [Machine Learning Studio (classic) web service](svg/Microsoft_Azure_MLWebservices/MachineLearningWebService.svg) | Microsoft.MachineLearning/ webServices |
 | [Machine Learning Studio (classic) workspace](svg/Microsoft_Azure_MLWorkspaces/MachineLearningWorkspace.svg) | Microsoft.MachineLearning/ workspaces |
 | [Chamber (preview)](svg/Microsoft_Azure_ModSimWorkbench/SdwChamberResource.svg) | Microsoft.ModSimWorkbench/ workbenches/ chambers |
@@ -926,10 +919,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Time Series Insights reference data set](svg/Microsoft_Azure_TimeSeriesInsights/TimeSeriesInsightsReferenceDataSet.svg) | Microsoft.TimeSeriesInsights/ environments/ referenceDataSets |
 | [Azure Toolbox](svg/Microsoft_Azure_Toolbox/Gallery.svg) |  |
 | [Azure Toolbox](svg/Microsoft_Azure_Toolbox/Overview.svg) |  |
-| [Custom Images](svg/Microsoft_Azure_UpdateStagingLab/CustomImage.svg) | Microsoft.TestBase/ testBaseAccounts/ customImages |
-| [Test Base Package](svg/Microsoft_Azure_UpdateStagingLab/TestBasePackage.svg) | Microsoft.TestBase/ testBaseAccounts/ packages |
-| [Test Base Account](svg/Microsoft_Azure_UpdateStagingLab/TestBase.svg) | Microsoft.TestBase/ testbaseAccounts |
-| [Test Configuration](svg/Microsoft_Azure_UpdateStagingLab/TestConfiguration.svg) | Microsoft.TestBase/ testBaseAccounts/ testConfigurations |
 | [Azure Virtual Enclaves](svg/Microsoft_Azure_VirtualEnclaves/AzureVirtualEnclave.svg) |  |
 | [Catalog](svg/Microsoft_Azure_VirtualEnclaves/Catalog.svg) | Microsoft.Mission/ catalogs |
 | [Community](svg/Microsoft_Azure_VirtualEnclaves/Community.svg) | Microsoft.Mission/ communities |
@@ -1048,8 +1037,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Microsoft Copilot for Security compute capacity](svg/Microsoft_Security_Copilot/SecurityCopilotResource.svg) | Microsoft.SecurityCopilot/ capacities |
 | [Services Hub Connector](svg/Microsoft_ServicesHub_Extension/Connector.svg) | Microsoft.ServicesHub/ connectors |
 | [Azure AI Video Indexer](svg/Microsoft_VideoIndexer/VideoIndexerAccount.svg) | Microsoft.VideoIndexer/ accounts |
-| [Extended Security Updates](svg/Microsoft_Windows_ExtendedSecurityUpdates/ExtendedSecurityUpdates.svg) |  |
-| [Windows Multiple Activation Key](svg/Microsoft_Windows_ExtendedSecurityUpdates/MultipleActivationKey.svg) | Microsoft.WindowsESU/ multipleActivationKeys |
 | [Autonomous Database](svg/Oracle_Databases_At_Azure/oracle_adbs.svg) | oracle.database/ autonomousdatabases |
 | [OracleSubscription](svg/Oracle_Databases_At_Azure/oracleSubscription.svg) | Oracle.Database/ oracleSubscriptions |
 | [Oracle Exadata Infrastructure](svg/Oracle_Databases_At_Azure/oracle_exadata_infrastructure.svg) | oracle.database/ cloudexadatainfrastructures |
