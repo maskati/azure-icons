@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.65.0.1336572.240610-0004 on 2024-06-19.
+Extracted from Azure Portal version 14.65.0.1336572.240610-0004 on 2024-06-20.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -1023,7 +1023,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Windows 365](svg/Microsoft_Intune_MTM/CloudPcAsset.svg) |  |
 | [Tenants](svg/Microsoft_Intune_MTM/CustomerListAsset.svg) |  |
 | [Devices](svg/Microsoft_Intune_MTM/DevicesAsset.svg) |  |
-| [Tenant Insights](svg/Microsoft_Intune_MTM/InsightsAsset.svg) |  |
 | [Service health](svg/Microsoft_Intune_MTM/ServiceHealthAsset.svg) |  |
 | [Threat management](svg/Microsoft_Intune_MTM/ThreatManagementAsset.svg) |  |
 | [Users](svg/Microsoft_Intune_MTM/UsersAsset.svg) |  |
