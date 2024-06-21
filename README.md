@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.65.0.1336572.240610-0004 on 2024-06-20.
+Extracted from Azure Portal version 14.65.0.1336572.240610-0004 on 2024-06-21.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -548,6 +548,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Arc data controller](svg/Microsoft_Azure_HybridData_Platform/DataController.svg) | Microsoft.AzureArcData/ dataControllers |
 | [PostgreSQL server – Azure Arc](svg/Microsoft_Azure_HybridData_Platform/PostgresInstance.svg) | Microsoft.AzureArcData/ postgresInstances |
 | [SQL managed instance - Azure Arc](svg/Microsoft_Azure_HybridData_Platform/SqlManagedInstance.svg) | Microsoft.AzureArcData/ sqlManagedInstances |
+| [SQL Server ESU license](svg/Microsoft_Azure_HybridData_Platform/SqlServerEsuLicenses.svg) | microsoft.azurearcdata/ sqlserveresulicenses |
 | [SQL Server - Azure Arc](svg/Microsoft_Azure_HybridData_Platform/SqlServerInstance.svg) | Microsoft.AzureArcData/ sqlServerInstances |
 | [SQL Server database - Azure Arc](svg/Microsoft_Azure_HybridData_Platform/SqlServerInstancesDatabases.svg) | Microsoft.AzureArcData/ SqlServerInstances/ Databases |
 | [SQL Server License](svg/Microsoft_Azure_HybridData_Platform/SqlServerLicenses.svg) | microsoft.azurearcdata/ sqlserverlicenses |
