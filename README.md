@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.65.0.1336572.240610-0004 on 2024-06-21.
+Extracted from Azure Portal version 14.65.0.1336572.240610-0004 on 2024-06-22.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -215,7 +215,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [My Resource](svg/Microsoft_AzureCXP_BusinessReview/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [My Resource](svg/Microsoft_AzureCXP_Cpoe/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [EngageHub Portal](svg/Microsoft_AzureCXP_EngageHub/EngageHubPortalMenu.svg) |  |
-| [Engage Hub Reporting](svg/Microsoft_AzureCXP_EngageHubInsights/OpenCanvas.svg) | Providers.Test/ statefulIbizaEngines |
 | [My Resource](svg/Microsoft_AzureCXP_EngageHub_Spaces/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Azure Stack HCI](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCI.svg) |  |
 | [Azure Stack HCI Gallery image - Azure Arc](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCIGalleryImage.svg) | Microsoft.AzureStackHCI/ galleryImages |
