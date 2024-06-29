@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.65.0.1336572.240610-0004 on 2024-06-28.
+Extracted from Azure Portal version 14.65.0.1336572.240610-0004 on 2024-06-29.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -212,8 +212,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Workload Identity](svg/Microsoft_AAD_IAM/WorkloadIdentities.svg) |  |
 | [Users](svg/Microsoft_AAD_IAM/UserManagement.svg) |  |
 | [App registration](svg/Microsoft_AAD_RegisteredApps/RegisteredApps.svg) |  |
-| [My Resource](svg/Microsoft_AzureCXP_BusinessReview/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
-| [My Resource](svg/Microsoft_AzureCXP_Cpoe/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [EngageHub Portal](svg/Microsoft_AzureCXP_EngageHub/EngageHubPortalMenu.svg) |  |
 | [My Resource](svg/Microsoft_AzureCXP_EngageHub_Spaces/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Azure Stack HCI](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCI.svg) |  |
@@ -890,7 +888,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Web PubSub Service](svg/Microsoft_Azure_SignalR/WebPubSub.svg) | Microsoft.SignalRService/ WebPubSub |
 | [Web PubSub Service Replica](svg/Microsoft_Azure_SignalR/WebPubSubReplica.svg) | Microsoft.SignalRService/ WebPubSub/ replicas |
 | [Site manager - Azure Arc](svg/Microsoft_Azure_SiteManager/SiteManager.svg) | Microsoft.Edge/ sites |
-| [Site Recovery vault](svg/Microsoft_Azure_SiteRecovery/SiteRecoveryResource.svg) | Microsoft.DataReplication/ replicationVaults |
 | [My Resource](svg/Microsoft_Azure_SolutionCenterSandbox/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Azure Sphere Catalog](svg/Microsoft_Azure_Sphere/AzureSphereArm.svg) | microsoft.azuresphere/ catalogs |
 | [Azure Sphere (Legacy)](svg/Microsoft_Azure_Sphere/AzureSphere.svg) |  |
