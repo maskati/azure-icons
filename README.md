@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.65.1.114.65.0.15331175.240626-1736 on 2024-07-03.
+Extracted from Azure Portal version 14.65.1.114.65.0.15331175.240626-1736 on 2024-07-04.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -924,7 +924,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Time Series Insights reference data set](svg/Microsoft_Azure_TimeSeriesInsights/TimeSeriesInsightsReferenceDataSet.svg) | Microsoft.TimeSeriesInsights/ environments/ referenceDataSets |
 | [Azure Toolbox](svg/Microsoft_Azure_Toolbox/Gallery.svg) |  |
 | [Azure Toolbox](svg/Microsoft_Azure_Toolbox/Overview.svg) |  |
-| [Azure Virtual Enclave](svg/Microsoft_Azure_VirtualEnclaves/AzureVirtualEnclave.svg) |  |
+| [Azure Virtual Enclaves](svg/Microsoft_Azure_VirtualEnclaves/AzureVirtualEnclave.svg) |  |
 | [Catalog](svg/Microsoft_Azure_VirtualEnclaves/Catalog.svg) | Microsoft.Mission/ catalogs |
 | [Community](svg/Microsoft_Azure_VirtualEnclaves/Community.svg) | Microsoft.Mission/ communities |
 | [Community endpoint](svg/Microsoft_Azure_VirtualEnclaves/CommunityEndpoint.svg) | Microsoft.Mission/ communities/ communityEndpoints |
