@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.65.1.114.65.0.15331175.240626-1736 on 2024-07-03.
+Extracted from Azure Portal version 14.65.1.114.65.0.15331175.240626-1736 on 2024-07-04.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -214,12 +214,14 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [App registration](svg/Microsoft_AAD_RegisteredApps/RegisteredApps.svg) |  |
 | [EngageHub Portal](svg/Microsoft_AzureCXP_EngageHub/EngageHubPortalMenu.svg) |  |
 | [My Resource](svg/Microsoft_AzureCXP_EngageHub_Spaces/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
+| [Azure Stack  Preview](svg/Microsoft_AzureStackHCI_PortalExtension/AzureEdgeNodePool.svg) | Microsoft.AzureStackHCI/ edgeNodePools |
 | [Azure Stack HCI](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCI.svg) |  |
-| [Azure Stack HCI Gallery image - Azure Arc](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCIGalleryImage.svg) | Microsoft.AzureStackHCI/ galleryImages |
-| [Azure Stack HCI Logical network - Azure Arc](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCILogicalNetwork.svg) | Microsoft.AzureStackHCI/ logicalnetworks |
-| [Azure Stack HCI Marketplace Gallery image - Azure Arc](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCIMarketplaceGalleryImage.svg) | Microsoft.AzureStackHCI/ marketplacegalleryImages |
+| [Azure Stack HCI Gallery image](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCIGalleryImage.svg) | Microsoft.AzureStackHCI/ galleryImages |
+| [Azure Stack HCI Logical network](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCILogicalNetwork.svg) | Microsoft.AzureStackHCI/ logicalnetworks |
+| [Azure Stack HCI Marketplace Gallery image](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCIMarketplaceGalleryImage.svg) | Microsoft.AzureStackHCI/ marketplacegalleryImages |
+| [Azure Stack HCI VM Network Interface](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCINetworkInterface.svg) | Microsoft.AzureStackHCI/ NetworkInterfaces |
 | [Azure Stack HCI](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCIResource.svg) | Microsoft.AzureStackHCI/ clusters |
-| [Azure Stack HCI Storage path - Azure Arc](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCIStoragePath.svg) | Microsoft.AzureStackHCI/ storagecontainers |
+| [Azure Stack HCI Storage path](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCIStoragePath.svg) | Microsoft.AzureStackHCI/ storagecontainers |
 | [Azure Stack HCI Virtual Machine - Azure Arc](svg/Microsoft_AzureStackHCI_PortalExtension/HCIVirtualMachines.svg) | Microsoft.All/ hciVirtualMachines |
 | [Edge Center](svg/Microsoft_AzureStackHCI_PortalExtension/EdgeCenter.svg) |  |
 | [Site  Preview](svg/Microsoft_AzureStackHCI_PortalExtension/Site.svg) | Microsoft.Edge/ sites |
