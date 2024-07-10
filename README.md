@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.65.1.114.65.0.15331175.240626-1736 on 2024-07-09.
+Extracted from Azure Portal version 14.80.0.1822931.240702-0456 on 2024-07-10.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -38,8 +38,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Sample Partner Resource](svg/Azure_Marketplace_SamplePartner/MyResource.svg) | Microsoft.SamplePartner/ organizations |
 | [SolarWinds Observability](svg/Azure_Marketplace_SolarWindsObservability/SolarWinds.svg) | SolarWinds.Observability/ Organizations |
 | [Split Experimentation Workspace (preview)](svg/Azure_Marketplace_SplitIO/experimentationWorkspaces.svg) | SplitIO.Experimentation/ experimentationWorkspaces |
-| [Citrix Virtual Apps Essentials](svg/Citrix_XenApp_Essentials/XenAppEssentials.svg) | Citrix.Services/ XenAppEssentials |
-| [Citrix Virtual Desktops Essentials](svg/Citrix_XenDesktop_Essentials/XenDesktopEssentials.svg) | Citrix.Services/ XenDesktopEssentials |
 | [Resource Explorer](svg/HubsExtension/ArmExplorer.svg) |  |
 | [Resource Graph query](svg/HubsExtension/ARGSharedQueries.svg) | Microsoft.resourcegraph/ queries |
 | [Resource](svg/HubsExtension/BrowseAllResources.svg) |  |
@@ -548,10 +546,10 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Arc data controller](svg/Microsoft_Azure_HybridData_Platform/DataController.svg) | Microsoft.AzureArcData/ dataControllers |
 | [PostgreSQL server – Azure Arc](svg/Microsoft_Azure_HybridData_Platform/PostgresInstance.svg) | Microsoft.AzureArcData/ postgresInstances |
 | [SQL managed instance - Azure Arc](svg/Microsoft_Azure_HybridData_Platform/SqlManagedInstance.svg) | Microsoft.AzureArcData/ sqlManagedInstances |
-| [SQL Server ESU license](svg/Microsoft_Azure_HybridData_Platform/SqlServerEsuLicenses.svg) | microsoft.azurearcdata/ sqlserveresulicenses |
+| [SQL Server ESU license](svg/Microsoft_Azure_HybridData_Platform/SqlServerEsuLicense.svg) | microsoft.azurearcdata/ sqlserveresulicenses |
 | [SQL Server - Azure Arc](svg/Microsoft_Azure_HybridData_Platform/SqlServerInstance.svg) | Microsoft.AzureArcData/ sqlServerInstances |
 | [SQL Server database - Azure Arc](svg/Microsoft_Azure_HybridData_Platform/SqlServerInstancesDatabases.svg) | Microsoft.AzureArcData/ SqlServerInstances/ Databases |
-| [SQL Server License](svg/Microsoft_Azure_HybridData_Platform/SqlServerLicenses.svg) | microsoft.azurearcdata/ sqlserverlicenses |
+| [SQL Server License](svg/Microsoft_Azure_HybridData_Platform/SqlServerLicense.svg) | microsoft.azurearcdata/ sqlserverlicenses |
 | [Application Gateway for Containers](svg/Microsoft_Azure_HybridNetworking/AppGwForContainers.svg) | Microsoft.ServiceNetworking/ trafficControllers |
 | [Application gateway](svg/Microsoft_Azure_HybridNetworking/ApplicationGateway.svg) | Microsoft.Network/ applicationGateways |
 | [Bastion](svg/Microsoft_Azure_HybridNetworking/BastionHost.svg) | Microsoft.Network/ bastionHosts |
@@ -609,7 +607,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Virtual Network Manager](svg/Microsoft_Azure_ManagedNetwork/VirtualNetworkManager.svg) |  |
 | [Managed Identity](svg/Microsoft_Azure_ManagedServiceIdentity/UserAssignedIdentity.svg) | Microsoft.ManagedIdentity/ userAssignedIdentities |
 | [kubernetes 1 - Azure Arc](svg/Microsoft_Azure_ManagedStorageClass/ConnectedClusterWithStorageClassPlus.svg) | microsoft.kubernetes/ connectedClusters |
-| [Management group](svg/Microsoft_Azure_ManagementGroups/ManagementGroups.svg) |  |
 | [Marketplace](svg/Microsoft_Azure_Marketplace/Gallery.svg) |  |
 | [Marketplace](svg/Microsoft_Azure_Marketplace/StoreGallery.svg) |  |
 | [Template](svg/Microsoft_Azure_Marketplace/GalleryRpItem.svg) | Microsoft.Gallery/ myareas/ galleryitems |
@@ -891,7 +888,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Web PubSub Service](svg/Microsoft_Azure_SignalR/WebPubSub.svg) | Microsoft.SignalRService/ WebPubSub |
 | [Web PubSub Service Replica](svg/Microsoft_Azure_SignalR/WebPubSubReplica.svg) | Microsoft.SignalRService/ WebPubSub/ replicas |
 | [Site manager - Azure Arc](svg/Microsoft_Azure_SiteManager/SiteManager.svg) | Microsoft.Edge/ sites |
-| [My Resource](svg/Microsoft_Azure_SolutionCenterSandbox/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Azure Sphere Catalog](svg/Microsoft_Azure_Sphere/AzureSphereArm.svg) | microsoft.azuresphere/ catalogs |
 | [Azure Sphere (Legacy)](svg/Microsoft_Azure_Sphere/AzureSphere.svg) |  |
 | [Storage account (classic)](svg/Microsoft_Azure_Storage/ClassicStorageAccount.svg) | Microsoft.ClassicStorage/ StorageAccounts |
