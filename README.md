@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.80.0.1822931.240702-0456 on 2024-07-10.
+Extracted from Azure Portal version 14.65.1.114.65.0.15331175.240626-1736 on 2024-07-11.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -38,6 +38,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Sample Partner Resource](svg/Azure_Marketplace_SamplePartner/MyResource.svg) | Microsoft.SamplePartner/ organizations |
 | [SolarWinds Observability](svg/Azure_Marketplace_SolarWindsObservability/SolarWinds.svg) | SolarWinds.Observability/ Organizations |
 | [Split Experimentation Workspace (preview)](svg/Azure_Marketplace_SplitIO/experimentationWorkspaces.svg) | SplitIO.Experimentation/ experimentationWorkspaces |
+| [Citrix Virtual Apps Essentials](svg/Citrix_XenApp_Essentials/XenAppEssentials.svg) | Citrix.Services/ XenAppEssentials |
+| [Citrix Virtual Desktops Essentials](svg/Citrix_XenDesktop_Essentials/XenDesktopEssentials.svg) | Citrix.Services/ XenDesktopEssentials |
 | [Resource Explorer](svg/HubsExtension/ArmExplorer.svg) |  |
 | [Resource Graph query](svg/HubsExtension/ARGSharedQueries.svg) | Microsoft.resourcegraph/ queries |
 | [Resource](svg/HubsExtension/BrowseAllResources.svg) |  |
@@ -211,7 +213,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Users](svg/Microsoft_AAD_IAM/UserManagement.svg) |  |
 | [App registration](svg/Microsoft_AAD_RegisteredApps/RegisteredApps.svg) |  |
 | [EngageHub Portal](svg/Microsoft_AzureCXP_EngageHub/EngageHubPortalMenu.svg) |  |
-| [My Resource](svg/Microsoft_AzureCXP_EngageHub_Spaces/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Azure Stack  Preview](svg/Microsoft_AzureStackHCI_PortalExtension/AzureEdgeNodePool.svg) | Microsoft.AzureStackHCI/ edgeNodePools |
 | [Azure Stack HCI](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCI.svg) |  |
 | [Azure Stack HCI Gallery image](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCIGalleryImage.svg) | Microsoft.AzureStackHCI/ galleryImages |
@@ -451,7 +452,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Reporting & Analytics](svg/Microsoft_Azure_DocumentManagement/Microsoft_Azure_DocumentManagement.svg) |  |
 | [Microsoft Defender EASM](svg/Microsoft_Azure_EASM/EasmWorkspace.svg) | Microsoft.Easm/ workspaces |
 | [Impact Reporting](svg/Microsoft_Azure_ECE/ImpactRP.svg) |  |
-| [Microsoft.Impact connector](svg/Microsoft_Azure_ECE/microsoft_impact_connectors_2024_05_01_preview.svg) | microsoft.impact/ connectors |
+| [Impact Reporting Connector](svg/Microsoft_Azure_ECE/microsoft_impact_connectors_2024_05_01_preview.svg) | microsoft.impact/ connectors |
 | [Azure Stack Edge / Data Box Gateway](svg/Microsoft_Azure_EdgeGateway/EdgeGateway.svg) | Microsoft.DataBoxEdge/ dataBoxEdgeDevices |
 | [My Resource](svg/Microsoft_Azure_EdgeManagementCopilot/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Azure Edge Hardware Center Address](svg/Microsoft_Azure_EdgeOrder/AllAddressResources.svg) | Microsoft.EdgeOrder/ addresses |
@@ -573,6 +574,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Virtual WAN](svg/Microsoft_Azure_HybridNetworking/VirtualWan.svg) | Microsoft.Network/ virtualWans |
 | [Microsoft.Network network virtual appliance](svg/Microsoft_Azure_HybridNetworking/microsoft_network_networkvirtualappliances_2020_03_01.svg) | microsoft.network/ networkvirtualappliances |
 | [My Resource](svg/Microsoft_Azure_IdentityGovernance/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
+| [My Resource](svg/Microsoft_Azure_IndustrySolutionCenter/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [IoT Central Application](svg/Microsoft_Azure_IoTCentral/IoTApps.svg) | Microsoft.IoTCentral/ IoTApps |
 | [Azure IoT Hub Device Provisioning Service (DPS)](svg/Microsoft_Azure_IotHub/DeviceProvisioning.svg) | Microsoft.Devices/ ProvisioningServices |
 | [IoT Hub](svg/Microsoft_Azure_IotHub/IotHubs.svg) | Microsoft.Devices/ IotHubs |
@@ -607,6 +609,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Virtual Network Manager](svg/Microsoft_Azure_ManagedNetwork/VirtualNetworkManager.svg) |  |
 | [Managed Identity](svg/Microsoft_Azure_ManagedServiceIdentity/UserAssignedIdentity.svg) | Microsoft.ManagedIdentity/ userAssignedIdentities |
 | [kubernetes 1 - Azure Arc](svg/Microsoft_Azure_ManagedStorageClass/ConnectedClusterWithStorageClassPlus.svg) | microsoft.kubernetes/ connectedClusters |
+| [Management group](svg/Microsoft_Azure_ManagementGroups/ManagementGroups.svg) |  |
 | [Marketplace](svg/Microsoft_Azure_Marketplace/Gallery.svg) |  |
 | [Marketplace](svg/Microsoft_Azure_Marketplace/StoreGallery.svg) |  |
 | [Template](svg/Microsoft_Azure_Marketplace/GalleryRpItem.svg) | Microsoft.Gallery/ myareas/ galleryitems |
@@ -888,6 +891,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Web PubSub Service](svg/Microsoft_Azure_SignalR/WebPubSub.svg) | Microsoft.SignalRService/ WebPubSub |
 | [Web PubSub Service Replica](svg/Microsoft_Azure_SignalR/WebPubSubReplica.svg) | Microsoft.SignalRService/ WebPubSub/ replicas |
 | [Site manager - Azure Arc](svg/Microsoft_Azure_SiteManager/SiteManager.svg) | Microsoft.Edge/ sites |
+| [My Resource](svg/Microsoft_Azure_SolutionCenterSandbox/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Azure Sphere Catalog](svg/Microsoft_Azure_Sphere/AzureSphereArm.svg) | microsoft.azuresphere/ catalogs |
 | [Azure Sphere (Legacy)](svg/Microsoft_Azure_Sphere/AzureSphere.svg) |  |
 | [Storage account (classic)](svg/Microsoft_Azure_Storage/ClassicStorageAccount.svg) | Microsoft.ClassicStorage/ StorageAccounts |
@@ -920,12 +924,12 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Time Series Insights reference data set](svg/Microsoft_Azure_TimeSeriesInsights/TimeSeriesInsightsReferenceDataSet.svg) | Microsoft.TimeSeriesInsights/ environments/ referenceDataSets |
 | [Azure Toolbox](svg/Microsoft_Azure_Toolbox/Gallery.svg) |  |
 | [Azure Toolbox](svg/Microsoft_Azure_Toolbox/Overview.svg) |  |
-| [Azure Virtual Enclaves](svg/Microsoft_Azure_VirtualEnclaves/AzureVirtualEnclave.svg) |  |
+| [Azure Virtual Enclave](svg/Microsoft_Azure_VirtualEnclaves/AzureVirtualEnclave.svg) |  |
 | [Catalog](svg/Microsoft_Azure_VirtualEnclaves/Catalog.svg) | Microsoft.Mission/ catalogs |
 | [Community](svg/Microsoft_Azure_VirtualEnclaves/Community.svg) | Microsoft.Mission/ communities |
 | [Community endpoint](svg/Microsoft_Azure_VirtualEnclaves/CommunityEndpoint.svg) | Microsoft.Mission/ communities/ communityEndpoints |
 | [Enclave connection](svg/Microsoft_Azure_VirtualEnclaves/EnclaveConnection.svg) | Microsoft.Mission/ EnclaveConnections |
-| [Enclave endpoint](svg/Microsoft_Azure_VirtualEnclaves/EnclaveEndpoints.svg) | Microsoft.Mission/ virtualEnclaves/ enclaveEndpoints |
+| [Enclave endpoint](svg/Microsoft_Azure_VirtualEnclaves/EnclaveEndpoint.svg) | Microsoft.Mission/ virtualEnclaves/ enclaveEndpoints |
 | [Endpoint](svg/Microsoft_Azure_VirtualEnclaves/Endpoint.svg) | Microsoft.Mission/ virtualEnclaves/ endpoints |
 | [External connection](svg/Microsoft_Azure_VirtualEnclaves/ExternalConnection.svg) | Microsoft.Mission/ externalConnections |
 | [Internal connection](svg/Microsoft_Azure_VirtualEnclaves/InternalConnection.svg) | Microsoft.Mission/ internalConnections |
