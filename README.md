@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.65.1.114.65.0.15331175.240626-1736 on 2024-07-10.
+Extracted from Azure Portal version 14.65.1.114.65.0.15331175.240626-1736 on 2024-07-11.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -213,7 +213,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Users](svg/Microsoft_AAD_IAM/UserManagement.svg) |  |
 | [App registration](svg/Microsoft_AAD_RegisteredApps/RegisteredApps.svg) |  |
 | [EngageHub Portal](svg/Microsoft_AzureCXP_EngageHub/EngageHubPortalMenu.svg) |  |
-| [My Resource](svg/Microsoft_AzureCXP_EngageHub_Spaces/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Azure Stack  Preview](svg/Microsoft_AzureStackHCI_PortalExtension/AzureEdgeNodePool.svg) | Microsoft.AzureStackHCI/ edgeNodePools |
 | [Azure Stack HCI](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCI.svg) |  |
 | [Azure Stack HCI Gallery image](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCIGalleryImage.svg) | Microsoft.AzureStackHCI/ galleryImages |
@@ -417,26 +416,27 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Dev Tunnels Domain](svg/Microsoft_Azure_DevTunnels/devtunnels.svg) | microsoft.devtunnels/ tunnelplans |
 | [Azure Digital Twins](svg/Microsoft_Azure_DigitalTwins/digitaltwinsInstances.svg) | Microsoft.DigitalTwins/ digitalTwinsInstances |
 | [Community image](svg/Microsoft_Azure_DiskMgmt/CommunityImage.svg) | Microsoft.Compute/ locations/ communityGalleries/ images |
-| [Community image (ComputeHub)](svg/Microsoft_Azure_DiskMgmt/CommunityImageComputeHub.svg) |  |
+| [Community image](svg/Microsoft_Azure_DiskMgmt/CommunityImageComputeHub.svg) |  |
 | [Disk](svg/Microsoft_Azure_DiskMgmt/Disk.svg) | Microsoft.Compute/ disks |
-| [Disk (ComputeHub)](svg/Microsoft_Azure_DiskMgmt/DiskComputeHub.svg) |  |
+| [Disk](svg/Microsoft_Azure_DiskMgmt/DiskComputeHub.svg) |  |
 | [Disk Access](svg/Microsoft_Azure_DiskMgmt/DiskAccess.svg) | Microsoft.Compute/ diskAccesses |
 | [Disk Encryption Set](svg/Microsoft_Azure_DiskMgmt/DiskEncryptionSet.svg) | Microsoft.Compute/ diskEncryptionSets |
-| [Disk Encryption Set (ComputeHub)](svg/Microsoft_Azure_DiskMgmt/DiskEncryptionSetComputeHub.svg) |  |
+| [Disk Encryption Set](svg/Microsoft_Azure_DiskMgmt/DiskEncryptionSetComputeHub.svg) |  |
 | [Disk Pool](svg/Microsoft_Azure_DiskMgmt/DiskPool.svg) | Microsoft.StoragePool/ diskPools |
 | [VM application definition](svg/Microsoft_Azure_DiskMgmt/GalleryApplication.svg) | Microsoft.Compute/ galleries/ applications |
 | [VM application version](svg/Microsoft_Azure_DiskMgmt/GalleryApplicationVersion.svg) | Microsoft.Compute/ galleries/ applications/ versions |
 | [VM image definition](svg/Microsoft_Azure_DiskMgmt/ImageDefinition.svg) | Microsoft.Compute/ galleries/ images |
+| [VM image definition](svg/Microsoft_Azure_DiskMgmt/ImageDefinitionComputeHub.svg) |  |
 | [Image](svg/Microsoft_Azure_DiskMgmt/Image.svg) | Microsoft.Compute/ images |
-| [Image (ComputeHub)](svg/Microsoft_Azure_DiskMgmt/ImageComputeHub.svg) |  |
+| [Image](svg/Microsoft_Azure_DiskMgmt/ImageComputeHub.svg) |  |
 | [Image template](svg/Microsoft_Azure_DiskMgmt/ImageTemplate.svg) | Microsoft.VirtualMachineImages/ imageTemplates |
 | [VM image version](svg/Microsoft_Azure_DiskMgmt/ImageVersion.svg) | Microsoft.Compute/ galleries/ images/ versions |
-| [VM image version (ComputeHub)](svg/Microsoft_Azure_DiskMgmt/ImageVersionComputeHub.svg) |  |
+| [VM image version](svg/Microsoft_Azure_DiskMgmt/ImageVersionComputeHub.svg) |  |
 | [Restore Point](svg/Microsoft_Azure_DiskMgmt/RestorePoint.svg) | Microsoft.Compute/ restorePointCollections/ restorePoints |
 | [Restore Point Collection](svg/Microsoft_Azure_DiskMgmt/RestorePointCollection.svg) | Microsoft.Compute/ restorePointCollections |
 | [Azure compute gallery](svg/Microsoft_Azure_DiskMgmt/SharedImageGallery.svg) | Microsoft.Compute/ galleries |
 | [Snapshot](svg/Microsoft_Azure_DiskMgmt/Snapshot.svg) | Microsoft.Compute/ snapshots |
-| [Snapshot (ComputeHub)](svg/Microsoft_Azure_DiskMgmt/SnapshotComputeHub.svg) |  |
+| [Snapshot](svg/Microsoft_Azure_DiskMgmt/SnapshotComputeHub.svg) |  |
 | [Azure Database Migration Service (classic)](svg/Microsoft_Azure_DMS/Dms.svg) | Microsoft.DataMigration/ services |
 | [Azure Database Migration Project](svg/Microsoft_Azure_DMS/DmsProject.svg) | Microsoft.DataMigration/ services/ projects |
 | [Azure Database Migration Service](svg/Microsoft_Azure_DMS/DmsV2.svg) | microsoft.datamigration/ sqlmigrationservices |
@@ -453,7 +453,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Reporting & Analytics](svg/Microsoft_Azure_DocumentManagement/Microsoft_Azure_DocumentManagement.svg) |  |
 | [Microsoft Defender EASM](svg/Microsoft_Azure_EASM/EasmWorkspace.svg) | Microsoft.Easm/ workspaces |
 | [Impact Reporting](svg/Microsoft_Azure_ECE/ImpactRP.svg) |  |
-| [Microsoft.Impact connector](svg/Microsoft_Azure_ECE/microsoft_impact_connectors_2024_05_01_preview.svg) | microsoft.impact/ connectors |
+| [Impact Reporting Connector](svg/Microsoft_Azure_ECE/microsoft_impact_connectors_2024_05_01_preview.svg) | microsoft.impact/ connectors |
 | [Azure Stack Edge / Data Box Gateway](svg/Microsoft_Azure_EdgeGateway/EdgeGateway.svg) | Microsoft.DataBoxEdge/ dataBoxEdgeDevices |
 | [My Resource](svg/Microsoft_Azure_EdgeManagementCopilot/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Azure Edge Hardware Center Address](svg/Microsoft_Azure_EdgeOrder/AllAddressResources.svg) | Microsoft.EdgeOrder/ addresses |
@@ -575,6 +575,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Virtual WAN](svg/Microsoft_Azure_HybridNetworking/VirtualWan.svg) | Microsoft.Network/ virtualWans |
 | [Microsoft.Network network virtual appliance](svg/Microsoft_Azure_HybridNetworking/microsoft_network_networkvirtualappliances_2020_03_01.svg) | microsoft.network/ networkvirtualappliances |
 | [My Resource](svg/Microsoft_Azure_IdentityGovernance/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
+| [My Resource](svg/Microsoft_Azure_IndustrySolutionCenter/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [IoT Central Application](svg/Microsoft_Azure_IoTCentral/IoTApps.svg) | Microsoft.IoTCentral/ IoTApps |
 | [Azure IoT Hub Device Provisioning Service (DPS)](svg/Microsoft_Azure_IotHub/DeviceProvisioning.svg) | Microsoft.Devices/ ProvisioningServices |
 | [IoT Hub](svg/Microsoft_Azure_IotHub/IotHubs.svg) | Microsoft.Devices/ IotHubs |
@@ -924,12 +925,12 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Time Series Insights reference data set](svg/Microsoft_Azure_TimeSeriesInsights/TimeSeriesInsightsReferenceDataSet.svg) | Microsoft.TimeSeriesInsights/ environments/ referenceDataSets |
 | [Azure Toolbox](svg/Microsoft_Azure_Toolbox/Gallery.svg) |  |
 | [Azure Toolbox](svg/Microsoft_Azure_Toolbox/Overview.svg) |  |
-| [Azure Virtual Enclaves](svg/Microsoft_Azure_VirtualEnclaves/AzureVirtualEnclave.svg) |  |
+| [Azure Virtual Enclave](svg/Microsoft_Azure_VirtualEnclaves/AzureVirtualEnclave.svg) |  |
 | [Catalog](svg/Microsoft_Azure_VirtualEnclaves/Catalog.svg) | Microsoft.Mission/ catalogs |
 | [Community](svg/Microsoft_Azure_VirtualEnclaves/Community.svg) | Microsoft.Mission/ communities |
 | [Community endpoint](svg/Microsoft_Azure_VirtualEnclaves/CommunityEndpoint.svg) | Microsoft.Mission/ communities/ communityEndpoints |
 | [Enclave connection](svg/Microsoft_Azure_VirtualEnclaves/EnclaveConnection.svg) | Microsoft.Mission/ EnclaveConnections |
-| [Enclave endpoint](svg/Microsoft_Azure_VirtualEnclaves/EnclaveEndpoints.svg) | Microsoft.Mission/ virtualEnclaves/ enclaveEndpoints |
+| [Enclave endpoint](svg/Microsoft_Azure_VirtualEnclaves/EnclaveEndpoint.svg) | Microsoft.Mission/ virtualEnclaves/ enclaveEndpoints |
 | [Endpoint](svg/Microsoft_Azure_VirtualEnclaves/Endpoint.svg) | Microsoft.Mission/ virtualEnclaves/ endpoints |
 | [External connection](svg/Microsoft_Azure_VirtualEnclaves/ExternalConnection.svg) | Microsoft.Mission/ externalConnections |
 | [Internal connection](svg/Microsoft_Azure_VirtualEnclaves/InternalConnection.svg) | Microsoft.Mission/ internalConnections |
