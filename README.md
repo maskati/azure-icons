@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.80.0.1822931.240702-0456 on 2024-07-13.
+Extracted from Azure Portal version 14.80.0.1822931.240702-0456 on 2024-07-14.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -312,22 +312,21 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Community Training](svg/Microsoft_Azure_CommunityTraining/CommunityTraining.svg) | Microsoft.Community/ communityTrainings |
 | [Availability set](svg/Microsoft_Azure_Compute/AvailabilitySet.svg) | Microsoft.Compute/ availabilitySets |
 | [Capacity Reservation Group](svg/Microsoft_Azure_Compute/CapacityReservationGroup.svg) | Microsoft.Compute/ capacityReservationGroups |
-| [Capacity Reservation Group](svg/Microsoft_Azure_Compute/CapacityReservationGroupComputeHub.svg) |  |
+| [Capacity Reservation Group (ComputeHub)](svg/Microsoft_Azure_Compute/CapacityReservationGroupComputeHub.svg) |  |
 | [Host group](svg/Microsoft_Azure_Compute/DedicatedHostGroup.svg) | Microsoft.Compute/ hostgroups |
-| [Host group](svg/Microsoft_Azure_Compute/DedicatedHostGroupComputeHub.svg) |  |
 | [Host](svg/Microsoft_Azure_Compute/DedicatedHost.svg) | Microsoft.Compute/ hostgroups/ hosts |
-| [Host](svg/Microsoft_Azure_Compute/DedicatedHostComputeHub.svg) |  |
+| [Host (ComputeHub)](svg/Microsoft_Azure_Compute/DedicatedHostComputeHub.svg) |  |
 | [Instance](svg/Microsoft_Azure_Compute/ComputeFleetInstance.svg) | microsoft.compute/ computefleetinstances |
 | [Standby pool](svg/Microsoft_Azure_Compute/StandbyPoolInstance.svg) | microsoft.compute/ standbypoolinstance |
 | [Instance](svg/Microsoft_Azure_Compute/VirtualMachineFlexInstance.svg) | microsoft.compute/ virtualmachineflexinstances |
 | [Proximity placement group](svg/Microsoft_Azure_Compute/ProximityPlacementGroup.svg) | Microsoft.Compute/ ProximityPlacementGroups |
-| [Proximity placement group](svg/Microsoft_Azure_Compute/ProximityPlacementGroupComputeHub.svg) |  |
+| [Proximity placement group (ComputeHub)](svg/Microsoft_Azure_Compute/ProximityPlacementGroupComputeHub.svg) |  |
 | [SSH key](svg/Microsoft_Azure_Compute/SshKey.svg) | Microsoft.Compute/ sshPublicKeys |
 | [Virtual machine](svg/Microsoft_Azure_Compute/AllVirtualMachine.svg) | Microsoft.All/ virtualMachines |
 | [Virtual machine](svg/Microsoft_Azure_Compute/VirtualMachine.svg) | Microsoft.Compute/ VirtualMachines |
-| [Virtual machine](svg/Microsoft_Azure_Compute/VirtualMachineComputeHub.svg) |  |
+| [Virtual machine (ComputeHub)](svg/Microsoft_Azure_Compute/VirtualMachineComputeHub.svg) |  |
 | [Virtual machine scale set](svg/Microsoft_Azure_Compute/VirtualMachineScaleSet.svg) | Microsoft.Compute/ virtualMachineScaleSets |
-| [Virtual machine scale set](svg/Microsoft_Azure_Compute/VirtualMachineScaleSetComputeHub.svg) |  |
+| [Virtual machine scale set (ComputeHub)](svg/Microsoft_Azure_Compute/VirtualMachineScaleSetComputeHub.svg) |  |
 | [All resources](svg/Microsoft_Azure_ComputeHub/AllResources.svg) | Microsoft.ComputeHub/ all |
 | [Compute hub](svg/Microsoft_Azure_ComputeHub/ComputeHub.svg) | Providers.Test/ statefulIbizaEngines |
 | [Managed CCF App](svg/Microsoft_Azure_ConfidentialLedger/ManagedCCF.svg) | Microsoft.ConfidentialLedger/ ManagedCCFs |
@@ -415,27 +414,26 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Dev Tunnels Domain](svg/Microsoft_Azure_DevTunnels/devtunnels.svg) | microsoft.devtunnels/ tunnelplans |
 | [Azure Digital Twins](svg/Microsoft_Azure_DigitalTwins/digitaltwinsInstances.svg) | Microsoft.DigitalTwins/ digitalTwinsInstances |
 | [Community image](svg/Microsoft_Azure_DiskMgmt/CommunityImage.svg) | Microsoft.Compute/ locations/ communityGalleries/ images |
-| [Community image](svg/Microsoft_Azure_DiskMgmt/CommunityImageComputeHub.svg) |  |
+| [Community image (ComputeHub)](svg/Microsoft_Azure_DiskMgmt/CommunityImageComputeHub.svg) |  |
 | [Disk](svg/Microsoft_Azure_DiskMgmt/Disk.svg) | Microsoft.Compute/ disks |
-| [Disk](svg/Microsoft_Azure_DiskMgmt/DiskComputeHub.svg) |  |
+| [Disk (ComputeHub)](svg/Microsoft_Azure_DiskMgmt/DiskComputeHub.svg) |  |
 | [Disk Access](svg/Microsoft_Azure_DiskMgmt/DiskAccess.svg) | Microsoft.Compute/ diskAccesses |
 | [Disk Encryption Set](svg/Microsoft_Azure_DiskMgmt/DiskEncryptionSet.svg) | Microsoft.Compute/ diskEncryptionSets |
-| [Disk Encryption Set](svg/Microsoft_Azure_DiskMgmt/DiskEncryptionSetComputeHub.svg) |  |
+| [Disk Encryption Set (ComputeHub)](svg/Microsoft_Azure_DiskMgmt/DiskEncryptionSetComputeHub.svg) |  |
 | [Disk Pool](svg/Microsoft_Azure_DiskMgmt/DiskPool.svg) | Microsoft.StoragePool/ diskPools |
 | [VM application definition](svg/Microsoft_Azure_DiskMgmt/GalleryApplication.svg) | Microsoft.Compute/ galleries/ applications |
 | [VM application version](svg/Microsoft_Azure_DiskMgmt/GalleryApplicationVersion.svg) | Microsoft.Compute/ galleries/ applications/ versions |
 | [VM image definition](svg/Microsoft_Azure_DiskMgmt/ImageDefinition.svg) | Microsoft.Compute/ galleries/ images |
-| [VM image definition](svg/Microsoft_Azure_DiskMgmt/ImageDefinitionComputeHub.svg) |  |
 | [Image](svg/Microsoft_Azure_DiskMgmt/Image.svg) | Microsoft.Compute/ images |
-| [Image](svg/Microsoft_Azure_DiskMgmt/ImageComputeHub.svg) |  |
+| [Image (ComputeHub)](svg/Microsoft_Azure_DiskMgmt/ImageComputeHub.svg) |  |
 | [Image template](svg/Microsoft_Azure_DiskMgmt/ImageTemplate.svg) | Microsoft.VirtualMachineImages/ imageTemplates |
 | [VM image version](svg/Microsoft_Azure_DiskMgmt/ImageVersion.svg) | Microsoft.Compute/ galleries/ images/ versions |
-| [VM image version](svg/Microsoft_Azure_DiskMgmt/ImageVersionComputeHub.svg) |  |
+| [VM image version (ComputeHub)](svg/Microsoft_Azure_DiskMgmt/ImageVersionComputeHub.svg) |  |
 | [Restore Point](svg/Microsoft_Azure_DiskMgmt/RestorePoint.svg) | Microsoft.Compute/ restorePointCollections/ restorePoints |
 | [Restore Point Collection](svg/Microsoft_Azure_DiskMgmt/RestorePointCollection.svg) | Microsoft.Compute/ restorePointCollections |
 | [Azure compute gallery](svg/Microsoft_Azure_DiskMgmt/SharedImageGallery.svg) | Microsoft.Compute/ galleries |
 | [Snapshot](svg/Microsoft_Azure_DiskMgmt/Snapshot.svg) | Microsoft.Compute/ snapshots |
-| [Snapshot](svg/Microsoft_Azure_DiskMgmt/SnapshotComputeHub.svg) |  |
+| [Snapshot (ComputeHub)](svg/Microsoft_Azure_DiskMgmt/SnapshotComputeHub.svg) |  |
 | [Azure Database Migration Service (classic)](svg/Microsoft_Azure_DMS/Dms.svg) | Microsoft.DataMigration/ services |
 | [Azure Database Migration Project](svg/Microsoft_Azure_DMS/DmsProject.svg) | Microsoft.DataMigration/ services/ projects |
 | [Azure Database Migration Service](svg/Microsoft_Azure_DMS/DmsV2.svg) | microsoft.datamigration/ sqlmigrationservices |
