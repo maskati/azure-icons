@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.80.0.1822931.240702-0456 on 2024-07-18.
+Extracted from Azure Portal version 14.85.0.178005.240710-1857 on 2024-07-19.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -293,7 +293,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Virtual machine (classic)](svg/Microsoft_Azure_Classic_Compute/VirtualMachine.svg) | Microsoft.ClassicCompute/ VirtualMachines |
 | [Landing Zone Configuration](svg/Microsoft_Azure_CloudforSovereignty/LandingZoneConfigurationsAsset.svg) | microsoft.sovereign/ landingzoneconfigurations |
 | [Landing Zone Registration](svg/Microsoft_Azure_CloudforSovereignty/LandingZoneRegistrationsAsset.svg) | microsoft.sovereign/ landingzoneregistrations |
-| [Microsoft Cloud for Sovereignty](svg/Microsoft_Azure_CloudforSovereignty/SovereigntyAsset.svg) |  |
+| [Regulated Environment Management](svg/Microsoft_Azure_CloudforSovereignty/SovereigntyAsset.svg) |  |
+| [Transparency log](svg/Microsoft_Azure_CloudforSovereignty/TransparencyLogsAsset.svg) | microsoft.sovereign/ transparencylogs |
 | [Azure Cloud HSM](svg/Microsoft_Azure_CloudHSM/CloudHSM.svg) | Microsoft.HardwareSecurityModules/ cloudHsmClusters |
 | [Azure Load Testing](svg/Microsoft_Azure_CloudNativeTesting/CloudNativeTesting.svg) | Microsoft.LoadTestService/ LoadTests |
 | [Cloud service (classic)](svg/Microsoft_Azure_CloudServices/CloudService.svg) | microsoft.classicCompute/ domainNames |
@@ -916,10 +917,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Template spec](svg/Microsoft_Azure_TemplateSpecs/ArmTemplateSpecMG.svg) | Microsoft.Management/ managementgroups/ providers/ templatespecs |
 | [Template spec](svg/Microsoft_Azure_TemplateSpecs/ArmTemplateSpecsHub.svg) |  |
 | [Deployment Script](svg/Microsoft_Azure_TemplateSpecs/DeploymentScriptHub.svg) | Microsoft.Resources/ deploymentScripts |
-| [Time Series Insights access policy](svg/Microsoft_Azure_TimeSeriesInsights/TimeSeriesInsightsAccessPolicy.svg) | Microsoft.TimeSeriesInsights/ environments/ accesspolicies |
-| [Time Series Insights environment](svg/Microsoft_Azure_TimeSeriesInsights/TimeSeriesInsightsEnvironment.svg) | Microsoft.TimeSeriesInsights/ environments |
-| [Time Series Insights event source](svg/Microsoft_Azure_TimeSeriesInsights/TimeSeriesInsightsEventSource.svg) | Microsoft.TimeSeriesInsights/ environments/ eventsources |
-| [Time Series Insights reference data set](svg/Microsoft_Azure_TimeSeriesInsights/TimeSeriesInsightsReferenceDataSet.svg) | Microsoft.TimeSeriesInsights/ environments/ referenceDataSets |
 | [Azure Toolbox](svg/Microsoft_Azure_Toolbox/Gallery.svg) |  |
 | [Azure Toolbox](svg/Microsoft_Azure_Toolbox/Overview.svg) |  |
 | [Azure Virtual Enclave](svg/Microsoft_Azure_VirtualEnclaves/AzureVirtualEnclave.svg) |  |
