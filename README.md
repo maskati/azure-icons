@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.81.0.10154053.240709-1036 on 2024-07-22.
+Extracted from Azure Portal version 14.83.0.125690.240710-0721 on 2024-07-23.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -422,7 +422,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Disk Access](svg/Microsoft_Azure_DiskMgmt/DiskAccess.svg) | Microsoft.Compute/ diskAccesses |
 | [Disk Encryption Set](svg/Microsoft_Azure_DiskMgmt/DiskEncryptionSet.svg) | Microsoft.Compute/ diskEncryptionSets |
 | [Disk Encryption Set](svg/Microsoft_Azure_DiskMgmt/DiskEncryptionSetComputeHub.svg) |  |
-| [Disk Pool](svg/Microsoft_Azure_DiskMgmt/DiskPool.svg) | Microsoft.StoragePool/ diskPools |
 | [VM application definition](svg/Microsoft_Azure_DiskMgmt/GalleryApplication.svg) | Microsoft.Compute/ galleries/ applications |
 | [VM application version](svg/Microsoft_Azure_DiskMgmt/GalleryApplicationVersion.svg) | Microsoft.Compute/ galleries/ applications/ versions |
 | [VM image definition](svg/Microsoft_Azure_DiskMgmt/ImageDefinition.svg) | Microsoft.Compute/ galleries/ images |
@@ -574,7 +573,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Cortex](svg/Microsoft_Azure_HybridNetworking/GlobalSecureAccess.svg) |  |
 | [Virtual WAN](svg/Microsoft_Azure_HybridNetworking/VirtualWan.svg) | Microsoft.Network/ virtualWans |
 | [Microsoft.Network network virtual appliance](svg/Microsoft_Azure_HybridNetworking/microsoft_network_networkvirtualappliances_2020_03_01.svg) | microsoft.network/ networkvirtualappliances |
-| [Infrastructure as Code Automation Profile](svg/Microsoft_Azure_IacAutomation/ArcIacAutomation.svg) | Microsoft.DevHub/ iacProfiles |
 | [My Resource](svg/Microsoft_Azure_IdentityGovernance/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [My Resource](svg/Microsoft_Azure_IndustrySolutionCenter/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [IoT Central Application](svg/Microsoft_Azure_IoTCentral/IoTApps.svg) | Microsoft.IoTCentral/ IoTApps |
