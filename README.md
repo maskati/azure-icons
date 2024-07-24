@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.80.0.1822931.240702-0456 on 2024-07-23.
+Extracted from Azure Portal version 14.81.0.10154053.240709-1036 on 2024-07-24.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -422,6 +422,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Disk Access](svg/Microsoft_Azure_DiskMgmt/DiskAccess.svg) | Microsoft.Compute/ diskAccesses |
 | [Disk Encryption Set](svg/Microsoft_Azure_DiskMgmt/DiskEncryptionSet.svg) | Microsoft.Compute/ diskEncryptionSets |
 | [Disk Encryption Set](svg/Microsoft_Azure_DiskMgmt/DiskEncryptionSetComputeHub.svg) |  |
+| [Disk Pool](svg/Microsoft_Azure_DiskMgmt/DiskPool.svg) | Microsoft.StoragePool/ diskPools |
 | [VM application definition](svg/Microsoft_Azure_DiskMgmt/GalleryApplication.svg) | Microsoft.Compute/ galleries/ applications |
 | [VM application version](svg/Microsoft_Azure_DiskMgmt/GalleryApplicationVersion.svg) | Microsoft.Compute/ galleries/ applications/ versions |
 | [VM image definition](svg/Microsoft_Azure_DiskMgmt/ImageDefinition.svg) | Microsoft.Compute/ galleries/ images |
@@ -573,6 +574,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Cortex](svg/Microsoft_Azure_HybridNetworking/GlobalSecureAccess.svg) |  |
 | [Virtual WAN](svg/Microsoft_Azure_HybridNetworking/VirtualWan.svg) | Microsoft.Network/ virtualWans |
 | [Microsoft.Network network virtual appliance](svg/Microsoft_Azure_HybridNetworking/microsoft_network_networkvirtualappliances_2020_03_01.svg) | microsoft.network/ networkvirtualappliances |
+| [Infrastructure as Code Automation Profile](svg/Microsoft_Azure_IacAutomation/ArcIacAutomation.svg) | Microsoft.DevHub/ iacProfiles |
 | [My Resource](svg/Microsoft_Azure_IdentityGovernance/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [My Resource](svg/Microsoft_Azure_IndustrySolutionCenter/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [IoT Central Application](svg/Microsoft_Azure_IoTCentral/IoTApps.svg) | Microsoft.IoTCentral/ IoTApps |
@@ -916,10 +918,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Template spec](svg/Microsoft_Azure_TemplateSpecs/ArmTemplateSpecMG.svg) | Microsoft.Management/ managementgroups/ providers/ templatespecs |
 | [Template spec](svg/Microsoft_Azure_TemplateSpecs/ArmTemplateSpecsHub.svg) |  |
 | [Deployment Script](svg/Microsoft_Azure_TemplateSpecs/DeploymentScriptHub.svg) | Microsoft.Resources/ deploymentScripts |
-| [Time Series Insights access policy](svg/Microsoft_Azure_TimeSeriesInsights/TimeSeriesInsightsAccessPolicy.svg) | Microsoft.TimeSeriesInsights/ environments/ accesspolicies |
-| [Time Series Insights environment](svg/Microsoft_Azure_TimeSeriesInsights/TimeSeriesInsightsEnvironment.svg) | Microsoft.TimeSeriesInsights/ environments |
-| [Time Series Insights event source](svg/Microsoft_Azure_TimeSeriesInsights/TimeSeriesInsightsEventSource.svg) | Microsoft.TimeSeriesInsights/ environments/ eventsources |
-| [Time Series Insights reference data set](svg/Microsoft_Azure_TimeSeriesInsights/TimeSeriesInsightsReferenceDataSet.svg) | Microsoft.TimeSeriesInsights/ environments/ referenceDataSets |
 | [Azure Toolbox](svg/Microsoft_Azure_Toolbox/Gallery.svg) |  |
 | [Azure Toolbox](svg/Microsoft_Azure_Toolbox/Overview.svg) |  |
 | [Azure Virtual Enclave](svg/Microsoft_Azure_VirtualEnclaves/AzureVirtualEnclave.svg) |  |
