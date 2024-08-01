@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.85.3.114.85.0.14199.240718-0049 on 2024-07-31.
+Extracted from Azure Portal version 14.85.3.114.85.0.14199.240718-0049 on 2024-08-01.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -634,15 +634,15 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Model Provider](svg/Microsoft_Azure_MLTeamAccounts/ModelProvider.svg) |  |
 | [Machine Learning Studio (classic) web service](svg/Microsoft_Azure_MLWebservices/MachineLearningWebService.svg) | Microsoft.MachineLearning/ webServices |
 | [Machine Learning Studio (classic) workspace](svg/Microsoft_Azure_MLWorkspaces/MachineLearningWorkspace.svg) | Microsoft.MachineLearning/ workspaces |
-| [Chamber (preview)](svg/Microsoft_Azure_ModSimWorkbench/SdwChamberResource.svg) | Microsoft.ModSimWorkbench/ workbenches/ chambers |
-| [Chamber Connector (preview)](svg/Microsoft_Azure_ModSimWorkbench/SdwChamberConnectorResource.svg) | Microsoft.ModSimWorkbench/ workbenches/ chambers/ connectors |
-| [Chamber Data Pipeline File (preview)](svg/Microsoft_Azure_ModSimWorkbench/SdwChamberDataPipelineFileResource.svg) | Microsoft.ModSimWorkbench/ workbenches/ chambers/ files |
-| [Chamber Data Pipeline File Request (preview)](svg/Microsoft_Azure_ModSimWorkbench/SdwChamberDataPipelineFileRequestResource.svg) | Microsoft.ModSimWorkbench/ workbenches/ chambers/ fileRequests |
-| [Chamber License (preview)](svg/Microsoft_Azure_ModSimWorkbench/SdwChamberLicenseResource.svg) | Microsoft.ModSimWorkbench/ workbenches/ chambers/ licenses |
-| [Chamber Storage (preview)](svg/Microsoft_Azure_ModSimWorkbench/SdwChamberStorageResource.svg) | Microsoft.ModSimWorkbench/ workbenches/ chambers/ storages |
-| [Chamber VM (preview)](svg/Microsoft_Azure_ModSimWorkbench/SdwChamberWorkloadResource.svg) | Microsoft.ModSimWorkbench/ workbenches/ chambers/ workloads |
-| [Modeling and Simulation Workbench (preview)](svg/Microsoft_Azure_ModSimWorkbench/WorkbenchResource.svg) | Microsoft.ModSimWorkbench/ workbenches |
-| [Shared Storage (preview)](svg/Microsoft_Azure_ModSimWorkbench/SdwSharedStorageResource.svg) | Microsoft.ModSimWorkbench/ workbenches/ sharedStorages |
+| [Chamber](svg/Microsoft_Azure_ModSimWorkbench/SdwChamberResource.svg) | Microsoft.ModSimWorkbench/ workbenches/ chambers |
+| [Chamber Connector](svg/Microsoft_Azure_ModSimWorkbench/SdwChamberConnectorResource.svg) | Microsoft.ModSimWorkbench/ workbenches/ chambers/ connectors |
+| [Chamber Data Pipeline File](svg/Microsoft_Azure_ModSimWorkbench/SdwChamberDataPipelineFileResource.svg) | Microsoft.ModSimWorkbench/ workbenches/ chambers/ files |
+| [Chamber Data Pipeline File Request](svg/Microsoft_Azure_ModSimWorkbench/SdwChamberDataPipelineFileRequestResource.svg) | Microsoft.ModSimWorkbench/ workbenches/ chambers/ fileRequests |
+| [Chamber License](svg/Microsoft_Azure_ModSimWorkbench/SdwChamberLicenseResource.svg) | Microsoft.ModSimWorkbench/ workbenches/ chambers/ licenses |
+| [Chamber Storage](svg/Microsoft_Azure_ModSimWorkbench/SdwChamberStorageResource.svg) | Microsoft.ModSimWorkbench/ workbenches/ chambers/ storages |
+| [Chamber VM](svg/Microsoft_Azure_ModSimWorkbench/SdwChamberWorkloadResource.svg) | Microsoft.ModSimWorkbench/ workbenches/ chambers/ workloads |
+| [Modeling and Simulation Workbench](svg/Microsoft_Azure_ModSimWorkbench/WorkbenchResource.svg) | Microsoft.ModSimWorkbench/ workbenches |
+| [Shared Storage](svg/Microsoft_Azure_ModSimWorkbench/SdwSharedStorageResource.svg) | Microsoft.ModSimWorkbench/ workbenches/ sharedStorages |
 | [Azure Monitor pipeline (preview)](svg/Microsoft_Azure_Monitoring/AzureEdgePipeline.svg) | Microsoft.monitor/ pipelineGroups |
 | [Autoscale](svg/Microsoft_Azure_Monitoring/Autoscale.svg) |  |
 | [Monitor](svg/Microsoft_Azure_Monitoring/AzureMonitoring.svg) |  |
