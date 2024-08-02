@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.85.3.114.85.0.14199.240718-0049 on 2024-08-01.
+Extracted from Azure Portal version 14.85.3.114.85.0.14199.240718-0049 on 2024-08-02.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -919,12 +919,12 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Deployment Script](svg/Microsoft_Azure_TemplateSpecs/DeploymentScriptHub.svg) | Microsoft.Resources/ deploymentScripts |
 | [Azure Toolbox](svg/Microsoft_Azure_Toolbox/Gallery.svg) |  |
 | [Azure Toolbox](svg/Microsoft_Azure_Toolbox/Overview.svg) |  |
-| [Azure Virtual Enclaves](svg/Microsoft_Azure_VirtualEnclaves/AzureVirtualEnclave.svg) |  |
+| [Azure Virtual Enclave](svg/Microsoft_Azure_VirtualEnclaves/AzureVirtualEnclave.svg) |  |
 | [Catalog](svg/Microsoft_Azure_VirtualEnclaves/Catalog.svg) | Microsoft.Mission/ catalogs |
 | [Community](svg/Microsoft_Azure_VirtualEnclaves/Community.svg) | Microsoft.Mission/ communities |
 | [Community endpoint](svg/Microsoft_Azure_VirtualEnclaves/CommunityEndpoint.svg) | Microsoft.Mission/ communities/ communityEndpoints |
 | [Enclave connection](svg/Microsoft_Azure_VirtualEnclaves/EnclaveConnection.svg) | Microsoft.Mission/ EnclaveConnections |
-| [Enclave endpoint](svg/Microsoft_Azure_VirtualEnclaves/EnclaveEndpoints.svg) | Microsoft.Mission/ virtualEnclaves/ enclaveEndpoints |
+| [Enclave endpoint](svg/Microsoft_Azure_VirtualEnclaves/EnclaveEndpoint.svg) | Microsoft.Mission/ virtualEnclaves/ enclaveEndpoints |
 | [Endpoint](svg/Microsoft_Azure_VirtualEnclaves/Endpoint.svg) | Microsoft.Mission/ virtualEnclaves/ endpoints |
 | [External connection](svg/Microsoft_Azure_VirtualEnclaves/ExternalConnection.svg) | Microsoft.Mission/ externalConnections |
 | [Internal connection](svg/Microsoft_Azure_VirtualEnclaves/InternalConnection.svg) | Microsoft.Mission/ internalConnections |
