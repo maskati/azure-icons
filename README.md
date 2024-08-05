@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.96.0.114307747.240729-1718 on 2024-08-04.
+Extracted from Azure Portal version 14.85.5.114.85.0.15530215.240725-2030 on 2024-08-05.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -221,7 +221,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Stack HCI Storage path](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCIStoragePath.svg) | Microsoft.AzureStackHCI/ storagecontainers |
 | [Azure Stack HCI Virtual Machine - Azure Arc](svg/Microsoft_AzureStackHCI_PortalExtension/HCIVirtualMachines.svg) | Microsoft.All/ hciVirtualMachines |
 | [Edge Center](svg/Microsoft_AzureStackHCI_PortalExtension/EdgeCenter.svg) |  |
-| [Site  Preview](svg/Microsoft_AzureStackHCI_PortalExtension/Site.svg) | Microsoft.Edge/ sites |
 | [AszLabHardware Lab Server](svg/Microsoft_AzureStack_LabHardware/LabServers.svg) | private.aszlabhardware/ labservers |
 | [AszLabHardware Reservation](svg/Microsoft_AzureStack_LabHardware/Reservations.svg) | private.aszlabhardware/ reservations |
 | [AszLabHardware Server](svg/Microsoft_AzureStack_LabHardware/Servers.svg) | private.aszlabhardware/ servers |
@@ -538,6 +537,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Arc Private Link Scope](svg/Microsoft_Azure_HybridCompute/AzureArcPrivateLinkScope.svg) | Microsoft.HybridCompute/ privateLinkScopes |
 | [SCVMM virtual machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/ArcVmScVmm.svg) | Microsoft.scvmm/ virtualMachines |
 | [SCVMM management server](svg/Microsoft_Azure_HybridCompute/ScVmmManagementServer.svg) | Microsoft.ScVmm/ vmmServers |
+| [Arc gateway](svg/Microsoft_Azure_HybridCompute/ArcGateway.svg) | Microsoft.HybridCompute/ gateways |
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/HybridComputeEsu.svg) | Microsoft.HybridCompute/ machinesEsu |
 | [Extended Security Updates - Windows Server 2012/R2](svg/Microsoft_Azure_HybridCompute/EsuLicense.svg) | Microsoft.HybridCompute/ licenses |
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/PayGoEligible.svg) | Microsoft.HybridCompute/ machinesPayGo |
@@ -573,7 +573,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Cortex](svg/Microsoft_Azure_HybridNetworking/GlobalSecureAccess.svg) |  |
 | [Virtual WAN](svg/Microsoft_Azure_HybridNetworking/VirtualWan.svg) | Microsoft.Network/ virtualWans |
 | [Microsoft.Network network virtual appliance](svg/Microsoft_Azure_HybridNetworking/microsoft_network_networkvirtualappliances_2020_03_01.svg) | microsoft.network/ networkvirtualappliances |
-| [Infrastructure as Code Automation Profile](svg/Microsoft_Azure_IacAutomation/ArcIacAutomation.svg) | Microsoft.DevHub/ iacProfiles |
+| [Infrastructure as Code Automation](svg/Microsoft_Azure_IacAutomation/ArcIacAutomation.svg) | Microsoft.DevHub/ iacProfiles |
 | [My Resource](svg/Microsoft_Azure_IdentityGovernance/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [My Resource](svg/Microsoft_Azure_IndustrySolutionCenter/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [IoT Central Application](svg/Microsoft_Azure_IoTCentral/IoTApps.svg) | Microsoft.IoTCentral/ IoTApps |
@@ -745,6 +745,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Volume (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/VolumeResource.svg) | Microsoft.NetworkCloud/ volumes |
 | [Network Security Perimeter](svg/Microsoft_Azure_NetworkSecurityPerimeter/NspProfiles.svg) | Microsoft.Network/ networkSecurityPerimeters/ profiles |
 | [Network Security Perimeter](svg/Microsoft_Azure_NetworkSecurityPerimeter/networkSecurityPerimeter.svg) | Microsoft.Network/ networkSecurityPerimeters |
+| [Virtual Network Verifier](svg/Microsoft_Azure_NetworkVerifier/networkVerifier.svg) | Microsoft.Network/ networkVerifiers |
 | [Global Secure Access](svg/Microsoft_Azure_Network_Access/NetworkAccess.svg) |  |
 | [Notification Hub Namespace](svg/Microsoft_Azure_NotificationHubs/Namespace.svg) | Microsoft.NotificationHubs/ namespaces |
 | [Notification Hub](svg/Microsoft_Azure_NotificationHubs/NotificationHub.svg) | Microsoft.NotificationHubs/ namespaces/ notificationHubs |
@@ -952,6 +953,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Network Function Manager – Network Function](svg/Microsoft_Azure_VnfManager/VnfManagerVnfs.svg) | Microsoft.HybridNetwork/ networkFunctions |
 | [Wave Migration](svg/Microsoft_Azure_WaveMigration/WaveMigrationResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [My Resource](svg/Microsoft_Azure_WhatsNew/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
+| [Windows Push Notification Service](svg/Microsoft_Azure_WindowsPushNotificationServices/Microsoft_Azure_WindowsPushNotificationServices.svg) | Microsoft.WindowsPushNotificationServices/ registrations |
 | [Winfield  Preview](svg/Microsoft_Azure_Winfields/Winfields.svg) | private.edgeinternal/ winfields |
 | [MARIO](svg/Microsoft_Azure_WorkloadInsight/mario.svg) |  |
 | [Microsoft.Workloads insight](svg/Microsoft_Azure_WorkloadInsight/microsoft_workloads_insights_2022_10_15_preview.svg) | microsoft.workloads/ insights |
