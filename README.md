@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.85.5.114.85.0.15530215.240725-2030 on 2024-08-05.
+Extracted from Azure Portal version 14.85.5.114.85.0.15530215.240725-2030 on 2024-08-06.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -255,7 +255,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Managed applications center](svg/Microsoft_Azure_Appliance/ApplicationsHub.svg) |  |
 | [Managed application](svg/Microsoft_Azure_Appliance/ArmAppliance.svg) | Microsoft.Solutions/ applications |
 | [Visual Studio Online Plan](svg/Microsoft_Azure_Appliance/MicrosoftVSOnlinePlans.svg) | Microsoft.VSOnline/ Plans |
-| [My Resource](svg/Microsoft_Azure_ArcCenterUX/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Arc Load Balancer](svg/Microsoft_Azure_ArcNetworking/ArcNetworking.svg) | microsoft.kubernetesruntime/ loadbalancers |
 | [Attestation provider](svg/Microsoft_Azure_Attestation/AttestResource.svg) | Microsoft.Attestation/ attestationProviders |
 | [Automanage](svg/Microsoft_Azure_AutoManagedVirtualMachines/AutoManagedVirtualMachines.svg) |  |
@@ -579,7 +578,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [IoT Central Application](svg/Microsoft_Azure_IoTCentral/IoTApps.svg) | Microsoft.IoTCentral/ IoTApps |
 | [Azure IoT Hub Device Provisioning Service (DPS)](svg/Microsoft_Azure_IotHub/DeviceProvisioning.svg) | Microsoft.Devices/ ProvisioningServices |
 | [IoT Hub](svg/Microsoft_Azure_IotHub/IotHubs.svg) | Microsoft.Devices/ IotHubs |
-| [My Resource](svg/Microsoft_Azure_IoTOperations/IoTOperations.svg) | Providers.Test/ statefulIbizaEngines |
+| [Azure IoT Operations](svg/Microsoft_Azure_IoTOperations/IoTOperations.svg) | Microsoft.IoTOperations/ instances |
 | [Microsoft Defender for IoT](svg/Microsoft_Azure_IoT_Defender/IoTDefender.svg) |  |
 | [IP address pool](svg/Microsoft_Azure_IPAddressManager/IPAMPools.svg) | Microsoft.Network/ networkManagers/ ipamPools |
 | [Storage Sync Service](svg/Microsoft_Azure_Kailani/SyncServiceAsset.svg) | Microsoft.StorageSync/ storageSyncServices |
