@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.85.10.114.85.0.19622497.240807-2245 on 2024-08-13.
+Extracted from Azure Portal version 14.85.11.114.85.0.197258.240810-0220 on 2024-08-14.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -255,7 +255,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Managed applications center](svg/Microsoft_Azure_Appliance/ApplicationsHub.svg) |  |
 | [Managed application](svg/Microsoft_Azure_Appliance/ArmAppliance.svg) | Microsoft.Solutions/ applications |
 | [Visual Studio Online Plan](svg/Microsoft_Azure_Appliance/MicrosoftVSOnlinePlans.svg) | Microsoft.VSOnline/ Plans |
-| [My Resource](svg/Microsoft_Azure_ArcCenterUX/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Arc Load Balancer](svg/Microsoft_Azure_ArcNetworking/ArcNetworking.svg) | microsoft.kubernetesruntime/ loadbalancers |
 | [Attestation provider](svg/Microsoft_Azure_Attestation/AttestResource.svg) | Microsoft.Attestation/ attestationProviders |
 | [Automanage](svg/Microsoft_Azure_AutoManagedVirtualMachines/AutoManagedVirtualMachines.svg) |  |
