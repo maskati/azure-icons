@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.85.11.114.85.0.197258.240810-0220 on 2024-08-15.
+Extracted from Azure Portal version 14.85.5.114.85.0.15530215.240725-2030 on 2024-08-16.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -347,7 +347,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [GitOps configuration](svg/Microsoft_Azure_ContainerService/ConnectedClustersGitOpsConfiguration.svg) | Microsoft.Kubernetes/ connectedClusters/ Microsoft.KubernetesConfiguration/ fluxConfigurations |
 | [GitOps configuration](svg/Microsoft_Azure_ContainerService/ManagedClustersGitOpsConfiguration.svg) | Microsoft.ContainerService/ managedClusters/ Microsoft.KubernetesConfiguration/ fluxConfigurations |
 | [Container storage](svg/Microsoft_Azure_ContainerStorage/ContainerStorage.svg) | Microsoft.ContainerStorage/ pools |
-| [Copilot in Azure admin center](svg/Microsoft_Azure_Copilot/CopilotSettingsAsset.svg) |  |
+| [Copilot for Azure admin center](svg/Microsoft_Azure_Copilot/CopilotSettingsAsset.svg) |  |
 | [Budgets](svg/Microsoft_Azure_CostManagement/Budgets.svg) |  |
 | [Cost Management for AWS](svg/Microsoft_Azure_CostManagement/Connectors.svg) |  |
 | [Cost alerts](svg/Microsoft_Azure_CostManagement/CostAlerts.svg) |  |
@@ -791,6 +791,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Power BI Embedded](svg/Microsoft_Azure_PowerBIDedicated/PowerBIDedicated.svg) | Microsoft.PowerBIDedicated/ capacities |
 | [Power Platform](svg/Microsoft_Azure_PowerPlatform/PowerPlatform.svg) |  |
 | [Private DNS zone](svg/Microsoft_Azure_PrivateDNS/PrivateDnsZone.svg) | Microsoft.Network/ privateDnsZones |
+| [APC Gateway](svg/Microsoft_Azure_ProgrammableConnectivity/GatewayResource.svg) | Microsoft.ProgrammableConnectivity/ gateways |
+| [APC Operator API Connection](svg/Microsoft_Azure_ProgrammableConnectivity/OperatorApiConnectionResource.svg) | Microsoft.ProgrammableConnectivity/ operatorApiConnections |
+| [APC Operator API Plan](svg/Microsoft_Azure_ProgrammableConnectivity/OperatorApiPlanResource.svg) | Microsoft.ProgrammableConnectivity/ operatorApiPlans |
 | [Microsoft Purview account](svg/Microsoft_Azure_ProjectBabylon/PurviewAccountResource.svg) | Microsoft.Purview/ Accounts |
 | [Azure AI services](svg/Microsoft_Azure_ProjectOxford/AIServices.svg) | Microsoft.CognitiveServices/ BrowseAIServices |
 | [Azure AI services multi-service account](svg/Microsoft_Azure_ProjectOxford/AllInOne.svg) | Microsoft.CognitiveServices/ BrowseAllInOne |
