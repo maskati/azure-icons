@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.85.11.114.85.0.197258.240810-0220 on 2024-08-17.
+Extracted from Azure Portal version 14.112.1.114.112.0.1637091.240812-1921 on 2024-08-18.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -503,7 +503,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Fluid Relay](svg/Microsoft_Azure_FluidRelay/FrsResource.svg) | Microsoft.FluidRelay/ fluidRelayServers |
 | [Front Door and CDN profiles](svg/Microsoft_Azure_Frontdoor/AzureFrontdoor.svg) | Microsoft.Network/ frontdoors |
 | [Global view](svg/Microsoft_Azure_GlobalView/GlobalView.svg) |  |
-| [Metered API Account](svg/Microsoft_Azure_GraphBilling/Microsoft_GraphServices_Accounts.svg) | Microsoft.GraphServices/ Accounts |
 | [Microsoft Graph Data Connect](svg/Microsoft_Azure_GraphDataConnect/Microsoft_Graph_Data_Connect.svg) |  |
 | [Billing access control (IAM)](svg/Microsoft_Azure_GTM/AccessControl.svg) |  |
 | [Billing subscription](svg/Microsoft_Azure_GTM/BillingSubscriptions.svg) |  |
@@ -745,7 +744,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Volume (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/VolumeResource.svg) | Microsoft.NetworkCloud/ volumes |
 | [Network Security Perimeter](svg/Microsoft_Azure_NetworkSecurityPerimeter/NspProfiles.svg) | Microsoft.Network/ networkSecurityPerimeters/ profiles |
 | [Network Security Perimeter](svg/Microsoft_Azure_NetworkSecurityPerimeter/networkSecurityPerimeter.svg) | Microsoft.Network/ networkSecurityPerimeters |
-| [Virtual Network Verifier](svg/Microsoft_Azure_NetworkVerifier/networkVerifier.svg) | Microsoft.Network/ networkVerifiers |
 | [Global Secure Access](svg/Microsoft_Azure_Network_Access/NetworkAccess.svg) |  |
 | [Notification Hub Namespace](svg/Microsoft_Azure_NotificationHubs/Namespace.svg) | Microsoft.NotificationHubs/ namespaces |
 | [Notification Hub](svg/Microsoft_Azure_NotificationHubs/NotificationHub.svg) | Microsoft.NotificationHubs/ namespaces/ notificationHubs |
@@ -956,7 +954,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Network Function Manager – Network Function](svg/Microsoft_Azure_VnfManager/VnfManagerVnfs.svg) | Microsoft.HybridNetwork/ networkFunctions |
 | [Wave Migration](svg/Microsoft_Azure_WaveMigration/WaveMigrationResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [My Resource](svg/Microsoft_Azure_WhatsNew/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
-| [Windows Push Notification Service](svg/Microsoft_Azure_WindowsPushNotificationServices/Microsoft_Azure_WindowsPushNotificationServices.svg) | Microsoft.WindowsPushNotificationServices/ registrations |
 | [Winfield  Preview](svg/Microsoft_Azure_Winfields/Winfields.svg) | private.edgeinternal/ winfields |
 | [MARIO](svg/Microsoft_Azure_WorkloadInsight/mario.svg) |  |
 | [Microsoft.Workloads insight](svg/Microsoft_Azure_WorkloadInsight/microsoft_workloads_insights_2022_10_15_preview.svg) | microsoft.workloads/ insights |
