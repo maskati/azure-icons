@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.115.1.114.115.0.11592.240812-1920 on 2024-08-22.
+Extracted from Azure Portal version 14.115.1.114.115.0.11592.240812-1920 on 2024-08-23.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -347,7 +347,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [GitOps configuration](svg/Microsoft_Azure_ContainerService/ConnectedClustersGitOpsConfiguration.svg) | Microsoft.Kubernetes/ connectedClusters/ Microsoft.KubernetesConfiguration/ fluxConfigurations |
 | [GitOps configuration](svg/Microsoft_Azure_ContainerService/ManagedClustersGitOpsConfiguration.svg) | Microsoft.ContainerService/ managedClusters/ Microsoft.KubernetesConfiguration/ fluxConfigurations |
 | [Container storage](svg/Microsoft_Azure_ContainerStorage/ContainerStorage.svg) | Microsoft.ContainerStorage/ pools |
-| [Copilot for Azure admin center](svg/Microsoft_Azure_Copilot/CopilotSettingsAsset.svg) |  |
+| [Copilot in Azure admin center](svg/Microsoft_Azure_Copilot/CopilotSettingsAsset.svg) |  |
 | [Budgets](svg/Microsoft_Azure_CostManagement/Budgets.svg) |  |
 | [Cost Management for AWS](svg/Microsoft_Azure_CostManagement/Connectors.svg) |  |
 | [Cost alerts](svg/Microsoft_Azure_CostManagement/CostAlerts.svg) |  |
