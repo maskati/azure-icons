@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.115.1.114.115.0.11592.240812-1920 on 2024-08-24.
+Extracted from Azure Portal version 14.115.1.114.115.0.11592.240812-1920 on 2024-08-25.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -742,6 +742,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Virtual Machine (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/VirtualMachineResource.svg) | Microsoft.NetworkCloud/ virtualMachines |
 | [Virtual Machine Console (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/ConsoleResource.svg) | Microsoft.NetworkCloud/ virtualMachines/ consoles |
 | [Volume (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/VolumeResource.svg) | Microsoft.NetworkCloud/ volumes |
+| [My Resource](svg/Microsoft_Azure_NetworkCopilotExtension/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Network Security Perimeter](svg/Microsoft_Azure_NetworkSecurityPerimeter/NspProfiles.svg) | Microsoft.Network/ networkSecurityPerimeters/ profiles |
 | [Network Security Perimeter](svg/Microsoft_Azure_NetworkSecurityPerimeter/networkSecurityPerimeter.svg) | Microsoft.Network/ networkSecurityPerimeters |
 | [Global Secure Access](svg/Microsoft_Azure_Network_Access/NetworkAccess.svg) |  |
