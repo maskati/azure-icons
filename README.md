@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.115.1.114.115.0.11592.240812-1920 on 2024-08-26.
+Extracted from Azure Portal version 14.115.1.114.115.0.11592.240812-1920 on 2024-08-27.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -921,6 +921,13 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Deployment Script](svg/Microsoft_Azure_TemplateSpecs/DeploymentScriptHub.svg) | Microsoft.Resources/ deploymentScripts |
 | [Azure Toolbox](svg/Microsoft_Azure_Toolbox/Gallery.svg) |  |
 | [Azure Toolbox](svg/Microsoft_Azure_Toolbox/Overview.svg) |  |
+| [Microsoft.UsageBilling account](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_2023_12_01_preview.svg) | microsoft.usagebilling/ accounts |
+| [Microsoft.UsageBilling accounts data export](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_dataexports_2023_12_01_preview.svg) | microsoft.usagebilling/ accounts/ dataexports |
+| [Microsoft.UsageBilling accounts input](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_inputs_2023_12_01_preview.svg) | microsoft.usagebilling/ accounts/ inputs |
+| [Microsoft.UsageBilling accounts metric export](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_metricexports_2023_12_01_preview.svg) | microsoft.usagebilling/ accounts/ metricexports |
+| [Microsoft.UsageBilling accounts pav2output](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_pav2outputs_2023_12_01_preview.svg) | microsoft.usagebilling/ accounts/ pav2outputs |
+| [Microsoft.UsageBilling accounts pipeline](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_pipelines_2023_12_01_preview.svg) | microsoft.usagebilling/ accounts/ pipelines |
+| [Microsoft.UsageBilling accounts pipelines output selector](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_pipelines_outputselectors_2023_12_01_preview.svg) | microsoft.usagebilling/ accounts/ pipelines/ outputselectors |
 | [Azure Virtual Enclave](svg/Microsoft_Azure_VirtualEnclaves/AzureVirtualEnclave.svg) |  |
 | [Catalog](svg/Microsoft_Azure_VirtualEnclaves/Catalog.svg) | Microsoft.Mission/ catalogs |
 | [Community](svg/Microsoft_Azure_VirtualEnclaves/Community.svg) | Microsoft.Mission/ communities |
