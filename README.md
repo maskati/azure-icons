@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.115.1.114.115.0.11592.240812-1920 on 2024-08-27.
+Extracted from Azure Portal version 14.115.1.114.115.0.11592.240812-1920 on 2024-08-28.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
