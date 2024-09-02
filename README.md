@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.115.4.114.115.0.12005370.240827-2307 on 2024-09-01.
+Extracted from Azure Portal version 14.115.4.114.115.0.12005370.240827-2307 on 2024-09-02.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -934,9 +934,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Community endpoint](svg/Microsoft_Azure_VirtualEnclaves/CommunityEndpoint.svg) | Microsoft.Mission/ communities/ communityEndpoints |
 | [Enclave connection](svg/Microsoft_Azure_VirtualEnclaves/EnclaveConnection.svg) | Microsoft.Mission/ EnclaveConnections |
 | [Enclave endpoint](svg/Microsoft_Azure_VirtualEnclaves/EnclaveEndpoint.svg) | Microsoft.Mission/ virtualEnclaves/ enclaveEndpoints |
-| [Endpoint](svg/Microsoft_Azure_VirtualEnclaves/Endpoint.svg) | Microsoft.Mission/ virtualEnclaves/ endpoints |
-| [External connection](svg/Microsoft_Azure_VirtualEnclaves/ExternalConnection.svg) | Microsoft.Mission/ externalConnections |
-| [Internal connection](svg/Microsoft_Azure_VirtualEnclaves/InternalConnection.svg) | Microsoft.Mission/ internalConnections |
 | [Transit hub](svg/Microsoft_Azure_VirtualEnclaves/TransitHub.svg) | Microsoft.Mission/ communities/ transitHubs |
 | [Enclave](svg/Microsoft_Azure_VirtualEnclaves/Enclave.svg) | Microsoft.Mission/ virtualenclaves |
 | [Workload](svg/Microsoft_Azure_VirtualEnclaves/Workload.svg) | Microsoft.Mission/ virtualEnclaves/ workloads |
