@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.115.4.114.115.0.12005370.240827-2307 on 2024-09-04.
+Extracted from Azure Portal version 14.115.4.114.115.0.12005370.240827-2307 on 2024-09-05.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -959,7 +959,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Network Function Manager – vendor](svg/Microsoft_Azure_VnfManager/VnfManagerVendors.svg) | Microsoft.HybridNetwork/ vendors |
 | [Azure Network Function Manager – Network Function](svg/Microsoft_Azure_VnfManager/VnfManagerVnfs.svg) | Microsoft.HybridNetwork/ networkFunctions |
 | [Wave Migration](svg/Microsoft_Azure_WaveMigration/WaveMigrationResource.svg) | Providers.Test/ statefulIbizaEngines |
-| [My Resource](svg/Microsoft_Azure_WhatsNew/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Winfield  Preview](svg/Microsoft_Azure_Winfields/Winfields.svg) | private.edgeinternal/ winfields |
 | [MARIO](svg/Microsoft_Azure_WorkloadInsight/mario.svg) |  |
 | [Microsoft.Workloads insight](svg/Microsoft_Azure_WorkloadInsight/microsoft_workloads_insights_2022_10_15_preview.svg) | microsoft.workloads/ insights |
