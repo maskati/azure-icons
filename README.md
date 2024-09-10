@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.140.0.179303800.240830-0451 on 2024-09-09.
+Extracted from Azure Portal version 14.142.0.1305663910.240830-1415 on 2024-09-10.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -1072,7 +1072,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [My Resource](svg/VLCentral_OrderCredits/MyResource.svg) |  |
 | [My Resource](svg/VLCentral_Ordering/VLCentral_Ordering.svg) |  |
 | [My Resource](svg/VLCentral_OrganizationManagementService/MyResource.svg) |  |
-| [			Deal & Quote Management		](svg/VLCentral_Quote/VLCentralQuote.svg) |  |
+| [			Deals		](svg/VLCentral_Quote/VLCentralQuote.svg) |  |
 | [Reporting & Analytics](svg/VLCentral_ReportingNAnalytics/VLCentralReporting.svg) |  |
 | [User Management](svg/VLCentral_UUM/VLCentralUUM.svg) |  |
 | [Azure VMware Solution private cloud](svg/VMCP/SDDC.svg) | Microsoft.AVS/ privateClouds |
