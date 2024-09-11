@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.142.0.1305663910.240830-1415 on 2024-09-10.
+Extracted from Azure Portal version 14.140.0.179303800.240830-0451 on 2024-09-11.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -939,8 +939,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Enclave](svg/Microsoft_Azure_VirtualEnclaves/Enclave.svg) | Microsoft.Mission/ virtualenclaves |
 | [Workload](svg/Microsoft_Azure_VirtualEnclaves/Workload.svg) | Microsoft.Mission/ virtualEnclaves/ workloads |
 | [Virtual Appointments Builder](svg/Microsoft_Azure_VirtualVisitsBuilder/vvbuilder.svg) |  |
-| [Azure Operator Insights – Data Product](svg/Microsoft_Azure_VnfManager/DataProduct.svg) | Microsoft.NetworkAnalytics/ DataProducts |
-| [Data Type](svg/Microsoft_Azure_VnfManager/DataType.svg) | Microsoft.NetworkAnalytics/ DataProducts/ DataTypes |
 | [Configuration Group Value](svg/Microsoft_Azure_VnfManager/AosmCgv.svg) | Microsoft.HybridNetwork/ configurationGroupValues |
 | [Configuration Group Schema](svg/Microsoft_Azure_VnfManager/AosmConfigSchema.svg) | Microsoft.HybridNetwork/ publishers/ configurationGroupSchemas |
 | [Azure Operator Service Manager](svg/Microsoft_Azure_VnfManager/AzureOperatorServiceManager.svg) |  |
@@ -953,8 +951,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Publisher](svg/Microsoft_Azure_VnfManager/AosmPublisher.svg) | Microsoft.HybridNetwork/ publishers |
 | [Site](svg/Microsoft_Azure_VnfManager/AosmSite.svg) | Microsoft.HybridNetwork/ sites |
 | [Site Network Service](svg/Microsoft_Azure_VnfManager/AosmSns.svg) | Microsoft.HybridNetwork/ siteNetworkServices |
-| [AIOps - Data Connector](svg/Microsoft_Azure_VnfManager/DataConnector.svg) | Microsoft.NetworkAnalytics/ DataConnectors |
-| [AIOps - Data LakeHouse](svg/Microsoft_Azure_VnfManager/DatalakeHouse.svg) | Microsoft.NetworkAnalytics/ DatalakeHouses |
 | [Azure Network Function Manager – Device](svg/Microsoft_Azure_VnfManager/VnfManagerDevices.svg) | Microsoft.HybridNetwork/ devices |
 | [Azure Network Function Manager – vendor](svg/Microsoft_Azure_VnfManager/VnfManagerVendors.svg) | Microsoft.HybridNetwork/ vendors |
 | [Azure Network Function Manager – Network Function](svg/Microsoft_Azure_VnfManager/VnfManagerVnfs.svg) | Microsoft.HybridNetwork/ networkFunctions |
