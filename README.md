@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.140.0.179303800.240830-0451 on 2024-09-17.
+Extracted from Azure Portal version 14.140.0.179303800.240830-0451 on 2024-09-18.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -84,7 +84,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Security](svg/Microsoft_AAD_IAM/SecurityQuickStart.svg) |  |
 | [Microsoft Entra ID Security](svg/Microsoft_AAD_IAM/SecurityRootAsset.svg) |  |
 | [Microsoft Entra Connect](svg/Microsoft_AAD_IAM/AADConnectBlade.svg) |  |
-| [Privileged Identity Management Overview](svg/Microsoft_AAD_IAM/AADOverviewBlade.svg) |  |
 | [Account Lockout](svg/Microsoft_AAD_IAM/AccountLockoutBlade.svg) |  |
 | [Auth Method](svg/Microsoft_AAD_IAM/AdminAuthMethodsBlade.svg) |  |
 | [Administrator Policy](svg/Microsoft_AAD_IAM/AdminPasswordResetPolicyBlade.svg) |  |
