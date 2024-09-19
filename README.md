@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.115.4.114.115.0.12005370.240827-2307 on 2024-09-18.
+Extracted from Azure Portal version 14.140.0.179303800.240830-0451 on 2024-09-19.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -977,7 +977,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Connected Cache for Enterprise & Education](svg/Microsoft_ConnectedCache_Enterprise/MccEnterpriseResource.svg) | Microsoft.ConnectedCache/ enterpriseMccCustomers |
 | [Connected Cache for ISP](svg/Microsoft_ConnectedCache_ISP/MCCIspResource.svg) | Microsoft.ConnectedCache/ ispCustomers |
 | [Managed Desktop](svg/Microsoft_EMM_ModernWorkplace/MWaaS.svg) |  |
-| [My Resource](svg/Microsoft_Entra_AR/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [DICOM service](svg/Microsoft_Healthcare_APIs/DicomService.svg) | Microsoft.HealthcareApis/ workspaces/ dicomservices |
 | [Azure API for FHIR](svg/Microsoft_Healthcare_APIs/FhirService.svg) | Microsoft.HealthcareApis/ services |
 | [Health Data Services workspace](svg/Microsoft_Healthcare_APIs/HealthcareApisService.svg) | Microsoft.HealthcareApis/ workspaces |
