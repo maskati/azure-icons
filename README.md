@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.115.4.114.115.0.12005370.240827-2307 on 2024-09-21.
+Extracted from Azure Portal version 14.140.0.179303800.240830-0451 on 2024-09-22.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -326,25 +326,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Virtual machine](svg/Microsoft_Azure_Compute/VirtualMachineComputeHub.svg) |  |
 | [Virtual machine scale set](svg/Microsoft_Azure_Compute/VirtualMachineScaleSet.svg) | Microsoft.Compute/ virtualMachineScaleSets |
 | [Virtual machine scale set](svg/Microsoft_Azure_Compute/VirtualMachineScaleSetComputeHub.svg) |  |
-| [Recommendations](svg/Microsoft_Azure_ComputeHub/AdvisorCost.svg) | Microsoft.ComputeHub/ AdvisorCost |
-| [Recommendations](svg/Microsoft_Azure_ComputeHub/AdvisorOperationalExcellence.svg) | Microsoft.ComputeHub/ AdvisorOperationalExcellence |
-| [Recommendations](svg/Microsoft_Azure_ComputeHub/AdvisorPerformance.svg) | Microsoft.ComputeHub/ AdvisorPerformance |
-| [Recommendations](svg/Microsoft_Azure_ComputeHub/AdvisorReliability.svg) | Microsoft.ComputeHub/ AdvisorReliability |
-| [Recommendations](svg/Microsoft_Azure_ComputeHub/AdvisorSecurity.svg) | Microsoft.ComputeHub/ AdvisorSecurity |
 | [All resources](svg/Microsoft_Azure_ComputeHub/AllResources.svg) | Microsoft.ComputeHub/ all |
-| [Backup job](svg/Microsoft_Azure_ComputeHub/Backup.svg) | Microsoft.ComputeHub/ Backup |
-| [Compute infrastructure](svg/Microsoft_Azure_ComputeHub/ComputeHub.svg) | Providers.Test/ statefulIbizaEngines |
-| [Health events](svg/Microsoft_Azure_ComputeHub/HealthEvents.svg) | Microsoft.ComputeHub/ HealthEvents |
-| [Linux OS](svg/Microsoft_Azure_ComputeHub/LinuxOSType.svg) | Microsoft.ComputeHub/ LinuxOSType |
-| [Microsoft defender](svg/Microsoft_Azure_ComputeHub/MicrosoftDefenderFreeTrialSubscription.svg) | Microsoft.ComputeHub/ MicrosoftDefenderFreeTrialSubscription |
-| [Microsoft defender](svg/Microsoft_Azure_ComputeHub/MicrosoftDefenderStandardSubscription.svg) | Microsoft.ComputeHub/ MicrosoftDefenderStandardSubscription |
-| [Outages](svg/Microsoft_Azure_ComputeHub/Outages.svg) | Microsoft.ComputeHub/ Outages |
-| [Power states](svg/Microsoft_Azure_ComputeHub/PowerStateDeallocated.svg) | Microsoft.ComputeHub/ PowerStateDeallocated |
-| [Power states](svg/Microsoft_Azure_ComputeHub/PowerStateRunning.svg) | Microsoft.ComputeHub/ PowerStateRunning |
-| [Power states](svg/Microsoft_Azure_ComputeHub/PowerStateStopped.svg) | Microsoft.ComputeHub/ PowerStateStopped |
-| [Provisioning states](svg/Microsoft_Azure_ComputeHub/ProvisioningStateFailedResources.svg) | Microsoft.ComputeHub/ ProvisioningStateFailedResources |
-| [Provisioning states](svg/Microsoft_Azure_ComputeHub/ProvisioningStateSucceededResources.svg) | Microsoft.ComputeHub/ ProvisioningStateSucceededResources |
-| [Windows OS](svg/Microsoft_Azure_ComputeHub/WindowsOSType.svg) | Microsoft.ComputeHub/ WindowsOSType |
+| [Compute hub](svg/Microsoft_Azure_ComputeHub/ComputeHub.svg) | Providers.Test/ statefulIbizaEngines |
 | [Managed CCF App](svg/Microsoft_Azure_ConfidentialLedger/ManagedCCF.svg) | Microsoft.ConfidentialLedger/ ManagedCCFs |
 | [Confidential Ledger](svg/Microsoft_Azure_ConfidentialLedger/ConfidentialLedger.svg) | Microsoft.ConfidentialLedger/ ledgers |
 | [My Resource](svg/Microsoft_Azure_ConfigManager/ConfigManager.svg) | Providers.Test/ statefulIbizaEngines |
@@ -637,7 +620,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Migrate](svg/Microsoft_Azure_Migrate/AzureMigrationHub.svg) |  |
 | [Migration project](svg/Microsoft_Azure_Migrate/MigrationProject.svg) | Microsoft.Migrate/ projects |
 | [Migrate Assessment](svg/Microsoft_Azure_MigrateAssessment/MigrateAssessmentResource.svg) | Providers.Test/ statefulIbizaEngines |
-| [Machine Learning Studio (classic) web service plan](svg/Microsoft_Azure_MLCommitmentPlans/MachineLearningCommitmentPlan.svg) | Microsoft.MachineLearning/ commitmentPlans |
 | [Machine learning online deployment](svg/Microsoft_Azure_MLTeamAccounts/OnlineEndpointDeployment.svg) | Microsoft.MachineLearningServices/ workspaces/ onlineEndpoints/ deployments |
 | [Machine learning online endpoint](svg/Microsoft_Azure_MLTeamAccounts/OnlineEndpoint.svg) | Microsoft.MachineLearningServices/ workspaces/ onlineEndpoints |
 | [Azure Machine Learning registry](svg/Microsoft_Azure_MLTeamAccounts/Registry.svg) | Microsoft.MachineLearningServices/ registries |
@@ -648,8 +630,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Machine Learning workspace](svg/Microsoft_Azure_MLTeamAccounts/MachineLearningServices.svg) | Microsoft.MachineLearningServices/ workspaces |
 | [Mistral](svg/Microsoft_Azure_MLTeamAccounts/Mistral.svg) |  |
 | [Model Provider](svg/Microsoft_Azure_MLTeamAccounts/ModelProvider.svg) |  |
-| [Machine Learning Studio (classic) web service](svg/Microsoft_Azure_MLWebservices/MachineLearningWebService.svg) | Microsoft.MachineLearning/ webServices |
-| [Machine Learning Studio (classic) workspace](svg/Microsoft_Azure_MLWorkspaces/MachineLearningWorkspace.svg) | Microsoft.MachineLearning/ workspaces |
 | [Chamber](svg/Microsoft_Azure_ModSimWorkbench/SdwChamberResource.svg) | Microsoft.ModSimWorkbench/ workbenches/ chambers |
 | [Chamber Connector](svg/Microsoft_Azure_ModSimWorkbench/SdwChamberConnectorResource.svg) | Microsoft.ModSimWorkbench/ workbenches/ chambers/ connectors |
 | [Chamber Data Pipeline File](svg/Microsoft_Azure_ModSimWorkbench/SdwChamberDataPipelineFileResource.svg) | Microsoft.ModSimWorkbench/ workbenches/ chambers/ files |
@@ -993,7 +973,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Connected Cache for Enterprise & Education](svg/Microsoft_ConnectedCache_Enterprise/MccEnterpriseResource.svg) | Microsoft.ConnectedCache/ enterpriseMccCustomers |
 | [Connected Cache for ISP](svg/Microsoft_ConnectedCache_ISP/MCCIspResource.svg) | Microsoft.ConnectedCache/ ispCustomers |
 | [Managed Desktop](svg/Microsoft_EMM_ModernWorkplace/MWaaS.svg) |  |
-| [My Resource](svg/Microsoft_Entra_AR/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [DICOM service](svg/Microsoft_Healthcare_APIs/DicomService.svg) | Microsoft.HealthcareApis/ workspaces/ dicomservices |
 | [Azure API for FHIR](svg/Microsoft_Healthcare_APIs/FhirService.svg) | Microsoft.HealthcareApis/ services |
 | [Health Data Services workspace](svg/Microsoft_Healthcare_APIs/HealthcareApisService.svg) | Microsoft.HealthcareApis/ workspaces |
