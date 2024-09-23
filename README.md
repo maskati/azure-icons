@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.140.0.179303800.240830-0451 on 2024-09-22.
+Extracted from Azure Portal version 14.140.0.179303800.240830-0451 on 2024-09-23.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -619,6 +619,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Migrate](svg/Microsoft_Azure_Migrate/AzureMigrationHub.svg) |  |
 | [Migration project](svg/Microsoft_Azure_Migrate/MigrationProject.svg) | Microsoft.Migrate/ projects |
 | [Migrate Assessment](svg/Microsoft_Azure_MigrateAssessment/MigrateAssessmentResource.svg) | Providers.Test/ statefulIbizaEngines |
+| [Machine Learning Studio (classic) web service plan](svg/Microsoft_Azure_MLCommitmentPlans/MachineLearningCommitmentPlan.svg) | Microsoft.MachineLearning/ commitmentPlans |
 | [Machine learning online deployment](svg/Microsoft_Azure_MLTeamAccounts/OnlineEndpointDeployment.svg) | Microsoft.MachineLearningServices/ workspaces/ onlineEndpoints/ deployments |
 | [Machine learning online endpoint](svg/Microsoft_Azure_MLTeamAccounts/OnlineEndpoint.svg) | Microsoft.MachineLearningServices/ workspaces/ onlineEndpoints |
 | [Azure Machine Learning registry](svg/Microsoft_Azure_MLTeamAccounts/Registry.svg) | Microsoft.MachineLearningServices/ registries |
@@ -629,6 +630,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Machine Learning workspace](svg/Microsoft_Azure_MLTeamAccounts/MachineLearningServices.svg) | Microsoft.MachineLearningServices/ workspaces |
 | [Mistral](svg/Microsoft_Azure_MLTeamAccounts/Mistral.svg) |  |
 | [Model Provider](svg/Microsoft_Azure_MLTeamAccounts/ModelProvider.svg) |  |
+| [Machine Learning Studio (classic) web service](svg/Microsoft_Azure_MLWebservices/MachineLearningWebService.svg) | Microsoft.MachineLearning/ webServices |
+| [Machine Learning Studio (classic) workspace](svg/Microsoft_Azure_MLWorkspaces/MachineLearningWorkspace.svg) | Microsoft.MachineLearning/ workspaces |
 | [Chamber](svg/Microsoft_Azure_ModSimWorkbench/SdwChamberResource.svg) | Microsoft.ModSimWorkbench/ workbenches/ chambers |
 | [Chamber Connector](svg/Microsoft_Azure_ModSimWorkbench/SdwChamberConnectorResource.svg) | Microsoft.ModSimWorkbench/ workbenches/ chambers/ connectors |
 | [Chamber Data Pipeline File](svg/Microsoft_Azure_ModSimWorkbench/SdwChamberDataPipelineFileResource.svg) | Microsoft.ModSimWorkbench/ workbenches/ chambers/ files |
@@ -724,7 +727,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Network Device (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/NetworkDevicesResource.svg) | Microsoft.ManagedNetworkFabric/ NetworkDevices |
 | [Network Fabric (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/NetworkFabricResource.svg) | Microsoft.ManagedNetworkFabric/ NetworkFabrics |
 | [Network Fabric Controller (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/NetworkFabricControllersResource.svg) | Microsoft.ManagedNetworkFabric/ networkFabricControllers |
-| [Network Fabric SKU (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/NetworkFabricSkuResource.svg) | Microsoft.ManagedNetworkFabric/ networkFabricSkus |
 | [Network Interface (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/NetworkInterfaceResource.svg) | Microsoft.ManagedNetworkFabric/ NetworkDevices/ networkInterfaces |
 | [Network Packet Broker (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/NetworkPacketBrokersResource.svg) | Microsoft.ManagedNetworkFabric/ NetworkPacketBrokers |
 | [Network Rack (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/NetworkRacksResource.svg) | Microsoft.ManagedNetworkFabric/ NetworkRacks |
