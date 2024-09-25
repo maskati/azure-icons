@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.140.0.179303800.240830-0451 on 2024-09-24.
+Extracted from Azure Portal version 14.140.0.179303800.240830-0451 on 2024-09-25.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -299,6 +299,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Cloud service (extended support)](svg/Microsoft_Azure_CloudServices_Arm/CloudServicesArm.svg) | Microsoft.Compute/ cloudServices |
 | [1ES](svg/Microsoft_Azure_CloudTest/CloudTest.svg) |  |
 | [CloudTest Account](svg/Microsoft_Azure_CloudTest/CloudTestAccounts.svg) | Microsoft.CloudTest/ accounts |
+| [1ES Build Cache](svg/Microsoft_Azure_CloudTest/CloudTestBuildCache.svg) | Microsoft.CloudTest/ buildcaches |
 | [1ES Hosted Pool](svg/Microsoft_Azure_CloudTest/HostedPools.svg) | Microsoft.CloudTest/ hostedpools |
 | [1ES Image](svg/Microsoft_Azure_CloudTest/CloudTestImages.svg) | Microsoft.CloudTest/ images |
 | [CloudTest Pool](svg/Microsoft_Azure_CloudTest/CloudTestPools.svg) | Microsoft.CloudTest/ pools |
@@ -326,8 +327,25 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Virtual machine](svg/Microsoft_Azure_Compute/VirtualMachineComputeHub.svg) |  |
 | [Virtual machine scale set](svg/Microsoft_Azure_Compute/VirtualMachineScaleSet.svg) | Microsoft.Compute/ virtualMachineScaleSets |
 | [Virtual machine scale set](svg/Microsoft_Azure_Compute/VirtualMachineScaleSetComputeHub.svg) |  |
+| [Recommendations](svg/Microsoft_Azure_ComputeHub/AdvisorCost.svg) | Microsoft.ComputeHub/ AdvisorCost |
+| [Recommendations](svg/Microsoft_Azure_ComputeHub/AdvisorOperationalExcellence.svg) | Microsoft.ComputeHub/ AdvisorOperationalExcellence |
+| [Recommendations](svg/Microsoft_Azure_ComputeHub/AdvisorPerformance.svg) | Microsoft.ComputeHub/ AdvisorPerformance |
+| [Recommendations](svg/Microsoft_Azure_ComputeHub/AdvisorReliability.svg) | Microsoft.ComputeHub/ AdvisorReliability |
+| [Recommendations](svg/Microsoft_Azure_ComputeHub/AdvisorSecurity.svg) | Microsoft.ComputeHub/ AdvisorSecurity |
 | [All resources](svg/Microsoft_Azure_ComputeHub/AllResources.svg) | Microsoft.ComputeHub/ all |
-| [Compute hub](svg/Microsoft_Azure_ComputeHub/ComputeHub.svg) | Providers.Test/ statefulIbizaEngines |
+| [Backup job](svg/Microsoft_Azure_ComputeHub/Backup.svg) | Microsoft.ComputeHub/ Backup |
+| [Compute infrastructure](svg/Microsoft_Azure_ComputeHub/ComputeHub.svg) | Providers.Test/ statefulIbizaEngines |
+| [Health events](svg/Microsoft_Azure_ComputeHub/HealthEvents.svg) | Microsoft.ComputeHub/ HealthEvents |
+| [Linux OS](svg/Microsoft_Azure_ComputeHub/LinuxOSType.svg) | Microsoft.ComputeHub/ LinuxOSType |
+| [Microsoft defender](svg/Microsoft_Azure_ComputeHub/MicrosoftDefenderFreeTrialSubscription.svg) | Microsoft.ComputeHub/ MicrosoftDefenderFreeTrialSubscription |
+| [Microsoft defender](svg/Microsoft_Azure_ComputeHub/MicrosoftDefenderStandardSubscription.svg) | Microsoft.ComputeHub/ MicrosoftDefenderStandardSubscription |
+| [Outages](svg/Microsoft_Azure_ComputeHub/Outages.svg) | Microsoft.ComputeHub/ Outages |
+| [Power states](svg/Microsoft_Azure_ComputeHub/PowerStateDeallocated.svg) | Microsoft.ComputeHub/ PowerStateDeallocated |
+| [Power states](svg/Microsoft_Azure_ComputeHub/PowerStateRunning.svg) | Microsoft.ComputeHub/ PowerStateRunning |
+| [Power states](svg/Microsoft_Azure_ComputeHub/PowerStateStopped.svg) | Microsoft.ComputeHub/ PowerStateStopped |
+| [Provisioning states](svg/Microsoft_Azure_ComputeHub/ProvisioningStateFailedResources.svg) | Microsoft.ComputeHub/ ProvisioningStateFailedResources |
+| [Provisioning states](svg/Microsoft_Azure_ComputeHub/ProvisioningStateSucceededResources.svg) | Microsoft.ComputeHub/ ProvisioningStateSucceededResources |
+| [Windows OS](svg/Microsoft_Azure_ComputeHub/WindowsOSType.svg) | Microsoft.ComputeHub/ WindowsOSType |
 | [Managed CCF App](svg/Microsoft_Azure_ConfidentialLedger/ManagedCCF.svg) | Microsoft.ConfidentialLedger/ ManagedCCFs |
 | [Confidential Ledger](svg/Microsoft_Azure_ConfidentialLedger/ConfidentialLedger.svg) | Microsoft.ConfidentialLedger/ ledgers |
 | [My Resource](svg/Microsoft_Azure_ConfigManager/ConfigManager.svg) | Providers.Test/ statefulIbizaEngines |
@@ -1053,6 +1071,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Database for MariaDB server](svg/SqlAzureExtension/MariaDBServer.svg) | Microsoft.DBforMariaDB/ servers |
 | [Azure Database for MySQL single server](svg/SqlAzureExtension/MySqlServer.svg) | Microsoft.DBforMySQL/ servers |
 | [Azure Database for PostgreSQL single server](svg/SqlAzureExtension/PostgreSqlServer.svg) | Microsoft.DBforPostgreSQL/ servers |
+| [Database fleet manager](svg/SqlAzureExtension/DatabaseFleetManager.svg) | Microsoft.DatabaseFleetManager/ fleets |
 | [SQL server](svg/SqlAzureExtension/Server.svg) | Microsoft.Sql/ servers |
 | [SQL virtual machine](svg/SqlAzureExtension/SqlVirtualMachine.svg) | Microsoft.SqlVirtualMachine/ SqlVirtualMachines |
 | [Virtual cluster](svg/SqlAzureExtension/VirtualCluster.svg) | Microsoft.Sql/ virtualClusters |
