@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.140.0.179303800.240830-0451 on 2024-09-24.
+Extracted from Azure Portal version 14.140.0.179303800.240830-0451 on 2024-09-25.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -299,6 +299,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Cloud service (extended support)](svg/Microsoft_Azure_CloudServices_Arm/CloudServicesArm.svg) | Microsoft.Compute/ cloudServices |
 | [1ES](svg/Microsoft_Azure_CloudTest/CloudTest.svg) |  |
 | [CloudTest Account](svg/Microsoft_Azure_CloudTest/CloudTestAccounts.svg) | Microsoft.CloudTest/ accounts |
+| [1ES Build Cache](svg/Microsoft_Azure_CloudTest/CloudTestBuildCache.svg) | Microsoft.CloudTest/ buildcaches |
 | [1ES Hosted Pool](svg/Microsoft_Azure_CloudTest/HostedPools.svg) | Microsoft.CloudTest/ hostedpools |
 | [1ES Image](svg/Microsoft_Azure_CloudTest/CloudTestImages.svg) | Microsoft.CloudTest/ images |
 | [CloudTest Pool](svg/Microsoft_Azure_CloudTest/CloudTestPools.svg) | Microsoft.CloudTest/ pools |
