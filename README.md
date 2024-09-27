@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.140.0.179303800.240830-0451 on 2024-09-26.
+Extracted from Azure Portal version 14.140.12.114.140.0.13887832.240925-0022 on 2024-09-27.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -265,6 +265,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [](svg/Microsoft_Azure_Automation/UpdateAgentTroubleshooting.svg) |  |
 | [App Configuration](svg/Microsoft_Azure_AzConfig/StoreResource.svg) | Microsoft.AppConfiguration/ configurationStores |
 | [Compute Fleet](svg/Microsoft_Azure_AzFleet/AzureFleet.svg) | microsoft.azurefleet/ fleets |
+| [Compute Fleet](svg/Microsoft_Azure_AzFleet/AzureFleetComputeHub.svg) | microsoft.azurefleet/ fleetsComputehub |
 | [Batch account](svg/Microsoft_Azure_Batch/BatchAccount.svg) | Microsoft.Batch/ batchAccounts |
 | [Business Continuity Center](svg/Microsoft_Azure_BCDRCenter/ABCCenter.svg) |  |
 | [Subscription](svg/Microsoft_Azure_Billing/Subscription.svg) | microsoft.resources/ subscriptions |
