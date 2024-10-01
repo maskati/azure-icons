@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.142.0.1305663910.240830-1415 on 2024-09-30.
+Extracted from Azure Portal version 14.140.12.114.140.0.13887832.240925-0022 on 2024-10-01.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -390,6 +390,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Database watcher](svg/Microsoft_Azure_DatabaseInsights/DatabaseWatcher.svg) | Microsoft.DatabaseWatcher/ watchers |
 | [Access Connector for Azure Databricks](svg/Microsoft_Azure_Databricks/AccessConnector.svg) | Microsoft.Databricks/ accessConnectors |
 | [Azure Databricks Service](svg/Microsoft_Azure_Databricks/Workspace.svg) | Microsoft.Databricks/ workspaces |
+| [Data Catalog](svg/Microsoft_Azure_DataCatalog/CatalogResource.svg) | Microsoft.DataCatalog/ catalogs |
 | [Project CI](svg/Microsoft_Azure_DataCollaboration/DataCollaboration.svg) | Microsoft.DataCollaboration/ workspaces |
 | [Project CI Invitation](svg/Microsoft_Azure_DataCollaboration/InvitationsBrowse.svg) |  |
 | [Activity](svg/Microsoft_Azure_DataFactory/Activity.svg) |  |
