@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.140.12.114.140.0.13887832.240925-0022 on 2024-10-01.
+Extracted from Azure Portal version 14.140.12.114.140.0.13887832.240925-0022 on 2024-10-02.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -139,6 +139,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Enterprise Application Overview](svg/Microsoft_AAD_IAM/EnterpriseAppsOverview.svg) |  |
 | [External Collaboration Setting](svg/Microsoft_AAD_IAM/ExternalCollaborationSettings.svg) |  |
 | [External Identity Getting Started](svg/Microsoft_AAD_IAM/ExternalIdentitiesGettingStarted.svg) |  |
+| [All Identity Providers](svg/Microsoft_AAD_IAM/ExternalIdentitiesIdentityProvidersBlade.svg) |  |
 | [Policy Profile](svg/Microsoft_AAD_IAM/FilteringPolicyProfiles.svg) |  |
 | [Traffic Forwarding​](svg/Microsoft_AAD_IAM/ForwardingProfile.svg) |  |
 | [Fraud Alert](svg/Microsoft_AAD_IAM/FraudAlertBlade.svg) |  |
