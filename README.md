@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.140.12.114.140.0.13887832.240925-0022 on 2024-10-03.
+Extracted from Azure Portal version 14.170.0.16152.240926-0437 on 2024-10-04.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -254,6 +254,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Managed applications center](svg/Microsoft_Azure_Appliance/ApplicationsHub.svg) |  |
 | [Managed application](svg/Microsoft_Azure_Appliance/ArmAppliance.svg) | Microsoft.Solutions/ applications |
 | [Visual Studio Online Plan](svg/Microsoft_Azure_Appliance/MicrosoftVSOnlinePlans.svg) | Microsoft.VSOnline/ Plans |
+| [Azure Arc enabled resource](svg/Microsoft_Azure_ArcCenterUX/AllArcResources.svg) | Microsoft.Arc/ all |
+| [Azure Arc enabled resource](svg/Microsoft_Azure_ArcCenterUX/AllArcResourcesFairfax.svg) | Microsoft.Arc/ allFairfax |
+| [Azure Arc](svg/Microsoft_Azure_ArcCenterUX/AzureArcCenter.svg) |  |
 | [Arc Load Balancer](svg/Microsoft_Azure_ArcNetworking/ArcNetworking.svg) | microsoft.kubernetesruntime/ loadbalancers |
 | [Attestation provider](svg/Microsoft_Azure_Attestation/AttestResource.svg) | Microsoft.Attestation/ attestationProviders |
 | [Automanage](svg/Microsoft_Azure_AutoManagedVirtualMachines/AutoManagedVirtualMachines.svg) |  |
@@ -312,22 +315,22 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Community Training](svg/Microsoft_Azure_CommunityTraining/CommunityTraining.svg) | Microsoft.Community/ communityTrainings |
 | [Availability set](svg/Microsoft_Azure_Compute/AvailabilitySet.svg) | Microsoft.Compute/ availabilitySets |
 | [Capacity Reservation Group](svg/Microsoft_Azure_Compute/CapacityReservationGroup.svg) | Microsoft.Compute/ capacityReservationGroups |
-| [Capacity Reservation Group](svg/Microsoft_Azure_Compute/CapacityReservationGroupComputeHub.svg) |  |
+| [Capacity Reservation Group](svg/Microsoft_Azure_Compute/CapacityReservationGroupComputeHub.svg) | Microsoft.Compute/ capacityReservationGroupsComputehub |
 | [Host group](svg/Microsoft_Azure_Compute/DedicatedHostGroup.svg) | Microsoft.Compute/ hostgroups |
-| [Host group](svg/Microsoft_Azure_Compute/DedicatedHostGroupComputeHub.svg) |  |
+| [Host group](svg/Microsoft_Azure_Compute/DedicatedHostGroupComputeHub.svg) | Microsoft.Compute/ hostgroupsComputehub |
 | [Host](svg/Microsoft_Azure_Compute/DedicatedHost.svg) | Microsoft.Compute/ hostgroups/ hosts |
 | [Host](svg/Microsoft_Azure_Compute/DedicatedHostComputeHub.svg) |  |
 | [Instance](svg/Microsoft_Azure_Compute/ComputeFleetInstance.svg) | microsoft.compute/ computefleetinstances |
 | [Standby pool](svg/Microsoft_Azure_Compute/StandbyPoolInstance.svg) | microsoft.compute/ standbypoolinstance |
 | [Instance](svg/Microsoft_Azure_Compute/VirtualMachineFlexInstance.svg) | microsoft.compute/ virtualmachineflexinstances |
 | [Proximity placement group](svg/Microsoft_Azure_Compute/ProximityPlacementGroup.svg) | Microsoft.Compute/ ProximityPlacementGroups |
-| [Proximity placement group](svg/Microsoft_Azure_Compute/ProximityPlacementGroupComputeHub.svg) |  |
+| [Proximity placement group](svg/Microsoft_Azure_Compute/ProximityPlacementGroupComputeHub.svg) | Microsoft.Compute/ ProximityPlacementGroupsComputehub |
 | [SSH key](svg/Microsoft_Azure_Compute/SshKey.svg) | Microsoft.Compute/ sshPublicKeys |
 | [Virtual machine](svg/Microsoft_Azure_Compute/AllVirtualMachine.svg) | Microsoft.All/ virtualMachines |
 | [Virtual machine](svg/Microsoft_Azure_Compute/VirtualMachine.svg) | Microsoft.Compute/ VirtualMachines |
-| [Virtual machine](svg/Microsoft_Azure_Compute/VirtualMachineComputeHub.svg) |  |
+| [Virtual machine](svg/Microsoft_Azure_Compute/VirtualMachineComputeHub.svg) | Microsoft.Compute/ VirtualMachineComputehub |
 | [Virtual machine scale set](svg/Microsoft_Azure_Compute/VirtualMachineScaleSet.svg) | Microsoft.Compute/ virtualMachineScaleSets |
-| [Virtual machine scale set](svg/Microsoft_Azure_Compute/VirtualMachineScaleSetComputeHub.svg) |  |
+| [Virtual machine scale set](svg/Microsoft_Azure_Compute/VirtualMachineScaleSetComputeHub.svg) | Microsoft.Compute/ virtualMachineScaleSetsComputehub |
 | [Recommendations](svg/Microsoft_Azure_ComputeHub/AdvisorCost.svg) | Microsoft.ComputeHub/ AdvisorCost |
 | [Recommendations](svg/Microsoft_Azure_ComputeHub/AdvisorOperationalExcellence.svg) | Microsoft.ComputeHub/ AdvisorOperationalExcellence |
 | [Recommendations](svg/Microsoft_Azure_ComputeHub/AdvisorPerformance.svg) | Microsoft.ComputeHub/ AdvisorPerformance |
@@ -390,7 +393,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Database watcher](svg/Microsoft_Azure_DatabaseInsights/DatabaseWatcher.svg) | Microsoft.DatabaseWatcher/ watchers |
 | [Access Connector for Azure Databricks](svg/Microsoft_Azure_Databricks/AccessConnector.svg) | Microsoft.Databricks/ accessConnectors |
 | [Azure Databricks Service](svg/Microsoft_Azure_Databricks/Workspace.svg) | Microsoft.Databricks/ workspaces |
-| [Data Catalog](svg/Microsoft_Azure_DataCatalog/CatalogResource.svg) | Microsoft.DataCatalog/ catalogs |
 | [Project CI](svg/Microsoft_Azure_DataCollaboration/DataCollaboration.svg) | Microsoft.DataCollaboration/ workspaces |
 | [Project CI Invitation](svg/Microsoft_Azure_DataCollaboration/InvitationsBrowse.svg) |  |
 | [Activity](svg/Microsoft_Azure_DataFactory/Activity.svg) |  |
@@ -639,7 +641,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Migrate](svg/Microsoft_Azure_Migrate/AzureMigrationHub.svg) |  |
 | [Migration project](svg/Microsoft_Azure_Migrate/MigrationProject.svg) | Microsoft.Migrate/ projects |
 | [Migrate Assessment](svg/Microsoft_Azure_MigrateAssessment/MigrateAssessmentResource.svg) | Providers.Test/ statefulIbizaEngines |
-| [Machine Learning Studio (classic) web service plan](svg/Microsoft_Azure_MLCommitmentPlans/MachineLearningCommitmentPlan.svg) | Microsoft.MachineLearning/ commitmentPlans |
 | [Machine learning online deployment](svg/Microsoft_Azure_MLTeamAccounts/OnlineEndpointDeployment.svg) | Microsoft.MachineLearningServices/ workspaces/ onlineEndpoints/ deployments |
 | [Machine learning online endpoint](svg/Microsoft_Azure_MLTeamAccounts/OnlineEndpoint.svg) | Microsoft.MachineLearningServices/ workspaces/ onlineEndpoints |
 | [Azure Machine Learning registry](svg/Microsoft_Azure_MLTeamAccounts/Registry.svg) | Microsoft.MachineLearningServices/ registries |
@@ -650,8 +651,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Machine Learning workspace](svg/Microsoft_Azure_MLTeamAccounts/MachineLearningServices.svg) | Microsoft.MachineLearningServices/ workspaces |
 | [Mistral](svg/Microsoft_Azure_MLTeamAccounts/Mistral.svg) |  |
 | [Model Provider](svg/Microsoft_Azure_MLTeamAccounts/ModelProvider.svg) |  |
-| [Machine Learning Studio (classic) web service](svg/Microsoft_Azure_MLWebservices/MachineLearningWebService.svg) | Microsoft.MachineLearning/ webServices |
-| [Machine Learning Studio (classic) workspace](svg/Microsoft_Azure_MLWorkspaces/MachineLearningWorkspace.svg) | Microsoft.MachineLearning/ workspaces |
 | [Chamber](svg/Microsoft_Azure_ModSimWorkbench/SdwChamberResource.svg) | Microsoft.ModSimWorkbench/ workbenches/ chambers |
 | [Chamber Connector](svg/Microsoft_Azure_ModSimWorkbench/SdwChamberConnectorResource.svg) | Microsoft.ModSimWorkbench/ workbenches/ chambers/ connectors |
 | [Chamber Data Pipeline File](svg/Microsoft_Azure_ModSimWorkbench/SdwChamberDataPipelineFileResource.svg) | Microsoft.ModSimWorkbench/ workbenches/ chambers/ files |
