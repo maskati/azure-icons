@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.170.0.16152.240926-0437 on 2024-10-06.
+Extracted from Azure Portal version 14.170.0.16152.240926-0437 on 2024-10-07.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -728,6 +728,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Cluster Bare Metal Machine Key Set (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/ClusterBmmKeysetResource.svg) | Microsoft.NetworkCloud/ clusters/ bareMetalMachineKeySets |
 | [Cluster Manager (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/ClusterMgrResource.svg) | Microsoft.NetworkCloud/ clusterManagers |
 | [Cluster Metrics Configuration (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/ClusterMetricConfigResource.svg) | Microsoft.NetworkCloud/ clusters/ metricsConfigurations |
+| [Compute Rack (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/ComputeRackResource.svg) | Microsoft.NetworkCloud/ racks |
 | [Layer 2 Network (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/Layer2NetworksResource.svg) | Microsoft.NetworkCloud/ l2Networks |
 | [Layer 3 Network (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/Layer3NetworksResource.svg) | Microsoft.NetworkCloud/ l3Networks |
 | [Kubernetes Cluster (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/NexusAksClusterResource.svg) | Microsoft.NetworkCloud/ kubernetesClusters |
@@ -753,7 +754,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Network Tap Rule (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/NetworkTapRuleResource.svg) | Microsoft.ManagedNetworkFabric/ networkTapRules |
 | [Route Policy (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/RoutePoliciesResource.svg) | Microsoft.ManagedNetworkFabric/ RoutePolicies |
 | [Operator Nexus](svg/Microsoft_Azure_NetworkCloud/OperatorNexusHub.svg) |  |
-| [Compute Rack (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/RackResource.svg) | Microsoft.NetworkCloud/ racks |
 | [Storage Appliance (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/StorageApplianceResource.svg) | Microsoft.NetworkCloud/ storageAppliances |
 | [Trunked Network (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/TrunkedNetworksResource.svg) | Microsoft.NetworkCloud/ trunkedNetworks |
 | [Virtual Machine (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/VirtualMachineResource.svg) | Microsoft.NetworkCloud/ virtualMachines |
@@ -787,7 +787,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Orbital](svg/Microsoft_Azure_Orbital/AzureOrbital.svg) |  |
 | [Spacecraft](svg/Microsoft_Azure_Orbital/Spacecrafts.svg) | Microsoft.Orbital/ spacecrafts |
 | [Azure Database for MySQL flexible server](svg/Microsoft_Azure_OSSDatabases/MySqlFlexibleServer.svg) | Microsoft.DBforMySQL/ flexibleServers |
-| [Azure Database for PostgreSQL flexible server](svg/Microsoft_Azure_OSSDatabases/PostgreSqlFlexibleServer.svg) | Microsoft.DBforPostgreSQL/ flexibleServers |
+| [Azure Database for PostgreSQL - Flexible Server](svg/Microsoft_Azure_OSSDatabases/PostgreSqlFlexibleServer.svg) | Microsoft.DBforPostgreSQL/ flexibleServers |
 | [App Space](svg/Microsoft_Azure_PaasServerless/AppSpaces.svg) | Microsoft.App/ spaces |
 | [Business Process](svg/Microsoft_Azure_PaasServerless/BusinessProcessTracking.svg) | Microsoft.Logic/ businessprocesses |
 | [Durable Task Managed Backend](svg/Microsoft_Azure_PaasServerless/DurableTaskManagedBackend.svg) | Microsoft.DurableTask/ Namespaces |
