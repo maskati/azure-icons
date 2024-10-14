@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.170.1.114.170.0.13642.241008-0107 on 2024-10-13.
+Extracted from Azure Portal version 14.170.1.114.170.0.13642.241008-0107 on 2024-10-14.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -254,6 +254,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Managed applications center](svg/Microsoft_Azure_Appliance/ApplicationsHub.svg) |  |
 | [Managed application](svg/Microsoft_Azure_Appliance/ArmAppliance.svg) | Microsoft.Solutions/ applications |
 | [Visual Studio Online Plan](svg/Microsoft_Azure_Appliance/MicrosoftVSOnlinePlans.svg) | Microsoft.VSOnline/ Plans |
+| [App Protect Policy](svg/Microsoft_Azure_AppProtection/AppProtectPolicies.svg) | Microsoft.AppSecurity/ Policies |
 | [Azure Arc enabled resource](svg/Microsoft_Azure_ArcCenterUX/AllArcResources.svg) | Microsoft.Arc/ all |
 | [Azure Arc enabled resource](svg/Microsoft_Azure_ArcCenterUX/AllArcResourcesFairfax.svg) | Microsoft.Arc/ allFairfax |
 | [Azure Arc](svg/Microsoft_Azure_ArcCenterUX/AzureArcCenter.svg) |  |
