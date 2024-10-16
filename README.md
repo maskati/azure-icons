@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.170.1.114.170.0.13642.241008-0107 on 2024-10-15.
+Extracted from Azure Portal version 14.170.1.114.170.0.13642.241008-0107 on 2024-10-16.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -533,7 +533,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure HDInsight on AKS cluster](svg/Microsoft_Azure_HDInsight/HDInsightClusterGen2.svg) | Microsoft.HDInsight/ clusterpools/ clusters |
 | [Azure HDInsight on AKS cluster pool](svg/Microsoft_Azure_HDInsight/HDInsightClusterPool.svg) | Microsoft.HDInsight/ clusterpools |
 | [Service Health](svg/Microsoft_Azure_Health/AzureHealth.svg) |  |
-| [Azure Health Bot](svg/Microsoft_Azure_HealthBot/HealthBot.svg) | Microsoft.HealthBot/ healthBots |
+| [Healthcare agent service](svg/Microsoft_Azure_HealthBot/HealthBot.svg) | Microsoft.HealthBot/ healthBots |
 | [De-identification Service](svg/Microsoft_Azure_HealthDataDeidentification/DeidService.svg) | Microsoft.HealthDataAIServices/ DeidServices |
 | [Health Model (preview)](svg/Microsoft_Azure_HealthModels/AzureHealthModel.svg) | Microsoft.HealthModel/ healthmodels |
 | [Resource bridge](svg/Microsoft_Azure_HybridCompute/ResourceBridge.svg) | Microsoft.ResourceConnector/ Appliances |
