@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.170.1.114.170.0.13642.241008-0107 on 2024-10-16.
+Extracted from Azure Portal version 14.210.0.12211699.241011-0153 on 2024-10-17.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -231,7 +231,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Analysis Services](svg/Microsoft_Azure_AnalysisServices/AnalysisServices.svg) | Microsoft.AnalysisServices/ servers |
 | [Fabric Capacity](svg/Microsoft_Azure_Analytics/REDIDCILDCBJNGCP.svg) | Microsoft.Fabric/ capacities |
 | [Verifier Workspace](svg/Microsoft_Azure_ANMVerifier/verifierWorkspace.svg) | Microsoft.Network/ networkManagers/ verifierWorkspaces |
-| [AnyBuild cluster](svg/Microsoft_Azure_AnyBuild/Cluster.svg) | Microsoft.AnyBuild/ clusters |
 | [Operator 5G Core](svg/Microsoft_Azure_AO5GC/HealthChecks.svg) |  |
 | [Attached Data Network](svg/Microsoft_Azure_AP5GC/MobileNetworkPacketCoreControlPlanesPacketCoreDataPlanesAttachedDataNetworks.svg) | Microsoft.MobileNetwork/ packetCoreControlPlanes/ packetCoreDataPlanes/ attachedDataNetworks |
 | [Packet Core Control Plane](svg/Microsoft_Azure_AP5GC/MobileNetworkPacketCoreControlPlanes.svg) | Microsoft.MobileNetwork/ packetCoreControlPlanes |
@@ -472,6 +471,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Microsoft Defender EASM](svg/Microsoft_Azure_EASM/EasmWorkspace.svg) | Microsoft.Easm/ workspaces |
 | [Impact Reporting](svg/Microsoft_Azure_ECE/ImpactRP.svg) |  |
 | [Impact Reporting Connector](svg/Microsoft_Azure_ECE/microsoft_impact_connectors_2024_05_01_preview.svg) | microsoft.impact/ connectors |
+| [My Resource](svg/Microsoft_Azure_EdgeAIExtension/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Azure Stack Edge / Data Box Gateway](svg/Microsoft_Azure_EdgeGateway/EdgeGateway.svg) | Microsoft.DataBoxEdge/ dataBoxEdgeDevices |
 | [My Resource](svg/Microsoft_Azure_EdgeManagementCopilot/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Azure Edge Hardware Center Address](svg/Microsoft_Azure_EdgeOrder/AllAddressResources.svg) | Microsoft.EdgeOrder/ addresses |
@@ -770,7 +770,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Resource Graph Visualizer](svg/Microsoft_Azure_OneInventory/ResourceGraphVisualizer.svg) | Microsoft.Resources/ resourceGraphVisualizer |
 | [OneMigrate](svg/Microsoft_Azure_OneMigrate/AzureOneMigrate.svg) |  |
 | [Azure Data Manager for Energy](svg/Microsoft_Azure_OpenEnergyPlatform/OpenEnergyResource.svg) | Microsoft.OpenEnergyPlatform/ energyServices |
-| [Open Supply Chain Platform](svg/Microsoft_Azure_OpenSupplyChainPlatform/OSCP.svg) | Microsoft.OpenLogisticsPlatform/ workspaces |
 | [SCOM managed instance](svg/Microsoft_Azure_OperationsMgr/Aquila.svg) |  |
 | [SCOM managed instance](svg/Microsoft_Azure_OperationsMgr/AquilaExtensionResource.svg) | Microsoft.Scom/ managedInstances |
 | [IoT Operations Ops MQ](svg/Microsoft_Azure_OpsMQ/IoTOperationsOpsMQ.svg) | microsoft.iotoperationsmq/ mq |
