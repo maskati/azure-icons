@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.212.0.14609772.241014-2036 on 2024-10-20.
+Extracted from Azure Portal version 14.212.0.14609772.241014-2036 on 2024-10-21.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -139,7 +139,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Enterprise Application Overview](svg/Microsoft_AAD_IAM/EnterpriseAppsOverview.svg) |  |
 | [External Collaboration Setting](svg/Microsoft_AAD_IAM/ExternalCollaborationSettings.svg) |  |
 | [External Identity Getting Started](svg/Microsoft_AAD_IAM/ExternalIdentitiesGettingStarted.svg) |  |
-| [All Identity Providers](svg/Microsoft_AAD_IAM/ExternalIdentitiesIdentityProvidersBlade.svg) |  |
 | [Policy Profile](svg/Microsoft_AAD_IAM/FilteringPolicyProfiles.svg) |  |
 | [Traffic Forwarding​](svg/Microsoft_AAD_IAM/ForwardingProfile.svg) |  |
 | [Fraud Alert](svg/Microsoft_AAD_IAM/FraudAlertBlade.svg) |  |
@@ -338,7 +337,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Recommendations](svg/Microsoft_Azure_ComputeHub/AdvisorSecurity.svg) | Microsoft.ComputeHub/ AdvisorSecurity |
 | [All resources](svg/Microsoft_Azure_ComputeHub/AllResources.svg) | Microsoft.ComputeHub/ all |
 | [Backup job](svg/Microsoft_Azure_ComputeHub/Backup.svg) | Microsoft.ComputeHub/ Backup |
-| [Compute infrastructure](svg/Microsoft_Azure_ComputeHub/ComputeHub.svg) | Providers.Test/ statefulIbizaEngines |
+| [Compute infrastructure](svg/Microsoft_Azure_ComputeHub/ComputeHub.svg) | Microsoft.ComputeHub/ ComputeHubMain |
 | [Health events](svg/Microsoft_Azure_ComputeHub/HealthEvents.svg) | Microsoft.ComputeHub/ HealthEvents |
 | [Linux OS](svg/Microsoft_Azure_ComputeHub/LinuxOSType.svg) | Microsoft.ComputeHub/ LinuxOSType |
 | [Microsoft defender](svg/Microsoft_Azure_ComputeHub/MicrosoftDefenderFreeTrialSubscription.svg) | Microsoft.ComputeHub/ MicrosoftDefenderFreeTrialSubscription |
@@ -1071,6 +1070,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Database for MySQL single server](svg/SqlAzureExtension/MySqlServer.svg) | Microsoft.DBforMySQL/ servers |
 | [Azure Database for PostgreSQL single server](svg/SqlAzureExtension/PostgreSqlServer.svg) | Microsoft.DBforPostgreSQL/ servers |
 | [Database fleet manager](svg/SqlAzureExtension/DatabaseFleetManager.svg) | Microsoft.DatabaseFleetManager/ fleets |
+| [Fleet Managed Database](svg/SqlAzureExtension/FleetDatabase.svg) | Microsoft.DatabaseFleetManager/ fleets/ fleetspaces/ databases |
+| [Fleetspaces](svg/SqlAzureExtension/Fleetspace.svg) | Microsoft.DatabaseFleetManager/ fleets/ fleetspaces |
+| [tier](svg/SqlAzureExtension/Tiers.svg) | Microsoft.DatabaseFleetManager/ fleets/ tiers |
 | [SQL server](svg/SqlAzureExtension/Server.svg) | Microsoft.Sql/ servers |
 | [SQL virtual machine](svg/SqlAzureExtension/SqlVirtualMachine.svg) | Microsoft.SqlVirtualMachine/ SqlVirtualMachines |
 | [Virtual cluster](svg/SqlAzureExtension/VirtualCluster.svg) | Microsoft.Sql/ virtualClusters |
