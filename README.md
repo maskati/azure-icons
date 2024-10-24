@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.219.0.1649509452.241016-2253 on 2024-10-23.
+Extracted from Azure Portal version 14.219.0.1649509452.241016-2253 on 2024-10-24.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -139,6 +139,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Enterprise Application Overview](svg/Microsoft_AAD_IAM/EnterpriseAppsOverview.svg) |  |
 | [External Collaboration Setting](svg/Microsoft_AAD_IAM/ExternalCollaborationSettings.svg) |  |
 | [External Identity Getting Started](svg/Microsoft_AAD_IAM/ExternalIdentitiesGettingStarted.svg) |  |
+| [All Identity Providers](svg/Microsoft_AAD_IAM/ExternalIdentitiesIdentityProvidersBlade.svg) |  |
 | [Policy Profile](svg/Microsoft_AAD_IAM/FilteringPolicyProfiles.svg) |  |
 | [Traffic Forwarding​](svg/Microsoft_AAD_IAM/ForwardingProfile.svg) |  |
 | [Fraud Alert](svg/Microsoft_AAD_IAM/FraudAlertBlade.svg) |  |
@@ -467,6 +468,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Cosmos DB for PostgreSQL Cluster](svg/Microsoft_Azure_DocumentDB/PostgreSqlServerGroupV2.svg) | Microsoft.DBforPostgreSQL/ serverGroupsv2 |
 | [Azure Cosmos DB for MongoDB (vCore)](svg/Microsoft_Azure_DocumentDB/MongoCluster.svg) | Microsoft.DocumentDB/ mongoClusters |
 | [Reporting & Analytics](svg/Microsoft_Azure_DocumentManagement/Microsoft_Azure_DocumentManagement.svg) |  |
+| [Microsoft Defender EASM (Preview)](svg/Microsoft_Azure_EASM/PrivateEasmWorkspace.svg) | Private.Easm/ workspaces |
 | [Microsoft Defender EASM](svg/Microsoft_Azure_EASM/EasmWorkspace.svg) | Microsoft.Easm/ workspaces |
 | [Impact Reporting](svg/Microsoft_Azure_ECE/ImpactRP.svg) |  |
 | [Impact Reporting Connector](svg/Microsoft_Azure_ECE/microsoft_impact_connectors_2024_05_01_preview.svg) | microsoft.impact/ connectors |
