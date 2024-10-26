@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.219.1.114.219.0.13387.241024-0035 on 2024-10-25.
+Extracted from Azure Portal version 14.219.1.114.219.0.13387.241024-0035 on 2024-10-26.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -139,7 +139,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Enterprise Application Overview](svg/Microsoft_AAD_IAM/EnterpriseAppsOverview.svg) |  |
 | [External Collaboration Setting](svg/Microsoft_AAD_IAM/ExternalCollaborationSettings.svg) |  |
 | [External Identity Getting Started](svg/Microsoft_AAD_IAM/ExternalIdentitiesGettingStarted.svg) |  |
-| [All Identity Providers](svg/Microsoft_AAD_IAM/ExternalIdentitiesIdentityProvidersBlade.svg) |  |
 | [Policy Profile](svg/Microsoft_AAD_IAM/FilteringPolicyProfiles.svg) |  |
 | [Traffic Forwarding​](svg/Microsoft_AAD_IAM/ForwardingProfile.svg) |  |
 | [Fraud Alert](svg/Microsoft_AAD_IAM/FraudAlertBlade.svg) |  |
@@ -873,6 +872,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Management group](svg/Microsoft_Azure_Resources/ManagementGroups.svg) |  |
 | [Operation log (classic)](svg/Microsoft_Azure_Resources/OperationLog.svg) |  |
 | [Quickstart Center](svg/Microsoft_Azure_Resources/Quickstart.svg) |  |
+| [Recycle Bin](svg/Microsoft_Azure_Resources/DeletedResources.svg) | Microsoft.Resources/ deletedResources |
 | [Resource change](svg/Microsoft_Azure_Resources/ResourceChanges.svg) | Microsoft.Resources/ resourceChanges |
 | [Resource Manager](svg/Microsoft_Azure_Resources/ResourceManager.svg) |  |
 | [User privacy](svg/Microsoft_Azure_Resources/UserPrivacy.svg) |  |
