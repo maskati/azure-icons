@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.219.1.114.219.0.13387.241024-0035 on 2024-10-26.
+Extracted from Azure Portal version 14.219.0.1649509452.241016-2253 on 2024-10-27.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -868,6 +868,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Deployment stack](svg/Microsoft_Azure_Resources/Stack.svg) | Microsoft.Resources/ deploymentStacks |
 | [Deployment stack](svg/Microsoft_Azure_Resources/StackManagementGroup.svg) | Microsoft.Management/ managementGroups/ Microsoft.Resources/ deploymentStacks |
 | [Deployment](svg/Microsoft_Azure_Resources/Deployment.svg) |  |
+| [Azure Data Boundary](svg/Microsoft_Azure_Resources/AzureDataBoundary.svg) |  |
 | [GitHub](svg/Microsoft_Azure_Resources/GitHub.svg) |  |
 | [Management group](svg/Microsoft_Azure_Resources/ManagementGroups.svg) |  |
 | [Operation log (classic)](svg/Microsoft_Azure_Resources/OperationLog.svg) |  |
@@ -909,6 +910,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [SignalR Replica](svg/Microsoft_Azure_SignalR/SignalRReplica.svg) | Microsoft.SignalRService/ SignalR/ replicas |
 | [Web PubSub Service](svg/Microsoft_Azure_SignalR/WebPubSub.svg) | Microsoft.SignalRService/ WebPubSub |
 | [Web PubSub Service Replica](svg/Microsoft_Azure_SignalR/WebPubSubReplica.svg) | Microsoft.SignalRService/ WebPubSub/ replicas |
+| [Site configuration](svg/Microsoft_Azure_SiteManager/SiteConfig.svg) | Microsoft.Edge/ Configurations |
 | [Site manager - Azure Arc](svg/Microsoft_Azure_SiteManager/SiteManager.svg) | Microsoft.Edge/ sites |
 | [Azure Sphere Catalog](svg/Microsoft_Azure_Sphere/AzureSphereArm.svg) | microsoft.azuresphere/ catalogs |
 | [Azure Sphere (Legacy)](svg/Microsoft_Azure_Sphere/AzureSphere.svg) |  |
@@ -958,10 +960,10 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Configuration Group Value](svg/Microsoft_Azure_VnfManager/AosmCgv.svg) | Microsoft.HybridNetwork/ configurationGroupValues |
 | [Configuration Group Schema](svg/Microsoft_Azure_VnfManager/AosmConfigSchema.svg) | Microsoft.HybridNetwork/ publishers/ configurationGroupSchemas |
 | [Azure Operator Service Manager](svg/Microsoft_Azure_VnfManager/AzureOperatorServiceManager.svg) |  |
-| [Network Function Definition](svg/Microsoft_Azure_VnfManager/AosmNfdGroup.svg) | microsoft.hybridnetwork/ publishers/ networkfunctiondefinitiongroups |
+| [Network Function Definition](svg/Microsoft_Azure_VnfManager/AosmNfdGroup.svg) | Microsoft.HybridNetwork/ publishers/ networkFunctionDefinitionGroups |
 | [Network Function Definition Version](svg/Microsoft_Azure_VnfManager/AosmNfdVersion.svg) | microsoft.hybridnetwork/ publishers/ networkfunctiondefinitiongroups/ networkfunctiondefinitionversions |
-| [Network Service Design](svg/Microsoft_Azure_VnfManager/AosmNsdGroup.svg) | Microsoft.HybridNetwork/ publishers/ networkservicedesigngroups |
-| [Network Service Design Version](svg/Microsoft_Azure_VnfManager/AosmNsdVersion.svg) | Microsoft.HybridNetwork/ publishers/ networkservicedesigngroups/ networkservicedesignversions |
+| [Network Service Design](svg/Microsoft_Azure_VnfManager/AosmNsdGroup.svg) | Microsoft.HybridNetwork/ publishers/ networkServiceDesignGroups |
+| [Network Service Design Version](svg/Microsoft_Azure_VnfManager/AosmNsdVersion.svg) | Microsoft.HybridNetwork/ publishers/ networkServiceDesignGroups/ networkServiceDesignVersions |
 | [Publisher Artifact Manifest](svg/Microsoft_Azure_VnfManager/AosmPublisherArtifactManifest.svg) | Microsoft.HybridNetwork/ publishers/ artifactStores/ artifactManifests |
 | [Publisher Artifact Store](svg/Microsoft_Azure_VnfManager/AosmPublisherArtifactStore.svg) | Microsoft.HybridNetwork/ publishers/ artifactStores |
 | [Publisher](svg/Microsoft_Azure_VnfManager/AosmPublisher.svg) | Microsoft.HybridNetwork/ publishers |
