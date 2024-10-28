@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.219.0.1649509452.241016-2253 on 2024-10-27.
+Extracted from Azure Portal version 14.219.1.114.219.0.13387.241024-0035 on 2024-10-28.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -868,7 +868,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Deployment stack](svg/Microsoft_Azure_Resources/Stack.svg) | Microsoft.Resources/ deploymentStacks |
 | [Deployment stack](svg/Microsoft_Azure_Resources/StackManagementGroup.svg) | Microsoft.Management/ managementGroups/ Microsoft.Resources/ deploymentStacks |
 | [Deployment](svg/Microsoft_Azure_Resources/Deployment.svg) |  |
-| [Azure Data Boundary](svg/Microsoft_Azure_Resources/AzureDataBoundary.svg) |  |
 | [GitHub](svg/Microsoft_Azure_Resources/GitHub.svg) |  |
 | [Management group](svg/Microsoft_Azure_Resources/ManagementGroups.svg) |  |
 | [Operation log (classic)](svg/Microsoft_Azure_Resources/OperationLog.svg) |  |
@@ -910,7 +909,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [SignalR Replica](svg/Microsoft_Azure_SignalR/SignalRReplica.svg) | Microsoft.SignalRService/ SignalR/ replicas |
 | [Web PubSub Service](svg/Microsoft_Azure_SignalR/WebPubSub.svg) | Microsoft.SignalRService/ WebPubSub |
 | [Web PubSub Service Replica](svg/Microsoft_Azure_SignalR/WebPubSubReplica.svg) | Microsoft.SignalRService/ WebPubSub/ replicas |
-| [Site configuration](svg/Microsoft_Azure_SiteManager/SiteConfig.svg) | Microsoft.Edge/ Configurations |
 | [Site manager - Azure Arc](svg/Microsoft_Azure_SiteManager/SiteManager.svg) | Microsoft.Edge/ sites |
 | [Azure Sphere Catalog](svg/Microsoft_Azure_Sphere/AzureSphereArm.svg) | microsoft.azuresphere/ catalogs |
 | [Azure Sphere (Legacy)](svg/Microsoft_Azure_Sphere/AzureSphere.svg) |  |
