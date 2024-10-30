@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.219.1.114.219.0.13387.241024-0035 on 2024-10-29.
+Extracted from Azure Portal version 14.236.0.173888.241024-0427 on 2024-10-30.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -27,6 +27,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Logz.io](svg/Azure_Marketplace_Liftr_Logz/Logz.svg) | Microsoft.Logz/ monitors |
 | [Logz sub account](svg/Azure_Marketplace_Liftr_Logz/LogzSubAccount.svg) | Microsoft.Logz/ monitors/ accounts |
 | [New Relic](svg/Azure_Marketplace_Liftr_NewRelic/NewRelic.svg) | NewRelic.Observability/ monitors |
+| [Neon Serverless Postgres Resource](svg/Azure_Marketplace_Neon/NeonResource.svg) | Neon.Postgres/ organizations |
 | [NGINXaaS](svg/Azure_Marketplace_NGINX/Nginx.svg) | NGINX.NGINXPLUS/ nginxDeployments |
 | [Cloud NGFW by Palo Alto Networks](svg/Azure_Marketplace_PaloAltoNetworks_Cloudngfw/PaloAltoNetworksCloudNGFW.svg) | PaloAltoNetworks.Cloudngfw/ firewalls |
 | [Global Rulestack](svg/Azure_Marketplace_PaloAltoNetworks_Cloudngfw/PaloAltoNetworksGlobalRulestack.svg) | PaloAltoNetworks.Cloudngfw/ globalRulestacks |
@@ -291,10 +292,13 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [OS image (classic)](svg/Microsoft_Azure_Classic_Compute/OsUserImages.svg) | Microsoft.ClassicStorage/ storageAccounts/ osimages |
 | [VM image (classic)](svg/Microsoft_Azure_Classic_Compute/VmUserImages.svg) | Microsoft.ClassicStorage/ storageAccounts/ vmimages |
 | [Virtual machine (classic)](svg/Microsoft_Azure_Classic_Compute/VirtualMachine.svg) | Microsoft.ClassicCompute/ VirtualMachines |
-| [Landing Zone Configuration](svg/Microsoft_Azure_CloudforSovereignty/LandingZoneConfigurationsAsset.svg) | microsoft.sovereign/ landingzoneconfigurations |
-| [Landing Zone Registration](svg/Microsoft_Azure_CloudforSovereignty/LandingZoneRegistrationsAsset.svg) | microsoft.sovereign/ landingzoneregistrations |
-| [Regulated Environment Management](svg/Microsoft_Azure_CloudforSovereignty/SovereigntyAsset.svg) |  |
 | [Transparency log](svg/Microsoft_Azure_CloudforSovereignty/TransparencyLogsAsset.svg) | microsoft.sovereign/ transparencylogs |
+| [Regulated Environment Management](svg/Microsoft_Azure_CloudforSovereignty/SovereigntyAsset.svg) |  |
+| [Landing Zone Registration](svg/Microsoft_Azure_CloudforSovereignty/LandingZoneRegistrationsAsset.svg) | microsoft.sovereign/ landingzoneregistrations |
+| [Landing Zone Configuration](svg/Microsoft_Azure_CloudforSovereignty/LandingZoneConfigurationsAsset.svg) | microsoft.sovereign/ landingzoneconfigurations |
+| [Landing Zone Registration](svg/Microsoft_Azure_CloudforSovereignty/LZRegistrationsAsset.svg) | microsoft.sovereign/ landingzoneaccounts/ landingzoneregistrations |
+| [Landing zone accounts](svg/Microsoft_Azure_CloudforSovereignty/LandingZoneAccountsAsset.svg) | microsoft.sovereign/ landingzoneaccounts |
+| [Landing Zone Configuration](svg/Microsoft_Azure_CloudforSovereignty/LZConfigurationsAsset.svg) | microsoft.sovereign/ landingzoneaccounts/ landingzoneconfigurations |
 | [Azure Cloud HSM](svg/Microsoft_Azure_CloudHSM/CloudHSM.svg) | Microsoft.HardwareSecurityModules/ cloudHsmClusters |
 | [Azure Load Testing](svg/Microsoft_Azure_CloudNativeTesting/CloudNativeTesting.svg) | Microsoft.LoadTestService/ LoadTests |
 | [Cloud service (classic)](svg/Microsoft_Azure_CloudServices/CloudService.svg) | microsoft.classicCompute/ domainNames |
@@ -910,6 +914,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [SignalR Replica](svg/Microsoft_Azure_SignalR/SignalRReplica.svg) | Microsoft.SignalRService/ SignalR/ replicas |
 | [Web PubSub Service](svg/Microsoft_Azure_SignalR/WebPubSub.svg) | Microsoft.SignalRService/ WebPubSub |
 | [Web PubSub Service Replica](svg/Microsoft_Azure_SignalR/WebPubSubReplica.svg) | Microsoft.SignalRService/ WebPubSub/ replicas |
+| [Site configuration](svg/Microsoft_Azure_SiteManager/SiteConfig.svg) | Microsoft.Edge/ Configurations |
 | [Site manager - Azure Arc](svg/Microsoft_Azure_SiteManager/SiteManager.svg) | Microsoft.Edge/ sites |
 | [Azure Sphere Catalog](svg/Microsoft_Azure_Sphere/AzureSphereArm.svg) | microsoft.azuresphere/ catalogs |
 | [Azure Sphere (Legacy)](svg/Microsoft_Azure_Sphere/AzureSphere.svg) |  |
@@ -925,7 +930,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Stream Analytics job](svg/Microsoft_Azure_StreamAnalytics/StreamAnalyticsJob.svg) | Microsoft.StreamAnalytics/ StreamingJobs |
 | [Help + support](svg/Microsoft_Azure_Support/HelpAndSupport.svg) |  |
 | [Support Request](svg/Microsoft_Azure_Support/SupportRequest.svg) | microsoft.support/ supporttickets |
-| [Surface Management Portal](svg/Microsoft_Azure_Surface/SurfaceDashboard.svg) |  |
 | [Carbon optimization](svg/Microsoft_Azure_Sustainability/Sustainability.svg) |  |
 | [Synapse private link hub](svg/Microsoft_Azure_Synapse/SynapsePrivateLinkHub.svg) | Microsoft.Synapse/ privateLinkHubs |
 | [SCOPE pool](svg/Microsoft_Azure_Synapse/ScopePool.svg) | Microsoft.Synapse/ workspaces/ scopePools |
