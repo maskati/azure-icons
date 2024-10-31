@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.236.0.173888.241024-0427 on 2024-10-30.
+Extracted from Azure Portal version 14.244.0.13040465.241025-1724 on 2024-10-31.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -1046,9 +1046,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Endpoint security](svg/Microsoft_Intune_Workflows/SecurityManagementAsset.svg) |  |
 | [Manufacturing Data Solutions](svg/Microsoft_ManufacturingPlatform_DMM/DataManagerForManufacturing.svg) | Microsoft.ManufacturingPlatform/ ManufacturingDataServices |
 | [My Resource](svg/Microsoft_Marketplace_SolutionFinder/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
-| [AzPubSub](svg/Microsoft_OneFleet_DataHub/AzPubSub.svg) |  |
-| [Grip](svg/Microsoft_OneFleet_DataHub/Grip.svg) |  |
 | [Skylarc](svg/Microsoft_OneFleet_DataHub/Skylark.svg) |  |
+| [Grip](svg/Microsoft_OneFleet_DataHub/Grip.svg) |  |
+| [AzPubSub](svg/Microsoft_OneFleet_DataHub/AzPubSub.svg) |  |
 | [Log Analytics dedicated cluster](svg/Microsoft_OperationsManagementSuite_Workspace/cluster.svg) | microsoft.operationalinsights/ clusters |
 | [Solution](svg/Microsoft_OperationsManagementSuite_Workspace/Solution.svg) | Microsoft.OperationsManagement/ solutions |
 | [Log Analytics workspace](svg/Microsoft_OperationsManagementSuite_Workspace/Workspace.svg) | Microsoft.OperationalInsights/ workspaces |
