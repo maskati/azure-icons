@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.244.0.13040465.241025-1724 on 2024-10-31.
+Extracted from Azure Portal version 14.232.1.114.232.0.102963.241024-0040 on 2024-11-01.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -565,6 +565,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/HybridComputeEsu.svg) | Microsoft.HybridCompute/ machinesEsu |
 | [Extended Security Updates - Windows Server 2012/R2](svg/Microsoft_Azure_HybridCompute/EsuLicense.svg) | Microsoft.HybridCompute/ licenses |
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/PayGoEligible.svg) | Microsoft.HybridCompute/ machinesPayGo |
+| [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/SoftwareAssurance.svg) | Microsoft.HybridCompute/ machinesSoftwareAssurance |
 | [VMware vCenter](svg/Microsoft_Azure_HybridCompute/VMwarevCenter.svg) | Microsoft.connectedVMwareVSphere/ vCenters |
 | [VMware + AVS virtual machine](svg/Microsoft_Azure_HybridCompute/VMwareVm.svg) | Microsoft.ConnectedVMwarevSphere/ VirtualMachines |
 | [VMware + AVS virtual machine](svg/Microsoft_Azure_HybridCompute/VMwareVmV2.svg) | Microsoft.HybridCompute/ Machines/ Microsoft.ConnectedVMwarevSphere/ virtualMachineInstances |
@@ -930,6 +931,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Stream Analytics job](svg/Microsoft_Azure_StreamAnalytics/StreamAnalyticsJob.svg) | Microsoft.StreamAnalytics/ StreamingJobs |
 | [Help + support](svg/Microsoft_Azure_Support/HelpAndSupport.svg) |  |
 | [Support Request](svg/Microsoft_Azure_Support/SupportRequest.svg) | microsoft.support/ supporttickets |
+| [Surface Management Portal](svg/Microsoft_Azure_Surface/SurfaceDashboard.svg) |  |
 | [Carbon optimization](svg/Microsoft_Azure_Sustainability/Sustainability.svg) |  |
 | [Synapse private link hub](svg/Microsoft_Azure_Synapse/SynapsePrivateLinkHub.svg) | Microsoft.Synapse/ privateLinkHubs |
 | [SCOPE pool](svg/Microsoft_Azure_Synapse/ScopePool.svg) | Microsoft.Synapse/ workspaces/ scopePools |
