@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.232.1.114.232.0.102963.241024-0040 on 2024-11-01.
+Extracted from Azure Portal version 14.232.1.114.232.0.102963.241024-0040 on 2024-11-02.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -27,6 +27,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Logz.io](svg/Azure_Marketplace_Liftr_Logz/Logz.svg) | Microsoft.Logz/ monitors |
 | [Logz sub account](svg/Azure_Marketplace_Liftr_Logz/LogzSubAccount.svg) | Microsoft.Logz/ monitors/ accounts |
 | [New Relic](svg/Azure_Marketplace_Liftr_NewRelic/NewRelic.svg) | NewRelic.Observability/ monitors |
+| [Azure Native Lambda Test Cloud Service](svg/Azure_MarketPlace_NativeISVService/LambdaTest.svg) | LambdaTest.HyperExecute/ organizations |
+| [Astro Resource](svg/Azure_MarketPlace_NativeISVService/OrgResource.svg) | Providers.Test/ statefulIbizaEngines3 |
+| [Solarwinds Resource](svg/Azure_MarketPlace_NativeISVService/ExtensionResource2.svg) | Providers.Test/ statefulIbizaEngines2 |
 | [Neon Serverless Postgres Resource](svg/Azure_Marketplace_Neon/NeonResource.svg) | Neon.Postgres/ organizations |
 | [NGINXaaS](svg/Azure_Marketplace_NGINX/Nginx.svg) | NGINX.NGINXPLUS/ nginxDeployments |
 | [Cloud NGFW by Palo Alto Networks](svg/Azure_Marketplace_PaloAltoNetworks_Cloudngfw/PaloAltoNetworksCloudNGFW.svg) | PaloAltoNetworks.Cloudngfw/ firewalls |
@@ -794,8 +797,10 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Database for PostgreSQL - Flexible Server](svg/Microsoft_Azure_OSSDatabases/PostgreSqlFlexibleServer.svg) | Microsoft.DBforPostgreSQL/ flexibleServers |
 | [App Space](svg/Microsoft_Azure_PaasServerless/AppSpaces.svg) | Microsoft.App/ spaces |
 | [Business Process](svg/Microsoft_Azure_PaasServerless/BusinessProcessTracking.svg) | Microsoft.Logic/ businessprocesses |
+| [Durable Task Scheduler](svg/Microsoft_Azure_PaasServerless/DurableTaskScheduler.svg) | Microsoft.DurableTask/ Namespaces |
 | [Integration Environment](svg/Microsoft_Azure_PaasServerless/IntegrationSpace.svg) | Microsoft.IntegrationSpaces/ spaces |
 | [My Resource](svg/Microsoft_Azure_PaasServerless/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
+| [Task Hub](svg/Microsoft_Azure_PaasServerless/TaskHub.svg) | Microsoft.DurableTask/ Namespaces/ TaskHubs |
 | [Peering](svg/Microsoft_Azure_Peering/AzurePeering.svg) | Microsoft.Peering/ peerings |
 | [Peering Service](svg/Microsoft_Azure_Peering/MicrosoftPeeringService.svg) | Microsoft.Peering/ peeringServices |
 | [Peering Service Prefix](svg/Microsoft_Azure_Peering/MicrosoftPeeringServicePrefix.svg) | Microsoft.Peering/ peeringServices/ prefixes |
