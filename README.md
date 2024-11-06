@@ -2,6 +2,10 @@
 
 Extracted from Azure Portal version 14.232.1.114.232.0.102963.241024-0040 on 2024-11-06.
 
+[View icons](https://maskati.github.io/azure-icons/)
+
+[Open in draw.io](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fmaskati%2Fazure-icons%2Frefs%2Fheads%2Fmain%2Fdrawio.xml)
+
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
 | Icon | Type |
