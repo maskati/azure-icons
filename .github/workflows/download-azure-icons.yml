@@ -79,6 +79,7 @@ jobs:
               $svg=$svg -replace "xmlns:svg='http://www.w3.org/2000/svg'","xmlns='http://www.w3.org/2000/svg'"
               $svg=$svg -replace '</svg>',"<style>$iconstyles</style></svg>"
               $svg=$svg -replace '<title></title>',"<title>$([web.httputility]::htmlencode(($_.singularDisplayName -replace "`n",'')))</title><desc>$([web.httputility]::htmlencode(($_.description -replace "`n",' ')))</desc>"
+              [regex]::matches($svg,'url\(#(?<guid>[0-9a-fA-F-]{36})\)')|%{$i=0}{$svg=$svg -replace $_.groups['guid'].value,"definition-$($i++;$i)"}
               [pscustomobject]@{
                 name="$($m)/$($_.name)"
                 svg=$svg
@@ -125,12 +126,39 @@ jobs:
           path: |
             svg/
             index.html
+      # https://github.com/jgraph/drawio-libs?tab=readme-ov-file#library-file-format
+      - name: Compose drawio library
+        shell: pwsh
+        run: |
+          $icondata=gc icon-data.json|convertfrom-json
+          $mxicons=$icondata|%{
+            @{
+              h=50;w=50;
+              aspect='fixed';
+              title=(@($_.singularDisplayName, $_.name, $_.resourcetype)|?{-not [string]::isnullorwhitespace($_)}) -join ' | ';
+              data="data:image/svg+xml;base64,$([convert]::tobase64string([text.encoding]::utf8.getbytes($_.svg)))";
+            }
+          }
+          $mxiconsjson=$mxicons|convertto-json -compress -depth 100
+          $xml=[xml.xmldocument]::new()
+          $mxlibrary=$xml.createelement('mxlibrary')
+          $xml.appendchild($mxlibrary)|out-null
+          $mxlibrary.innertext=$mxiconsjson
+          $xml.outerxml|out-file drawio.xml
+          "Created drawio library of $([math]::round((gi drawio.xml).length/1024/1024, 1))MB" >> $env:GITHUB_STEP_SUMMARY
+      - name: Upload drawio library
+        uses: actions/upload-artifact@v4
+        with:
+          name: drawio
+          compression-level: 9
+          path: |
+            drawio.xml
       - name: Compose Markdown
         shell: pwsh
         run: |
           $icondata=gc icon-data.json|convertfrom-json
           $markdown=$icondata|% `
-            {"# Azure Icons`n`nExtracted from Azure Portal version ${{ steps.src.outputs.pageversion }} on $(get-date -f 'yyyy-MM-dd').`n`nIcons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).`n`n| Icon | Type |`n| --- | --- |"} `
+            {"# Azure Icons`n`nExtracted from Azure Portal version ${{ steps.src.outputs.pageversion }} on $(get-date -f 'yyyy-MM-dd').`n`n[View icons](https://maskati.github.io/azure-icons/)`n`n[Open in draw.io](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fmaskati%2Fazure-icons%2Frefs%2Fheads%2Fmain%2Fdrawio.xml)`n`nIcons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).`n`n| Icon | Type |`n| --- | --- |"} `
             {"| [$($_.singularDisplayName -replace '\[|\]|\|','')](svg/$($_.name).svg) | $($_.resourceType -replace '/','/ ') |"} `
             {""}|out-string
           $markdown|out-file README.md
@@ -162,6 +190,11 @@ jobs:
         with:
           name: markdown
           path: .
+      - name: Download drawio
+        uses: actions/download-artifact@v4
+        with:
+          name: drawio
+          path: .
       - name: Git config as workflow
         run: |
           git config user.name "GitHub Actions (${{ github.workflow }})"
@@ -171,10 +204,16 @@ jobs:
           git add svg/*
           git add index.html
           git add README.md
+          git add drawio.xml
           git diff-index --quiet HEAD || git commit -m 'Update to version ${{ needs.download.outputs.pageversion }}'
       - name: Git push
         run: |
           git push origin main
+      - name: Git tag
+        run: |
+          tag='${{ needs.download.outputs.pageversion }}'
+          git tag $tag
+          git push origin tag $tag
       - name: Trigger publish
         uses: actions/github-script@v7
         with:
