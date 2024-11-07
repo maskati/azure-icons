@@ -77,6 +77,7 @@ jobs:
                 $svg='<svg viewBox="0 0 50 50" xmlns="http://www.w3.org/2000/svg"><text x="0" y="25" class="small">'+$firsticontype+'</text></svg>'
               }
               $svg=$svg -replace "xmlns:svg='http://www.w3.org/2000/svg'","xmlns='http://www.w3.org/2000/svg'"
+              if($svg -match '^<svg([^>]*)>'){if(-not ($matches[1] -match "xmlns='http://www\.w3\.org/2000/svg'")){$svg=$svg -replace "<svg$($matches[1])>","<svg$($matches[1]) xmlns='http://www.w3.org/2000/svg'>"}}
               $svg=$svg -replace '</svg>',"<style>$iconstyles</style></svg>"
               $svg=$svg -replace '<title></title>',"<title>$([web.httputility]::htmlencode(($_.singularDisplayName -replace "`n",'')))</title><desc>$([web.httputility]::htmlencode(($_.description -replace "`n",' ')))</desc>"
               [regex]::matches($svg,'url\(#(?<guid>[0-9a-fA-F-]{36})\)')|%{$i=0}{$svg=$svg -replace $_.groups['guid'].value,"definition-$($i++;$i)"}
