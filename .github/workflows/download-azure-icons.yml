@@ -212,8 +212,8 @@ jobs:
       - name: Git tag
         run: |
           tag='${{ needs.download.outputs.pageversion }}'
-          git tag $tag
-          git push origin tag $tag
+          git tag --force "$tag"
+          git push --force origin tag "$tag"
       - name: Trigger publish
         uses: actions/github-script@v7
         with:
