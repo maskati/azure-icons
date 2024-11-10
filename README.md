@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.232.1.114.232.0.102963.241024-0040 on 2024-11-09.
+Extracted from Azure Portal version 14.232.1.114.232.0.102963.241024-0040 on 2024-11-10.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -363,8 +363,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Provisioning states](svg/Microsoft_Azure_ComputeHub/ProvisioningStateFailedResources.svg) | Microsoft.ComputeHub/ ProvisioningStateFailedResources |
 | [Provisioning states](svg/Microsoft_Azure_ComputeHub/ProvisioningStateSucceededResources.svg) | Microsoft.ComputeHub/ ProvisioningStateSucceededResources |
 | [Windows OS](svg/Microsoft_Azure_ComputeHub/WindowsOSType.svg) | Microsoft.ComputeHub/ WindowsOSType |
-| [Managed CCF App](svg/Microsoft_Azure_ConfidentialLedger/ManagedCCF.svg) | Microsoft.ConfidentialLedger/ ManagedCCFs |
 | [Confidential Ledger](svg/Microsoft_Azure_ConfidentialLedger/ConfidentialLedger.svg) | Microsoft.ConfidentialLedger/ ledgers |
+| [Managed CCF App](svg/Microsoft_Azure_ConfidentialLedger/ManagedCCF.svg) | Microsoft.ConfidentialLedger/ ManagedCCFs |
 | [My Resource](svg/Microsoft_Azure_ConfigManager/ConfigManager.svg) | Providers.Test/ statefulIbizaEngines |
 | [Container registry](svg/Microsoft_Azure_ContainerRegistries/RegistryResource.svg) | Microsoft.ContainerRegistry/ registries |
 | [Container registry replication](svg/Microsoft_Azure_ContainerRegistries/ReplicationResource.svg) | Microsoft.ContainerRegistry/ registries/ replications |
@@ -1068,7 +1068,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Log Analytics workspace](svg/Microsoft_OperationsManagementSuite_Workspace/Workspace.svg) | Microsoft.OperationalInsights/ workspaces |
 | [Log Analytics query pack](svg/Microsoft_OperationsManagementSuite_Workspace/QueryPack.svg) | Microsoft.OperationalInsights/ querypacks |
 | [Genomics account](svg/Microsoft_Research_Genomics/GenomicsAccountAsset.svg) | Microsoft.Genomics/ accounts |
-| [Microsoft Copilot for Security compute capacity](svg/Microsoft_Security_Copilot/SecurityCopilotResource.svg) | Microsoft.SecurityCopilot/ capacities |
+| [Microsoft Security Copilot compute capacity](svg/Microsoft_Security_Copilot/SecurityCopilotResource.svg) | Microsoft.SecurityCopilot/ capacities |
 | [Services Hub Connector](svg/Microsoft_ServicesHub_Extension/Connector.svg) | Microsoft.ServicesHub/ connectors |
 | [Azure AI Video Indexer](svg/Microsoft_VideoIndexer/VideoIndexerAccount.svg) | Microsoft.VideoIndexer/ accounts |
 | [Autonomous Database](svg/Oracle_Databases_At_Azure/oracle_adbs.svg) | oracle.database/ autonomousdatabases |
