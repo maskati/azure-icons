@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.232.1.114.232.0.102963.241024-0040 on 2024-11-11.
+Extracted from Azure Portal version 14.232.1.114.232.0.102963.241024-0040 on 2024-11-12.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -32,7 +32,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Logz sub account](svg/Azure_Marketplace_Liftr_Logz/LogzSubAccount.svg) | Microsoft.Logz/ monitors/ accounts |
 | [New Relic](svg/Azure_Marketplace_Liftr_NewRelic/NewRelic.svg) | NewRelic.Observability/ monitors |
 | [Azure Native ArizeAi Cloud Service](svg/Azure_MarketPlace_NativeISVService/ArizeAi.svg) | ArizeAi.ObservabilityEval/ organizations |
-| [Azure Native Lambda Test Cloud Service](svg/Azure_MarketPlace_NativeISVService/LambdaTest.svg) | LambdaTest.HyperExecute/ organizations |
+| [Azure Native LambdaTest Cloud Service](svg/Azure_MarketPlace_NativeISVService/LambdaTest.svg) | LambdaTest.HyperExecute/ organizations |
 | [Azure Native Pinecone Cloud Service](svg/Azure_MarketPlace_NativeISVService/Pinecone.svg) | Pinecone.VectorDb/ organizations |
 | [Astro Resource](svg/Azure_MarketPlace_NativeISVService/OrgResource.svg) | Providers.Test/ statefulIbizaEngines3 |
 | [Solarwinds Resource](svg/Azure_MarketPlace_NativeISVService/ExtensionResource2.svg) | Providers.Test/ statefulIbizaEngines2 |
@@ -434,7 +434,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Dev center plan](svg/Microsoft_Azure_DevCenter/Plan.svg) | Microsoft.DevCenter/ plans |
 | [Pool](svg/Microsoft_Azure_DevCenter/Pools.svg) | Microsoft.DevCenter/ projects/ pools |
 | [Project](svg/Microsoft_Azure_DevCenter/Project.svg) | Microsoft.DevCenter/ projects |
-| [IoT Asset (Preview)](svg/Microsoft_Azure_DeviceRegistry/assets.svg) | microsoft.deviceregistry/ assets |
+| [IoT Asset](svg/Microsoft_Azure_DeviceRegistry/assets.svg) | microsoft.deviceregistry/ assets |
 | [IoT Device](svg/Microsoft_Azure_DeviceRegistry/devices.svg) | microsoft.deviceregistry/ devices |
 | [Device Update Active Deployment](svg/Microsoft_Azure_DeviceUpdate/activeDeployment.svg) | Microsoft.DeviceUpdate/ updateAccounts/ activeDeployments |
 | [Device Update Agent](svg/Microsoft_Azure_DeviceUpdate/agent.svg) | Microsoft.DeviceUpdate/ updateAccounts/ agents |
