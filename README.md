@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.232.1.114.232.0.102963.241024-0040 on 2024-11-13.
+Extracted from Azure Portal version 14.232.1.114.232.0.102963.241024-0040 on 2024-11-14.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -365,7 +365,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Windows OS](svg/Microsoft_Azure_ComputeHub/WindowsOSType.svg) | Microsoft.ComputeHub/ WindowsOSType |
 | [Confidential Ledger](svg/Microsoft_Azure_ConfidentialLedger/ConfidentialLedger.svg) | Microsoft.ConfidentialLedger/ ledgers |
 | [Managed CCF App](svg/Microsoft_Azure_ConfidentialLedger/ManagedCCF.svg) | Microsoft.ConfidentialLedger/ ManagedCCFs |
-| [My Resource](svg/Microsoft_Azure_ConfigManager/ConfigManager.svg) | Providers.Test/ statefulIbizaEngines |
+| [Solution Manager](svg/Microsoft_Azure_ConfigManager/ConfigManager.svg) |  |
 | [Container registry](svg/Microsoft_Azure_ContainerRegistries/RegistryResource.svg) | Microsoft.ContainerRegistry/ registries |
 | [Container registry replication](svg/Microsoft_Azure_ContainerRegistries/ReplicationResource.svg) | Microsoft.ContainerRegistry/ registries/ replications |
 | [Container registry scope map](svg/Microsoft_Azure_ContainerRegistries/ScopeMapResource.svg) | Microsoft.ContainerRegistry/ registries/ scopeMaps |
