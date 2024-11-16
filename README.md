@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.232.1.114.232.0.102963.241024-0040 on 2024-11-15.
+Extracted from Azure Portal version 14.232.1.114.232.0.102963.241024-0040 on 2024-11-16.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -16,7 +16,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Workbook](svg/AppInsightsExtension/Workbooks.svg) | microsoft.insights/ workbooks |
 | [Azure Workbook Template](svg/AppInsightsExtension/WorkbookTemplates.svg) | microsoft.insights/ workbooktemplates |
 | [Azure Spring Apps](svg/AppPlatformExtension/AppPlatformAsset.svg) | Microsoft.AppPlatform/ Spring |
-| [Redis Enterprise cluster](svg/AzureCacheExtension/RedisEnterpriseAsset.svg) | Microsoft.Cache/ RedisEnterprise |
 | [Redis Enterprise database](svg/AzureCacheExtension/RedisEnterpriseDatabaseAsset.svg) | Microsoft.Cache/ RedisEnterprise/ Databases |
 | [Azure Cache for Redis](svg/AzureCacheExtension/CacheAsset.svg) | Microsoft.Cache/ Redis |
 | [Azure DevOps organization](svg/AzureTfsExtension/Account.svg) |  |
@@ -1058,7 +1057,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Users](svg/Microsoft_Intune_MTM/UsersAsset.svg) |  |
 | [Security Baselines](svg/Microsoft_Intune_Workflows/SecurityBaselineAsset.svg) |  |
 | [Endpoint security](svg/Microsoft_Intune_Workflows/SecurityManagementAsset.svg) |  |
-| [Manufacturing Data Solutions](svg/Microsoft_ManufacturingPlatform_DMM/DataManagerForManufacturing.svg) | Microsoft.ManufacturingPlatform/ ManufacturingDataServices |
+| [Factory Operations Agent in Azure AI](svg/Microsoft_ManufacturingPlatform_DMM/DataManagerForManufacturing.svg) | Microsoft.ManufacturingPlatform/ ManufacturingDataServices |
 | [My Resource](svg/Microsoft_Marketplace_SolutionFinder/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Skylarc](svg/Microsoft_OneFleet_DataHub/Skylark.svg) |  |
 | [Grip](svg/Microsoft_OneFleet_DataHub/Grip.svg) |  |
