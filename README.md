@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.232.1.114.232.0.102963.241024-0040 on 2024-11-21.
+Extracted from Azure Portal version 14.232.1.114.232.0.102963.241024-0040 on 2024-11-22.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -58,10 +58,10 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Deployment](svg/HubsExtension/Deployments.svg) |  |
 | [Resource group](svg/HubsExtension/ResourceGroups.svg) | Microsoft.Resources/ subscriptions/ resourceGroups |
 | [Tag](svg/HubsExtension/Tag.svg) |  |
-| [B2C Tenant](svg/Microsoft_AAD_B2CAdmin/B2CTenant.svg) | Microsoft.AzureActiveDirectory/ b2cDirectories |
-| [External Configuration Tenant](svg/Microsoft_AAD_B2CAdmin/CIAMTenant.svg) | Microsoft.AzureActiveDirectory/ ciamDirectories |
-| [Guest Usage](svg/Microsoft_AAD_B2CAdmin/GuestUsages.svg) | Microsoft.AzureActiveDirectory/ guestUsages |
 | [Azure AD B2C](svg/Microsoft_AAD_B2CAdmin/RootAsset.svg) |  |
+| [Guest Usage](svg/Microsoft_AAD_B2CAdmin/GuestUsages.svg) | Microsoft.AzureActiveDirectory/ guestUsages |
+| [External Configuration Tenant](svg/Microsoft_AAD_B2CAdmin/CIAMTenant.svg) | Microsoft.AzureActiveDirectory/ ciamDirectories |
+| [B2C Tenant](svg/Microsoft_AAD_B2CAdmin/B2CTenant.svg) | Microsoft.AzureActiveDirectory/ b2cDirectories |
 | [Microsoft Entra Conditional Access](svg/Microsoft_AAD_ConditionalAccess/PolicyRootAsset.svg) |  |
 | [Microsoft Entra Authentication Strengths](svg/Microsoft_AAD_ConditionalAccess/AuthenticationStrengthsRootAsset.svg) |  |
 | [Microsoft Entra Named locations](svg/Microsoft_AAD_ConditionalAccess/NamedLocationsRootAsset.svg) |  |
