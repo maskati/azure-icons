@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.232.1.114.232.0.102963.241024-0040 on 2024-11-22.
+Extracted from Azure Portal version 14.232.1.114.232.0.102963.241024-0040 on 2024-11-23.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -382,12 +382,12 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [GitOps configuration](svg/Microsoft_Azure_ContainerService/ManagedClustersGitOpsConfiguration.svg) | Microsoft.ContainerService/ managedClusters/ Microsoft.KubernetesConfiguration/ fluxConfigurations |
 | [Container storage](svg/Microsoft_Azure_ContainerStorage/ContainerStorage.svg) | Microsoft.ContainerStorage/ pools |
 | [Copilot in Azure admin center](svg/Microsoft_Azure_Copilot/CopilotSettingsAsset.svg) |  |
-| [Budgets](svg/Microsoft_Azure_CostManagement/Budgets.svg) |  |
-| [Cost Management for AWS](svg/Microsoft_Azure_CostManagement/Connectors.svg) |  |
-| [Cost alerts](svg/Microsoft_Azure_CostManagement/CostAlerts.svg) |  |
-| [Cost analysis](svg/Microsoft_Azure_CostManagement/CostAnalysis.svg) |  |
-| [Cost Management](svg/Microsoft_Azure_CostManagement/CostManagement.svg) |  |
 | [Cost exports](svg/Microsoft_Azure_CostManagement/Exports.svg) |  |
+| [Cost Management](svg/Microsoft_Azure_CostManagement/CostManagement.svg) |  |
+| [Cost analysis](svg/Microsoft_Azure_CostManagement/CostAnalysis.svg) |  |
+| [Cost alerts](svg/Microsoft_Azure_CostManagement/CostAlerts.svg) |  |
+| [Cost Management for AWS](svg/Microsoft_Azure_CostManagement/Connectors.svg) |  |
+| [Budgets](svg/Microsoft_Azure_CostManagement/Budgets.svg) |  |
 | [Deploy a custom template](svg/Microsoft_Azure_CreateUIDef/CustomTemplate.svg) |  |
 | [Deployment Stack](svg/Microsoft_Azure_CreateUIDef/DeploymentStack.svg) |  |
 | [Extension Deployment](svg/Microsoft_Azure_CreateUIDef/PortalExtensionDeployments.svg) | Microsoft.PortalServices/ Extensions/ Deployments |
@@ -877,23 +877,23 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Savings plan order](svg/Microsoft_Azure_Reservations/SavingsPlanOrderAsset.svg) | Microsoft.Billing/ billingAccounts/ savingsPlanOrders |
 | [Savings plan order](svg/Microsoft_Azure_Reservations/SavingsPlanOrderServiceAdminAsset.svg) | Microsoft.BillingBenefits/ savingsPlanOrders |
 | [Azure Resource Mover](svg/Microsoft_Azure_ResourceMove/AzureResourceMoveHub.svg) |  |
-| [Preview features](svg/Microsoft_Azure_Resources/PreviewFeatures.svg) |  |
-| [Preview features](svg/Microsoft_Azure_Resources/PreviewFeaturesArg.svg) | microsoft.features/ featureprovidernamespaces/ featureconfigurations |
-| [API Playground](svg/Microsoft_Azure_Resources/APIPlayground.svg) |  |
-| [Rollout](svg/Microsoft_Azure_Resources/Rollout.svg) | Microsoft.DeploymentManager/ Rollouts |
-| [Deployment stack](svg/Microsoft_Azure_Resources/Stack.svg) | Microsoft.Resources/ deploymentStacks |
-| [Deployment stack](svg/Microsoft_Azure_Resources/StackManagementGroup.svg) | Microsoft.Management/ managementGroups/ Microsoft.Resources/ deploymentStacks |
-| [Deployment](svg/Microsoft_Azure_Resources/Deployment.svg) |  |
-| [Azure Data Boundary](svg/Microsoft_Azure_Resources/AzureDataBoundary.svg) |  |
-| [GitHub](svg/Microsoft_Azure_Resources/GitHub.svg) |  |
-| [Management group](svg/Microsoft_Azure_Resources/ManagementGroups.svg) |  |
-| [Operation log (classic)](svg/Microsoft_Azure_Resources/OperationLog.svg) |  |
-| [Quickstart Center](svg/Microsoft_Azure_Resources/Quickstart.svg) |  |
-| [Recycle Bin](svg/Microsoft_Azure_Resources/DeletedResources.svg) | Microsoft.Resources/ deletedResources |
-| [Resource change](svg/Microsoft_Azure_Resources/ResourceChanges.svg) | Microsoft.Resources/ resourceChanges |
-| [Resource Manager](svg/Microsoft_Azure_Resources/ResourceManager.svg) |  |
-| [User privacy](svg/Microsoft_Azure_Resources/UserPrivacy.svg) |  |
 | [What's new](svg/Microsoft_Azure_Resources/WhatsNew.svg) |  |
+| [User privacy](svg/Microsoft_Azure_Resources/UserPrivacy.svg) |  |
+| [Resource Manager](svg/Microsoft_Azure_Resources/ResourceManager.svg) |  |
+| [Resource change](svg/Microsoft_Azure_Resources/ResourceChanges.svg) | Microsoft.Resources/ resourceChanges |
+| [Recycle Bin](svg/Microsoft_Azure_Resources/DeletedResources.svg) | Microsoft.Resources/ deletedResources |
+| [Quickstart Center](svg/Microsoft_Azure_Resources/Quickstart.svg) |  |
+| [Operation log (classic)](svg/Microsoft_Azure_Resources/OperationLog.svg) |  |
+| [Management group](svg/Microsoft_Azure_Resources/ManagementGroups.svg) |  |
+| [GitHub](svg/Microsoft_Azure_Resources/GitHub.svg) |  |
+| [Azure Data Boundary](svg/Microsoft_Azure_Resources/AzureDataBoundary.svg) |  |
+| [Deployment](svg/Microsoft_Azure_Resources/Deployment.svg) |  |
+| [Deployment stack](svg/Microsoft_Azure_Resources/StackManagementGroup.svg) | Microsoft.Management/ managementGroups/ Microsoft.Resources/ deploymentStacks |
+| [Deployment stack](svg/Microsoft_Azure_Resources/Stack.svg) | Microsoft.Resources/ deploymentStacks |
+| [Rollout](svg/Microsoft_Azure_Resources/Rollout.svg) | Microsoft.DeploymentManager/ Rollouts |
+| [API Playground](svg/Microsoft_Azure_Resources/APIPlayground.svg) |  |
+| [Preview features](svg/Microsoft_Azure_Resources/PreviewFeaturesArg.svg) | microsoft.features/ featureprovidernamespaces/ featureconfigurations |
+| [Preview features](svg/Microsoft_Azure_Resources/PreviewFeatures.svg) |  |
 | [Microsoft SaaS (Preview)](svg/Microsoft_Azure_SaasHub/SaaSHub.svg) | Microsoft.SaaSHub/ cloudServices/ hidden |
 | [Azure Large Instance](svg/Microsoft_Azure_SapHanaInstances/AzureLargeInstance.svg) | Microsoft.AzureLargeInstance/ azureLargeInstances |
 | [BareMetal Instance](svg/Microsoft_Azure_SapHanaInstances/BareMetalInstance.svg) | Microsoft.BareMetalInfrastructure/ bareMetalInstances |
