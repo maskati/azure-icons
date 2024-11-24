@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.232.1.114.232.0.102963.241024-0040 on 2024-11-23.
+Extracted from Azure Portal version 14.232.1.114.232.0.102963.241024-0040 on 2024-11-24.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -644,12 +644,12 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Virtual Network Manager](svg/Microsoft_Azure_ManagedNetwork/VirtualNetworkManager.svg) |  |
 | [Managed Identity](svg/Microsoft_Azure_ManagedServiceIdentity/UserAssignedIdentity.svg) | Microsoft.ManagedIdentity/ userAssignedIdentities |
 | [kubernetes 1 - Azure Arc](svg/Microsoft_Azure_ManagedStorageClass/ConnectedClusterWithStorageClassPlus.svg) | microsoft.kubernetes/ connectedClusters |
-| [Marketplace](svg/Microsoft_Azure_Marketplace/Gallery.svg) |  |
-| [Marketplace](svg/Microsoft_Azure_Marketplace/StoreGallery.svg) |  |
-| [Template](svg/Microsoft_Azure_Marketplace/GalleryRpItem.svg) | Microsoft.Gallery/ myareas/ galleryitems |
-| [SaaS (classic)](svg/Microsoft_Azure_Marketplace/Saas.svg) | Microsoft.SaaS/ saasresources |
-| [Software as a Service (classic)](svg/Microsoft_Azure_Marketplace/SaasClassic.svg) | Microsoft.SaaS/ applications |
 | [SaaS](svg/Microsoft_Azure_Marketplace/SaasSubscriptionLevel.svg) | Microsoft.SaaS/ resources |
+| [Software as a Service (classic)](svg/Microsoft_Azure_Marketplace/SaasClassic.svg) | Microsoft.SaaS/ applications |
+| [SaaS (classic)](svg/Microsoft_Azure_Marketplace/Saas.svg) | Microsoft.SaaS/ saasresources |
+| [Template](svg/Microsoft_Azure_Marketplace/GalleryRpItem.svg) | Microsoft.Gallery/ myareas/ galleryitems |
+| [Marketplace](svg/Microsoft_Azure_Marketplace/StoreGallery.svg) |  |
+| [Marketplace](svg/Microsoft_Azure_Marketplace/Gallery.svg) |  |
 | [Professional Service](svg/Microsoft_Azure_MarketplaceTransact/ProfessionalService.svg) | Microsoft.ProfessionalService/ resources |
 | [Media service](svg/Microsoft_Azure_Media/MediaServiceAccount.svg) | microsoft.media/ mediaservices |
 | [Azure Migrate](svg/Microsoft_Azure_Migrate/AzureMigrationHub.svg) |  |
