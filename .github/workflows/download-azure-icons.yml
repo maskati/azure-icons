@@ -133,7 +133,7 @@ jobs:
         run: |
           $icondata=gc icon-data.json|convertfrom-json
           $mxicons=$icondata|%{
-            @{
+            [ordered]@{
               h=50;w=50;
               aspect='fixed';
               title=(@($_.singularDisplayName, $_.name, $_.resourcetype)|?{-not [string]::isnullorwhitespace($_)}) -join ' | ';
@@ -203,18 +203,18 @@ jobs:
       - name: Git add and commit if changed
         run: |
           git add svg/*
-          git add index.html
-          git add README.md
-          git add drawio.xml
-          git diff-index --quiet HEAD || git commit -m 'Update to version ${{ needs.download.outputs.pageversion }}'
+          git diff-index --quiet HEAD || ( \
+            git add index.html README.md drawio.xml && \
+            git commit -m 'Update to version ${{ needs.download.outputs.pageversion }}' \
+          )
       - name: Git push
         run: |
           git push origin main
       - name: Git tag
         run: |
-          tag='${{ needs.download.outputs.pageversion }}'
-          git tag --force "$tag"
-          git push --force origin tag "$tag"
+          tag=$(date +'%Y-%m-%dT%H%M%S')
+          git tag "$tag"
+          git push origin tag "$tag"
       - name: Trigger publish
         uses: actions/github-script@v7
         with:
