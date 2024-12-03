@@ -203,10 +203,9 @@ jobs:
       - name: Git add and commit if changed
         run: |
           git add svg/*
-          git diff-index --quiet HEAD || ( \
+          git diff-index --quiet HEAD || \
             git add index.html README.md drawio.xml && \
-            git commit -m 'Update to version ${{ needs.download.outputs.pageversion }} with hash ${{ needs.download.outputs.confighash }}' \
-          )
+            (git diff-index --quiet HEAD || git commit -m 'Update to version ${{ needs.download.outputs.pageversion }} with hash ${{ needs.download.outputs.confighash }}')
       - name: Git push
         run: |
           git push origin ${{ github.ref_name }}
