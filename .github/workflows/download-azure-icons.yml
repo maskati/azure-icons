@@ -205,7 +205,7 @@ jobs:
           git add svg/*
           git diff-index --quiet HEAD || ( \
             git add index.html README.md drawio.xml && \
-            git commit -m 'Update to version ${{ needs.download.outputs.pageversion }}' \
+            git commit -m 'Update to version ${{ needs.download.outputs.pageversion }} with hash ${{ needs.download.outputs.confighash }}' \
           )
       - name: Git push
         run: |
