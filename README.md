@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.232.1.114.232.0.102963.241024-0040 on 2024-12-04.
+Extracted from Azure Portal version 14.232.1.114.232.0.102963.241024-0040 on 2024-12-05.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -904,8 +904,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Center for SAP solutions](svg/Microsoft_Azure_SAPManagement/SAPOnAzure.svg) |  |
 | [Virtual Instance for SAP solutions](svg/Microsoft_Azure_SAPManagement/SapVirtualInstanceAsset.svg) | Microsoft.Workloads/ sapVirtualInstances |
 | [Search service](svg/Microsoft_Azure_Search/SearchService.svg) | Microsoft.Search/ searchServices |
-| [Security Alert](svg/Microsoft_Azure_Security/SecurityAlerts.svg) | microsoft.security/ locations/ alerts |
 | [Microsoft Defender for Cloud](svg/Microsoft_Azure_Security/SecurityDashboard.svg) |  |
+| [Security Alert](svg/Microsoft_Azure_Security/SecurityAlerts.svg) | microsoft.security/ locations/ alerts |
 | [Microsoft Sentinel](svg/Microsoft_Azure_Security_Insights/Entity.svg) |  |
 | [Microsoft Sentinel incident](svg/Microsoft_Azure_Security_Insights/Incident.svg) |  |
 | [Microsoft Sentinel](svg/Microsoft_Azure_Security_Insights/SecurityInsightsDashboard.svg) | microsoft.securityinsightsarg/ sentinel |
