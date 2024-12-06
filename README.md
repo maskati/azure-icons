@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.232.1.114.232.0.102963.241024-0040 on 2024-12-05.
+Extracted from Azure Portal version 14.232.1.114.232.0.102963.241024-0040 on 2024-12-06.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -963,6 +963,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Microsoft.UsageBilling accounts pav2output](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_pav2outputs_2023_12_01_preview.svg) | microsoft.usagebilling/ accounts/ pav2outputs |
 | [Microsoft.UsageBilling accounts pipeline](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_pipelines_2023_12_01_preview.svg) | microsoft.usagebilling/ accounts/ pipelines |
 | [Microsoft.UsageBilling accounts pipelines output selector](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_pipelines_outputselectors_2023_12_01_preview.svg) | microsoft.usagebilling/ accounts/ pipelines/ outputselectors |
+| [Approval](svg/Microsoft_Azure_VirtualEnclaves/Approvals.svg) | Microsoft.Mission/ approvals |
 | [Azure Virtual Enclave](svg/Microsoft_Azure_VirtualEnclaves/AzureVirtualEnclave.svg) |  |
 | [Catalog](svg/Microsoft_Azure_VirtualEnclaves/Catalog.svg) | Microsoft.Mission/ catalogs |
 | [Community](svg/Microsoft_Azure_VirtualEnclaves/Community.svg) | Microsoft.Mission/ communities |
