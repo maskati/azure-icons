@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.232.1.114.232.0.102963.241024-0040 on 2024-12-09.
+Extracted from Azure Portal version 14.232.1.114.232.0.102963.241024-0040 on 2024-12-10.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -220,14 +220,15 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [App registration](svg/Microsoft_AAD_RegisteredApps/RegisteredApps.svg) |  |
 | [EngageHub Portal](svg/Microsoft_AzureCXP_EngageHub/EngageHubPortalMenu.svg) |  |
 | [Azure Stack  Preview](svg/Microsoft_AzureStackHCI_PortalExtension/AzureEdgeNodePool.svg) | Microsoft.AzureStackHCI/ edgeNodePools |
-| [Azure Stack HCI](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCI.svg) |  |
-| [Azure Stack HCI Gallery image](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCIGalleryImage.svg) | Microsoft.AzureStackHCI/ galleryImages |
-| [Azure Stack HCI Logical network](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCILogicalNetwork.svg) | Microsoft.AzureStackHCI/ logicalnetworks |
-| [Azure Stack HCI Marketplace Gallery image](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCIMarketplaceGalleryImage.svg) | Microsoft.AzureStackHCI/ marketplacegalleryImages |
-| [Azure Stack HCI VM Network Interface](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCINetworkInterface.svg) | Microsoft.AzureStackHCI/ NetworkInterfaces |
-| [Azure Stack HCI](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCIResource.svg) | Microsoft.AzureStackHCI/ clusters |
-| [Azure Stack HCI Storage path](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCIStoragePath.svg) | Microsoft.AzureStackHCI/ storagecontainers |
-| [Azure Stack HCI Virtual Machine - Azure Arc](svg/Microsoft_AzureStackHCI_PortalExtension/HCIVirtualMachines.svg) | Microsoft.All/ hciVirtualMachines |
+| [Azure Local](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCI.svg) |  |
+| [Azure Local Gallery image](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCIGalleryImage.svg) | Microsoft.AzureStackHCI/ galleryImages |
+| [Azure Local Logical network](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCILogicalNetwork.svg) | Microsoft.AzureStackHCI/ logicalnetworks |
+| [Azure Local Marketplace Gallery image](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCIMarketplaceGalleryImage.svg) | Microsoft.AzureStackHCI/ marketplacegalleryImages |
+| [Azure Local VM Network Interface](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCINetworkInterface.svg) | Microsoft.AzureStackHCI/ NetworkInterfaces |
+| [Azure Local Network Security Group ](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCINetworkSecurityGroup.svg) | Microsoft.AzureStackHCI/ networkSecurityGroups |
+| [Azure Local](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCIResource.svg) | Microsoft.AzureStackHCI/ clusters |
+| [Azure Local Storage path](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCIStoragePath.svg) | Microsoft.AzureStackHCI/ storagecontainers |
+| [Azure Local Virtual Machine - Azure Arc](svg/Microsoft_AzureStackHCI_PortalExtension/HCIVirtualMachines.svg) | Microsoft.All/ hciVirtualMachines |
 | [Edge Center](svg/Microsoft_AzureStackHCI_PortalExtension/EdgeCenter.svg) |  |
 | [AszLabHardware Lab Server](svg/Microsoft_AzureStack_LabHardware/LabServers.svg) | private.aszlabhardware/ labservers |
 | [AszLabHardware Reservation](svg/Microsoft_AzureStack_LabHardware/Reservations.svg) | private.aszlabhardware/ reservations |
