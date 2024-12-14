@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.232.2.114.232.0.192030.241204-1800 on 2024-12-13.
+Extracted from Azure Portal version 14.232.2.114.232.0.192030.241204-1800 on 2024-12-14.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -561,7 +561,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Arc enabled resources](svg/Microsoft_Azure_HybridCompute/AllArcResources.svg) | Microsoft.Arc/ all |
 | [Azure Arc enabled resources](svg/Microsoft_Azure_HybridCompute/AllArcResourcesFairfax.svg) | Microsoft.Arc/ allFairfax |
 | [Azure Arc](svg/Microsoft_Azure_HybridCompute/AzureArcCenter.svg) |  |
-| [Azure Stack HCI virtual machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/AzureStackHci.svg) | Microsoft.AzureStackHci/ virtualMachines |
+| [Azure Local virtual machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/AzureStackHci.svg) | Microsoft.AzureStackHci/ virtualMachines |
 | [Custom location](svg/Microsoft_Azure_HybridCompute/CustomLocation.svg) | Microsoft.ExtendedLocation/ CustomLocations |
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/ArcServerWithWac.svg) | Microsoft.HybridCompute/ arcServerWithWac |
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/HybridCompute.svg) | Microsoft.HybridCompute/ machines |
