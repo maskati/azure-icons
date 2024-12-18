@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.232.2.114.232.0.192030.241204-1800 on 2024-12-17.
+Extracted from Azure Portal version 14.232.2.114.232.0.192030.241204-1800 on 2024-12-18.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -552,7 +552,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Health Model (preview)](svg/Microsoft_Azure_HealthModels/AzureHealthModel.svg) | Microsoft.HealthModel/ healthmodels |
 | [Resource bridge](svg/Microsoft_Azure_HybridCompute/ResourceBridge.svg) | Microsoft.ResourceConnector/ Appliances |
 | [Azure Arc Kubernetes cluster](svg/Microsoft_Azure_HybridCompute/ArcK8Resources.svg) | Microsoft.Arc/ kubernetesResources |
-| [Azure Arc Kubernetes cluster](svg/Microsoft_Azure_HybridCompute/ArcK8ResourcesFairfax.svg) | Microsoft.Arc/ kubernetesResourcesFairfax |
 | [Kubernetes - Azure Arc](svg/Microsoft_Azure_HybridCompute/ConnectedClusters.svg) | Microsoft.Kubernetes/ connectedClusters |
 | [Kubernetes - Azure Arc extension](svg/Microsoft_Azure_HybridCompute/ConnectedClusterExtension.svg) | Microsoft.Kubernetes/ connectedClusters/ Microsoft.KubernetesConfiguration/ extensions |
 | [Kubernetes hybrid - Azure Arc](svg/Microsoft_Azure_HybridCompute/ProvisionedCluster.svg) | Microsoft.HybridContainerService/ provisionedClusters |
