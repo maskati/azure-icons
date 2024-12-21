@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.232.2.114.232.0.192030.241204-1800 on 2024-12-20.
+Extracted from Azure Portal version 14.232.2.114.232.0.192030.241204-1800 on 2024-12-21.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -24,7 +24,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Confluent organization](svg/Azure_Marketplace_Confluent/Confluent.svg) | Microsoft.Confluent/ organizations |
 | [Datadog](svg/Azure_Marketplace_Datadog/Datadog.svg) | Microsoft.Datadog/ monitors |
 | [Dell APEX File Storage, An Azure Native Service](svg/Azure_Marketplace_Dell/Azure_Microsoft_Dell.svg) | Dell.Storage/ filesystems |
-| [Dynatrace](svg/Azure_Marketplace_Dynatrace/Dynatrace.svg) | Dynatrace.Observability/ monitors |
 | [Elastic](svg/Azure_Marketplace_Elastic/Elastic.svg) | Microsoft.Elastic/ monitors |
 | [Informatica Organization](svg/Azure_Marketplace_Informatica/Informatica.svg) | Informatica.DataManagement/ organizations |
 | [Logz.io](svg/Azure_Marketplace_Liftr_Logz/Logz.svg) | Microsoft.Logz/ monitors |
@@ -36,7 +35,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Astro Resource](svg/Azure_MarketPlace_NativeISVService/OrgResource.svg) | Providers.Test/ statefulIbizaEngines3 |
 | [Solarwinds Resource](svg/Azure_MarketPlace_NativeISVService/ExtensionResource2.svg) | Providers.Test/ statefulIbizaEngines2 |
 | [Azure Native WeightsAndBiases Cloud Service](svg/Azure_MarketPlace_NativeISVService/WeightsAndBiases.svg) | Microsoft.WeightsAndBiases/ instances |
-| [Neon Serverless Postgres Organization](svg/Azure_Marketplace_Neon/NeonResource.svg) | Neon.Postgres/ organizations |
+| [Neon Serverless Postgres Resource](svg/Azure_Marketplace_Neon/NeonResource.svg) | Neon.Postgres/ organizations |
 | [NGINXaaS](svg/Azure_Marketplace_NGINX/Nginx.svg) | NGINX.NGINXPLUS/ nginxDeployments |
 | [Cloud NGFW by Palo Alto Networks](svg/Azure_Marketplace_PaloAltoNetworks_Cloudngfw/PaloAltoNetworksCloudNGFW.svg) | PaloAltoNetworks.Cloudngfw/ firewalls |
 | [Global Rulestack](svg/Azure_Marketplace_PaloAltoNetworks_Cloudngfw/PaloAltoNetworksGlobalRulestack.svg) | PaloAltoNetworks.Cloudngfw/ globalRulestacks |
@@ -655,16 +654,17 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Migrate](svg/Microsoft_Azure_Migrate/AzureMigrationHub.svg) |  |
 | [Migration project](svg/Microsoft_Azure_Migrate/MigrationProject.svg) | Microsoft.Migrate/ projects |
 | [Migrate Assessment](svg/Microsoft_Azure_MigrateAssessment/MigrateAssessmentResource.svg) | Providers.Test/ statefulIbizaEngines |
-| [Machine learning online deployment](svg/Microsoft_Azure_MLTeamAccounts/OnlineEndpointDeployment.svg) | Microsoft.MachineLearningServices/ workspaces/ onlineEndpoints/ deployments |
-| [Machine learning online endpoint](svg/Microsoft_Azure_MLTeamAccounts/OnlineEndpoint.svg) | Microsoft.MachineLearningServices/ workspaces/ onlineEndpoints |
-| [Azure Machine Learning registry](svg/Microsoft_Azure_MLTeamAccounts/Registry.svg) | Microsoft.MachineLearningServices/ registries |
-| [Azure AI Studio](svg/Microsoft_Azure_MLTeamAccounts/AIStudio.svg) | Microsoft.MachineLearningServices/ aistudio |
-| [Cohere](svg/Microsoft_Azure_MLTeamAccounts/Cohere.svg) |  |
-| [Core42](svg/Microsoft_Azure_MLTeamAccounts/Core42.svg) |  |
-| [Llama2](svg/Microsoft_Azure_MLTeamAccounts/Llama2.svg) |  |
-| [Azure Machine Learning workspace](svg/Microsoft_Azure_MLTeamAccounts/MachineLearningServices.svg) | Microsoft.MachineLearningServices/ workspaces |
-| [Mistral](svg/Microsoft_Azure_MLTeamAccounts/Mistral.svg) |  |
+| [Nixtla](svg/Microsoft_Azure_MLTeamAccounts/Nixtla.svg) |  |
 | [Model Provider](svg/Microsoft_Azure_MLTeamAccounts/ModelProvider.svg) |  |
+| [Mistral](svg/Microsoft_Azure_MLTeamAccounts/Mistral.svg) |  |
+| [Azure Machine Learning workspace](svg/Microsoft_Azure_MLTeamAccounts/MachineLearningServices.svg) | Microsoft.MachineLearningServices/ workspaces |
+| [Llama2](svg/Microsoft_Azure_MLTeamAccounts/Llama2.svg) |  |
+| [Core42](svg/Microsoft_Azure_MLTeamAccounts/Core42.svg) |  |
+| [Cohere](svg/Microsoft_Azure_MLTeamAccounts/Cohere.svg) |  |
+| [Azure AI Foundry](svg/Microsoft_Azure_MLTeamAccounts/AIStudio.svg) | Microsoft.MachineLearningServices/ aistudio |
+| [Azure Machine Learning registry](svg/Microsoft_Azure_MLTeamAccounts/Registry.svg) | Microsoft.MachineLearningServices/ registries |
+| [Machine learning online endpoint](svg/Microsoft_Azure_MLTeamAccounts/OnlineEndpoint.svg) | Microsoft.MachineLearningServices/ workspaces/ onlineEndpoints |
+| [Machine learning online deployment](svg/Microsoft_Azure_MLTeamAccounts/OnlineEndpointDeployment.svg) | Microsoft.MachineLearningServices/ workspaces/ onlineEndpoints/ deployments |
 | [Chamber](svg/Microsoft_Azure_ModSimWorkbench/SdwChamberResource.svg) | Microsoft.ModSimWorkbench/ workbenches/ chambers |
 | [Chamber Data Pipeline File](svg/Microsoft_Azure_ModSimWorkbench/SdwChamberDataPipelineFileResource.svg) | Microsoft.ModSimWorkbench/ workbenches/ chambers/ files |
 | [Chamber Data Pipeline File Request](svg/Microsoft_Azure_ModSimWorkbench/SdwChamberDataPipelineFileRequestResource.svg) | Microsoft.ModSimWorkbench/ workbenches/ chambers/ fileRequests |
@@ -1020,15 +1020,15 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [MedTech service](svg/Microsoft_Healthcare_APIs/IotConnector.svg) | Microsoft.HealthcareApis/ workspaces/ iotconnectors |
 | [FHIR service](svg/Microsoft_Healthcare_APIs/JupiterFhirService.svg) | Microsoft.HealthcareApis/ workspaces/ fhirservices |
 | [Devices](svg/Microsoft_Intune_Devices/DeviceEntryBladeAsset.svg) |  |
-| [Microsoft Entra](svg/Microsoft_Intune_DeviceSettings/AADAsset.svg) |  |
-| [Intune for Education](svg/Microsoft_Intune_DeviceSettings/IntuneEduAsset.svg) |  |
-| [Apps](svg/Microsoft_Intune_DeviceSettings/AppsAsset.svg) |  |
-| [Devices](svg/Microsoft_Intune_DeviceSettings/DevicesAsset.svg) |  |
-| [Tenant administration](svg/Microsoft_Intune_DeviceSettings/TenantAdminAsset.svg) |  |
-| [Troubleshooting + support](svg/Microsoft_Intune_DeviceSettings/TroubleshootSupportAsset.svg) |  |
-| [Intune](svg/Microsoft_Intune_DeviceSettings/Intune.svg) |  |
-| [Intune](svg/Microsoft_Intune_DeviceSettings/IntuneFF.svg) |  |
 | [Intune](svg/Microsoft_Intune_DeviceSettings/IntuneMC.svg) |  |
+| [Intune](svg/Microsoft_Intune_DeviceSettings/IntuneFF.svg) |  |
+| [Intune](svg/Microsoft_Intune_DeviceSettings/Intune.svg) |  |
+| [Troubleshooting + support](svg/Microsoft_Intune_DeviceSettings/TroubleshootSupportAsset.svg) |  |
+| [Tenant administration](svg/Microsoft_Intune_DeviceSettings/TenantAdminAsset.svg) |  |
+| [Devices](svg/Microsoft_Intune_DeviceSettings/DevicesAsset.svg) |  |
+| [Apps](svg/Microsoft_Intune_DeviceSettings/AppsAsset.svg) |  |
+| [Intune for Education](svg/Microsoft_Intune_DeviceSettings/IntuneEduAsset.svg) |  |
+| [Microsoft Entra](svg/Microsoft_Intune_DeviceSettings/AADAsset.svg) |  |
 | [Alert](svg/Microsoft_Intune_Edu/Alerts.svg) |  |
 | [App](svg/Microsoft_Intune_Edu/Apps.svg) |  |
 | [Barcode scanner](svg/Microsoft_Intune_Edu/BarcodeScanner.svg) |  |
