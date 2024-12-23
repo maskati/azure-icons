@@ -202,7 +202,7 @@ jobs:
           git config user.email "<>"
       - name: Git add and commit if changed
         run: |
-          git add svg/*
+          git add -u svg
           git diff-index --quiet HEAD || \
             git add index.html README.md drawio.xml && \
             (git diff-index --quiet HEAD || git commit -m 'Update to version ${{ needs.download.outputs.pageversion }} with hash ${{ needs.download.outputs.confighash }}')
