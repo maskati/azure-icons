@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.232.4.114.232.0.136606.241219-1543 on 2025-01-10.
+Extracted from Azure Portal version 14.232.2.114.232.0.192030.241204-1800 on 2025-01-11.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -787,7 +787,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Data Manager for Energy](svg/Microsoft_Azure_OpenEnergyPlatform/OpenEnergyResource.svg) | Microsoft.OpenEnergyPlatform/ energyServices |
 | [SCOM managed instance](svg/Microsoft_Azure_OperationsMgr/Aquila.svg) |  |
 | [SCOM managed instance](svg/Microsoft_Azure_OperationsMgr/AquilaExtensionResource.svg) | Microsoft.Scom/ managedInstances |
-| [IoT Operations Ops MQ](svg/Microsoft_Azure_OpsMQ/IoTOperationsOpsMQ.svg) | microsoft.iotoperationsmq/ mq |
 | [Cloud Access Router](svg/Microsoft_Azure_Orbital/CloudAccessRouters.svg) | Microsoft.Orbital/ cloudAccessRouters |
 | [Cloud Access Terminal](svg/Microsoft_Azure_Orbital/CloudAccessTerminals.svg) | Microsoft.Orbital/ terminals |
 | [Azure Orbital Cloud Access](svg/Microsoft_Azure_Orbital/AzureOrbitalCloudAccess.svg) |  |
@@ -823,9 +822,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Power BI Embedded](svg/Microsoft_Azure_PowerBIDedicated/PowerBIDedicated.svg) | Microsoft.PowerBIDedicated/ capacities |
 | [Power Platform](svg/Microsoft_Azure_PowerPlatform/PowerPlatform.svg) |  |
 | [Private DNS zone](svg/Microsoft_Azure_PrivateDNS/PrivateDnsZone.svg) | Microsoft.Network/ privateDnsZones |
-| [APC Gateway](svg/Microsoft_Azure_ProgrammableConnectivity/GatewayResource.svg) | Microsoft.ProgrammableConnectivity/ gateways |
-| [APC Operator API Connection](svg/Microsoft_Azure_ProgrammableConnectivity/OperatorApiConnectionResource.svg) | Microsoft.ProgrammableConnectivity/ operatorApiConnections |
 | [APC Operator API Plan](svg/Microsoft_Azure_ProgrammableConnectivity/OperatorApiPlanResource.svg) | Microsoft.ProgrammableConnectivity/ operatorApiPlans |
+| [APC Operator API Connection](svg/Microsoft_Azure_ProgrammableConnectivity/OperatorApiConnectionResource.svg) | Microsoft.ProgrammableConnectivity/ operatorApiConnections |
+| [APC Gateway](svg/Microsoft_Azure_ProgrammableConnectivity/GatewayResource.svg) | Microsoft.ProgrammableConnectivity/ gateways |
 | [Microsoft Purview account](svg/Microsoft_Azure_ProjectBabylon/PurviewAccountResource.svg) | Microsoft.Purview/ Accounts |
 | [Azure AI services](svg/Microsoft_Azure_ProjectOxford/AIServices.svg) | Microsoft.CognitiveServices/ BrowseAIServices |
 | [Azure AI services multi-service account](svg/Microsoft_Azure_ProjectOxford/AllInOne.svg) | Microsoft.CognitiveServices/ BrowseAllInOne |
@@ -975,21 +974,21 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Enclave](svg/Microsoft_Azure_VirtualEnclaves/Enclave.svg) | Microsoft.Mission/ virtualenclaves |
 | [Workload](svg/Microsoft_Azure_VirtualEnclaves/Workload.svg) | Microsoft.Mission/ virtualEnclaves/ workloads |
 | [Virtual Appointments Builder](svg/Microsoft_Azure_VirtualVisitsBuilder/vvbuilder.svg) |  |
-| [Configuration Group Value](svg/Microsoft_Azure_VnfManager/AosmCgv.svg) | Microsoft.HybridNetwork/ configurationGroupValues |
-| [Configuration Group Schema](svg/Microsoft_Azure_VnfManager/AosmConfigSchema.svg) | Microsoft.HybridNetwork/ publishers/ configurationGroupSchemas |
-| [Azure Operator Service Manager](svg/Microsoft_Azure_VnfManager/AzureOperatorServiceManager.svg) |  |
-| [Network Function Definition](svg/Microsoft_Azure_VnfManager/AosmNfdGroup.svg) | Microsoft.HybridNetwork/ publishers/ networkFunctionDefinitionGroups |
-| [Network Function Definition Version](svg/Microsoft_Azure_VnfManager/AosmNfdVersion.svg) | microsoft.hybridnetwork/ publishers/ networkfunctiondefinitiongroups/ networkfunctiondefinitionversions |
-| [Network Service Design](svg/Microsoft_Azure_VnfManager/AosmNsdGroup.svg) | Microsoft.HybridNetwork/ publishers/ networkServiceDesignGroups |
-| [Network Service Design Version](svg/Microsoft_Azure_VnfManager/AosmNsdVersion.svg) | Microsoft.HybridNetwork/ publishers/ networkServiceDesignGroups/ networkServiceDesignVersions |
-| [Publisher Artifact Manifest](svg/Microsoft_Azure_VnfManager/AosmPublisherArtifactManifest.svg) | Microsoft.HybridNetwork/ publishers/ artifactStores/ artifactManifests |
-| [Publisher Artifact Store](svg/Microsoft_Azure_VnfManager/AosmPublisherArtifactStore.svg) | Microsoft.HybridNetwork/ publishers/ artifactStores |
-| [Publisher](svg/Microsoft_Azure_VnfManager/AosmPublisher.svg) | Microsoft.HybridNetwork/ publishers |
-| [Site](svg/Microsoft_Azure_VnfManager/AosmSite.svg) | Microsoft.HybridNetwork/ sites |
-| [Site Network Service](svg/Microsoft_Azure_VnfManager/AosmSns.svg) | Microsoft.HybridNetwork/ siteNetworkServices |
-| [Azure Network Function Manager – Device](svg/Microsoft_Azure_VnfManager/VnfManagerDevices.svg) | Microsoft.HybridNetwork/ devices |
-| [Azure Network Function Manager – vendor](svg/Microsoft_Azure_VnfManager/VnfManagerVendors.svg) | Microsoft.HybridNetwork/ vendors |
 | [Azure Network Function Manager – Network Function](svg/Microsoft_Azure_VnfManager/VnfManagerVnfs.svg) | Microsoft.HybridNetwork/ networkFunctions |
+| [Azure Network Function Manager – vendor](svg/Microsoft_Azure_VnfManager/VnfManagerVendors.svg) | Microsoft.HybridNetwork/ vendors |
+| [Azure Network Function Manager – Device](svg/Microsoft_Azure_VnfManager/VnfManagerDevices.svg) | Microsoft.HybridNetwork/ devices |
+| [Site Network Service](svg/Microsoft_Azure_VnfManager/AosmSns.svg) | Microsoft.HybridNetwork/ siteNetworkServices |
+| [Site](svg/Microsoft_Azure_VnfManager/AosmSite.svg) | Microsoft.HybridNetwork/ sites |
+| [Publisher](svg/Microsoft_Azure_VnfManager/AosmPublisher.svg) | Microsoft.HybridNetwork/ publishers |
+| [Publisher Artifact Store](svg/Microsoft_Azure_VnfManager/AosmPublisherArtifactStore.svg) | Microsoft.HybridNetwork/ publishers/ artifactStores |
+| [Publisher Artifact Manifest](svg/Microsoft_Azure_VnfManager/AosmPublisherArtifactManifest.svg) | Microsoft.HybridNetwork/ publishers/ artifactStores/ artifactManifests |
+| [Network Service Design Version](svg/Microsoft_Azure_VnfManager/AosmNsdVersion.svg) | Microsoft.HybridNetwork/ publishers/ networkServiceDesignGroups/ networkServiceDesignVersions |
+| [Network Service Design](svg/Microsoft_Azure_VnfManager/AosmNsdGroup.svg) | Microsoft.HybridNetwork/ publishers/ networkServiceDesignGroups |
+| [Network Function Definition Version](svg/Microsoft_Azure_VnfManager/AosmNfdVersion.svg) | Microsoft.HybridNetwork/ publishers/ networkFunctionDefinitionGroups/ networkFunctionDefinitionVersions |
+| [Network Function Definition](svg/Microsoft_Azure_VnfManager/AosmNfdGroup.svg) | Microsoft.HybridNetwork/ publishers/ networkFunctionDefinitionGroups |
+| [Azure Operator Service Manager](svg/Microsoft_Azure_VnfManager/AzureOperatorServiceManager.svg) |  |
+| [Configuration Group Schema](svg/Microsoft_Azure_VnfManager/AosmConfigSchema.svg) | Microsoft.HybridNetwork/ publishers/ configurationGroupSchemas |
+| [Configuration Group Value](svg/Microsoft_Azure_VnfManager/AosmCgv.svg) | Microsoft.HybridNetwork/ configurationGroupValues |
 | [Wave Migration](svg/Microsoft_Azure_WaveMigration/WaveMigrationResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Winfield  Preview](svg/Microsoft_Azure_Winfields/Winfields.svg) | private.edgeinternal/ winfields |
 | [MARIO](svg/Microsoft_Azure_WorkloadInsight/mario.svg) |  |
