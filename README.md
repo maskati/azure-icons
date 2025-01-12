@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.232.2.114.232.0.192030.241204-1800 on 2025-01-11.
+Extracted from Azure Portal version 14.232.4.114.232.0.136606.241219-1543 on 2025-01-12.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -735,45 +735,45 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Application Gateway WAF policy](svg/Microsoft_Azure_Network/ApplicationGatewayWafPolicy.svg) | Microsoft.Network/ ApplicationGatewayWebApplicationFirewallPolicies |
 | [Content Delivery Network WAF policy](svg/Microsoft_Azure_Network/ContentDeliveryNetworkWafPolicy.svg) | Microsoft.Cdn/ CdnWebApplicationFirewallPolicies |
 | [Front Door WAF policy](svg/Microsoft_Azure_Network/FrontdoorWafPolicy.svg) | Microsoft.Network/ FrontDoorWebApplicationFirewallPolicies |
-| [Agent Pool (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/AgentPoolResource.svg) | Microsoft.NetworkCloud/ kubernetesClusters/ agentPools |
-| [Bare Metal Machine (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/BareMetalMachineResource.svg) | Microsoft.NetworkCloud/ bareMetalMachines |
-| [Cloud Services Network (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/CloudServicesNet.svg) | Microsoft.NetworkCloud/ cloudServicesNetworks |
-| [Cluster (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/ClusterResource.svg) | Microsoft.NetworkCloud/ clusters |
-| [Cluster Baseboard Management Controller Key Set (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/ClusterBmcKeysetResource.svg) | Microsoft.NetworkCloud/ clusters/ bmcKeySets |
-| [Cluster Bare Metal Machine Key Set (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/ClusterBmmKeysetResource.svg) | Microsoft.NetworkCloud/ clusters/ bareMetalMachineKeySets |
-| [Cluster Manager (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/ClusterMgrResource.svg) | Microsoft.NetworkCloud/ clusterManagers |
-| [Cluster Metrics Configuration (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/ClusterMetricConfigResource.svg) | Microsoft.NetworkCloud/ clusters/ metricsConfigurations |
-| [Compute Rack (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/ComputeRackResource.svg) | Microsoft.NetworkCloud/ racks |
-| [Layer 2 Network (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/Layer2NetworksResource.svg) | Microsoft.NetworkCloud/ l2Networks |
-| [Layer 3 Network (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/Layer3NetworksResource.svg) | Microsoft.NetworkCloud/ l3Networks |
-| [Kubernetes Cluster (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/NexusAksClusterResource.svg) | Microsoft.NetworkCloud/ kubernetesClusters |
-| [Access Control List (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/AccessControlListsResource.svg) | Microsoft.ManagedNetworkFabric/ accessControlLists |
-| [External Network (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/ExternalNetworkResource.svg) | Microsoft.ManagedNetworkFabric/ l3IsolationDomains/ externalNetworks |
-| [Internal Network (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/InternalNetworkResource.svg) | Microsoft.ManagedNetworkFabric/ l3IsolationDomains/ internalNetworks |
-| [Internet Gateway (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/InternetGatewaysResource.svg) | Microsoft.ManagedNetworkFabric/ internetGateways |
-| [Internet Gateway Rule (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/InternetGatewayRulesResource.svg) | Microsoft.ManagedNetworkFabric/ internetGatewayRules |
-| [IP Community (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/IPCommunitiesResource.svg) | Microsoft.ManagedNetworkFabric/ ipCommunities |
-| [IP Extended Community (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/IPExtendedCommunitiesResource.svg) | Microsoft.ManagedNetworkFabric/ ipExtendedCommunities |
-| [IP Prefix (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/IPPrefixesResource.svg) | Microsoft.ManagedNetworkFabric/ ipPrefixes |
-| [Layer 2 Isolation Domain (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/L2IsolationDomainsResource.svg) | Microsoft.ManagedNetworkFabric/ l2IsolationDomains |
-| [Layer 3 Isolation Domain (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/L3IsolationDomainsResource.svg) | Microsoft.ManagedNetworkFabric/ l3IsolationDomains |
-| [Network to Network Interconnect (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/NetworkToNetworkInterconnectResource.svg) | Microsoft.ManagedNetworkFabric/ NetworkFabrics/ networkToNetworkInterconnects |
-| [Neighbor Group (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/NeighborGroupsResource.svg) | Microsoft.ManagedNetworkFabric/ NeighborGroups |
-| [Network Device (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/NetworkDevicesResource.svg) | Microsoft.ManagedNetworkFabric/ NetworkDevices |
-| [Network Fabric (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/NetworkFabricResource.svg) | Microsoft.ManagedNetworkFabric/ NetworkFabrics |
-| [Network Fabric Controller (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/NetworkFabricControllersResource.svg) | Microsoft.ManagedNetworkFabric/ networkFabricControllers |
-| [Network Interface (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/NetworkInterfaceResource.svg) | Microsoft.ManagedNetworkFabric/ NetworkDevices/ networkInterfaces |
-| [Network Packet Broker (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/NetworkPacketBrokersResource.svg) | Microsoft.ManagedNetworkFabric/ NetworkPacketBrokers |
-| [Network Rack (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/NetworkRacksResource.svg) | Microsoft.ManagedNetworkFabric/ NetworkRacks |
-| [Network Tap (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/NetworkTapResource.svg) | Microsoft.ManagedNetworkFabric/ networkTaps |
-| [Network Tap Rule (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/NetworkTapRuleResource.svg) | Microsoft.ManagedNetworkFabric/ networkTapRules |
-| [Route Policy (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/RoutePoliciesResource.svg) | Microsoft.ManagedNetworkFabric/ RoutePolicies |
-| [Operator Nexus](svg/Microsoft_Azure_NetworkCloud/OperatorNexusHub.svg) |  |
-| [Storage Appliance (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/StorageApplianceResource.svg) | Microsoft.NetworkCloud/ storageAppliances |
-| [Trunked Network (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/TrunkedNetworksResource.svg) | Microsoft.NetworkCloud/ trunkedNetworks |
-| [Virtual Machine (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/VirtualMachineResource.svg) | Microsoft.NetworkCloud/ virtualMachines |
-| [Virtual Machine Console (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/ConsoleResource.svg) | Microsoft.NetworkCloud/ virtualMachines/ consoles |
 | [Volume (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/VolumeResource.svg) | Microsoft.NetworkCloud/ volumes |
+| [Virtual Machine Console (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/ConsoleResource.svg) | Microsoft.NetworkCloud/ virtualMachines/ consoles |
+| [Virtual Machine (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/VirtualMachineResource.svg) | Microsoft.NetworkCloud/ virtualMachines |
+| [Trunked Network (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/TrunkedNetworksResource.svg) | Microsoft.NetworkCloud/ trunkedNetworks |
+| [Storage Appliance (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/StorageApplianceResource.svg) | Microsoft.NetworkCloud/ storageAppliances |
+| [Operator Nexus](svg/Microsoft_Azure_NetworkCloud/OperatorNexusHub.svg) |  |
+| [Route Policy (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/RoutePoliciesResource.svg) | Microsoft.ManagedNetworkFabric/ RoutePolicies |
+| [Network Tap Rule (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/NetworkTapRuleResource.svg) | Microsoft.ManagedNetworkFabric/ networkTapRules |
+| [Network Tap (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/NetworkTapResource.svg) | Microsoft.ManagedNetworkFabric/ networkTaps |
+| [Network Rack (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/NetworkRacksResource.svg) | Microsoft.ManagedNetworkFabric/ NetworkRacks |
+| [Network Packet Broker (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/NetworkPacketBrokersResource.svg) | Microsoft.ManagedNetworkFabric/ NetworkPacketBrokers |
+| [Network Interface (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/NetworkInterfaceResource.svg) | Microsoft.ManagedNetworkFabric/ NetworkDevices/ networkInterfaces |
+| [Network Fabric Controller (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/NetworkFabricControllersResource.svg) | Microsoft.ManagedNetworkFabric/ networkFabricControllers |
+| [Network Fabric (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/NetworkFabricResource.svg) | Microsoft.ManagedNetworkFabric/ NetworkFabrics |
+| [Network Device (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/NetworkDevicesResource.svg) | Microsoft.ManagedNetworkFabric/ NetworkDevices |
+| [Neighbor Group (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/NeighborGroupsResource.svg) | Microsoft.ManagedNetworkFabric/ NeighborGroups |
+| [Network to Network Interconnect (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/NetworkToNetworkInterconnectResource.svg) | Microsoft.ManagedNetworkFabric/ NetworkFabrics/ networkToNetworkInterconnects |
+| [Layer 3 Isolation Domain (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/L3IsolationDomainsResource.svg) | Microsoft.ManagedNetworkFabric/ l3IsolationDomains |
+| [Layer 2 Isolation Domain (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/L2IsolationDomainsResource.svg) | Microsoft.ManagedNetworkFabric/ l2IsolationDomains |
+| [IP Prefix (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/IPPrefixesResource.svg) | Microsoft.ManagedNetworkFabric/ ipPrefixes |
+| [IP Extended Community (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/IPExtendedCommunitiesResource.svg) | Microsoft.ManagedNetworkFabric/ ipExtendedCommunities |
+| [IP Community (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/IPCommunitiesResource.svg) | Microsoft.ManagedNetworkFabric/ ipCommunities |
+| [Internet Gateway Rule (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/InternetGatewayRulesResource.svg) | Microsoft.ManagedNetworkFabric/ internetGatewayRules |
+| [Internet Gateway (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/InternetGatewaysResource.svg) | Microsoft.ManagedNetworkFabric/ internetGateways |
+| [Internal Network (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/InternalNetworkResource.svg) | Microsoft.ManagedNetworkFabric/ l3IsolationDomains/ internalNetworks |
+| [External Network (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/ExternalNetworkResource.svg) | Microsoft.ManagedNetworkFabric/ l3IsolationDomains/ externalNetworks |
+| [Access Control List (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/AccessControlListsResource.svg) | Microsoft.ManagedNetworkFabric/ accessControlLists |
+| [Kubernetes Cluster (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/NexusAksClusterResource.svg) | Microsoft.NetworkCloud/ kubernetesClusters |
+| [Layer 3 Network (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/Layer3NetworksResource.svg) | Microsoft.NetworkCloud/ l3Networks |
+| [Layer 2 Network (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/Layer2NetworksResource.svg) | Microsoft.NetworkCloud/ l2Networks |
+| [Compute Rack (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/ComputeRackResource.svg) | Microsoft.NetworkCloud/ racks |
+| [Cluster Metrics Configuration (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/ClusterMetricConfigResource.svg) | Microsoft.NetworkCloud/ clusters/ metricsConfigurations |
+| [Cluster Manager (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/ClusterMgrResource.svg) | Microsoft.NetworkCloud/ clusterManagers |
+| [Cluster Bare Metal Machine Key Set (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/ClusterBmmKeysetResource.svg) | Microsoft.NetworkCloud/ clusters/ bareMetalMachineKeySets |
+| [Cluster Baseboard Management Controller Key Set (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/ClusterBmcKeysetResource.svg) | Microsoft.NetworkCloud/ clusters/ bmcKeySets |
+| [Cluster (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/ClusterResource.svg) | Microsoft.NetworkCloud/ clusters |
+| [Cloud Services Network (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/CloudServicesNet.svg) | Microsoft.NetworkCloud/ cloudServicesNetworks |
+| [Bare Metal Machine (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/BareMetalMachineResource.svg) | Microsoft.NetworkCloud/ bareMetalMachines |
+| [Agent Pool (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/AgentPoolResource.svg) | Microsoft.NetworkCloud/ kubernetesClusters/ agentPools |
 | [My Resource](svg/Microsoft_Azure_NetworkCopilotExtension/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Network Security Perimeter](svg/Microsoft_Azure_NetworkSecurityPerimeter/NspProfiles.svg) | Microsoft.Network/ networkSecurityPerimeters/ profiles |
 | [Network Security Perimeter](svg/Microsoft_Azure_NetworkSecurityPerimeter/networkSecurityPerimeter.svg) | Microsoft.Network/ networkSecurityPerimeters |
