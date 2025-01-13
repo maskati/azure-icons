@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.232.4.114.232.0.136606.241219-1543 on 2025-01-12.
+Extracted from Azure Portal version 14.232.4.114.232.0.136606.241219-1543 on 2025-01-13.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -292,11 +292,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Endpoint](svg/Microsoft_Azure_Cdn/Endpoint.svg) | microsoft.cdn/ profiles/ endpoints |
 | [Origin](svg/Microsoft_Azure_Cdn/Origin.svg) | microsoft.cdn/ profiles/ endpoints/ origins |
 | [Change Analysis](svg/Microsoft_Azure_ChangeAnalysis/AzureChangeAnalysis.svg) |  |
-| [Chaos Experiment](svg/Microsoft_Azure_Chaos/chaosExperiment.svg) |  |
 | [Chaos Experiment](svg/Microsoft_Azure_Chaos/chaosExperimentResource.svg) | microsoft.chaos/ experiments |
 | [Chaos Studio](svg/Microsoft_Azure_Chaos/chaosStudio.svg) |  |
 | [Agent Private Access](svg/Microsoft_Azure_Chaos/privateAccess.svg) | microsoft.chaos/ privateaccesses |
-| [Target Management](svg/Microsoft_Azure_Chaos/targetsManagement.svg) |  |
 | [Domain Name](svg/Microsoft_Azure_Classic_Compute/DomainName.svg) |  |
 | [Disk (classic)](svg/Microsoft_Azure_Classic_Compute/Disks.svg) | Microsoft.ClassicStorage/ storageAccounts/ disks |
 | [OS image (classic)](svg/Microsoft_Azure_Classic_Compute/OsUserImages.svg) | Microsoft.ClassicStorage/ storageAccounts/ osimages |
@@ -416,9 +414,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Slice](svg/Microsoft_Azure_DataFactory/Slice.svg) |  |
 | [Data Lake Analytics](svg/Microsoft_Azure_DataLakeAnalytics/KonaAccount.svg) | Microsoft.DataLakeAnalytics/ accounts |
 | [Data Lake Storage Gen1](svg/Microsoft_Azure_DataLakeStore/CaboAccount.svg) | Microsoft.DataLakeStore/ accounts |
-| [Backup center](svg/Microsoft_Azure_DataProtection/BackupCenter.svg) |  |
-| [Backup vault](svg/Microsoft_Azure_DataProtection/DataProtectionResource.svg) | Microsoft.DataProtection/ BackupVaults |
 | [Resource Guard](svg/Microsoft_Azure_DataProtection/ResourceGuardResource.svg) | Microsoft.DataProtection/ resourceGuards |
+| [Backup vault](svg/Microsoft_Azure_DataProtection/DataProtectionResource.svg) | Microsoft.DataProtection/ BackupVaults |
+| [Backup center](svg/Microsoft_Azure_DataProtection/BackupCenter.svg) |  |
 | [Data Share](svg/Microsoft_Azure_DataShare/DataShare.svg) | Microsoft.DataShare/ accounts |
 | [Data Share Invitation](svg/Microsoft_Azure_DataShare/InvitationsBrowse.svg) |  |
 | [ClusterStor](svg/Microsoft_Azure_Dedicated_ClusterStor/ClusterStor.svg) | Microsoft.ClusterStor/ nodes |
