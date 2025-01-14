@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.232.4.114.232.0.136606.241219-1543 on 2025-01-13.
+Extracted from Azure Portal version 14.232.4.114.232.0.136606.241219-1543 on 2025-01-14.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -414,9 +414,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Slice](svg/Microsoft_Azure_DataFactory/Slice.svg) |  |
 | [Data Lake Analytics](svg/Microsoft_Azure_DataLakeAnalytics/KonaAccount.svg) | Microsoft.DataLakeAnalytics/ accounts |
 | [Data Lake Storage Gen1](svg/Microsoft_Azure_DataLakeStore/CaboAccount.svg) | Microsoft.DataLakeStore/ accounts |
-| [Resource Guard](svg/Microsoft_Azure_DataProtection/ResourceGuardResource.svg) | Microsoft.DataProtection/ resourceGuards |
-| [Backup vault](svg/Microsoft_Azure_DataProtection/DataProtectionResource.svg) | Microsoft.DataProtection/ BackupVaults |
 | [Backup center](svg/Microsoft_Azure_DataProtection/BackupCenter.svg) |  |
+| [Backup vault](svg/Microsoft_Azure_DataProtection/DataProtectionResource.svg) | Microsoft.DataProtection/ BackupVaults |
+| [Resource Guard](svg/Microsoft_Azure_DataProtection/ResourceGuardResource.svg) | Microsoft.DataProtection/ resourceGuards |
 | [Data Share](svg/Microsoft_Azure_DataShare/DataShare.svg) | Microsoft.DataShare/ accounts |
 | [Data Share Invitation](svg/Microsoft_Azure_DataShare/InvitationsBrowse.svg) |  |
 | [ClusterStor](svg/Microsoft_Azure_Dedicated_ClusterStor/ClusterStor.svg) | Microsoft.ClusterStor/ nodes |
@@ -785,6 +785,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Data Manager for Energy](svg/Microsoft_Azure_OpenEnergyPlatform/OpenEnergyResource.svg) | Microsoft.OpenEnergyPlatform/ energyServices |
 | [SCOM managed instance](svg/Microsoft_Azure_OperationsMgr/Aquila.svg) |  |
 | [SCOM managed instance](svg/Microsoft_Azure_OperationsMgr/AquilaExtensionResource.svg) | Microsoft.Scom/ managedInstances |
+| [IoT Operations Ops MQ](svg/Microsoft_Azure_OpsMQ/IoTOperationsOpsMQ.svg) | microsoft.iotoperationsmq/ mq |
 | [Cloud Access Router](svg/Microsoft_Azure_Orbital/CloudAccessRouters.svg) | Microsoft.Orbital/ cloudAccessRouters |
 | [Cloud Access Terminal](svg/Microsoft_Azure_Orbital/CloudAccessTerminals.svg) | Microsoft.Orbital/ terminals |
 | [Azure Orbital Cloud Access](svg/Microsoft_Azure_Orbital/AzureOrbitalCloudAccess.svg) |  |
