@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.232.4.114.232.0.136606.241219-1543 on 2025-01-16.
+Extracted from Azure Portal version 14.232.4.114.232.0.136606.241219-1543 on 2025-01-17.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -36,7 +36,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Astro Resource](svg/Azure_MarketPlace_NativeISVService/OrgResource.svg) | Providers.Test/ statefulIbizaEngines3 |
 | [Solarwinds Resource](svg/Azure_MarketPlace_NativeISVService/ExtensionResource2.svg) | Providers.Test/ statefulIbizaEngines2 |
 | [Azure Native WeightsAndBiases Cloud Service](svg/Azure_MarketPlace_NativeISVService/WeightsAndBiases.svg) | Microsoft.WeightsAndBiases/ instances |
-| [Neon Serverless Postgres Organization](svg/Azure_Marketplace_Neon/NeonResource.svg) | Neon.Postgres/ organizations |
+| [Neon Serverless Postgres Resource](svg/Azure_Marketplace_Neon/NeonResource.svg) | Neon.Postgres/ organizations |
 | [NGINXaaS](svg/Azure_Marketplace_NGINX/Nginx.svg) | NGINX.NGINXPLUS/ nginxDeployments |
 | [Cloud NGFW by Palo Alto Networks](svg/Azure_Marketplace_PaloAltoNetworks_Cloudngfw/PaloAltoNetworksCloudNGFW.svg) | PaloAltoNetworks.Cloudngfw/ firewalls |
 | [Global Rulestack](svg/Azure_Marketplace_PaloAltoNetworks_Cloudngfw/PaloAltoNetworksGlobalRulestack.svg) | PaloAltoNetworks.Cloudngfw/ globalRulestacks |
@@ -541,9 +541,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Billing subscription](svg/Microsoft_Azure_GTM/BillingSubscriptions.svg) |  |
 | [Invoice](svg/Microsoft_Azure_GTM/Invoice.svg) |  |
 | [Cost Management + Billing](svg/Microsoft_Azure_GTM/Billing.svg) |  |
-| [HDInsight cluster](svg/Microsoft_Azure_HDInsight/HDInsightCluster.svg) | Microsoft.HDInsight/ clusters |
-| [Azure HDInsight on AKS cluster](svg/Microsoft_Azure_HDInsight/HDInsightClusterGen2.svg) | Microsoft.HDInsight/ clusterpools/ clusters |
 | [Azure HDInsight on AKS cluster pool](svg/Microsoft_Azure_HDInsight/HDInsightClusterPool.svg) | Microsoft.HDInsight/ clusterpools |
+| [Azure HDInsight on AKS cluster](svg/Microsoft_Azure_HDInsight/HDInsightClusterGen2.svg) | Microsoft.HDInsight/ clusterpools/ clusters |
+| [HDInsight cluster](svg/Microsoft_Azure_HDInsight/HDInsightCluster.svg) | Microsoft.HDInsight/ clusters |
 | [Service Health](svg/Microsoft_Azure_Health/AzureHealth.svg) |  |
 | [Healthcare agent service](svg/Microsoft_Azure_HealthBot/HealthBot.svg) | Microsoft.HealthBot/ healthBots |
 | [De-identification Service](svg/Microsoft_Azure_HealthDataDeidentification/DeidService.svg) | Microsoft.HealthDataAIServices/ DeidServices |
@@ -875,6 +875,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Resource Mover](svg/Microsoft_Azure_ResourceMove/AzureResourceMoveHub.svg) |  |
 | [What's new](svg/Microsoft_Azure_Resources/WhatsNew.svg) |  |
 | [User privacy](svg/Microsoft_Azure_Resources/UserPrivacy.svg) |  |
+| [Service group member relationship](svg/Microsoft_Azure_Resources/ServiceGroupMembersRelationships.svg) | microsoft.relationships/ servicegroupmember |
+| [Dependency Relationship](svg/Microsoft_Azure_Resources/DependencyRelationships.svg) | microsoft.relationships/ dependencyOf |
 | [Resource Manager](svg/Microsoft_Azure_Resources/ResourceManager.svg) |  |
 | [Resource change](svg/Microsoft_Azure_Resources/ResourceChanges.svg) | Microsoft.Resources/ resourceChanges |
 | [Recycle Bin](svg/Microsoft_Azure_Resources/DeletedResources.svg) | Microsoft.Resources/ deletedResources |
@@ -999,10 +1001,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Virtual Desktop](svg/Microsoft_Azure_WVD/WvdManager.svg) |  |
 | [Bing Resource](svg/Microsoft_Bing_Api/BingAPIAccount.svg) | Microsoft.Bing/ accounts |
 | [Health Model](svg/Microsoft_CloudHealth_HealthModels/AzureHealthModel.svg) | Microsoft.CloudHealth/ healthmodels |
-| [Object Anchors Account](svg/Microsoft_Cognition_MixedReality/ObjectAnchorsAccount.svg) | Microsoft.MixedReality/ objectAnchorsAccounts |
-| [Object Understanding Account](svg/Microsoft_Cognition_MixedReality/ObjectUnderstandingAccount.svg) | Microsoft.MixedReality/ objectUnderstandingAccounts |
 | [Remote Rendering Account](svg/Microsoft_Cognition_MixedReality/RemoteRenderingAccount.svg) | Microsoft.MixedReality/ remoteRenderingAccounts |
-| [Spatial Anchors Account](svg/Microsoft_Cognition_MixedReality/SpatialAnchorsAccount.svg) | Microsoft.MixedReality/ spatialAnchorsAccounts |
 | [Connected Cache for ISP (early preview)](svg/Microsoft_ConnectedCache/DoincResource.svg) | Microsoft.ConnectedCache/ cacheNodes |
 | [Connected Cache for Enterprise & Education (early preview)](svg/Microsoft_ConnectedCache_Ent/DoincResource.svg) | Microsoft.ConnectedCache/ enterpriseCustomers |
 | [MCC CacheNode for Enterprise](svg/Microsoft_ConnectedCache_Enterprise/MccEnterpriseCacheNodeResource.svg) | Microsoft.ConnectedCache/ enterpriseMccCustomers/ enterpriseMccCacheNodes |
