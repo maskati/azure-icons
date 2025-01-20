@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.287.0.131260.250108-2305 on 2025-01-19.
+Extracted from Azure Portal version 14.287.0.131260.250108-2305 on 2025-01-20.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
