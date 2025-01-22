@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.287.0.131260.250108-2305 on 2025-01-21.
+Extracted from Azure Portal version 14.287.0.131260.250108-2305 on 2025-01-22.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -70,153 +70,153 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Verified ID](svg/Microsoft_AAD_DecentralizedIdentity/PortableIdentityCards.svg) |  |
 | [Microsoft Entra Domain Services](svg/Microsoft_AAD_DomainServices/AADDomainService.svg) | Microsoft.AAD/ domainServices |
 | [Identity Governance](svg/Microsoft_AAD_ERM/RootAsset.svg) |  |
-| [App proxy](svg/Microsoft_AAD_IAM/AppProxyOverview.svg) |  |
-| [Enterprise application](svg/Microsoft_AAD_IAM/Application.svg) |  |
-| [Administrative units](svg/Microsoft_AAD_IAM/AdminUnitManagementBlade.svg) |  |
-| [Microsoft Entra roles and administrators](svg/Microsoft_AAD_IAM/AllRolesBlade.svg) |  |
-| [Microsoft Entra ID](svg/Microsoft_AAD_IAM/AzureActiveDirectory.svg) |  |
-| [External Identities](svg/Microsoft_AAD_IAM/CompanyRelationshipsMenuBlade.svg) |  |
-| [Create custom Microsoft Entra roles](svg/Microsoft_AAD_IAM/CreateCustomRole.svg) |  |
-| [Microsoft Entra Connect](svg/Microsoft_AAD_IAM/DirectoriesADConnect.svg) |  |
-| [User settings](svg/Microsoft_AAD_IAM/DirectoryUserSettings.svg) |  |
-| [Tenant properties](svg/Microsoft_AAD_IAM/TenantProperties.svg) |  |
-| [Groups](svg/Microsoft_AAD_IAM/GroupsManagement.svg) |  |
-| [Private Link for Microsoft Entra ID](svg/Microsoft_AAD_IAM/PrivateLinkForAzureAD.svg) | microsoft.aadiam/ privateLinkForAzureAD |
-| [Microsoft Entra authentication methods](svg/Microsoft_AAD_IAM/AuthenticationMethodsRootAsset.svg) |  |
-| [Microsoft Entra ID Protection](svg/Microsoft_AAD_IAM/IdentityProtectionRootAsset.svg) |  |
-| [Multifactor authentication](svg/Microsoft_AAD_IAM/MultifactorAuthenticationRootAsset.svg) |  |
-| [Microsoft Entra password protection](svg/Microsoft_AAD_IAM/PasswordProtectionRootAsset.svg) |  |
-| [Microsoft Entra ID risk detections](svg/Microsoft_AAD_IAM/RiskDetectionsRootAsset.svg) |  |
-| [Microsoft Entra ID risky workload identities](svg/Microsoft_AAD_IAM/RiskyServicePrincipalsRootAsset.svg) |  |
-| [Microsoft Entra ID risky sign-ins](svg/Microsoft_AAD_IAM/RiskySigninsRootAsset.svg) |  |
-| [Microsoft Entra ID risky users](svg/Microsoft_AAD_IAM/RiskyUsersRootAsset.svg) |  |
-| [Microsoft Entra Identity Secure Score](svg/Microsoft_AAD_IAM/SecureScoreRootAsset.svg) |  |
-| [Security](svg/Microsoft_AAD_IAM/SecurityQuickStart.svg) |  |
-| [Microsoft Entra ID Security](svg/Microsoft_AAD_IAM/SecurityRootAsset.svg) |  |
-| [Microsoft Entra Connect](svg/Microsoft_AAD_IAM/AADConnectBlade.svg) |  |
-| [Account Lockout](svg/Microsoft_AAD_IAM/AccountLockoutBlade.svg) |  |
-| [Auth Method](svg/Microsoft_AAD_IAM/AdminAuthMethodsBlade.svg) |  |
-| [Administrator Policy](svg/Microsoft_AAD_IAM/AdminPasswordResetPolicyBlade.svg) |  |
-| [App Launchers Setting](svg/Microsoft_AAD_IAM/AppLaunchersSettings.svg) |  |
-| [Microsoft Entra Application Activity](svg/Microsoft_AAD_IAM/ApplicationActivityGrid.svg) |  |
-| [Application Credential Activity](svg/Microsoft_AAD_IAM/ApplicationCredentialActivityList.svg) |  |
-| [Admin Consent Request](svg/Microsoft_AAD_IAM/ApplicationRequestApprovalsBladeV2.svg) |  |
-| [Privileged Identity Management Browse](svg/Microsoft_AAD_IAM/ArmResourceBrowseBlade.svg) |  |
-| [Audit Log](svg/Microsoft_AAD_IAM/AuditLogs.svg) |  |
-| [Activity Report](svg/Microsoft_AAD_IAM/AuthenticationActivityBlade.svg) |  |
-| [Authentication Context](svg/Microsoft_AAD_IAM/AuthenticationContextBlade.svg) |  |
-| [Authentication Methods Activity](svg/Microsoft_AAD_IAM/AuthenticationMethodsActivity.svg) |  |
-| [Authentication Methods Setting](svg/Microsoft_AAD_IAM/AuthMethodsSettings.svg) |  |
-| [Authentication Strength](svg/Microsoft_AAD_IAM/AuthStrengths.svg) |  |
-| [Microsoft Defender for Cloud](svg/Microsoft_AAD_IAM/AzureAttachActiveDirectoryBlade.svg) |  |
-| [BitLocker Key](svg/Microsoft_AAD_IAM/BitLockerKeys.svg) |  |
-| [Block/Unblock User](svg/Microsoft_AAD_IAM/BlockedUsersBlade.svg) |  |
-| [Remote Network](svg/Microsoft_AAD_IAM/BranchConnectivity.svg) |  |
-| [Bulk Operation](svg/Microsoft_AAD_IAM/BulkOperations.svg) |  |
-| [Caching Rule](svg/Microsoft_AAD_IAM/CachingRulesBlade.svg) |  |
-| [Credentials](svg/Microsoft_AAD_IAM/CardsListBlade.svg) |  |
-| [Catalog](svg/Microsoft_AAD_IAM/CatalogListBlade.svg) |  |
-| [Certificate Authority](svg/Microsoft_AAD_IAM/CertificateAuthorities.svg) |  |
-| [Policy](svg/Microsoft_AAD_IAM/ClassicPolicyListBlade.svg) |  |
-| [Client](svg/Microsoft_AAD_IAM/Clients.svg) |  |
-| [Company Branding](svg/Microsoft_AAD_IAM/CompanyBranding.svg) |  |
-| [Admin Consent Setting](svg/Microsoft_AAD_IAM/ConsentPoliciesAdminConsentSettingsBlade.svg) |  |
-| [Permission classification](svg/Microsoft_AAD_IAM/ConsentPoliciesPermissionsBlade.svg) |  |
-| [User Consent Setting](svg/Microsoft_AAD_IAM/ConsentPoliciesUserSettingsBlade.svg) |  |
-| [Cross-tenant Access Setting](svg/Microsoft_AAD_IAM/XtapAccessSettings.svg) |  |
-| [Cross-Tenant Synchronization Configuration](svg/Microsoft_AAD_IAM/CrossTenantSynchronizationConfiguration.svg) |  |
-| [Cross-Tenant Synchronization Overview](svg/Microsoft_AAD_IAM/CrossTenantSynchronizationGetStarted.svg) |  |
-| [Custom Attribute](svg/Microsoft_AAD_IAM/CustomAttributes.svg) |  |
-| [Custom Attribute](svg/Microsoft_AAD_IAM/CustomSecurityAttributes.svg) |  |
-| [Custom Control](svg/Microsoft_AAD_IAM/CustomControls.svg) |  |
-| [Welcome to Identity Governance](svg/Microsoft_AAD_IAM/Dashboard.svg) |  |
-| [Delegated Admin Partner](svg/Microsoft_AAD_IAM/DelegatedAdminPartners.svg) |  |
-| [Deleted Group](svg/Microsoft_AAD_IAM/DeletedGroups.svg) |  |
-| [Deleted User](svg/Microsoft_AAD_IAM/DeletedUsers.svg) |  |
-| [Deleted Workflow](svg/Microsoft_AAD_IAM/DeletedWorkflow.svg) |  |
-| [Devices Overview](svg/Microsoft_AAD_IAM/DeviceManagement.svg) |  |
-| [Device Settings](svg/Microsoft_AAD_IAM/DeviceSettingsBlade.svg) |  |
-| [All Devices](svg/Microsoft_AAD_IAM/DevicesList.svg) |  |
-| [Device Overview](svg/Microsoft_AAD_IAM/DevicesOverview.svg) |  |
-| [Diagnose and Solve Problem](svg/Microsoft_AAD_IAM/DiagnosticsHome.svg) |  |
-| [Diagnostic Settings](svg/Microsoft_AAD_IAM/DiagnosticsLogsBlade.svg) |  |
-| [Group Expiration](svg/Microsoft_AAD_IAM/DirectoryGroupLifecycleSettingsV2Blade.svg) |  |
-| [Group Naming Policy](svg/Microsoft_AAD_IAM/DirectoryGroupNamingPolicySettingsBlade.svg) |  |
-| [Domain Name](svg/Microsoft_AAD_IAM/DomainNames.svg) |  |
-| [Enriched Microsoft 365 Logs​](svg/Microsoft_AAD_IAM/EnrichedLogs.svg) |  |
-| [Enterprise Applications Collection](svg/Microsoft_AAD_IAM/EnterpriseApplicationsCollectionsBlade.svg) |  |
-| [Enterprise Applications User Setting](svg/Microsoft_AAD_IAM/EnterpriseApplicationsUserSettingsBlade.svg) |  |
-| [Enterprise Application Overview](svg/Microsoft_AAD_IAM/EnterpriseAppsOverview.svg) |  |
-| [External Collaboration Setting](svg/Microsoft_AAD_IAM/ExternalCollaborationSettings.svg) |  |
-| [External Identity Getting Started](svg/Microsoft_AAD_IAM/ExternalIdentitiesGettingStarted.svg) |  |
-| [Policy Profile](svg/Microsoft_AAD_IAM/FilteringPolicyProfiles.svg) |  |
-| [Traffic Forwarding​](svg/Microsoft_AAD_IAM/ForwardingProfile.svg) |  |
-| [Fraud Alert](svg/Microsoft_AAD_IAM/FraudAlertBlade.svg) |  |
-| [Get started with Global Secure Access​](svg/Microsoft_AAD_IAM/GetStarted.svg) |  |
-| [Multifactor Authentication Getting Started](svg/Microsoft_AAD_IAM/GettingStartedBlade.svg) |  |
-| [Group Setting](svg/Microsoft_AAD_IAM/GroupGeneralSettings.svg) |  |
-| [OATH Token](svg/Microsoft_AAD_IAM/HardwareTokensBlade.svg) |  |
-| [Identity Protection Overview](svg/Microsoft_AAD_IAM/IdentityProtectionOverview.svg) |  |
-| [Identity Secure Score](svg/Microsoft_AAD_IAM/IdentitySecureScoreV2Blade.svg) |  |
-| [Users At Risk Detected Alert](svg/Microsoft_AAD_IAM/IpcAlertSettingsBlade.svg) |  |
-| [Weekly Digest](svg/Microsoft_AAD_IAM/IpcDigestSettingsBlade.svg) |  |
-| [Identity Protection Documentation](svg/Microsoft_AAD_IAM/IPTutorial.svg) |  |
-| [Verified ID Settings](svg/Microsoft_AAD_IAM/IssuerSettingsBlade.svg) |  |
-| [License](svg/Microsoft_AAD_IAM/LicenseManagement.svg) |  |
-| [Linked Subscription](svg/Microsoft_AAD_IAM/LinkedSubscriptionsBlade.svg) |  |
-| [Local Administrator Password Recovery](svg/Microsoft_AAD_IAM/LocalAdminPasswordRecoveryBlade.svg) |  |
-| [Logging with Global Secure Access​](svg/Microsoft_AAD_IAM/Logging.svg) |  |
-| [Multifactor Authentication Registration Policy](svg/Microsoft_AAD_IAM/MfaPolicyBlade.svg) |  |
-| [Mobility (MDM and WIP)](svg/Microsoft_AAD_IAM/Mobility.svg) |  |
-| [Named Location](svg/Microsoft_AAD_IAM/NamedLocations.svg) |  |
-| [New Support Request](svg/Microsoft_AAD_IAM/NewSupportRequestV3Blade.svg) |  |
-| [Notification](svg/Microsoft_AAD_IAM/NotificationsBlade.svg) |  |
-| [One-time Bypass](svg/Microsoft_AAD_IAM/OneTimeBypassBlade.svg) |  |
-| [Password Reset On-premises Integration](svg/Microsoft_AAD_IAM/OnPremisesPasswordResetPolicy.svg) |  |
-| [Lifecycle Management Overview](svg/Microsoft_AAD_IAM/Overview.svg) |  |
-| [Connected Organization](svg/Microsoft_AAD_IAM/PartnerListBlade.svg) |  |
-| [Password Protection](svg/Microsoft_AAD_IAM/PasswordProtectionBlade.svg) |  |
-| [Password Reset](svg/Microsoft_AAD_IAM/PasswordReset.svg) |  |
-| [Helpdesk Link Customization](svg/Microsoft_AAD_IAM/PasswordResetPolicyDetailCustomizationBlade.svg) |  |
-| [Password Resets Notification](svg/Microsoft_AAD_IAM/PasswordResetPolicyDetailNotificationsBlade.svg) |  |
-| [Users Registration](svg/Microsoft_AAD_IAM/PasswordResetPolicyDetailRegistrationBlade.svg) |  |
-| [Phone Call Setting](svg/Microsoft_AAD_IAM/PhoneCallSettingsBlade.svg) |  |
-| [Welcome to Permissions Management](svg/Microsoft_AAD_IAM/PMDashboard.svg) |  |
-| [Policy](svg/Microsoft_AAD_IAM/PoliciesList.svg) |  |
-| [Policies Overview](svg/Microsoft_AAD_IAM/PolicyOverview.svg) |  |
-| [Feature Preview](svg/Microsoft_AAD_IAM/PreviewHub.svg) |  |
-| [Multifactor Aunthentication Provider](svg/Microsoft_AAD_IAM/ProvidersBlade.svg) |  |
-| [Provisioning Logs](svg/Microsoft_AAD_IAM/ProvisioningEventsBlade.svg) |  |
-| [Microsoft Entra Connect Get Started](svg/Microsoft_AAD_IAM/ProvisioningGetStarted.svg) |  |
-| [Create Quick Access configuration](svg/Microsoft_AAD_IAM/QuickAccess.svg) |  |
-| [Privileged Identity Management Quickstart](svg/Microsoft_AAD_IAM/QuickStart.svg) |  |
-| [Registration and Reset Event](svg/Microsoft_AAD_IAM/RegistrationAndResetEventsList.svg) |  |
-| [Registration Campaign](svg/Microsoft_AAD_IAM/RegistrationCampaign.svg) |  |
-| [Access Review](svg/Microsoft_AAD_IAM/ReviewAccessBlade.svg) |  |
-| [Enterprise State Roaming](svg/Microsoft_AAD_IAM/RoamingSettingsBlade.svg) |  |
-| [Health](svg/Microsoft_AAD_IAM/ScenarioHealthSummary.svg) |  |
-| [Session Management​](svg/Microsoft_AAD_IAM/Security.svg) |  |
-| [Identity Protection Overview](svg/Microsoft_AAD_IAM/SecurityOverviewBlade.svg) |  |
-| [Security Getting Started](svg/Microsoft_AAD_IAM/SecurityQuickStartBlade.svg) |  |
-| [Multifactor Authentication Server Setting](svg/Microsoft_AAD_IAM/ServerSettingsBlade.svg) |  |
-| [Multifactor Authentication Server Status](svg/Microsoft_AAD_IAM/ServerStatusBlade.svg) |  |
-| [Microsoft Entra Application Activity](svg/Microsoft_AAD_IAM/ServicePrincipalActivity.svg) |  |
-| [Workflow Settings](svg/Microsoft_AAD_IAM/Settings.svg) |  |
-| [Verified ID Setup](svg/Microsoft_AAD_IAM/SetupBlade.svg) |  |
-| [Sign-in Log](svg/Microsoft_AAD_IAM/SignInLogs.svg) |  |
-| [Sign-In Risk Policy](svg/Microsoft_AAD_IAM/SignInRiskPolicyBlade.svg) |  |
-| [Microsoft Entra ID](svg/Microsoft_AAD_IAM/TenantOverview.svg) |  |
-| [Conditional Access Terms Of Use](svg/Microsoft_AAD_IAM/TermsOfUseSummaryBlade.svg) |  |
-| [Traffic Logs​](svg/Microsoft_AAD_IAM/TrafficLogs.svg) |  |
-| [User Registration Detail](svg/Microsoft_AAD_IAM/UserRegistrationDetailsList.svg) |  |
-| [Resource Assignments for a User](svg/Microsoft_AAD_IAM/UserResourceListBlade.svg) |  |
-| [User Risk Policy](svg/Microsoft_AAD_IAM/UserRiskPolicyBlade.svg) |  |
-| [VPN Connectivity](svg/Microsoft_AAD_IAM/VpnConfigurationsBlade.svg) |  |
-| [Web Filtering Policy​](svg/Microsoft_AAD_IAM/WebFilteringPolicy.svg) |  |
-| [Workbook](svg/Microsoft_AAD_IAM/Workbooks.svg) |  |
-| [Workflow](svg/Microsoft_AAD_IAM/WorkflowOverview.svg) |  |
-| [Workload Identity](svg/Microsoft_AAD_IAM/WorkloadIdentities.svg) |  |
 | [Users](svg/Microsoft_AAD_IAM/UserManagement.svg) |  |
+| [Workload Identity](svg/Microsoft_AAD_IAM/WorkloadIdentities.svg) |  |
+| [Workflow](svg/Microsoft_AAD_IAM/WorkflowOverview.svg) |  |
+| [Workbook](svg/Microsoft_AAD_IAM/Workbooks.svg) |  |
+| [Web Filtering Policy​](svg/Microsoft_AAD_IAM/WebFilteringPolicy.svg) |  |
+| [VPN Connectivity](svg/Microsoft_AAD_IAM/VpnConfigurationsBlade.svg) |  |
+| [User Risk Policy](svg/Microsoft_AAD_IAM/UserRiskPolicyBlade.svg) |  |
+| [Resource Assignments for a User](svg/Microsoft_AAD_IAM/UserResourceListBlade.svg) |  |
+| [User Registration Detail](svg/Microsoft_AAD_IAM/UserRegistrationDetailsList.svg) |  |
+| [Traffic Logs​](svg/Microsoft_AAD_IAM/TrafficLogs.svg) |  |
+| [Conditional Access Terms Of Use](svg/Microsoft_AAD_IAM/TermsOfUseSummaryBlade.svg) |  |
+| [Microsoft Entra ID](svg/Microsoft_AAD_IAM/TenantOverview.svg) |  |
+| [Sign-In Risk Policy](svg/Microsoft_AAD_IAM/SignInRiskPolicyBlade.svg) |  |
+| [Sign-in Log](svg/Microsoft_AAD_IAM/SignInLogs.svg) |  |
+| [Verified ID Setup](svg/Microsoft_AAD_IAM/SetupBlade.svg) |  |
+| [Workflow Settings](svg/Microsoft_AAD_IAM/Settings.svg) |  |
+| [Microsoft Entra Application Activity](svg/Microsoft_AAD_IAM/ServicePrincipalActivity.svg) |  |
+| [Multifactor Authentication Server Status](svg/Microsoft_AAD_IAM/ServerStatusBlade.svg) |  |
+| [Multifactor Authentication Server Setting](svg/Microsoft_AAD_IAM/ServerSettingsBlade.svg) |  |
+| [Security Getting Started](svg/Microsoft_AAD_IAM/SecurityQuickStartBlade.svg) |  |
+| [Identity Protection Overview](svg/Microsoft_AAD_IAM/SecurityOverviewBlade.svg) |  |
+| [Session Management​](svg/Microsoft_AAD_IAM/Security.svg) |  |
+| [Health](svg/Microsoft_AAD_IAM/ScenarioHealthSummary.svg) |  |
+| [Enterprise State Roaming](svg/Microsoft_AAD_IAM/RoamingSettingsBlade.svg) |  |
+| [Access Review](svg/Microsoft_AAD_IAM/ReviewAccessBlade.svg) |  |
+| [Registration Campaign](svg/Microsoft_AAD_IAM/RegistrationCampaign.svg) |  |
+| [Registration and Reset Event](svg/Microsoft_AAD_IAM/RegistrationAndResetEventsList.svg) |  |
+| [Privileged Identity Management Quickstart](svg/Microsoft_AAD_IAM/QuickStart.svg) |  |
+| [Create Quick Access configuration](svg/Microsoft_AAD_IAM/QuickAccess.svg) |  |
+| [Microsoft Entra Connect Get Started](svg/Microsoft_AAD_IAM/ProvisioningGetStarted.svg) |  |
+| [Provisioning Logs](svg/Microsoft_AAD_IAM/ProvisioningEventsBlade.svg) |  |
+| [Multifactor Aunthentication Provider](svg/Microsoft_AAD_IAM/ProvidersBlade.svg) |  |
+| [Feature Preview](svg/Microsoft_AAD_IAM/PreviewHub.svg) |  |
+| [Policies Overview](svg/Microsoft_AAD_IAM/PolicyOverview.svg) |  |
+| [Policy](svg/Microsoft_AAD_IAM/PoliciesList.svg) |  |
+| [Welcome to Permissions Management](svg/Microsoft_AAD_IAM/PMDashboard.svg) |  |
+| [Phone Call Setting](svg/Microsoft_AAD_IAM/PhoneCallSettingsBlade.svg) |  |
+| [Users Registration](svg/Microsoft_AAD_IAM/PasswordResetPolicyDetailRegistrationBlade.svg) |  |
+| [Password Resets Notification](svg/Microsoft_AAD_IAM/PasswordResetPolicyDetailNotificationsBlade.svg) |  |
+| [Helpdesk Link Customization](svg/Microsoft_AAD_IAM/PasswordResetPolicyDetailCustomizationBlade.svg) |  |
+| [Password Reset](svg/Microsoft_AAD_IAM/PasswordReset.svg) |  |
+| [Password Protection](svg/Microsoft_AAD_IAM/PasswordProtectionBlade.svg) |  |
+| [Connected Organization](svg/Microsoft_AAD_IAM/PartnerListBlade.svg) |  |
+| [Lifecycle Management Overview](svg/Microsoft_AAD_IAM/Overview.svg) |  |
+| [Password Reset On-premises Integration](svg/Microsoft_AAD_IAM/OnPremisesPasswordResetPolicy.svg) |  |
+| [One-time Bypass](svg/Microsoft_AAD_IAM/OneTimeBypassBlade.svg) |  |
+| [Notification](svg/Microsoft_AAD_IAM/NotificationsBlade.svg) |  |
+| [New Support Request](svg/Microsoft_AAD_IAM/NewSupportRequestV3Blade.svg) |  |
+| [Named Location](svg/Microsoft_AAD_IAM/NamedLocations.svg) |  |
+| [Mobility (MDM and WIP)](svg/Microsoft_AAD_IAM/Mobility.svg) |  |
+| [Multifactor Authentication Registration Policy](svg/Microsoft_AAD_IAM/MfaPolicyBlade.svg) |  |
+| [Logging with Global Secure Access​](svg/Microsoft_AAD_IAM/Logging.svg) |  |
+| [Local Administrator Password Recovery](svg/Microsoft_AAD_IAM/LocalAdminPasswordRecoveryBlade.svg) |  |
+| [Linked Subscription](svg/Microsoft_AAD_IAM/LinkedSubscriptionsBlade.svg) |  |
+| [License](svg/Microsoft_AAD_IAM/LicenseManagement.svg) |  |
+| [Verified ID Settings](svg/Microsoft_AAD_IAM/IssuerSettingsBlade.svg) |  |
+| [Identity Protection Documentation](svg/Microsoft_AAD_IAM/IPTutorial.svg) |  |
+| [Weekly Digest](svg/Microsoft_AAD_IAM/IpcDigestSettingsBlade.svg) |  |
+| [Users At Risk Detected Alert](svg/Microsoft_AAD_IAM/IpcAlertSettingsBlade.svg) |  |
+| [Identity Secure Score](svg/Microsoft_AAD_IAM/IdentitySecureScoreV2Blade.svg) |  |
+| [Identity Protection Overview](svg/Microsoft_AAD_IAM/IdentityProtectionOverview.svg) |  |
+| [OATH Token](svg/Microsoft_AAD_IAM/HardwareTokensBlade.svg) |  |
+| [Group Setting](svg/Microsoft_AAD_IAM/GroupGeneralSettings.svg) |  |
+| [Multifactor Authentication Getting Started](svg/Microsoft_AAD_IAM/GettingStartedBlade.svg) |  |
+| [Get started with Global Secure Access​](svg/Microsoft_AAD_IAM/GetStarted.svg) |  |
+| [Fraud Alert](svg/Microsoft_AAD_IAM/FraudAlertBlade.svg) |  |
+| [Traffic Forwarding​](svg/Microsoft_AAD_IAM/ForwardingProfile.svg) |  |
+| [Policy Profile](svg/Microsoft_AAD_IAM/FilteringPolicyProfiles.svg) |  |
+| [External Identity Getting Started](svg/Microsoft_AAD_IAM/ExternalIdentitiesGettingStarted.svg) |  |
+| [External Collaboration Setting](svg/Microsoft_AAD_IAM/ExternalCollaborationSettings.svg) |  |
+| [Enterprise Application Overview](svg/Microsoft_AAD_IAM/EnterpriseAppsOverview.svg) |  |
+| [Enterprise Applications User Setting](svg/Microsoft_AAD_IAM/EnterpriseApplicationsUserSettingsBlade.svg) |  |
+| [Enterprise Applications Collection](svg/Microsoft_AAD_IAM/EnterpriseApplicationsCollectionsBlade.svg) |  |
+| [Enriched Microsoft 365 Logs​](svg/Microsoft_AAD_IAM/EnrichedLogs.svg) |  |
+| [Domain Name](svg/Microsoft_AAD_IAM/DomainNames.svg) |  |
+| [Group Naming Policy](svg/Microsoft_AAD_IAM/DirectoryGroupNamingPolicySettingsBlade.svg) |  |
+| [Group Expiration](svg/Microsoft_AAD_IAM/DirectoryGroupLifecycleSettingsV2Blade.svg) |  |
+| [Diagnostic Settings](svg/Microsoft_AAD_IAM/DiagnosticsLogsBlade.svg) |  |
+| [Diagnose and Solve Problem](svg/Microsoft_AAD_IAM/DiagnosticsHome.svg) |  |
+| [Device Overview](svg/Microsoft_AAD_IAM/DevicesOverview.svg) |  |
+| [All Devices](svg/Microsoft_AAD_IAM/DevicesList.svg) |  |
+| [Device Settings](svg/Microsoft_AAD_IAM/DeviceSettingsBlade.svg) |  |
+| [Devices Overview](svg/Microsoft_AAD_IAM/DeviceManagement.svg) |  |
+| [Deleted Workflow](svg/Microsoft_AAD_IAM/DeletedWorkflow.svg) |  |
+| [Deleted User](svg/Microsoft_AAD_IAM/DeletedUsers.svg) |  |
+| [Deleted Group](svg/Microsoft_AAD_IAM/DeletedGroups.svg) |  |
+| [Delegated Admin Partner](svg/Microsoft_AAD_IAM/DelegatedAdminPartners.svg) |  |
+| [Welcome to Identity Governance](svg/Microsoft_AAD_IAM/Dashboard.svg) |  |
+| [Custom Control](svg/Microsoft_AAD_IAM/CustomControls.svg) |  |
+| [Custom Attribute](svg/Microsoft_AAD_IAM/CustomSecurityAttributes.svg) |  |
+| [Custom Attribute](svg/Microsoft_AAD_IAM/CustomAttributes.svg) |  |
+| [Cross-Tenant Synchronization Overview](svg/Microsoft_AAD_IAM/CrossTenantSynchronizationGetStarted.svg) |  |
+| [Cross-Tenant Synchronization Configuration](svg/Microsoft_AAD_IAM/CrossTenantSynchronizationConfiguration.svg) |  |
+| [Cross-tenant Access Setting](svg/Microsoft_AAD_IAM/XtapAccessSettings.svg) |  |
+| [User Consent Setting](svg/Microsoft_AAD_IAM/ConsentPoliciesUserSettingsBlade.svg) |  |
+| [Permission classification](svg/Microsoft_AAD_IAM/ConsentPoliciesPermissionsBlade.svg) |  |
+| [Admin Consent Setting](svg/Microsoft_AAD_IAM/ConsentPoliciesAdminConsentSettingsBlade.svg) |  |
+| [Company Branding](svg/Microsoft_AAD_IAM/CompanyBranding.svg) |  |
+| [Client](svg/Microsoft_AAD_IAM/Clients.svg) |  |
+| [Policy](svg/Microsoft_AAD_IAM/ClassicPolicyListBlade.svg) |  |
+| [Certificate Authority](svg/Microsoft_AAD_IAM/CertificateAuthorities.svg) |  |
+| [Catalog](svg/Microsoft_AAD_IAM/CatalogListBlade.svg) |  |
+| [Credentials](svg/Microsoft_AAD_IAM/CardsListBlade.svg) |  |
+| [Caching Rule](svg/Microsoft_AAD_IAM/CachingRulesBlade.svg) |  |
+| [Bulk Operation](svg/Microsoft_AAD_IAM/BulkOperations.svg) |  |
+| [Remote Network](svg/Microsoft_AAD_IAM/BranchConnectivity.svg) |  |
+| [Block/Unblock User](svg/Microsoft_AAD_IAM/BlockedUsersBlade.svg) |  |
+| [BitLocker Key](svg/Microsoft_AAD_IAM/BitLockerKeys.svg) |  |
+| [Microsoft Defender for Cloud](svg/Microsoft_AAD_IAM/AzureAttachActiveDirectoryBlade.svg) |  |
+| [Authentication Strength](svg/Microsoft_AAD_IAM/AuthStrengths.svg) |  |
+| [Authentication Methods Setting](svg/Microsoft_AAD_IAM/AuthMethodsSettings.svg) |  |
+| [Authentication Methods Activity](svg/Microsoft_AAD_IAM/AuthenticationMethodsActivity.svg) |  |
+| [Authentication Context](svg/Microsoft_AAD_IAM/AuthenticationContextBlade.svg) |  |
+| [Activity Report](svg/Microsoft_AAD_IAM/AuthenticationActivityBlade.svg) |  |
+| [Audit Log](svg/Microsoft_AAD_IAM/AuditLogs.svg) |  |
+| [Privileged Identity Management Browse](svg/Microsoft_AAD_IAM/ArmResourceBrowseBlade.svg) |  |
+| [Admin Consent Request](svg/Microsoft_AAD_IAM/ApplicationRequestApprovalsBladeV2.svg) |  |
+| [Application Credential Activity](svg/Microsoft_AAD_IAM/ApplicationCredentialActivityList.svg) |  |
+| [Microsoft Entra Application Activity](svg/Microsoft_AAD_IAM/ApplicationActivityGrid.svg) |  |
+| [App Launchers Setting](svg/Microsoft_AAD_IAM/AppLaunchersSettings.svg) |  |
+| [Administrator Policy](svg/Microsoft_AAD_IAM/AdminPasswordResetPolicyBlade.svg) |  |
+| [Auth Method](svg/Microsoft_AAD_IAM/AdminAuthMethodsBlade.svg) |  |
+| [Account Lockout](svg/Microsoft_AAD_IAM/AccountLockoutBlade.svg) |  |
+| [Microsoft Entra Connect](svg/Microsoft_AAD_IAM/AADConnectBlade.svg) |  |
+| [Microsoft Entra ID Security](svg/Microsoft_AAD_IAM/SecurityRootAsset.svg) |  |
+| [Security](svg/Microsoft_AAD_IAM/SecurityQuickStart.svg) |  |
+| [Microsoft Entra Identity Secure Score](svg/Microsoft_AAD_IAM/SecureScoreRootAsset.svg) |  |
+| [Microsoft Entra ID risky users](svg/Microsoft_AAD_IAM/RiskyUsersRootAsset.svg) |  |
+| [Microsoft Entra ID risky sign-ins](svg/Microsoft_AAD_IAM/RiskySigninsRootAsset.svg) |  |
+| [Microsoft Entra ID risky workload identities](svg/Microsoft_AAD_IAM/RiskyServicePrincipalsRootAsset.svg) |  |
+| [Microsoft Entra ID risk detections](svg/Microsoft_AAD_IAM/RiskDetectionsRootAsset.svg) |  |
+| [Microsoft Entra password protection](svg/Microsoft_AAD_IAM/PasswordProtectionRootAsset.svg) |  |
+| [Multifactor authentication](svg/Microsoft_AAD_IAM/MultifactorAuthenticationRootAsset.svg) |  |
+| [Microsoft Entra ID Protection](svg/Microsoft_AAD_IAM/IdentityProtectionRootAsset.svg) |  |
+| [Microsoft Entra authentication methods](svg/Microsoft_AAD_IAM/AuthenticationMethodsRootAsset.svg) |  |
+| [Private Link for Microsoft Entra ID](svg/Microsoft_AAD_IAM/PrivateLinkForAzureAD.svg) | microsoft.aadiam/ privateLinkForAzureAD |
+| [Groups](svg/Microsoft_AAD_IAM/GroupsManagement.svg) |  |
+| [Tenant properties](svg/Microsoft_AAD_IAM/TenantProperties.svg) |  |
+| [User settings](svg/Microsoft_AAD_IAM/DirectoryUserSettings.svg) |  |
+| [Microsoft Entra Connect](svg/Microsoft_AAD_IAM/DirectoriesADConnect.svg) |  |
+| [Create custom Microsoft Entra roles](svg/Microsoft_AAD_IAM/CreateCustomRole.svg) |  |
+| [External Identities](svg/Microsoft_AAD_IAM/CompanyRelationshipsMenuBlade.svg) |  |
+| [Microsoft Entra ID](svg/Microsoft_AAD_IAM/AzureActiveDirectory.svg) |  |
+| [Microsoft Entra roles and administrators](svg/Microsoft_AAD_IAM/AllRolesBlade.svg) |  |
+| [Administrative units](svg/Microsoft_AAD_IAM/AdminUnitManagementBlade.svg) |  |
+| [Enterprise application](svg/Microsoft_AAD_IAM/Application.svg) |  |
+| [App proxy](svg/Microsoft_AAD_IAM/AppProxyOverview.svg) |  |
 | [App registration](svg/Microsoft_AAD_RegisteredApps/RegisteredApps.svg) |  |
 | [EngageHub Portal](svg/Microsoft_AzureCXP_EngageHub/EngageHubPortalMenu.svg) |  |
 | [Azure Stack  Preview](svg/Microsoft_AzureStackHCI_PortalExtension/AzureEdgeNodePool.svg) | Microsoft.AzureStackHCI/ edgeNodePools |
@@ -333,6 +333,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Host](svg/Microsoft_Azure_Compute/DedicatedHost.svg) | Microsoft.Compute/ hostgroups/ hosts |
 | [Host](svg/Microsoft_Azure_Compute/DedicatedHostComputeHub.svg) |  |
 | [Instance](svg/Microsoft_Azure_Compute/ComputeFleetInstance.svg) | microsoft.compute/ computefleetinstances |
+| [Virtual machine scale set](svg/Microsoft_Azure_Compute/ComputeFleetScaleSet.svg) | microsoft.compute/ computefleetscalesets |
 | [Standby pool](svg/Microsoft_Azure_Compute/StandbyPoolInstance.svg) | microsoft.compute/ standbypoolinstance |
 | [Instance](svg/Microsoft_Azure_Compute/VirtualMachineFlexInstance.svg) | microsoft.compute/ virtualmachineflexinstances |
 | [Proximity placement group](svg/Microsoft_Azure_Compute/ProximityPlacementGroup.svg) | Microsoft.Compute/ ProximityPlacementGroups |
@@ -394,10 +395,10 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Portal Extension](svg/Microsoft_Azure_CreateUIDef/PortalExtensions.svg) | Microsoft.PortalServices/ Extensions |
 | [Extension Slot](svg/Microsoft_Azure_CreateUIDef/PortalExtensionSlots.svg) | Microsoft.PortalServices/ Extensions/ Slots |
 | [Extension Version](svg/Microsoft_Azure_CreateUIDef/PortalExtensionVersions.svg) | Microsoft.PortalServices/ Extensions/ Versions |
-| [Azure Data Transfer](svg/Microsoft_Azure_CtsExtension/CloudTransferService.svg) |  |
-| [Connection](svg/Microsoft_Azure_CtsExtension/CloudTransferConnection.svg) | Microsoft.AzureDataTransfer/ Connections |
-| [Flow](svg/Microsoft_Azure_CtsExtension/CloudTransferFlow.svg) | Microsoft.AzureDataTransfer/ Connections/ Flows |
 | [Pipeline](svg/Microsoft_Azure_CtsExtension/CloudTransferPipeline.svg) | Microsoft.AzureDataTransfer/ Pipelines |
+| [Flow](svg/Microsoft_Azure_CtsExtension/CloudTransferFlow.svg) | Microsoft.AzureDataTransfer/ Connections/ Flows |
+| [Connection](svg/Microsoft_Azure_CtsExtension/CloudTransferConnection.svg) | Microsoft.AzureDataTransfer/ Connections |
+| [Azure Data Transfer](svg/Microsoft_Azure_CtsExtension/CloudTransferService.svg) |  |
 | [Azure Lighthouse](svg/Microsoft_Azure_CustomerHub/Lighthouse.svg) | Microsoft.ManagedServices/ registrationDefinitions |
 | [My customers](svg/Microsoft_Azure_CustomerHub/MyCustomers.svg) |  |
 | [Service providers](svg/Microsoft_Azure_CustomerHub/ServiceProviders.svg) |  |
@@ -424,15 +425,15 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Cray Server](svg/Microsoft_Azure_Dedicated_Cray/CrayServer.svg) | Microsoft.BareMetal/ crayServers |
 | [Monitoring Server](svg/Microsoft_Azure_Dedicated_Monitoring/MonitoringServer.svg) | Microsoft.BareMetal/ monitoringServers |
 | [Security Detonation Chamber](svg/Microsoft_Azure_DetonationService/DetonationChamber.svg) | Microsoft.SecurityDetonation/ chambers |
-| [Microsoft Code Studio](svg/Microsoft_Azure_DevCenter/CodeStudioService.svg) |  |
-| [Dev Box definition](svg/Microsoft_Azure_DevCenter/DevBoxDefinitions.svg) | Microsoft.DevCenter/ devcenters/ devboxdefinitions |
-| [Dev center](svg/Microsoft_Azure_DevCenter/DevCenter.svg) | Microsoft.DevCenter/ devcenters |
-| [Microsoft Dev Box](svg/Microsoft_Azure_DevCenter/DevCenterService.svg) |  |
-| [Azure Deployment Environment](svg/Microsoft_Azure_DevCenter/EnvironmentsService.svg) |  |
-| [Network connection](svg/Microsoft_Azure_DevCenter/NetworkConnection.svg) | Microsoft.DevCenter/ networkconnections |
-| [Dev center plan](svg/Microsoft_Azure_DevCenter/Plan.svg) | Microsoft.DevCenter/ plans |
-| [Pool](svg/Microsoft_Azure_DevCenter/Pools.svg) | Microsoft.DevCenter/ projects/ pools |
 | [Project](svg/Microsoft_Azure_DevCenter/Project.svg) | Microsoft.DevCenter/ projects |
+| [Pool](svg/Microsoft_Azure_DevCenter/Pools.svg) | Microsoft.DevCenter/ projects/ pools |
+| [Dev center plan](svg/Microsoft_Azure_DevCenter/Plan.svg) | Microsoft.DevCenter/ plans |
+| [Network connection](svg/Microsoft_Azure_DevCenter/NetworkConnection.svg) | Microsoft.DevCenter/ networkconnections |
+| [Azure Deployment Environment](svg/Microsoft_Azure_DevCenter/EnvironmentsService.svg) |  |
+| [Microsoft Dev Box](svg/Microsoft_Azure_DevCenter/DevCenterService.svg) |  |
+| [Dev center](svg/Microsoft_Azure_DevCenter/DevCenter.svg) | Microsoft.DevCenter/ devcenters |
+| [Dev Box definition](svg/Microsoft_Azure_DevCenter/DevBoxDefinitions.svg) | Microsoft.DevCenter/ devcenters/ devboxdefinitions |
+| [Microsoft Code Studio](svg/Microsoft_Azure_DevCenter/CodeStudioService.svg) |  |
 | [IoT Asset](svg/Microsoft_Azure_DeviceRegistry/assets.svg) | microsoft.deviceregistry/ assets |
 | [IoT Device](svg/Microsoft_Azure_DeviceRegistry/devices.svg) | microsoft.deviceregistry/ devices |
 | [Device Update Active Deployment](svg/Microsoft_Azure_DeviceUpdate/activeDeployment.svg) | Microsoft.DeviceUpdate/ updateAccounts/ activeDeployments |
@@ -484,6 +485,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Microsoft Defender EASM (Preview)](svg/Microsoft_Azure_EASM/PrivateEasmWorkspace.svg) | Private.Easm/ workspaces |
 | [Impact Reporting](svg/Microsoft_Azure_ECE/ImpactRP.svg) |  |
 | [Impact Reporting Connector](svg/Microsoft_Azure_ECE/microsoft_impact_connectors_2024_05_01_preview.svg) | microsoft.impact/ connectors |
+| [Edge Action](svg/Microsoft_Azure_EdgeAction/EdgeAction.svg) | Microsoft.Cdn/ edgeactions |
 | [My Resource](svg/Microsoft_Azure_EdgeAIExtension/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Azure Stack Edge / Data Box Gateway](svg/Microsoft_Azure_EdgeGateway/EdgeGateway.svg) | Microsoft.DataBoxEdge/ dataBoxEdgeDevices |
 | [My Resource](svg/Microsoft_Azure_EdgeManagementCopilot/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
@@ -505,23 +507,23 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Email Communication Service](svg/Microsoft_Azure_EmailCommunicationServices/EmailCommunicationService.svg) | Microsoft.Communication/ EmailServices |
 | [Azure Center for Epic solution](svg/Microsoft_Azure_EpicManagement/LandingAsset.svg) |  |
 | [Virtual Instance for Epic solution](svg/Microsoft_Azure_EpicManagement/OverviewAsset.svg) | Microsoft.Workloads/ epicVirtualInstances |
-| [Event Grid Topic Space](svg/Microsoft_Azure_EventGrid/TopicSpace.svg) | Microsoft.EventGrid/ namespaces/ topicSpaces |
-| [Event Grid Topic](svg/Microsoft_Azure_EventGrid/Topic.svg) | Microsoft.EventGrid/ topics |
-| [Event Grid Subscriptions](svg/Microsoft_Azure_EventGrid/SystemTopicEventSubscription.svg) | Microsoft.EventGrid/ systemTopics/ eventSubscriptions |
-| [Event Grid System Topic](svg/Microsoft_Azure_EventGrid/SystemTopic.svg) | Microsoft.EventGrid/ systemTopics |
-| [Event Subscription](svg/Microsoft_Azure_EventGrid/QueueSubscription.svg) | Microsoft.EventGrid/ namespaces/ topics/ eventSubscriptions |
-| [Event Grid Namespace](svg/Microsoft_Azure_EventGrid/PubSubNamespace.svg) | Microsoft.EventGrid/ namespaces |
-| [Event Grid Partner Topic](svg/Microsoft_Azure_EventGrid/PartnerTopic.svg) | Microsoft.EventGrid/ partnerTopics |
-| [Event Grid Partner Registration](svg/Microsoft_Azure_EventGrid/PartnerRegistration.svg) | Microsoft.EventGrid/ partnerRegistrations |
-| [Event Grid Partner Namespace](svg/Microsoft_Azure_EventGrid/PartnerNamespace.svg) | Microsoft.EventGrid/ partnerNamespaces |
-| [Event Grid Partner Destination](svg/Microsoft_Azure_EventGrid/PartnerDestination.svg) | Microsoft.EventGrid/ partnerDestinations |
-| [Event Grid Partner Configuration](svg/Microsoft_Azure_EventGrid/PartnerConfiguration.svg) | Microsoft.EventGrid/ partnerConfigurations |
-| [Event Grid Namespace Topic](svg/Microsoft_Azure_EventGrid/NamespaceTopic.svg) | Microsoft.EventGrid/ namespaces/ topics |
-| [Event Grid](svg/Microsoft_Azure_EventGrid/EventGridCentral.svg) |  |
-| [Event Grid Subscriptions](svg/Microsoft_Azure_EventGrid/EventGrid.svg) |  |
-| [Event Grid Domain Topic](svg/Microsoft_Azure_EventGrid/EventDomainTopic.svg) | Microsoft.EventGrid/ domains/ topics |
-| [Event Grid Domain](svg/Microsoft_Azure_EventGrid/EventDomain.svg) | Microsoft.EventGrid/ domains |
 | [Event Grid Channel](svg/Microsoft_Azure_EventGrid/Channel.svg) | Microsoft.EventGrid/ partnerNamespaces/ channels |
+| [Event Grid Domain](svg/Microsoft_Azure_EventGrid/EventDomain.svg) | Microsoft.EventGrid/ domains |
+| [Event Grid Domain Topic](svg/Microsoft_Azure_EventGrid/EventDomainTopic.svg) | Microsoft.EventGrid/ domains/ topics |
+| [Event Grid Subscriptions](svg/Microsoft_Azure_EventGrid/EventGrid.svg) |  |
+| [Event Grid](svg/Microsoft_Azure_EventGrid/EventGridCentral.svg) |  |
+| [Event Grid Namespace Topic](svg/Microsoft_Azure_EventGrid/NamespaceTopic.svg) | Microsoft.EventGrid/ namespaces/ topics |
+| [Event Grid Partner Configuration](svg/Microsoft_Azure_EventGrid/PartnerConfiguration.svg) | Microsoft.EventGrid/ partnerConfigurations |
+| [Event Grid Partner Destination](svg/Microsoft_Azure_EventGrid/PartnerDestination.svg) | Microsoft.EventGrid/ partnerDestinations |
+| [Event Grid Partner Namespace](svg/Microsoft_Azure_EventGrid/PartnerNamespace.svg) | Microsoft.EventGrid/ partnerNamespaces |
+| [Event Grid Partner Registration](svg/Microsoft_Azure_EventGrid/PartnerRegistration.svg) | Microsoft.EventGrid/ partnerRegistrations |
+| [Event Grid Partner Topic](svg/Microsoft_Azure_EventGrid/PartnerTopic.svg) | Microsoft.EventGrid/ partnerTopics |
+| [Event Grid Namespace](svg/Microsoft_Azure_EventGrid/PubSubNamespace.svg) | Microsoft.EventGrid/ namespaces |
+| [Event Subscription](svg/Microsoft_Azure_EventGrid/QueueSubscription.svg) | Microsoft.EventGrid/ namespaces/ topics/ eventSubscriptions |
+| [Event Grid System Topic](svg/Microsoft_Azure_EventGrid/SystemTopic.svg) | Microsoft.EventGrid/ systemTopics |
+| [Event Grid Subscriptions](svg/Microsoft_Azure_EventGrid/SystemTopicEventSubscription.svg) | Microsoft.EventGrid/ systemTopics/ eventSubscriptions |
+| [Event Grid Topic](svg/Microsoft_Azure_EventGrid/Topic.svg) | Microsoft.EventGrid/ topics |
+| [Event Grid Topic Space](svg/Microsoft_Azure_EventGrid/TopicSpace.svg) | Microsoft.EventGrid/ namespaces/ topicSpaces |
 | [Event Hubs Namespace](svg/Microsoft_Azure_EventHub/EventHub.svg) | Microsoft.EventHub/ namespaces |
 | [Event Hubs Cluster](svg/Microsoft_Azure_EventHub/EventHubCluster.svg) | Microsoft.EventHub/ clusters |
 | [Event Hubs Instance](svg/Microsoft_Azure_EventHub/EventHubSelect.svg) | Microsoft.EventHub/ namespaces/ eventhubs |
@@ -617,10 +619,10 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Key](svg/Microsoft_Azure_KeyVault/Key.svg) |  |
 | [Key vault](svg/Microsoft_Azure_KeyVault/KeyVault.svg) | Microsoft.KeyVault/ vaults |
 | [Secret](svg/Microsoft_Azure_KeyVault/Secret.svg) |  |
-| [Azure Data Explorer Cluster](svg/Microsoft_Azure_Kusto/KustoCluster.svg) | Microsoft.Kusto/ clusters |
-| [Azure Data Explorer Database](svg/Microsoft_Azure_Kusto/KustoClusterDatabase.svg) | Microsoft.Kusto/ clusters/ databases |
-| [Data Explorer pool (preview)](svg/Microsoft_Azure_Kusto/kustoSynapsePool.svg) | Microsoft.Synapse/ workspaces/ kustopools |
 | [Data Explorer Database](svg/Microsoft_Azure_Kusto/kustoSynapsePoolDatabase.svg) | Microsoft.Synapse/ workspaces/ kustopools/ databases |
+| [Data Explorer pool (preview)](svg/Microsoft_Azure_Kusto/kustoSynapsePool.svg) | Microsoft.Synapse/ workspaces/ kustopools |
+| [Azure Data Explorer Database](svg/Microsoft_Azure_Kusto/KustoClusterDatabase.svg) | Microsoft.Kusto/ clusters/ databases |
+| [Azure Data Explorer Cluster](svg/Microsoft_Azure_Kusto/KustoCluster.svg) | Microsoft.Kusto/ clusters |
 | [Azure Maps Creator Resource](svg/Microsoft_Azure_LocationServices/Creator.svg) | Microsoft.Maps/ accounts/ creators |
 | [Azure Maps Account](svg/Microsoft_Azure_LocationServices/Maps.svg) | Microsoft.Maps/ accounts |
 | [Customer Lockbox for Microsoft Azure](svg/Microsoft_Azure_Lockbox/AzureLockbox.svg) |  |
@@ -648,8 +650,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Marketplace](svg/Microsoft_Azure_Marketplace/Gallery.svg) |  |
 | [Professional Service](svg/Microsoft_Azure_MarketplaceTransact/ProfessionalService.svg) | Microsoft.ProfessionalService/ resources |
 | [Media service](svg/Microsoft_Azure_Media/MediaServiceAccount.svg) | microsoft.media/ mediaservices |
-| [Azure Migrate](svg/Microsoft_Azure_Migrate/AzureMigrationHub.svg) |  |
 | [Migration project](svg/Microsoft_Azure_Migrate/MigrationProject.svg) | Microsoft.Migrate/ projects |
+| [Azure Migrate](svg/Microsoft_Azure_Migrate/AzureMigrationHub.svg) |  |
 | [Migrate Assessment](svg/Microsoft_Azure_MigrateAssessment/MigrateAssessmentResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Nixtla](svg/Microsoft_Azure_MLTeamAccounts/Nixtla.svg) |  |
 | [Model Provider](svg/Microsoft_Azure_MLTeamAccounts/ModelProvider.svg) |  |
@@ -856,9 +858,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Recovery Services INTD](svg/Microsoft_Azure_RecoveryServices/RecoveryServicesResourceINTD.svg) | Microsoft.RecoveryServicesINTD/ vaults |
 | [Recovery Services INTD2](svg/Microsoft_Azure_RecoveryServices/RecoveryServicesResourceINTD2.svg) | Microsoft.RecoveryServicesINTD2/ vaults |
 | [Backup Item](svg/Microsoft_Azure_RecoveryServices/BackupItem.svg) | Microsoft.RecoveryServices/ vaults/ backupFabrics/ protectionContainers/ protectedItems |
-| [Hybrid Connection](svg/Microsoft_Azure_Relay/HybridConnection.svg) | Microsoft.Relay/ namespaces/ HybridConnections |
-| [Relay](svg/Microsoft_Azure_Relay/Relay.svg) | Microsoft.Relay/ namespaces |
 | [WCF Relay](svg/Microsoft_Azure_Relay/WcfRelay.svg) | Microsoft.Relay/ namespaces/ WcfRelays |
+| [Relay](svg/Microsoft_Azure_Relay/Relay.svg) | Microsoft.Relay/ namespaces |
+| [Hybrid Connection](svg/Microsoft_Azure_Relay/HybridConnection.svg) | Microsoft.Relay/ namespaces/ HybridConnections |
 | [Reservation](svg/Microsoft_Azure_Reservations/ReservationsBrowseAsset.svg) |  |
 | [Savings plan](svg/Microsoft_Azure_Reservations/SavingsPlanBrowseAsset.svg) |  |
 | [Incentive Schedule](svg/Microsoft_Azure_Reservations/ContingencyBillingAdminAsset.svg) | Microsoft.Billing/ billingAccounts/ incentiveSchedules |
@@ -909,11 +911,11 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Microsoft Sentinel incident](svg/Microsoft_Azure_Security_Insights/Incident.svg) |  |
 | [Microsoft Sentinel](svg/Microsoft_Azure_Security_Insights/SecurityInsightsDashboard.svg) | microsoft.securityinsightsarg/ sentinel |
 | [Azure Iot Hub Security](svg/Microsoft_Azure_Security_IoT/AzureIoTSecurity.svg) |  |
-| [Service Bus Namespace](svg/Microsoft_Azure_ServiceBus/ServiceBus.svg) | Microsoft.ServiceBus/ namespaces |
-| [Service Bus Geo-DR Alias](svg/Microsoft_Azure_ServiceBus/ServiceBusDrConfig.svg) | Microsoft.ServiceBus/ namespaces/ disasterrecoveryconfigs |
-| [Service Bus Queue](svg/Microsoft_Azure_ServiceBus/ServiceBusQueue.svg) | Microsoft.ServiceBus/ namespaces/ queues |
-| [Service Bus Subscription](svg/Microsoft_Azure_ServiceBus/ServiceBusSubscription.svg) | Microsoft.ServiceBus/ namespaces/ topics/ subscriptions |
 | [Service Bus Topic](svg/Microsoft_Azure_ServiceBus/ServiceBusTopic.svg) | Microsoft.ServiceBus/ namespaces/ topics |
+| [Service Bus Subscription](svg/Microsoft_Azure_ServiceBus/ServiceBusSubscription.svg) | Microsoft.ServiceBus/ namespaces/ topics/ subscriptions |
+| [Service Bus Queue](svg/Microsoft_Azure_ServiceBus/ServiceBusQueue.svg) | Microsoft.ServiceBus/ namespaces/ queues |
+| [Service Bus Geo-DR Alias](svg/Microsoft_Azure_ServiceBus/ServiceBusDrConfig.svg) | Microsoft.ServiceBus/ namespaces/ disasterrecoveryconfigs |
+| [Service Bus Namespace](svg/Microsoft_Azure_ServiceBus/ServiceBus.svg) | Microsoft.ServiceBus/ namespaces |
 | [Service Fabric managed cluster](svg/Microsoft_Azure_ServiceFabric/ManagedServiceFabricCluster.svg) | Microsoft.ServiceFabric/ managedclusters |
 | [Service Fabric cluster](svg/Microsoft_Azure_ServiceFabric/ServiceFabricCluster.svg) | Microsoft.ServiceFabric/ clusters |
 | [Resource Provider as a Service](svg/Microsoft_Azure_ServiceHub/RPaaS_ResourceProvider.svg) | Microsoft.ProviderHub/ ProviderRegistrations |
@@ -921,10 +923,10 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Resource Type](svg/Microsoft_Azure_ServiceHub/RPaaS_ResourceTypeNestedOne.svg) | Microsoft.ProviderHub/ ProviderRegistrations/ ResourceTypeRegistrations/ ResourceTypeRegistrations |
 | [Rollout](svg/Microsoft_Azure_ServiceHub/RPaaS_CustomRollout.svg) | Microsoft.Providerhub/ providerRegistrations/ customRollouts |
 | [Rollout](svg/Microsoft_Azure_ServiceHub/RPaaS_Rollout.svg) | Microsoft.Providerhub/ providerRegistrations/ defaultRollouts |
-| [SignalR](svg/Microsoft_Azure_SignalR/SignalR.svg) | Microsoft.SignalRService/ SignalR |
-| [SignalR Replica](svg/Microsoft_Azure_SignalR/SignalRReplica.svg) | Microsoft.SignalRService/ SignalR/ replicas |
-| [Web PubSub Service](svg/Microsoft_Azure_SignalR/WebPubSub.svg) | Microsoft.SignalRService/ WebPubSub |
 | [Web PubSub Service Replica](svg/Microsoft_Azure_SignalR/WebPubSubReplica.svg) | Microsoft.SignalRService/ WebPubSub/ replicas |
+| [Web PubSub Service](svg/Microsoft_Azure_SignalR/WebPubSub.svg) | Microsoft.SignalRService/ WebPubSub |
+| [SignalR Replica](svg/Microsoft_Azure_SignalR/SignalRReplica.svg) | Microsoft.SignalRService/ SignalR/ replicas |
+| [SignalR](svg/Microsoft_Azure_SignalR/SignalR.svg) | Microsoft.SignalRService/ SignalR |
 | [Site configuration](svg/Microsoft_Azure_SiteManager/SiteConfig.svg) | Microsoft.Edge/ Configurations |
 | [Site manager - Azure Arc](svg/Microsoft_Azure_SiteManager/SiteManager.svg) | Microsoft.Edge/ sites |
 | [Azure Sphere Catalog](svg/Microsoft_Azure_Sphere/AzureSphereArm.svg) | microsoft.azuresphere/ catalogs |
@@ -1074,24 +1076,24 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [ScanX Management](svg/ScanX_Management/ScanXManagement.svg) |  |
 | [ESRP Scan](svg/ScanX_Management/ScanXMeter.svg) | Microsoft.AzureScan/ scanningAccounts |
 | [Service Linker](svg/ServiceLinkerExtension/ServiceLinkerGlobal.svg) |  |
-| [Azure SQL resource](svg/SqlAzureExtension/AzureSQL.svg) | Microsoft.Sql/ azuresql |
-| [SQL database](svg/SqlAzureExtension/Database.svg) | Microsoft.Sql/ servers/ databases |
-| [Database service](svg/SqlAzureExtension/SqlService.svg) |  |
-| [Elastic Job agent](svg/SqlAzureExtension/JobAgent.svg) | Microsoft.Sql/ servers/ jobAgents |
-| [SQL elastic pool](svg/SqlAzureExtension/ElasticPool.svg) | Microsoft.Sql/ servers/ elasticpools |
-| [Instance pool](svg/SqlAzureExtension/InstancePool.svg) | Microsoft.Sql/ instancePools |
-| [Managed database](svg/SqlAzureExtension/ManagedDatabase.svg) | Microsoft.Sql/ managedInstances/ databases |
-| [SQL managed instance](svg/SqlAzureExtension/ManagedInstance.svg) | Microsoft.Sql/ managedInstances |
-| [Azure Database for MariaDB server](svg/SqlAzureExtension/MariaDBServer.svg) | Microsoft.DBforMariaDB/ servers |
-| [Azure Database for MySQL single server](svg/SqlAzureExtension/MySqlServer.svg) | Microsoft.DBforMySQL/ servers |
-| [Azure Database for PostgreSQL single server](svg/SqlAzureExtension/PostgreSqlServer.svg) | Microsoft.DBforPostgreSQL/ servers |
-| [Database fleet manager](svg/SqlAzureExtension/DatabaseFleetManager.svg) | Microsoft.DatabaseFleetManager/ fleets |
-| [Fleet Managed Database](svg/SqlAzureExtension/FleetDatabase.svg) | Microsoft.DatabaseFleetManager/ fleets/ fleetspaces/ databases |
-| [Fleetspaces](svg/SqlAzureExtension/Fleetspace.svg) | Microsoft.DatabaseFleetManager/ fleets/ fleetspaces |
-| [tier](svg/SqlAzureExtension/Tiers.svg) | Microsoft.DatabaseFleetManager/ fleets/ tiers |
-| [SQL server](svg/SqlAzureExtension/Server.svg) | Microsoft.Sql/ servers |
-| [SQL virtual machine](svg/SqlAzureExtension/SqlVirtualMachine.svg) | Microsoft.SqlVirtualMachine/ SqlVirtualMachines |
 | [Virtual cluster](svg/SqlAzureExtension/VirtualCluster.svg) | Microsoft.Sql/ virtualClusters |
+| [SQL virtual machine](svg/SqlAzureExtension/SqlVirtualMachine.svg) | Microsoft.SqlVirtualMachine/ SqlVirtualMachines |
+| [SQL server](svg/SqlAzureExtension/Server.svg) | Microsoft.Sql/ servers |
+| [Azure Database for PostgreSQL single server](svg/SqlAzureExtension/PostgreSqlServer.svg) | Microsoft.DBforPostgreSQL/ servers |
+| [Azure Database for MySQL single server](svg/SqlAzureExtension/MySqlServer.svg) | Microsoft.DBforMySQL/ servers |
+| [Azure Database for MariaDB server](svg/SqlAzureExtension/MariaDBServer.svg) | Microsoft.DBforMariaDB/ servers |
+| [SQL managed instance](svg/SqlAzureExtension/ManagedInstance.svg) | Microsoft.Sql/ managedInstances |
+| [Managed database](svg/SqlAzureExtension/ManagedDatabase.svg) | Microsoft.Sql/ managedInstances/ databases |
+| [Instance pool](svg/SqlAzureExtension/InstancePool.svg) | Microsoft.Sql/ instancePools |
+| [tier](svg/SqlAzureExtension/Tiers.svg) | Microsoft.DatabaseFleetManager/ fleets/ tiers |
+| [Fleetspaces](svg/SqlAzureExtension/Fleetspace.svg) | Microsoft.DatabaseFleetManager/ fleets/ fleetspaces |
+| [Fleet Managed Database](svg/SqlAzureExtension/FleetDatabase.svg) | Microsoft.DatabaseFleetManager/ fleets/ fleetspaces/ databases |
+| [Database fleet manager](svg/SqlAzureExtension/DatabaseFleetManager.svg) | Microsoft.DatabaseFleetManager/ fleets |
+| [SQL elastic pool](svg/SqlAzureExtension/ElasticPool.svg) | Microsoft.Sql/ servers/ elasticpools |
+| [Elastic Job agent](svg/SqlAzureExtension/JobAgent.svg) | Microsoft.Sql/ servers/ jobAgents |
+| [Database service](svg/SqlAzureExtension/SqlService.svg) |  |
+| [SQL database](svg/SqlAzureExtension/Database.svg) | Microsoft.Sql/ servers/ databases |
+| [Azure SQL resource](svg/SqlAzureExtension/AzureSQL.svg) | Microsoft.Sql/ azuresql |
 | [Universal Print](svg/Universal_Print/universal_Print.svg) |  |
 | [My Resource](svg/VLCentral_Agreement/MyResource.svg) |  |
 | [My Resource](svg/VLCentral_Amendments/VLCentral_Amendments.svg) |  |
