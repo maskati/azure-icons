@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.287.0.131260.250108-2305 on 2025-01-22.
+Extracted from Azure Portal version 14.287.0.131260.250108-2305 on 2025-01-23.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -333,7 +333,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Host](svg/Microsoft_Azure_Compute/DedicatedHost.svg) | Microsoft.Compute/ hostgroups/ hosts |
 | [Host](svg/Microsoft_Azure_Compute/DedicatedHostComputeHub.svg) |  |
 | [Instance](svg/Microsoft_Azure_Compute/ComputeFleetInstance.svg) | microsoft.compute/ computefleetinstances |
-| [Virtual machine scale set](svg/Microsoft_Azure_Compute/ComputeFleetScaleSet.svg) | microsoft.compute/ computefleetscalesets |
 | [Standby pool](svg/Microsoft_Azure_Compute/StandbyPoolInstance.svg) | microsoft.compute/ standbypoolinstance |
 | [Instance](svg/Microsoft_Azure_Compute/VirtualMachineFlexInstance.svg) | microsoft.compute/ virtualmachineflexinstances |
 | [Proximity placement group](svg/Microsoft_Azure_Compute/ProximityPlacementGroup.svg) | Microsoft.Compute/ ProximityPlacementGroups |
@@ -436,12 +435,12 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Microsoft Code Studio](svg/Microsoft_Azure_DevCenter/CodeStudioService.svg) |  |
 | [IoT Asset](svg/Microsoft_Azure_DeviceRegistry/assets.svg) | microsoft.deviceregistry/ assets |
 | [IoT Device](svg/Microsoft_Azure_DeviceRegistry/devices.svg) | microsoft.deviceregistry/ devices |
-| [Device Update Active Deployment](svg/Microsoft_Azure_DeviceUpdate/activeDeployment.svg) | Microsoft.DeviceUpdate/ updateAccounts/ activeDeployments |
-| [Device Update Agent](svg/Microsoft_Azure_DeviceUpdate/agent.svg) | Microsoft.DeviceUpdate/ updateAccounts/ agents |
-| [Device Update Deployment](svg/Microsoft_Azure_DeviceUpdate/deployment.svg) | Microsoft.DeviceUpdate/ updateAccounts/ deployments |
-| [Device Update Device Class](svg/Microsoft_Azure_DeviceUpdate/deviceClass.svg) | Microsoft.DeviceUpdate/ updateAccounts/ deviceClasses |
-| [Device Update](svg/Microsoft_Azure_DeviceUpdate/update.svg) | Microsoft.DeviceUpdate/ updateAccounts/ updates |
 | [Device Update Account](svg/Microsoft_Azure_DeviceUpdate/updateAccount.svg) | Microsoft.DeviceUpdate/ updateAccounts |
+| [Device Update](svg/Microsoft_Azure_DeviceUpdate/update.svg) | Microsoft.DeviceUpdate/ updateAccounts/ updates |
+| [Device Update Device Class](svg/Microsoft_Azure_DeviceUpdate/deviceClass.svg) | Microsoft.DeviceUpdate/ updateAccounts/ deviceClasses |
+| [Device Update Deployment](svg/Microsoft_Azure_DeviceUpdate/deployment.svg) | Microsoft.DeviceUpdate/ updateAccounts/ deployments |
+| [Device Update Agent](svg/Microsoft_Azure_DeviceUpdate/agent.svg) | Microsoft.DeviceUpdate/ updateAccounts/ agents |
+| [Device Update Active Deployment](svg/Microsoft_Azure_DeviceUpdate/activeDeployment.svg) | Microsoft.DeviceUpdate/ updateAccounts/ activeDeployments |
 | [Managed DevOps Pool](svg/Microsoft_Azure_DevOpsInfrastructure/ManagedDevOpsPools.svg) | Microsoft.DevOpsInfrastructure/ pools |
 | [Custom image](svg/Microsoft_Azure_DevTestLab/CustomImage.svg) |  |
 | [DevTest Lab](svg/Microsoft_Azure_DevTestLab/DevTestLab.svg) | Microsoft.DevTestLab/ labs |
@@ -507,23 +506,23 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Email Communication Service](svg/Microsoft_Azure_EmailCommunicationServices/EmailCommunicationService.svg) | Microsoft.Communication/ EmailServices |
 | [Azure Center for Epic solution](svg/Microsoft_Azure_EpicManagement/LandingAsset.svg) |  |
 | [Virtual Instance for Epic solution](svg/Microsoft_Azure_EpicManagement/OverviewAsset.svg) | Microsoft.Workloads/ epicVirtualInstances |
-| [Event Grid Channel](svg/Microsoft_Azure_EventGrid/Channel.svg) | Microsoft.EventGrid/ partnerNamespaces/ channels |
-| [Event Grid Domain](svg/Microsoft_Azure_EventGrid/EventDomain.svg) | Microsoft.EventGrid/ domains |
-| [Event Grid Domain Topic](svg/Microsoft_Azure_EventGrid/EventDomainTopic.svg) | Microsoft.EventGrid/ domains/ topics |
-| [Event Grid Subscriptions](svg/Microsoft_Azure_EventGrid/EventGrid.svg) |  |
-| [Event Grid](svg/Microsoft_Azure_EventGrid/EventGridCentral.svg) |  |
-| [Event Grid Namespace Topic](svg/Microsoft_Azure_EventGrid/NamespaceTopic.svg) | Microsoft.EventGrid/ namespaces/ topics |
-| [Event Grid Partner Configuration](svg/Microsoft_Azure_EventGrid/PartnerConfiguration.svg) | Microsoft.EventGrid/ partnerConfigurations |
-| [Event Grid Partner Destination](svg/Microsoft_Azure_EventGrid/PartnerDestination.svg) | Microsoft.EventGrid/ partnerDestinations |
-| [Event Grid Partner Namespace](svg/Microsoft_Azure_EventGrid/PartnerNamespace.svg) | Microsoft.EventGrid/ partnerNamespaces |
-| [Event Grid Partner Registration](svg/Microsoft_Azure_EventGrid/PartnerRegistration.svg) | Microsoft.EventGrid/ partnerRegistrations |
-| [Event Grid Partner Topic](svg/Microsoft_Azure_EventGrid/PartnerTopic.svg) | Microsoft.EventGrid/ partnerTopics |
-| [Event Grid Namespace](svg/Microsoft_Azure_EventGrid/PubSubNamespace.svg) | Microsoft.EventGrid/ namespaces |
-| [Event Subscription](svg/Microsoft_Azure_EventGrid/QueueSubscription.svg) | Microsoft.EventGrid/ namespaces/ topics/ eventSubscriptions |
-| [Event Grid System Topic](svg/Microsoft_Azure_EventGrid/SystemTopic.svg) | Microsoft.EventGrid/ systemTopics |
-| [Event Grid Subscriptions](svg/Microsoft_Azure_EventGrid/SystemTopicEventSubscription.svg) | Microsoft.EventGrid/ systemTopics/ eventSubscriptions |
-| [Event Grid Topic](svg/Microsoft_Azure_EventGrid/Topic.svg) | Microsoft.EventGrid/ topics |
 | [Event Grid Topic Space](svg/Microsoft_Azure_EventGrid/TopicSpace.svg) | Microsoft.EventGrid/ namespaces/ topicSpaces |
+| [Event Grid Topic](svg/Microsoft_Azure_EventGrid/Topic.svg) | Microsoft.EventGrid/ topics |
+| [Event Grid Subscriptions](svg/Microsoft_Azure_EventGrid/SystemTopicEventSubscription.svg) | Microsoft.EventGrid/ systemTopics/ eventSubscriptions |
+| [Event Grid System Topic](svg/Microsoft_Azure_EventGrid/SystemTopic.svg) | Microsoft.EventGrid/ systemTopics |
+| [Event Subscription](svg/Microsoft_Azure_EventGrid/QueueSubscription.svg) | Microsoft.EventGrid/ namespaces/ topics/ eventSubscriptions |
+| [Event Grid Namespace](svg/Microsoft_Azure_EventGrid/PubSubNamespace.svg) | Microsoft.EventGrid/ namespaces |
+| [Event Grid Partner Topic](svg/Microsoft_Azure_EventGrid/PartnerTopic.svg) | Microsoft.EventGrid/ partnerTopics |
+| [Event Grid Partner Registration](svg/Microsoft_Azure_EventGrid/PartnerRegistration.svg) | Microsoft.EventGrid/ partnerRegistrations |
+| [Event Grid Partner Namespace](svg/Microsoft_Azure_EventGrid/PartnerNamespace.svg) | Microsoft.EventGrid/ partnerNamespaces |
+| [Event Grid Partner Destination](svg/Microsoft_Azure_EventGrid/PartnerDestination.svg) | Microsoft.EventGrid/ partnerDestinations |
+| [Event Grid Partner Configuration](svg/Microsoft_Azure_EventGrid/PartnerConfiguration.svg) | Microsoft.EventGrid/ partnerConfigurations |
+| [Event Grid Namespace Topic](svg/Microsoft_Azure_EventGrid/NamespaceTopic.svg) | Microsoft.EventGrid/ namespaces/ topics |
+| [Event Grid](svg/Microsoft_Azure_EventGrid/EventGridCentral.svg) |  |
+| [Event Grid Subscriptions](svg/Microsoft_Azure_EventGrid/EventGrid.svg) |  |
+| [Event Grid Domain Topic](svg/Microsoft_Azure_EventGrid/EventDomainTopic.svg) | Microsoft.EventGrid/ domains/ topics |
+| [Event Grid Domain](svg/Microsoft_Azure_EventGrid/EventDomain.svg) | Microsoft.EventGrid/ domains |
+| [Event Grid Channel](svg/Microsoft_Azure_EventGrid/Channel.svg) | Microsoft.EventGrid/ partnerNamespaces/ channels |
 | [Event Hubs Namespace](svg/Microsoft_Azure_EventHub/EventHub.svg) | Microsoft.EventHub/ namespaces |
 | [Event Hubs Cluster](svg/Microsoft_Azure_EventHub/EventHubCluster.svg) | Microsoft.EventHub/ clusters |
 | [Event Hubs Instance](svg/Microsoft_Azure_EventHub/EventHubSelect.svg) | Microsoft.EventHub/ namespaces/ eventhubs |
@@ -532,8 +531,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Experiment Workspace](svg/Microsoft_Azure_Experimentation/Browse.svg) | Microsoft.Experimentation/ experimentWorkspaces |
 | [Advisor](svg/Microsoft_Azure_Expert/AzureAdvisor.svg) |  |
 | [Azure Data Box](svg/Microsoft_Azure_ExpressPod/DataBox.svg) | Microsoft.DataBox/ jobs |
-| [Provisioning policy](svg/Microsoft_Azure_FairfieldGardens/provisioningpolicies.svg) | Microsoft.FairfieldGardens/ ProvisioningResources/ ProvisioningPolicies |
 | [Fairfield Gardens](svg/Microsoft_Azure_FairfieldGardens/fairfieldgardens.svg) | Microsoft.FairfieldGardens/ ProvisioningResources |
+| [Provisioning policy](svg/Microsoft_Azure_FairfieldGardens/provisioningpolicies.svg) | Microsoft.FairfieldGardens/ ProvisioningResources/ ProvisioningPolicies |
 | [File share](svg/Microsoft_Azure_FileShare/FileShares.svg) | Microsoft.FileShares/ fileshares |
 | [Microsoft Firmware Analysis](svg/Microsoft_Azure_FIST/FirmwareDefender.svg) |  |
 | [Fluid Relay](svg/Microsoft_Azure_FluidRelay/FrsResource.svg) | Microsoft.FluidRelay/ fluidRelayServers |
@@ -650,8 +649,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Marketplace](svg/Microsoft_Azure_Marketplace/Gallery.svg) |  |
 | [Professional Service](svg/Microsoft_Azure_MarketplaceTransact/ProfessionalService.svg) | Microsoft.ProfessionalService/ resources |
 | [Media service](svg/Microsoft_Azure_Media/MediaServiceAccount.svg) | microsoft.media/ mediaservices |
-| [Migration project](svg/Microsoft_Azure_Migrate/MigrationProject.svg) | Microsoft.Migrate/ projects |
 | [Azure Migrate](svg/Microsoft_Azure_Migrate/AzureMigrationHub.svg) |  |
+| [Migration project](svg/Microsoft_Azure_Migrate/MigrationProject.svg) | Microsoft.Migrate/ projects |
 | [Migrate Assessment](svg/Microsoft_Azure_MigrateAssessment/MigrateAssessmentResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Nixtla](svg/Microsoft_Azure_MLTeamAccounts/Nixtla.svg) |  |
 | [Model Provider](svg/Microsoft_Azure_MLTeamAccounts/ModelProvider.svg) |  |
@@ -1076,24 +1075,24 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [ScanX Management](svg/ScanX_Management/ScanXManagement.svg) |  |
 | [ESRP Scan](svg/ScanX_Management/ScanXMeter.svg) | Microsoft.AzureScan/ scanningAccounts |
 | [Service Linker](svg/ServiceLinkerExtension/ServiceLinkerGlobal.svg) |  |
-| [Virtual cluster](svg/SqlAzureExtension/VirtualCluster.svg) | Microsoft.Sql/ virtualClusters |
-| [SQL virtual machine](svg/SqlAzureExtension/SqlVirtualMachine.svg) | Microsoft.SqlVirtualMachine/ SqlVirtualMachines |
-| [SQL server](svg/SqlAzureExtension/Server.svg) | Microsoft.Sql/ servers |
-| [Azure Database for PostgreSQL single server](svg/SqlAzureExtension/PostgreSqlServer.svg) | Microsoft.DBforPostgreSQL/ servers |
-| [Azure Database for MySQL single server](svg/SqlAzureExtension/MySqlServer.svg) | Microsoft.DBforMySQL/ servers |
-| [Azure Database for MariaDB server](svg/SqlAzureExtension/MariaDBServer.svg) | Microsoft.DBforMariaDB/ servers |
-| [SQL managed instance](svg/SqlAzureExtension/ManagedInstance.svg) | Microsoft.Sql/ managedInstances |
-| [Managed database](svg/SqlAzureExtension/ManagedDatabase.svg) | Microsoft.Sql/ managedInstances/ databases |
-| [Instance pool](svg/SqlAzureExtension/InstancePool.svg) | Microsoft.Sql/ instancePools |
-| [tier](svg/SqlAzureExtension/Tiers.svg) | Microsoft.DatabaseFleetManager/ fleets/ tiers |
-| [Fleetspaces](svg/SqlAzureExtension/Fleetspace.svg) | Microsoft.DatabaseFleetManager/ fleets/ fleetspaces |
-| [Fleet Managed Database](svg/SqlAzureExtension/FleetDatabase.svg) | Microsoft.DatabaseFleetManager/ fleets/ fleetspaces/ databases |
-| [Database fleet manager](svg/SqlAzureExtension/DatabaseFleetManager.svg) | Microsoft.DatabaseFleetManager/ fleets |
-| [SQL elastic pool](svg/SqlAzureExtension/ElasticPool.svg) | Microsoft.Sql/ servers/ elasticpools |
-| [Elastic Job agent](svg/SqlAzureExtension/JobAgent.svg) | Microsoft.Sql/ servers/ jobAgents |
-| [Database service](svg/SqlAzureExtension/SqlService.svg) |  |
-| [SQL database](svg/SqlAzureExtension/Database.svg) | Microsoft.Sql/ servers/ databases |
 | [Azure SQL resource](svg/SqlAzureExtension/AzureSQL.svg) | Microsoft.Sql/ azuresql |
+| [SQL database](svg/SqlAzureExtension/Database.svg) | Microsoft.Sql/ servers/ databases |
+| [Database service](svg/SqlAzureExtension/SqlService.svg) |  |
+| [Elastic Job agent](svg/SqlAzureExtension/JobAgent.svg) | Microsoft.Sql/ servers/ jobAgents |
+| [SQL elastic pool](svg/SqlAzureExtension/ElasticPool.svg) | Microsoft.Sql/ servers/ elasticpools |
+| [Instance pool](svg/SqlAzureExtension/InstancePool.svg) | Microsoft.Sql/ instancePools |
+| [Managed database](svg/SqlAzureExtension/ManagedDatabase.svg) | Microsoft.Sql/ managedInstances/ databases |
+| [SQL managed instance](svg/SqlAzureExtension/ManagedInstance.svg) | Microsoft.Sql/ managedInstances |
+| [Azure Database for MariaDB server](svg/SqlAzureExtension/MariaDBServer.svg) | Microsoft.DBforMariaDB/ servers |
+| [Azure Database for MySQL single server](svg/SqlAzureExtension/MySqlServer.svg) | Microsoft.DBforMySQL/ servers |
+| [Azure Database for PostgreSQL single server](svg/SqlAzureExtension/PostgreSqlServer.svg) | Microsoft.DBforPostgreSQL/ servers |
+| [Database fleet manager](svg/SqlAzureExtension/DatabaseFleetManager.svg) | Microsoft.DatabaseFleetManager/ fleets |
+| [Fleet Managed Database](svg/SqlAzureExtension/FleetDatabase.svg) | Microsoft.DatabaseFleetManager/ fleets/ fleetspaces/ databases |
+| [Fleetspaces](svg/SqlAzureExtension/Fleetspace.svg) | Microsoft.DatabaseFleetManager/ fleets/ fleetspaces |
+| [tier](svg/SqlAzureExtension/Tiers.svg) | Microsoft.DatabaseFleetManager/ fleets/ tiers |
+| [SQL server](svg/SqlAzureExtension/Server.svg) | Microsoft.Sql/ servers |
+| [SQL virtual machine](svg/SqlAzureExtension/SqlVirtualMachine.svg) | Microsoft.SqlVirtualMachine/ SqlVirtualMachines |
+| [Virtual cluster](svg/SqlAzureExtension/VirtualCluster.svg) | Microsoft.Sql/ virtualClusters |
 | [Universal Print](svg/Universal_Print/universal_Print.svg) |  |
 | [My Resource](svg/VLCentral_Agreement/MyResource.svg) |  |
 | [My Resource](svg/VLCentral_Amendments/VLCentral_Amendments.svg) |  |
