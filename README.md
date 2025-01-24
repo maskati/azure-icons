@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.287.0.131260.250108-2305 on 2025-01-23.
+Extracted from Azure Portal version 14.287.0.131260.250108-2305 on 2025-01-24.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -36,7 +36,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Astro Resource](svg/Azure_MarketPlace_NativeISVService/OrgResource.svg) | Providers.Test/ statefulIbizaEngines3 |
 | [Solarwinds Resource](svg/Azure_MarketPlace_NativeISVService/ExtensionResource2.svg) | Providers.Test/ statefulIbizaEngines2 |
 | [Azure Native WeightsAndBiases Cloud Service](svg/Azure_MarketPlace_NativeISVService/WeightsAndBiases.svg) | Microsoft.WeightsAndBiases/ instances |
-| [Neon Serverless Postgres Resource](svg/Azure_Marketplace_Neon/NeonResource.svg) | Neon.Postgres/ organizations |
+| [Neon Serverless Postgres Organization](svg/Azure_Marketplace_Neon/NeonResource.svg) | Neon.Postgres/ organizations |
 | [NGINXaaS](svg/Azure_Marketplace_NGINX/Nginx.svg) | NGINX.NGINXPLUS/ nginxDeployments |
 | [Cloud NGFW by Palo Alto Networks](svg/Azure_Marketplace_PaloAltoNetworks_Cloudngfw/PaloAltoNetworksCloudNGFW.svg) | PaloAltoNetworks.Cloudngfw/ firewalls |
 | [Global Rulestack](svg/Azure_Marketplace_PaloAltoNetworks_Cloudngfw/PaloAltoNetworksGlobalRulestack.svg) | PaloAltoNetworks.Cloudngfw/ globalRulestacks |
@@ -288,10 +288,10 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Free service](svg/Microsoft_Azure_Billing/FreeServices.svg) |  |
 | [Bot Service](svg/Microsoft_Azure_BotService/BotService.svg) | Microsoft.BotService/ botServices |
 | [Quotas](svg/Microsoft_Azure_Capacity/QuotaMenu.svg) |  |
-| [Front Door and CDN profiles](svg/Microsoft_Azure_Cdn/CdnProfile.svg) | microsoft.cdn/ profiles |
-| [Custom domain](svg/Microsoft_Azure_Cdn/CustomDomain.svg) | microsoft.cdn/ profiles/ endpoints/ customdomains |
-| [Endpoint](svg/Microsoft_Azure_Cdn/Endpoint.svg) | microsoft.cdn/ profiles/ endpoints |
 | [Origin](svg/Microsoft_Azure_Cdn/Origin.svg) | microsoft.cdn/ profiles/ endpoints/ origins |
+| [Endpoint](svg/Microsoft_Azure_Cdn/Endpoint.svg) | microsoft.cdn/ profiles/ endpoints |
+| [Custom domain](svg/Microsoft_Azure_Cdn/CustomDomain.svg) | microsoft.cdn/ profiles/ endpoints/ customdomains |
+| [Front Door and CDN profiles](svg/Microsoft_Azure_Cdn/CdnProfile.svg) | microsoft.cdn/ profiles |
 | [Change Analysis](svg/Microsoft_Azure_ChangeAnalysis/AzureChangeAnalysis.svg) |  |
 | [Chaos Experiment](svg/Microsoft_Azure_Chaos/chaosExperimentResource.svg) | microsoft.chaos/ experiments |
 | [Chaos Studio](svg/Microsoft_Azure_Chaos/chaosStudio.svg) |  |
@@ -322,8 +322,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Code Optimizations](svg/Microsoft_Azure_CodeOptimizations/CodeOptimizations.svg) |  |
 | [Trusted Signing Account](svg/Microsoft_Azure_CodeSigning/CodeSigningAccounts.svg) | Microsoft.CodeSigning/ codesigningaccounts |
 | [Communication Service](svg/Microsoft_Azure_CommunicationServices/Communication.svg) | Microsoft.Communication/ CommunicationServices |
-| [Communications Gateway](svg/Microsoft_Azure_CommunicationsGatewayExtension/CommunicationsGateways.svg) | Microsoft.VoiceServices/ CommunicationsGateways |
 | [Communications Gateway Test Line](svg/Microsoft_Azure_CommunicationsGatewayExtension/TestLines.svg) | Microsoft.VoiceServices/ CommunicationsGateways/ TestLines |
+| [Communications Gateway](svg/Microsoft_Azure_CommunicationsGatewayExtension/CommunicationsGateways.svg) | Microsoft.VoiceServices/ CommunicationsGateways |
 | [Community Training](svg/Microsoft_Azure_CommunityTraining/CommunityTraining.svg) | Microsoft.Community/ communityTrainings |
 | [Availability set](svg/Microsoft_Azure_Compute/AvailabilitySet.svg) | Microsoft.Compute/ availabilitySets |
 | [Capacity Reservation Group](svg/Microsoft_Azure_Compute/CapacityReservationGroup.svg) | Microsoft.Compute/ capacityReservationGroups |
@@ -333,6 +333,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Host](svg/Microsoft_Azure_Compute/DedicatedHost.svg) | Microsoft.Compute/ hostgroups/ hosts |
 | [Host](svg/Microsoft_Azure_Compute/DedicatedHostComputeHub.svg) |  |
 | [Instance](svg/Microsoft_Azure_Compute/ComputeFleetInstance.svg) | microsoft.compute/ computefleetinstances |
+| [Virtual machine scale set](svg/Microsoft_Azure_Compute/ComputeFleetScaleSet.svg) | microsoft.compute/ computefleetscalesets |
 | [Standby pool](svg/Microsoft_Azure_Compute/StandbyPoolInstance.svg) | microsoft.compute/ standbypoolinstance |
 | [Instance](svg/Microsoft_Azure_Compute/VirtualMachineFlexInstance.svg) | microsoft.compute/ virtualmachineflexinstances |
 | [Proximity placement group](svg/Microsoft_Azure_Compute/ProximityPlacementGroup.svg) | Microsoft.Compute/ ProximityPlacementGroups |
@@ -370,16 +371,16 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Container registry scope map](svg/Microsoft_Azure_ContainerRegistries/ScopeMapResource.svg) | Microsoft.ContainerRegistry/ registries/ scopeMaps |
 | [Container registry token](svg/Microsoft_Azure_ContainerRegistries/TokenResource.svg) | Microsoft.ContainerRegistry/ registries/ tokens |
 | [Container registry webhook](svg/Microsoft_Azure_ContainerRegistries/WebhookResource.svg) | Microsoft.ContainerRegistry/ registries/ webhooks |
-| [Azure Red Hat OpenShift cluster](svg/Microsoft_Azure_ContainerService/AroClusters.svg) | Microsoft.RedHatOpenShift/ OpenShiftClusters |
-| [Kubernetes fleet manager](svg/Microsoft_Azure_ContainerService/Fleets.svg) | microsoft.containerservice/ fleets |
-| [Kubernetes service extension](svg/Microsoft_Azure_ContainerService/KubernetesClusterExtensions.svg) | microsoft.kubernetesconfiguration/ extensions |
-| [Kubernetes service extension](svg/Microsoft_Azure_ContainerService/KubernetesClusterExtensionsChild.svg) | microsoft.containerservice/ managedclusters/ microsoft.kubernetesconfiguration/ extensions |
-| [Kubernetes service](svg/Microsoft_Azure_ContainerService/ManagedClusters.svg) | Microsoft.ContainerService/ managedClusters |
-| [Container instances](svg/Microsoft_Azure_ContainerService/ContainerGroup.svg) | Microsoft.ContainerInstance/ containerGroups |
-| [Kubernetes - Azure Arc namespace](svg/Microsoft_Azure_ContainerService/ConnectedClusterNamespaces.svg) | Microsoft.Kubernetes/ connectedClusters/ Microsoft.KubernetesConfiguration/ namespaces |
-| [Kubernetes namespace](svg/Microsoft_Azure_ContainerService/ManagedClusterNamespaces.svg) | Microsoft.ContainerService/ managedClusters/ Microsoft.KubernetesConfiguration/ namespaces |
-| [GitOps configuration](svg/Microsoft_Azure_ContainerService/ConnectedClustersGitOpsConfiguration.svg) | Microsoft.Kubernetes/ connectedClusters/ Microsoft.KubernetesConfiguration/ fluxConfigurations |
 | [GitOps configuration](svg/Microsoft_Azure_ContainerService/ManagedClustersGitOpsConfiguration.svg) | Microsoft.ContainerService/ managedClusters/ Microsoft.KubernetesConfiguration/ fluxConfigurations |
+| [GitOps configuration](svg/Microsoft_Azure_ContainerService/ConnectedClustersGitOpsConfiguration.svg) | Microsoft.Kubernetes/ connectedClusters/ Microsoft.KubernetesConfiguration/ fluxConfigurations |
+| [Kubernetes namespace](svg/Microsoft_Azure_ContainerService/ManagedClusterNamespaces.svg) | Microsoft.ContainerService/ managedClusters/ Microsoft.KubernetesConfiguration/ namespaces |
+| [Kubernetes - Azure Arc namespace](svg/Microsoft_Azure_ContainerService/ConnectedClusterNamespaces.svg) | Microsoft.Kubernetes/ connectedClusters/ Microsoft.KubernetesConfiguration/ namespaces |
+| [Container instances](svg/Microsoft_Azure_ContainerService/ContainerGroup.svg) | Microsoft.ContainerInstance/ containerGroups |
+| [Kubernetes service](svg/Microsoft_Azure_ContainerService/ManagedClusters.svg) | Microsoft.ContainerService/ managedClusters |
+| [Kubernetes service extension](svg/Microsoft_Azure_ContainerService/KubernetesClusterExtensionsChild.svg) | microsoft.containerservice/ managedclusters/ microsoft.kubernetesconfiguration/ extensions |
+| [Kubernetes service extension](svg/Microsoft_Azure_ContainerService/KubernetesClusterExtensions.svg) | microsoft.kubernetesconfiguration/ extensions |
+| [Kubernetes fleet manager](svg/Microsoft_Azure_ContainerService/Fleets.svg) | microsoft.containerservice/ fleets |
+| [Azure Red Hat OpenShift cluster](svg/Microsoft_Azure_ContainerService/AroClusters.svg) | Microsoft.RedHatOpenShift/ OpenShiftClusters |
 | [Container storage](svg/Microsoft_Azure_ContainerStorage/ContainerStorage.svg) | Microsoft.ContainerStorage/ pools |
 | [Copilot in Azure admin center](svg/Microsoft_Azure_Copilot/CopilotSettingsAsset.svg) |  |
 | [Cost exports](svg/Microsoft_Azure_CostManagement/Exports.svg) |  |
@@ -523,11 +524,11 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Event Grid Domain Topic](svg/Microsoft_Azure_EventGrid/EventDomainTopic.svg) | Microsoft.EventGrid/ domains/ topics |
 | [Event Grid Domain](svg/Microsoft_Azure_EventGrid/EventDomain.svg) | Microsoft.EventGrid/ domains |
 | [Event Grid Channel](svg/Microsoft_Azure_EventGrid/Channel.svg) | Microsoft.EventGrid/ partnerNamespaces/ channels |
-| [Event Hubs Namespace](svg/Microsoft_Azure_EventHub/EventHub.svg) | Microsoft.EventHub/ namespaces |
-| [Event Hubs Cluster](svg/Microsoft_Azure_EventHub/EventHubCluster.svg) | Microsoft.EventHub/ clusters |
-| [Event Hubs Instance](svg/Microsoft_Azure_EventHub/EventHubSelect.svg) | Microsoft.EventHub/ namespaces/ eventhubs |
-| [Schema Group](svg/Microsoft_Azure_EventHub/SchemaGroupSelect.svg) | Microsoft.EventHub/ namespaces/ schemagroups |
 | [Event Hubs Geo-DR Alias](svg/Microsoft_Azure_EventHub/ServiceBusDrConfig.svg) | Microsoft.EventHub/ namespaces/ disasterrecoveryconfigs |
+| [Schema Group](svg/Microsoft_Azure_EventHub/SchemaGroupSelect.svg) | Microsoft.EventHub/ namespaces/ schemagroups |
+| [Event Hubs Instance](svg/Microsoft_Azure_EventHub/EventHubSelect.svg) | Microsoft.EventHub/ namespaces/ eventhubs |
+| [Event Hubs Cluster](svg/Microsoft_Azure_EventHub/EventHubCluster.svg) | Microsoft.EventHub/ clusters |
+| [Event Hubs Namespace](svg/Microsoft_Azure_EventHub/EventHub.svg) | Microsoft.EventHub/ namespaces |
 | [Experiment Workspace](svg/Microsoft_Azure_Experimentation/Browse.svg) | Microsoft.Experimentation/ experimentWorkspaces |
 | [Advisor](svg/Microsoft_Azure_Expert/AzureAdvisor.svg) |  |
 | [Azure Data Box](svg/Microsoft_Azure_ExpressPod/DataBox.svg) | Microsoft.DataBox/ jobs |
@@ -649,8 +650,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Marketplace](svg/Microsoft_Azure_Marketplace/Gallery.svg) |  |
 | [Professional Service](svg/Microsoft_Azure_MarketplaceTransact/ProfessionalService.svg) | Microsoft.ProfessionalService/ resources |
 | [Media service](svg/Microsoft_Azure_Media/MediaServiceAccount.svg) | microsoft.media/ mediaservices |
-| [Azure Migrate](svg/Microsoft_Azure_Migrate/AzureMigrationHub.svg) |  |
 | [Migration project](svg/Microsoft_Azure_Migrate/MigrationProject.svg) | Microsoft.Migrate/ projects |
+| [Azure Migrate](svg/Microsoft_Azure_Migrate/AzureMigrationHub.svg) |  |
 | [Migrate Assessment](svg/Microsoft_Azure_MigrateAssessment/MigrateAssessmentResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Nixtla](svg/Microsoft_Azure_MLTeamAccounts/Nixtla.svg) |  |
 | [Model Provider](svg/Microsoft_Azure_MLTeamAccounts/ModelProvider.svg) |  |
@@ -799,12 +800,12 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Spacecraft](svg/Microsoft_Azure_Orbital/Spacecrafts.svg) | Microsoft.Orbital/ spacecrafts |
 | [Azure Database for MySQL flexible server](svg/Microsoft_Azure_OSSDatabases/MySqlFlexibleServer.svg) | Microsoft.DBforMySQL/ flexibleServers |
 | [Azure Database for PostgreSQL - Flexible Server](svg/Microsoft_Azure_OSSDatabases/PostgreSqlFlexibleServer.svg) | Microsoft.DBforPostgreSQL/ flexibleServers |
-| [App Space](svg/Microsoft_Azure_PaasServerless/AppSpaces.svg) | Microsoft.App/ spaces |
-| [Business Process](svg/Microsoft_Azure_PaasServerless/BusinessProcessTracking.svg) | Microsoft.Logic/ businessprocesses |
-| [Durable Task Scheduler](svg/Microsoft_Azure_PaasServerless/DurableTaskScheduler.svg) | Microsoft.DurableTask/ Namespaces |
-| [Integration Environment](svg/Microsoft_Azure_PaasServerless/IntegrationSpace.svg) | Microsoft.IntegrationSpaces/ spaces |
+| [Task Hub](svg/Microsoft_Azure_PaasServerless/TaskHub.svg) | Microsoft.DurableTask/ Schedulers/ TaskHubs |
 | [My Resource](svg/Microsoft_Azure_PaasServerless/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
-| [Task Hub](svg/Microsoft_Azure_PaasServerless/TaskHub.svg) | Microsoft.DurableTask/ Namespaces/ TaskHubs |
+| [Integration Environment](svg/Microsoft_Azure_PaasServerless/IntegrationSpace.svg) | Microsoft.IntegrationSpaces/ spaces |
+| [Durable Task Scheduler](svg/Microsoft_Azure_PaasServerless/DurableTaskScheduler.svg) | Microsoft.DurableTask/ Schedulers |
+| [Business Process](svg/Microsoft_Azure_PaasServerless/BusinessProcessTracking.svg) | Microsoft.Logic/ businessprocesses |
+| [App Space](svg/Microsoft_Azure_PaasServerless/AppSpaces.svg) | Microsoft.App/ spaces |
 | [Peering](svg/Microsoft_Azure_Peering/AzurePeering.svg) | Microsoft.Peering/ peerings |
 | [Peering Service](svg/Microsoft_Azure_Peering/MicrosoftPeeringService.svg) | Microsoft.Peering/ peeringServices |
 | [Peering Service Prefix](svg/Microsoft_Azure_Peering/MicrosoftPeeringServicePrefix.svg) | Microsoft.Peering/ peeringServices/ prefixes |
@@ -956,13 +957,13 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Deployment Script](svg/Microsoft_Azure_TemplateSpecs/DeploymentScriptHub.svg) | Microsoft.Resources/ deploymentScripts |
 | [Azure Toolbox](svg/Microsoft_Azure_Toolbox/Gallery.svg) |  |
 | [Azure Toolbox](svg/Microsoft_Azure_Toolbox/Overview.svg) |  |
-| [Microsoft.UsageBilling account](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_2023_12_01_preview.svg) | microsoft.usagebilling/ accounts |
-| [Microsoft.UsageBilling accounts data export](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_dataexports_2023_12_01_preview.svg) | microsoft.usagebilling/ accounts/ dataexports |
-| [Microsoft.UsageBilling accounts input](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_inputs_2023_12_01_preview.svg) | microsoft.usagebilling/ accounts/ inputs |
-| [Microsoft.UsageBilling accounts metric export](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_metricexports_2023_12_01_preview.svg) | microsoft.usagebilling/ accounts/ metricexports |
-| [Microsoft.UsageBilling accounts pav2output](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_pav2outputs_2023_12_01_preview.svg) | microsoft.usagebilling/ accounts/ pav2outputs |
-| [Microsoft.UsageBilling accounts pipeline](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_pipelines_2023_12_01_preview.svg) | microsoft.usagebilling/ accounts/ pipelines |
 | [Microsoft.UsageBilling accounts pipelines output selector](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_pipelines_outputselectors_2023_12_01_preview.svg) | microsoft.usagebilling/ accounts/ pipelines/ outputselectors |
+| [Microsoft.UsageBilling accounts pipeline](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_pipelines_2023_12_01_preview.svg) | microsoft.usagebilling/ accounts/ pipelines |
+| [Microsoft.UsageBilling accounts pav2output](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_pav2outputs_2023_12_01_preview.svg) | microsoft.usagebilling/ accounts/ pav2outputs |
+| [Microsoft.UsageBilling accounts metric export](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_metricexports_2023_12_01_preview.svg) | microsoft.usagebilling/ accounts/ metricexports |
+| [Microsoft.UsageBilling accounts input](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_inputs_2023_12_01_preview.svg) | microsoft.usagebilling/ accounts/ inputs |
+| [Microsoft.UsageBilling accounts data export](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_dataexports_2023_12_01_preview.svg) | microsoft.usagebilling/ accounts/ dataexports |
+| [Microsoft.UsageBilling account](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_2023_12_01_preview.svg) | microsoft.usagebilling/ accounts |
 | [Workload](svg/Microsoft_Azure_VirtualEnclaves/Workload.svg) | Microsoft.Mission/ virtualEnclaves/ workloads |
 | [Enclave](svg/Microsoft_Azure_VirtualEnclaves/Enclave.svg) | Microsoft.Mission/ virtualenclaves |
 | [Transit hub](svg/Microsoft_Azure_VirtualEnclaves/TransitHub.svg) | Microsoft.Mission/ communities/ transitHubs |
@@ -1075,24 +1076,24 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [ScanX Management](svg/ScanX_Management/ScanXManagement.svg) |  |
 | [ESRP Scan](svg/ScanX_Management/ScanXMeter.svg) | Microsoft.AzureScan/ scanningAccounts |
 | [Service Linker](svg/ServiceLinkerExtension/ServiceLinkerGlobal.svg) |  |
-| [Azure SQL resource](svg/SqlAzureExtension/AzureSQL.svg) | Microsoft.Sql/ azuresql |
-| [SQL database](svg/SqlAzureExtension/Database.svg) | Microsoft.Sql/ servers/ databases |
-| [Database service](svg/SqlAzureExtension/SqlService.svg) |  |
-| [Elastic Job agent](svg/SqlAzureExtension/JobAgent.svg) | Microsoft.Sql/ servers/ jobAgents |
-| [SQL elastic pool](svg/SqlAzureExtension/ElasticPool.svg) | Microsoft.Sql/ servers/ elasticpools |
-| [Instance pool](svg/SqlAzureExtension/InstancePool.svg) | Microsoft.Sql/ instancePools |
-| [Managed database](svg/SqlAzureExtension/ManagedDatabase.svg) | Microsoft.Sql/ managedInstances/ databases |
-| [SQL managed instance](svg/SqlAzureExtension/ManagedInstance.svg) | Microsoft.Sql/ managedInstances |
-| [Azure Database for MariaDB server](svg/SqlAzureExtension/MariaDBServer.svg) | Microsoft.DBforMariaDB/ servers |
-| [Azure Database for MySQL single server](svg/SqlAzureExtension/MySqlServer.svg) | Microsoft.DBforMySQL/ servers |
-| [Azure Database for PostgreSQL single server](svg/SqlAzureExtension/PostgreSqlServer.svg) | Microsoft.DBforPostgreSQL/ servers |
-| [Database fleet manager](svg/SqlAzureExtension/DatabaseFleetManager.svg) | Microsoft.DatabaseFleetManager/ fleets |
-| [Fleet Managed Database](svg/SqlAzureExtension/FleetDatabase.svg) | Microsoft.DatabaseFleetManager/ fleets/ fleetspaces/ databases |
-| [Fleetspaces](svg/SqlAzureExtension/Fleetspace.svg) | Microsoft.DatabaseFleetManager/ fleets/ fleetspaces |
-| [tier](svg/SqlAzureExtension/Tiers.svg) | Microsoft.DatabaseFleetManager/ fleets/ tiers |
-| [SQL server](svg/SqlAzureExtension/Server.svg) | Microsoft.Sql/ servers |
-| [SQL virtual machine](svg/SqlAzureExtension/SqlVirtualMachine.svg) | Microsoft.SqlVirtualMachine/ SqlVirtualMachines |
 | [Virtual cluster](svg/SqlAzureExtension/VirtualCluster.svg) | Microsoft.Sql/ virtualClusters |
+| [SQL virtual machine](svg/SqlAzureExtension/SqlVirtualMachine.svg) | Microsoft.SqlVirtualMachine/ SqlVirtualMachines |
+| [SQL server](svg/SqlAzureExtension/Server.svg) | Microsoft.Sql/ servers |
+| [Azure Database for PostgreSQL single server](svg/SqlAzureExtension/PostgreSqlServer.svg) | Microsoft.DBforPostgreSQL/ servers |
+| [Azure Database for MySQL single server](svg/SqlAzureExtension/MySqlServer.svg) | Microsoft.DBforMySQL/ servers |
+| [Azure Database for MariaDB server](svg/SqlAzureExtension/MariaDBServer.svg) | Microsoft.DBforMariaDB/ servers |
+| [SQL managed instance](svg/SqlAzureExtension/ManagedInstance.svg) | Microsoft.Sql/ managedInstances |
+| [Managed database](svg/SqlAzureExtension/ManagedDatabase.svg) | Microsoft.Sql/ managedInstances/ databases |
+| [Instance pool](svg/SqlAzureExtension/InstancePool.svg) | Microsoft.Sql/ instancePools |
+| [tier](svg/SqlAzureExtension/Tiers.svg) | Microsoft.DatabaseFleetManager/ fleets/ tiers |
+| [Fleetspaces](svg/SqlAzureExtension/Fleetspace.svg) | Microsoft.DatabaseFleetManager/ fleets/ fleetspaces |
+| [Fleet Managed Database](svg/SqlAzureExtension/FleetDatabase.svg) | Microsoft.DatabaseFleetManager/ fleets/ fleetspaces/ databases |
+| [Database fleet manager](svg/SqlAzureExtension/DatabaseFleetManager.svg) | Microsoft.DatabaseFleetManager/ fleets |
+| [SQL elastic pool](svg/SqlAzureExtension/ElasticPool.svg) | Microsoft.Sql/ servers/ elasticpools |
+| [Elastic Job agent](svg/SqlAzureExtension/JobAgent.svg) | Microsoft.Sql/ servers/ jobAgents |
+| [Database service](svg/SqlAzureExtension/SqlService.svg) |  |
+| [SQL database](svg/SqlAzureExtension/Database.svg) | Microsoft.Sql/ servers/ databases |
+| [Azure SQL resource](svg/SqlAzureExtension/AzureSQL.svg) | Microsoft.Sql/ azuresql |
 | [Universal Print](svg/Universal_Print/universal_Print.svg) |  |
 | [My Resource](svg/VLCentral_Agreement/MyResource.svg) |  |
 | [My Resource](svg/VLCentral_Amendments/VLCentral_Amendments.svg) |  |
