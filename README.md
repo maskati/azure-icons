@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.287.0.131260.250108-2305 on 2025-01-24.
+Extracted from Azure Portal version 14.287.0.131260.250108-2305 on 2025-01-25.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -322,8 +322,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Code Optimizations](svg/Microsoft_Azure_CodeOptimizations/CodeOptimizations.svg) |  |
 | [Trusted Signing Account](svg/Microsoft_Azure_CodeSigning/CodeSigningAccounts.svg) | Microsoft.CodeSigning/ codesigningaccounts |
 | [Communication Service](svg/Microsoft_Azure_CommunicationServices/Communication.svg) | Microsoft.Communication/ CommunicationServices |
-| [Communications Gateway Test Line](svg/Microsoft_Azure_CommunicationsGatewayExtension/TestLines.svg) | Microsoft.VoiceServices/ CommunicationsGateways/ TestLines |
 | [Communications Gateway](svg/Microsoft_Azure_CommunicationsGatewayExtension/CommunicationsGateways.svg) | Microsoft.VoiceServices/ CommunicationsGateways |
+| [Communications Gateway Test Line](svg/Microsoft_Azure_CommunicationsGatewayExtension/TestLines.svg) | Microsoft.VoiceServices/ CommunicationsGateways/ TestLines |
 | [Community Training](svg/Microsoft_Azure_CommunityTraining/CommunityTraining.svg) | Microsoft.Community/ communityTrainings |
 | [Availability set](svg/Microsoft_Azure_Compute/AvailabilitySet.svg) | Microsoft.Compute/ availabilitySets |
 | [Capacity Reservation Group](svg/Microsoft_Azure_Compute/CapacityReservationGroup.svg) | Microsoft.Compute/ capacityReservationGroups |
@@ -371,16 +371,16 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Container registry scope map](svg/Microsoft_Azure_ContainerRegistries/ScopeMapResource.svg) | Microsoft.ContainerRegistry/ registries/ scopeMaps |
 | [Container registry token](svg/Microsoft_Azure_ContainerRegistries/TokenResource.svg) | Microsoft.ContainerRegistry/ registries/ tokens |
 | [Container registry webhook](svg/Microsoft_Azure_ContainerRegistries/WebhookResource.svg) | Microsoft.ContainerRegistry/ registries/ webhooks |
-| [GitOps configuration](svg/Microsoft_Azure_ContainerService/ManagedClustersGitOpsConfiguration.svg) | Microsoft.ContainerService/ managedClusters/ Microsoft.KubernetesConfiguration/ fluxConfigurations |
-| [GitOps configuration](svg/Microsoft_Azure_ContainerService/ConnectedClustersGitOpsConfiguration.svg) | Microsoft.Kubernetes/ connectedClusters/ Microsoft.KubernetesConfiguration/ fluxConfigurations |
-| [Kubernetes namespace](svg/Microsoft_Azure_ContainerService/ManagedClusterNamespaces.svg) | Microsoft.ContainerService/ managedClusters/ Microsoft.KubernetesConfiguration/ namespaces |
-| [Kubernetes - Azure Arc namespace](svg/Microsoft_Azure_ContainerService/ConnectedClusterNamespaces.svg) | Microsoft.Kubernetes/ connectedClusters/ Microsoft.KubernetesConfiguration/ namespaces |
-| [Container instances](svg/Microsoft_Azure_ContainerService/ContainerGroup.svg) | Microsoft.ContainerInstance/ containerGroups |
-| [Kubernetes service](svg/Microsoft_Azure_ContainerService/ManagedClusters.svg) | Microsoft.ContainerService/ managedClusters |
-| [Kubernetes service extension](svg/Microsoft_Azure_ContainerService/KubernetesClusterExtensionsChild.svg) | microsoft.containerservice/ managedclusters/ microsoft.kubernetesconfiguration/ extensions |
-| [Kubernetes service extension](svg/Microsoft_Azure_ContainerService/KubernetesClusterExtensions.svg) | microsoft.kubernetesconfiguration/ extensions |
-| [Kubernetes fleet manager](svg/Microsoft_Azure_ContainerService/Fleets.svg) | microsoft.containerservice/ fleets |
 | [Azure Red Hat OpenShift cluster](svg/Microsoft_Azure_ContainerService/AroClusters.svg) | Microsoft.RedHatOpenShift/ OpenShiftClusters |
+| [Kubernetes fleet manager](svg/Microsoft_Azure_ContainerService/Fleets.svg) | microsoft.containerservice/ fleets |
+| [Kubernetes service extension](svg/Microsoft_Azure_ContainerService/KubernetesClusterExtensions.svg) | microsoft.kubernetesconfiguration/ extensions |
+| [Kubernetes service extension](svg/Microsoft_Azure_ContainerService/KubernetesClusterExtensionsChild.svg) | microsoft.containerservice/ managedclusters/ microsoft.kubernetesconfiguration/ extensions |
+| [Kubernetes service](svg/Microsoft_Azure_ContainerService/ManagedClusters.svg) | Microsoft.ContainerService/ managedClusters |
+| [Container instances](svg/Microsoft_Azure_ContainerService/ContainerGroup.svg) | Microsoft.ContainerInstance/ containerGroups |
+| [Kubernetes - Azure Arc namespace](svg/Microsoft_Azure_ContainerService/ConnectedClusterNamespaces.svg) | Microsoft.Kubernetes/ connectedClusters/ Microsoft.KubernetesConfiguration/ namespaces |
+| [Kubernetes namespace](svg/Microsoft_Azure_ContainerService/ManagedClusterNamespaces.svg) | Microsoft.ContainerService/ managedClusters/ Microsoft.KubernetesConfiguration/ namespaces |
+| [GitOps configuration](svg/Microsoft_Azure_ContainerService/ConnectedClustersGitOpsConfiguration.svg) | Microsoft.Kubernetes/ connectedClusters/ Microsoft.KubernetesConfiguration/ fluxConfigurations |
+| [GitOps configuration](svg/Microsoft_Azure_ContainerService/ManagedClustersGitOpsConfiguration.svg) | Microsoft.ContainerService/ managedClusters/ Microsoft.KubernetesConfiguration/ fluxConfigurations |
 | [Container storage](svg/Microsoft_Azure_ContainerStorage/ContainerStorage.svg) | Microsoft.ContainerStorage/ pools |
 | [Copilot in Azure admin center](svg/Microsoft_Azure_Copilot/CopilotSettingsAsset.svg) |  |
 | [Cost exports](svg/Microsoft_Azure_CostManagement/Exports.svg) |  |
@@ -435,7 +435,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Dev Box definition](svg/Microsoft_Azure_DevCenter/DevBoxDefinitions.svg) | Microsoft.DevCenter/ devcenters/ devboxdefinitions |
 | [Microsoft Code Studio](svg/Microsoft_Azure_DevCenter/CodeStudioService.svg) |  |
 | [IoT Asset](svg/Microsoft_Azure_DeviceRegistry/assets.svg) | microsoft.deviceregistry/ assets |
+| [IoT Asset Endpoint Profile](svg/Microsoft_Azure_DeviceRegistry/assetEndpointProfiles.svg) | microsoft.deviceregistry/ assetEndpointProfiles |
 | [IoT Device](svg/Microsoft_Azure_DeviceRegistry/devices.svg) | microsoft.deviceregistry/ devices |
+| [IoT Schema Registry](svg/Microsoft_Azure_DeviceRegistry/schemaRegistries.svg) | microsoft.deviceregistry/ schemaRegistries |
 | [Device Update Account](svg/Microsoft_Azure_DeviceUpdate/updateAccount.svg) | Microsoft.DeviceUpdate/ updateAccounts |
 | [Device Update](svg/Microsoft_Azure_DeviceUpdate/update.svg) | Microsoft.DeviceUpdate/ updateAccounts/ updates |
 | [Device Update Device Class](svg/Microsoft_Azure_DeviceUpdate/deviceClass.svg) | Microsoft.DeviceUpdate/ updateAccounts/ deviceClasses |
@@ -800,12 +802,12 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Spacecraft](svg/Microsoft_Azure_Orbital/Spacecrafts.svg) | Microsoft.Orbital/ spacecrafts |
 | [Azure Database for MySQL flexible server](svg/Microsoft_Azure_OSSDatabases/MySqlFlexibleServer.svg) | Microsoft.DBforMySQL/ flexibleServers |
 | [Azure Database for PostgreSQL - Flexible Server](svg/Microsoft_Azure_OSSDatabases/PostgreSqlFlexibleServer.svg) | Microsoft.DBforPostgreSQL/ flexibleServers |
-| [Task Hub](svg/Microsoft_Azure_PaasServerless/TaskHub.svg) | Microsoft.DurableTask/ Schedulers/ TaskHubs |
-| [My Resource](svg/Microsoft_Azure_PaasServerless/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
-| [Integration Environment](svg/Microsoft_Azure_PaasServerless/IntegrationSpace.svg) | Microsoft.IntegrationSpaces/ spaces |
-| [Durable Task Scheduler](svg/Microsoft_Azure_PaasServerless/DurableTaskScheduler.svg) | Microsoft.DurableTask/ Schedulers |
-| [Business Process](svg/Microsoft_Azure_PaasServerless/BusinessProcessTracking.svg) | Microsoft.Logic/ businessprocesses |
 | [App Space](svg/Microsoft_Azure_PaasServerless/AppSpaces.svg) | Microsoft.App/ spaces |
+| [Business Process](svg/Microsoft_Azure_PaasServerless/BusinessProcessTracking.svg) | Microsoft.Logic/ businessprocesses |
+| [Durable Task Scheduler](svg/Microsoft_Azure_PaasServerless/DurableTaskScheduler.svg) | Microsoft.DurableTask/ Namespaces |
+| [Integration Environment](svg/Microsoft_Azure_PaasServerless/IntegrationSpace.svg) | Microsoft.IntegrationSpaces/ spaces |
+| [My Resource](svg/Microsoft_Azure_PaasServerless/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
+| [Task Hub](svg/Microsoft_Azure_PaasServerless/TaskHub.svg) | Microsoft.DurableTask/ Namespaces/ TaskHubs |
 | [Peering](svg/Microsoft_Azure_Peering/AzurePeering.svg) | Microsoft.Peering/ peerings |
 | [Peering Service](svg/Microsoft_Azure_Peering/MicrosoftPeeringService.svg) | Microsoft.Peering/ peeringServices |
 | [Peering Service Prefix](svg/Microsoft_Azure_Peering/MicrosoftPeeringServicePrefix.svg) | Microsoft.Peering/ peeringServices/ prefixes |
