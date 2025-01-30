@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.287.0.131260.250108-2305 on 2025-01-29.
+Extracted from Azure Portal version 14.287.0.131260.250108-2305 on 2025-01-30.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -30,11 +30,12 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Logz.io](svg/Azure_Marketplace_Liftr_Logz/Logz.svg) | Microsoft.Logz/ monitors |
 | [Logz sub account](svg/Azure_Marketplace_Liftr_Logz/LogzSubAccount.svg) | Microsoft.Logz/ monitors/ accounts |
 | [New Relic](svg/Azure_Marketplace_Liftr_NewRelic/NewRelic.svg) | NewRelic.Observability/ monitors |
-| [Azure Native ArizeAi Cloud Service](svg/Azure_MarketPlace_NativeISVService/ArizeAi.svg) | ArizeAi.ObservabilityEval/ organizations |
+| [Azure Native Arize AI Cloud Service](svg/Azure_MarketPlace_NativeISVService/ArizeAi.svg) | ArizeAi.ObservabilityEval/ organizations |
+| [Commvault Cloud Account](svg/Azure_MarketPlace_NativeISVService/CommvaultCloudAccounts.svg) | Commvault.ContentStore/ cloudAccounts |
+| [Commvault Overview](svg/Azure_MarketPlace_NativeISVService/CommvaultOverview.svg) |  |
 | [Azure Native LambdaTest Cloud Service](svg/Azure_MarketPlace_NativeISVService/LambdaTest.svg) | LambdaTest.HyperExecute/ organizations |
+| [MongoDB Atlas - An Azure Native ISV Service](svg/Azure_MarketPlace_NativeISVService/MongoDB.svg) | MongoDB.Atlas/ organizations |
 | [Azure Native Pinecone Cloud Service](svg/Azure_MarketPlace_NativeISVService/Pinecone.svg) | Pinecone.VectorDb/ organizations |
-| [Astro Resource](svg/Azure_MarketPlace_NativeISVService/OrgResource.svg) | Providers.Test/ statefulIbizaEngines3 |
-| [Solarwinds Resource](svg/Azure_MarketPlace_NativeISVService/ExtensionResource2.svg) | Providers.Test/ statefulIbizaEngines2 |
 | [Azure Native WeightsAndBiases Cloud Service](svg/Azure_MarketPlace_NativeISVService/WeightsAndBiases.svg) | Microsoft.WeightsAndBiases/ instances |
 | [Neon Serverless Postgres Organization](svg/Azure_Marketplace_Neon/NeonResource.svg) | Neon.Postgres/ organizations |
 | [NGINXaaS](svg/Azure_Marketplace_NGINX/Nginx.svg) | NGINX.NGINXPLUS/ nginxDeployments |
@@ -447,6 +448,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Managed DevOps Pool](svg/Microsoft_Azure_DevOpsInfrastructure/ManagedDevOpsPools.svg) | Microsoft.DevOpsInfrastructure/ pools |
 | [Custom image](svg/Microsoft_Azure_DevTestLab/CustomImage.svg) |  |
 | [DevTest Lab](svg/Microsoft_Azure_DevTestLab/DevTestLab.svg) | Microsoft.DevTestLab/ labs |
+| [Virtual machine](svg/Microsoft_Azure_DevTestLab/MyLabVms.svg) | Microsoft.DevTestLab/ labs/ virtualMachines |
 | [Dev Tunnels Domain](svg/Microsoft_Azure_DevTunnels/devtunnels.svg) | microsoft.devtunnels/ tunnelplans |
 | [Azure Digital Twins](svg/Microsoft_Azure_DigitalTwins/digitaltwinsInstances.svg) | Microsoft.DigitalTwins/ digitalTwinsInstances |
 | [Community image](svg/Microsoft_Azure_DiskMgmt/CommunityImage.svg) | Microsoft.Compute/ locations/ communityGalleries/ images |
@@ -498,13 +500,13 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Edge Hardware Center](svg/Microsoft_Azure_EdgeOrder/AzureEdgeDevice.svg) |  |
 | [Education](svg/Microsoft_Azure_Education/Education.svg) |  |
 | [Elastic SAN](svg/Microsoft_Azure_ElasticSan/ElasticSan.svg) | Microsoft.ElasticSan/ elasticsans |
-| [Logic app](svg/Microsoft_Azure_EMA/Workflow.svg) | Microsoft.Logic/ workflows |
-| [Managed Connector](svg/Microsoft_Azure_EMA/ManagedConnector.svg) | Microsoft.Logic/ integrationServiceEnvironments/ managedApis |
-| [Integration Service Environment](svg/Microsoft_Azure_EMA/IntegrationServiceEnvironment.svg) | Microsoft.Logic/ integrationServiceEnvironments |
-| [Integration account](svg/Microsoft_Azure_EMA/IntegrationAccount.svg) | Microsoft.Logic/ integrationAccounts |
-| [On-premises data gateway](svg/Microsoft_Azure_EMA/Gateway.svg) | Microsoft.Web/ connectionGateways |
-| [Logic apps custom connector](svg/Microsoft_Azure_EMA/CustomConnector.svg) | Microsoft.Web/ customApis |
 | [API Connection](svg/Microsoft_Azure_EMA/ApiConnection.svg) | Microsoft.Web/ connections |
+| [Logic apps custom connector](svg/Microsoft_Azure_EMA/CustomConnector.svg) | Microsoft.Web/ customApis |
+| [On-premises data gateway](svg/Microsoft_Azure_EMA/Gateway.svg) | Microsoft.Web/ connectionGateways |
+| [Integration account](svg/Microsoft_Azure_EMA/IntegrationAccount.svg) | Microsoft.Logic/ integrationAccounts |
+| [Integration Service Environment](svg/Microsoft_Azure_EMA/IntegrationServiceEnvironment.svg) | Microsoft.Logic/ integrationServiceEnvironments |
+| [Managed Connector](svg/Microsoft_Azure_EMA/ManagedConnector.svg) | Microsoft.Logic/ integrationServiceEnvironments/ managedApis |
+| [Logic app](svg/Microsoft_Azure_EMA/Workflow.svg) | Microsoft.Logic/ workflows |
 | [Email Communication Services Domain](svg/Microsoft_Azure_EmailCommunicationServices/EmailCommunicationServicesDomain.svg) | Microsoft.Communication/ EmailServices/ Domains |
 | [Email Communication Service](svg/Microsoft_Azure_EmailCommunicationServices/EmailCommunicationService.svg) | Microsoft.Communication/ EmailServices |
 | [Azure Center for Epic solution](svg/Microsoft_Azure_EpicManagement/LandingAsset.svg) |  |
@@ -542,10 +544,10 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Front Door and CDN profiles](svg/Microsoft_Azure_Frontdoor/AzureFrontdoor.svg) | Microsoft.Network/ frontdoors |
 | [Global view](svg/Microsoft_Azure_GlobalView/GlobalView.svg) |  |
 | [Microsoft Graph Data Connect](svg/Microsoft_Azure_GraphDataConnect/Microsoft_Graph_Data_Connect.svg) |  |
-| [Cost Management + Billing](svg/Microsoft_Azure_GTM/Billing.svg) |  |
-| [Invoice](svg/Microsoft_Azure_GTM/Invoice.svg) |  |
-| [Billing subscription](svg/Microsoft_Azure_GTM/BillingSubscriptions.svg) |  |
 | [Billing access control (IAM)](svg/Microsoft_Azure_GTM/AccessControl.svg) |  |
+| [Billing subscription](svg/Microsoft_Azure_GTM/BillingSubscriptions.svg) |  |
+| [Invoice](svg/Microsoft_Azure_GTM/Invoice.svg) |  |
+| [Cost Management + Billing](svg/Microsoft_Azure_GTM/Billing.svg) |  |
 | [Azure HDInsight on AKS cluster pool](svg/Microsoft_Azure_HDInsight/HDInsightClusterPool.svg) | Microsoft.HDInsight/ clusterpools |
 | [Azure HDInsight on AKS cluster](svg/Microsoft_Azure_HDInsight/HDInsightClusterGen2.svg) | Microsoft.HDInsight/ clusterpools/ clusters |
 | [HDInsight cluster](svg/Microsoft_Azure_HDInsight/HDInsightCluster.svg) | Microsoft.HDInsight/ clusters |
@@ -776,8 +778,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Bare Metal Machine (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/BareMetalMachineResource.svg) | Microsoft.NetworkCloud/ bareMetalMachines |
 | [Agent Pool (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/AgentPoolResource.svg) | Microsoft.NetworkCloud/ kubernetesClusters/ agentPools |
 | [My Resource](svg/Microsoft_Azure_NetworkCopilotExtension/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
-| [Network Security Perimeter](svg/Microsoft_Azure_NetworkSecurityPerimeter/NspProfiles.svg) | Microsoft.Network/ networkSecurityPerimeters/ profiles |
 | [Network Security Perimeter](svg/Microsoft_Azure_NetworkSecurityPerimeter/networkSecurityPerimeter.svg) | Microsoft.Network/ networkSecurityPerimeters |
+| [Network Security Perimeter](svg/Microsoft_Azure_NetworkSecurityPerimeter/NspProfiles.svg) | Microsoft.Network/ networkSecurityPerimeters/ profiles |
 | [Global Secure Access](svg/Microsoft_Azure_Network_Access/NetworkAccess.svg) |  |
 | [Notification Hub Namespace](svg/Microsoft_Azure_NotificationHubs/Namespace.svg) | Microsoft.NotificationHubs/ namespaces |
 | [Notification Hub](svg/Microsoft_Azure_NotificationHubs/NotificationHub.svg) | Microsoft.NotificationHubs/ namespaces/ notificationHubs |
@@ -802,12 +804,12 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Spacecraft](svg/Microsoft_Azure_Orbital/Spacecrafts.svg) | Microsoft.Orbital/ spacecrafts |
 | [Azure Database for MySQL flexible server](svg/Microsoft_Azure_OSSDatabases/MySqlFlexibleServer.svg) | Microsoft.DBforMySQL/ flexibleServers |
 | [Azure Database for PostgreSQL - Flexible Server](svg/Microsoft_Azure_OSSDatabases/PostgreSqlFlexibleServer.svg) | Microsoft.DBforPostgreSQL/ flexibleServers |
-| [Task Hub](svg/Microsoft_Azure_PaasServerless/TaskHub.svg) | Microsoft.DurableTask/ Schedulers/ TaskHubs |
-| [My Resource](svg/Microsoft_Azure_PaasServerless/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
-| [Integration Environment](svg/Microsoft_Azure_PaasServerless/IntegrationSpace.svg) | Microsoft.IntegrationSpaces/ spaces |
-| [Durable Task Scheduler](svg/Microsoft_Azure_PaasServerless/DurableTaskScheduler.svg) | Microsoft.DurableTask/ Schedulers |
-| [Business Process](svg/Microsoft_Azure_PaasServerless/BusinessProcessTracking.svg) | Microsoft.Logic/ businessprocesses |
 | [App Space](svg/Microsoft_Azure_PaasServerless/AppSpaces.svg) | Microsoft.App/ spaces |
+| [Business Process](svg/Microsoft_Azure_PaasServerless/BusinessProcessTracking.svg) | Microsoft.Logic/ businessprocesses |
+| [Durable Task Scheduler](svg/Microsoft_Azure_PaasServerless/DurableTaskScheduler.svg) | Microsoft.DurableTask/ Namespaces |
+| [Integration Environment](svg/Microsoft_Azure_PaasServerless/IntegrationSpace.svg) | Microsoft.IntegrationSpaces/ spaces |
+| [My Resource](svg/Microsoft_Azure_PaasServerless/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
+| [Task Hub](svg/Microsoft_Azure_PaasServerless/TaskHub.svg) | Microsoft.DurableTask/ Namespaces/ TaskHubs |
 | [Peering](svg/Microsoft_Azure_Peering/AzurePeering.svg) | Microsoft.Peering/ peerings |
 | [Peering Service](svg/Microsoft_Azure_Peering/MicrosoftPeeringService.svg) | Microsoft.Peering/ peeringServices |
 | [Peering Service Prefix](svg/Microsoft_Azure_Peering/MicrosoftPeeringServicePrefix.svg) | Microsoft.Peering/ peeringServices/ prefixes |
@@ -976,6 +978,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Catalog](svg/Microsoft_Azure_VirtualEnclaves/Catalog.svg) | Microsoft.Mission/ catalogs |
 | [Azure Virtual Enclave](svg/Microsoft_Azure_VirtualEnclaves/AzureVirtualEnclave.svg) |  |
 | [Approval](svg/Microsoft_Azure_VirtualEnclaves/Approvals.svg) | Microsoft.Mission/ approvals |
+| [Virtual machine scale set](svg/Microsoft_Azure_VirtualMachineScaleSets/VirtualMachineScaleSets.svg) | Microsoft.Compute/ virtualMachineScaleSets |
 | [Virtual Appointments Builder](svg/Microsoft_Azure_VirtualVisitsBuilder/vvbuilder.svg) |  |
 | [Azure Network Function Manager – Network Function](svg/Microsoft_Azure_VnfManager/VnfManagerVnfs.svg) | Microsoft.HybridNetwork/ networkFunctions |
 | [Azure Network Function Manager – vendor](svg/Microsoft_Azure_VnfManager/VnfManagerVendors.svg) | Microsoft.HybridNetwork/ vendors |
@@ -1119,21 +1122,21 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [LiveData Migrator](svg/WandiscoExtension/Migrator.svg) | Wandisco.Fusion/ migrators |
 | [Path Mapping](svg/WandiscoExtension/PathMapping.svg) | Wandisco.Fusion/ migrators/ pathMappings |
 | [Target](svg/WandiscoExtension/Target.svg) | Wandisco.Fusion/ migrators/ targets |
-| [App Service (Slot)](svg/WebsitesExtension/WebsiteSlot.svg) | Microsoft.Web/ sites/ slots |
-| [App Service](svg/WebsitesExtension/Website.svg) | Microsoft.Web/ sites |
-| [App Service plan](svg/WebsitesExtension/WebHostingPlan.svg) | Microsoft.Web/ serverFarms |
-| [Web App](svg/WebsitesExtension/Webapp.svg) |  |
-| [Static Web App](svg/WebsitesExtension/StaticSite.svg) | Microsoft.Web/ StaticSites |
-| [App Service Certificate](svg/WebsitesExtension/SslCertificate.svg) | Microsoft.CertificateRegistration/ certificateOrders |
-| [Mobile App](svg/WebsitesExtension/MobileApp.svg) |  |
-| [Container App Session Pool](svg/WebsitesExtension/ContainerAppSessionPool.svg) | Microsoft.App/ sessionPools |
-| [Container App Job](svg/WebsitesExtension/ContainerAppJobs.svg) | Microsoft.App/ jobs |
-| [Container Apps Environment](svg/WebsitesExtension/ContainerAppEnvironment.svg) | Microsoft.App/ managedEnvironments |
-| [Container Apps Connected Environment](svg/WebsitesExtension/ContainerAppConnectedEnvironment.svg) | Microsoft.App/ connectedEnvironments |
-| [Container App](svg/WebsitesExtension/ContainerApp.svg) | Microsoft.App/ containerApps |
-| [App Service Kubernetes Environment](svg/WebsitesExtension/AppServiceKubernetesEnvironment.svg) | Microsoft.Web/ KubeEnvironments |
-| [App Service Environment](svg/WebsitesExtension/AppServiceEnvironment.svg) | Microsoft.Web/ HostingEnvironments |
-| [App Service Domain](svg/WebsitesExtension/AppServiceDomain.svg) | Microsoft.DomainRegistration/ domains |
 | [Api App](svg/WebsitesExtension/Apiapp.svg) |  |
+| [App Service Domain](svg/WebsitesExtension/AppServiceDomain.svg) | Microsoft.DomainRegistration/ domains |
+| [App Service Environment](svg/WebsitesExtension/AppServiceEnvironment.svg) | Microsoft.Web/ HostingEnvironments |
+| [App Service Kubernetes Environment](svg/WebsitesExtension/AppServiceKubernetesEnvironment.svg) | Microsoft.Web/ KubeEnvironments |
+| [Container App](svg/WebsitesExtension/ContainerApp.svg) | Microsoft.App/ containerApps |
+| [Container Apps Connected Environment](svg/WebsitesExtension/ContainerAppConnectedEnvironment.svg) | Microsoft.App/ connectedEnvironments |
+| [Container Apps Environment](svg/WebsitesExtension/ContainerAppEnvironment.svg) | Microsoft.App/ managedEnvironments |
+| [Container App Job](svg/WebsitesExtension/ContainerAppJobs.svg) | Microsoft.App/ jobs |
+| [Container App Session Pool](svg/WebsitesExtension/ContainerAppSessionPool.svg) | Microsoft.App/ sessionPools |
+| [Mobile App](svg/WebsitesExtension/MobileApp.svg) |  |
+| [App Service Certificate](svg/WebsitesExtension/SslCertificate.svg) | Microsoft.CertificateRegistration/ certificateOrders |
+| [Static Web App](svg/WebsitesExtension/StaticSite.svg) | Microsoft.Web/ StaticSites |
+| [Web App](svg/WebsitesExtension/Webapp.svg) |  |
+| [App Service plan](svg/WebsitesExtension/WebHostingPlan.svg) | Microsoft.Web/ serverFarms |
+| [App Service](svg/WebsitesExtension/Website.svg) | Microsoft.Web/ sites |
+| [App Service (Slot)](svg/WebsitesExtension/WebsiteSlot.svg) | Microsoft.Web/ sites/ slots |
 
 
