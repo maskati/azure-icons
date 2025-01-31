@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.287.0.131260.250108-2305 on 2025-01-30.
+Extracted from Azure Portal version 14.287.0.131260.250108-2305 on 2025-01-31.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -1122,21 +1122,21 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [LiveData Migrator](svg/WandiscoExtension/Migrator.svg) | Wandisco.Fusion/ migrators |
 | [Path Mapping](svg/WandiscoExtension/PathMapping.svg) | Wandisco.Fusion/ migrators/ pathMappings |
 | [Target](svg/WandiscoExtension/Target.svg) | Wandisco.Fusion/ migrators/ targets |
-| [Api App](svg/WebsitesExtension/Apiapp.svg) |  |
-| [App Service Domain](svg/WebsitesExtension/AppServiceDomain.svg) | Microsoft.DomainRegistration/ domains |
-| [App Service Environment](svg/WebsitesExtension/AppServiceEnvironment.svg) | Microsoft.Web/ HostingEnvironments |
-| [App Service Kubernetes Environment](svg/WebsitesExtension/AppServiceKubernetesEnvironment.svg) | Microsoft.Web/ KubeEnvironments |
-| [Container App](svg/WebsitesExtension/ContainerApp.svg) | Microsoft.App/ containerApps |
-| [Container Apps Connected Environment](svg/WebsitesExtension/ContainerAppConnectedEnvironment.svg) | Microsoft.App/ connectedEnvironments |
-| [Container Apps Environment](svg/WebsitesExtension/ContainerAppEnvironment.svg) | Microsoft.App/ managedEnvironments |
-| [Container App Job](svg/WebsitesExtension/ContainerAppJobs.svg) | Microsoft.App/ jobs |
-| [Container App Session Pool](svg/WebsitesExtension/ContainerAppSessionPool.svg) | Microsoft.App/ sessionPools |
-| [Mobile App](svg/WebsitesExtension/MobileApp.svg) |  |
-| [App Service Certificate](svg/WebsitesExtension/SslCertificate.svg) | Microsoft.CertificateRegistration/ certificateOrders |
-| [Static Web App](svg/WebsitesExtension/StaticSite.svg) | Microsoft.Web/ StaticSites |
-| [Web App](svg/WebsitesExtension/Webapp.svg) |  |
-| [App Service plan](svg/WebsitesExtension/WebHostingPlan.svg) | Microsoft.Web/ serverFarms |
-| [App Service](svg/WebsitesExtension/Website.svg) | Microsoft.Web/ sites |
 | [App Service (Slot)](svg/WebsitesExtension/WebsiteSlot.svg) | Microsoft.Web/ sites/ slots |
+| [App Service](svg/WebsitesExtension/Website.svg) | Microsoft.Web/ sites |
+| [App Service plan](svg/WebsitesExtension/WebHostingPlan.svg) | Microsoft.Web/ serverFarms |
+| [Web App](svg/WebsitesExtension/Webapp.svg) |  |
+| [Static Web App](svg/WebsitesExtension/StaticSite.svg) | Microsoft.Web/ StaticSites |
+| [App Service Certificate](svg/WebsitesExtension/SslCertificate.svg) | Microsoft.CertificateRegistration/ certificateOrders |
+| [Mobile App](svg/WebsitesExtension/MobileApp.svg) |  |
+| [Container App Session Pool](svg/WebsitesExtension/ContainerAppSessionPool.svg) | Microsoft.App/ sessionPools |
+| [Container App Job](svg/WebsitesExtension/ContainerAppJobs.svg) | Microsoft.App/ jobs |
+| [Container Apps Environment](svg/WebsitesExtension/ContainerAppEnvironment.svg) | Microsoft.App/ managedEnvironments |
+| [Container Apps Connected Environment](svg/WebsitesExtension/ContainerAppConnectedEnvironment.svg) | Microsoft.App/ connectedEnvironments |
+| [Container App](svg/WebsitesExtension/ContainerApp.svg) | Microsoft.App/ containerApps |
+| [App Service Kubernetes Environment](svg/WebsitesExtension/AppServiceKubernetesEnvironment.svg) | Microsoft.Web/ KubeEnvironments |
+| [App Service Environment](svg/WebsitesExtension/AppServiceEnvironment.svg) | Microsoft.Web/ HostingEnvironments |
+| [App Service Domain](svg/WebsitesExtension/AppServiceDomain.svg) | Microsoft.DomainRegistration/ domains |
+| [Api App](svg/WebsitesExtension/Apiapp.svg) |  |
 
 
