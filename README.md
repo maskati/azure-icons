@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.287.0.131260.250108-2305 on 2025-01-31.
+Extracted from Azure Portal version 14.287.0.131260.250108-2305 on 2025-02-01.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -544,10 +544,10 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Front Door and CDN profiles](svg/Microsoft_Azure_Frontdoor/AzureFrontdoor.svg) | Microsoft.Network/ frontdoors |
 | [Global view](svg/Microsoft_Azure_GlobalView/GlobalView.svg) |  |
 | [Microsoft Graph Data Connect](svg/Microsoft_Azure_GraphDataConnect/Microsoft_Graph_Data_Connect.svg) |  |
-| [Billing access control (IAM)](svg/Microsoft_Azure_GTM/AccessControl.svg) |  |
-| [Billing subscription](svg/Microsoft_Azure_GTM/BillingSubscriptions.svg) |  |
-| [Invoice](svg/Microsoft_Azure_GTM/Invoice.svg) |  |
 | [Cost Management + Billing](svg/Microsoft_Azure_GTM/Billing.svg) |  |
+| [Invoice](svg/Microsoft_Azure_GTM/Invoice.svg) |  |
+| [Billing subscription](svg/Microsoft_Azure_GTM/BillingSubscriptions.svg) |  |
+| [Billing access control (IAM)](svg/Microsoft_Azure_GTM/AccessControl.svg) |  |
 | [Azure HDInsight on AKS cluster pool](svg/Microsoft_Azure_HDInsight/HDInsightClusterPool.svg) | Microsoft.HDInsight/ clusterpools |
 | [Azure HDInsight on AKS cluster](svg/Microsoft_Azure_HDInsight/HDInsightClusterGen2.svg) | Microsoft.HDInsight/ clusterpools/ clusters |
 | [HDInsight cluster](svg/Microsoft_Azure_HDInsight/HDInsightCluster.svg) | Microsoft.HDInsight/ clusters |
@@ -637,13 +637,13 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Lab plan](svg/Microsoft_Azure_ManagedLab/LabPlan.svg) | Microsoft.LabServices/ labPlans |
 | [Azure Lab Services](svg/Microsoft_Azure_ManagedLab/LabServices.svg) |  |
 | [Lab](svg/Microsoft_Azure_ManagedLab/LegacyLab.svg) | Microsoft.LabServices/ labAccounts/ labs |
-| [Network manager](svg/Microsoft_Azure_ManagedNetwork/NetworkManager.svg) | Microsoft.Network/ networkManagers |
-| [Network manager](svg/Microsoft_Azure_ManagedNetwork/ConnectivityConfigurationOverview.svg) | Microsoft.Network/ networkManagers/ connectivityConfigurations |
-| [Network manager](svg/Microsoft_Azure_ManagedNetwork/NetworkGroupOverview.svg) | Microsoft.Network/ networkManagers/ networkGroups |
-| [Network manager](svg/Microsoft_Azure_ManagedNetwork/SecurityAdminConfigurationOverview.svg) | Microsoft.Network/ networkManagers/ securityAdminConfigurations |
-| [Network manager](svg/Microsoft_Azure_ManagedNetwork/SecurityUserConfigurationOverview.svg) | Microsoft.Network/ networkManagers/ securityUserConfigurations |
-| [Network manager](svg/Microsoft_Azure_ManagedNetwork/UserDefinedRoutingConfiguration.svg) | Microsoft.Network/ networkManagers/ routingConfigurations |
 | [Virtual Network Manager](svg/Microsoft_Azure_ManagedNetwork/VirtualNetworkManager.svg) |  |
+| [Network manager](svg/Microsoft_Azure_ManagedNetwork/UserDefinedRoutingConfiguration.svg) | Microsoft.Network/ networkManagers/ routingConfigurations |
+| [Network manager](svg/Microsoft_Azure_ManagedNetwork/SecurityUserConfigurationOverview.svg) | Microsoft.Network/ networkManagers/ securityUserConfigurations |
+| [Network manager](svg/Microsoft_Azure_ManagedNetwork/SecurityAdminConfigurationOverview.svg) | Microsoft.Network/ networkManagers/ securityAdminConfigurations |
+| [Network manager](svg/Microsoft_Azure_ManagedNetwork/NetworkGroupOverview.svg) | Microsoft.Network/ networkManagers/ networkGroups |
+| [Network manager](svg/Microsoft_Azure_ManagedNetwork/ConnectivityConfigurationOverview.svg) | Microsoft.Network/ networkManagers/ connectivityConfigurations |
+| [Network manager](svg/Microsoft_Azure_ManagedNetwork/NetworkManager.svg) | Microsoft.Network/ networkManagers |
 | [Managed Identity](svg/Microsoft_Azure_ManagedServiceIdentity/UserAssignedIdentity.svg) | Microsoft.ManagedIdentity/ userAssignedIdentities |
 | [kubernetes 1 - Azure Arc](svg/Microsoft_Azure_ManagedStorageClass/ConnectedClusterWithStorageClassPlus.svg) | microsoft.kubernetes/ connectedClusters |
 | [SaaS](svg/Microsoft_Azure_Marketplace/SaasSubscriptionLevel.svg) | Microsoft.SaaS/ resources |
@@ -804,12 +804,12 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Spacecraft](svg/Microsoft_Azure_Orbital/Spacecrafts.svg) | Microsoft.Orbital/ spacecrafts |
 | [Azure Database for MySQL flexible server](svg/Microsoft_Azure_OSSDatabases/MySqlFlexibleServer.svg) | Microsoft.DBforMySQL/ flexibleServers |
 | [Azure Database for PostgreSQL - Flexible Server](svg/Microsoft_Azure_OSSDatabases/PostgreSqlFlexibleServer.svg) | Microsoft.DBforPostgreSQL/ flexibleServers |
-| [App Space](svg/Microsoft_Azure_PaasServerless/AppSpaces.svg) | Microsoft.App/ spaces |
-| [Business Process](svg/Microsoft_Azure_PaasServerless/BusinessProcessTracking.svg) | Microsoft.Logic/ businessprocesses |
-| [Durable Task Scheduler](svg/Microsoft_Azure_PaasServerless/DurableTaskScheduler.svg) | Microsoft.DurableTask/ Namespaces |
-| [Integration Environment](svg/Microsoft_Azure_PaasServerless/IntegrationSpace.svg) | Microsoft.IntegrationSpaces/ spaces |
+| [Task Hub](svg/Microsoft_Azure_PaasServerless/TaskHub.svg) | Microsoft.DurableTask/ Schedulers/ TaskHubs |
 | [My Resource](svg/Microsoft_Azure_PaasServerless/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
-| [Task Hub](svg/Microsoft_Azure_PaasServerless/TaskHub.svg) | Microsoft.DurableTask/ Namespaces/ TaskHubs |
+| [Integration Environment](svg/Microsoft_Azure_PaasServerless/IntegrationSpace.svg) | Microsoft.IntegrationSpaces/ spaces |
+| [Durable Task Scheduler](svg/Microsoft_Azure_PaasServerless/DurableTaskScheduler.svg) | Microsoft.DurableTask/ Schedulers |
+| [Business Process](svg/Microsoft_Azure_PaasServerless/BusinessProcessTracking.svg) | Microsoft.Logic/ businessprocesses |
+| [App Space](svg/Microsoft_Azure_PaasServerless/AppSpaces.svg) | Microsoft.App/ spaces |
 | [Peering](svg/Microsoft_Azure_Peering/AzurePeering.svg) | Microsoft.Peering/ peerings |
 | [Peering Service](svg/Microsoft_Azure_Peering/MicrosoftPeeringService.svg) | Microsoft.Peering/ peeringServices |
 | [Peering Service Prefix](svg/Microsoft_Azure_Peering/MicrosoftPeeringServicePrefix.svg) | Microsoft.Peering/ peeringServices/ prefixes |
@@ -1015,12 +1015,12 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [MCC CacheNode for Enterprise](svg/Microsoft_ConnectedCache_Enterprise/MccEnterpriseCacheNodeResource.svg) | Microsoft.ConnectedCache/ enterpriseMccCustomers/ enterpriseMccCacheNodes |
 | [Connected Cache for ISP](svg/Microsoft_ConnectedCache_ISP/MCCIspResource.svg) | Microsoft.ConnectedCache/ ispCustomers |
 | [Managed Desktop](svg/Microsoft_EMM_ModernWorkplace/MWaaS.svg) |  |
-| [DICOM service](svg/Microsoft_Healthcare_APIs/DicomService.svg) | Microsoft.HealthcareApis/ workspaces/ dicomservices |
-| [Azure API for FHIR](svg/Microsoft_Healthcare_APIs/FhirService.svg) | Microsoft.HealthcareApis/ services |
-| [Health Data Services workspace](svg/Microsoft_Healthcare_APIs/HealthcareApisService.svg) | Microsoft.HealthcareApis/ workspaces |
-| [Azure Health Data and AI Services](svg/Microsoft_Healthcare_APIs/HealthDataAIServices.svg) | Microsoft.Test/ healthDataAIServices |
-| [MedTech service](svg/Microsoft_Healthcare_APIs/IotConnector.svg) | Microsoft.HealthcareApis/ workspaces/ iotconnectors |
 | [FHIR service](svg/Microsoft_Healthcare_APIs/JupiterFhirService.svg) | Microsoft.HealthcareApis/ workspaces/ fhirservices |
+| [MedTech service](svg/Microsoft_Healthcare_APIs/IotConnector.svg) | Microsoft.HealthcareApis/ workspaces/ iotconnectors |
+| [Azure Health Data and AI Services](svg/Microsoft_Healthcare_APIs/HealthDataAIServices.svg) | Microsoft.Test/ healthDataAIServices |
+| [Health Data Services workspace](svg/Microsoft_Healthcare_APIs/HealthcareApisService.svg) | Microsoft.HealthcareApis/ workspaces |
+| [Azure API for FHIR](svg/Microsoft_Healthcare_APIs/FhirService.svg) | Microsoft.HealthcareApis/ services |
+| [DICOM service](svg/Microsoft_Healthcare_APIs/DicomService.svg) | Microsoft.HealthcareApis/ workspaces/ dicomservices |
 | [Devices](svg/Microsoft_Intune_Devices/DeviceEntryBladeAsset.svg) |  |
 | [Intune](svg/Microsoft_Intune_DeviceSettings/IntuneMC.svg) |  |
 | [Intune](svg/Microsoft_Intune_DeviceSettings/IntuneFF.svg) |  |
