@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.287.0.131260.250108-2305 on 2025-02-02.
+Extracted from Azure Portal version 14.287.0.131260.250108-2305 on 2025-02-03.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -1050,14 +1050,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Users](svg/Microsoft_Intune_Edu/UserSearch.svg) |  |
 | [Express configuration](svg/Microsoft_Intune_Edu/ExpressSetup.svg) |  |
 | [Reports](svg/Microsoft_Intune_Enrollment/ReportsAsset.svg) |  |
-| [Audit logs](svg/Microsoft_Intune_MTM/AuditAsset.svg) |  |
-| [Baselines](svg/Microsoft_Intune_MTM/BlueprintsAsset.svg) |  |
-| [Windows 365](svg/Microsoft_Intune_MTM/CloudPcAsset.svg) |  |
-| [Tenants](svg/Microsoft_Intune_MTM/CustomerListAsset.svg) |  |
-| [Devices](svg/Microsoft_Intune_MTM/DevicesAsset.svg) |  |
-| [Service health](svg/Microsoft_Intune_MTM/ServiceHealthAsset.svg) |  |
-| [Threat management](svg/Microsoft_Intune_MTM/ThreatManagementAsset.svg) |  |
-| [Users](svg/Microsoft_Intune_MTM/UsersAsset.svg) |  |
 | [Security Baselines](svg/Microsoft_Intune_Workflows/SecurityBaselineAsset.svg) |  |
 | [Endpoint security](svg/Microsoft_Intune_Workflows/SecurityManagementAsset.svg) |  |
 | [Factory Operations Agent in Azure AI](svg/Microsoft_ManufacturingPlatform_DMM/DataManagerForManufacturing.svg) | Microsoft.ManufacturingPlatform/ ManufacturingDataServices |
