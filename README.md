@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.287.0.131260.250108-2305 on 2025-02-03.
+Extracted from Azure Portal version 14.287.0.131260.250108-2305 on 2025-02-04.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -451,26 +451,26 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Virtual machine](svg/Microsoft_Azure_DevTestLab/MyLabVms.svg) | Microsoft.DevTestLab/ labs/ virtualMachines |
 | [Dev Tunnels Domain](svg/Microsoft_Azure_DevTunnels/devtunnels.svg) | microsoft.devtunnels/ tunnelplans |
 | [Azure Digital Twins](svg/Microsoft_Azure_DigitalTwins/digitaltwinsInstances.svg) | Microsoft.DigitalTwins/ digitalTwinsInstances |
-| [Community image](svg/Microsoft_Azure_DiskMgmt/CommunityImage.svg) | Microsoft.Compute/ locations/ communityGalleries/ images |
-| [Community image](svg/Microsoft_Azure_DiskMgmt/CommunityImageComputeHub.svg) | Microsoft.Compute/ locations/ communityGalleries/ imagesComputehub |
-| [Disk](svg/Microsoft_Azure_DiskMgmt/Disk.svg) | Microsoft.Compute/ disks |
-| [Disk](svg/Microsoft_Azure_DiskMgmt/DiskComputeHub.svg) |  |
-| [Disk Access](svg/Microsoft_Azure_DiskMgmt/DiskAccess.svg) | Microsoft.Compute/ diskAccesses |
-| [Disk Encryption Set](svg/Microsoft_Azure_DiskMgmt/DiskEncryptionSet.svg) | Microsoft.Compute/ diskEncryptionSets |
-| [Disk Encryption Set](svg/Microsoft_Azure_DiskMgmt/DiskEncryptionSetComputeHub.svg) |  |
-| [VM application definition](svg/Microsoft_Azure_DiskMgmt/GalleryApplication.svg) | Microsoft.Compute/ galleries/ applications |
-| [VM application version](svg/Microsoft_Azure_DiskMgmt/GalleryApplicationVersion.svg) | Microsoft.Compute/ galleries/ applications/ versions |
-| [VM image definition](svg/Microsoft_Azure_DiskMgmt/ImageDefinition.svg) | Microsoft.Compute/ galleries/ images |
-| [VM image definition](svg/Microsoft_Azure_DiskMgmt/ImageDefinitionComputeHub.svg) | Microsoft.Compute/ galleries/ imagesComputehub |
-| [Image](svg/Microsoft_Azure_DiskMgmt/Image.svg) | Microsoft.Compute/ images |
-| [Image](svg/Microsoft_Azure_DiskMgmt/ImageComputeHub.svg) | Microsoft.Compute/ imagesComputehub |
-| [Image template](svg/Microsoft_Azure_DiskMgmt/ImageTemplate.svg) | Microsoft.VirtualMachineImages/ imageTemplates |
-| [VM image version](svg/Microsoft_Azure_DiskMgmt/ImageVersion.svg) | Microsoft.Compute/ galleries/ images/ versions |
-| [VM image version](svg/Microsoft_Azure_DiskMgmt/ImageVersionComputeHub.svg) |  |
-| [Restore Point](svg/Microsoft_Azure_DiskMgmt/RestorePoint.svg) | Microsoft.Compute/ restorePointCollections/ restorePoints |
-| [Restore Point Collection](svg/Microsoft_Azure_DiskMgmt/RestorePointCollection.svg) | Microsoft.Compute/ restorePointCollections |
-| [Azure compute gallery](svg/Microsoft_Azure_DiskMgmt/SharedImageGallery.svg) | Microsoft.Compute/ galleries |
 | [Snapshot](svg/Microsoft_Azure_DiskMgmt/Snapshot.svg) | Microsoft.Compute/ snapshots |
+| [Azure compute gallery](svg/Microsoft_Azure_DiskMgmt/SharedImageGallery.svg) | Microsoft.Compute/ galleries |
+| [Restore Point Collection](svg/Microsoft_Azure_DiskMgmt/RestorePointCollection.svg) | Microsoft.Compute/ restorePointCollections |
+| [Restore Point](svg/Microsoft_Azure_DiskMgmt/RestorePoint.svg) | Microsoft.Compute/ restorePointCollections/ restorePoints |
+| [VM image version](svg/Microsoft_Azure_DiskMgmt/ImageVersionComputeHub.svg) |  |
+| [VM image version](svg/Microsoft_Azure_DiskMgmt/ImageVersion.svg) | Microsoft.Compute/ galleries/ images/ versions |
+| [Image template](svg/Microsoft_Azure_DiskMgmt/ImageTemplate.svg) | Microsoft.VirtualMachineImages/ imageTemplates |
+| [Image](svg/Microsoft_Azure_DiskMgmt/ImageComputeHub.svg) | Microsoft.Compute/ imagesComputehub |
+| [Image](svg/Microsoft_Azure_DiskMgmt/Image.svg) | Microsoft.Compute/ images |
+| [VM image definition](svg/Microsoft_Azure_DiskMgmt/ImageDefinitionComputeHub.svg) | Microsoft.Compute/ galleries/ imagesComputehub |
+| [VM image definition](svg/Microsoft_Azure_DiskMgmt/ImageDefinition.svg) | Microsoft.Compute/ galleries/ images |
+| [VM application version](svg/Microsoft_Azure_DiskMgmt/GalleryApplicationVersion.svg) | Microsoft.Compute/ galleries/ applications/ versions |
+| [VM application definition](svg/Microsoft_Azure_DiskMgmt/GalleryApplication.svg) | Microsoft.Compute/ galleries/ applications |
+| [Disk Encryption Set](svg/Microsoft_Azure_DiskMgmt/DiskEncryptionSetComputeHub.svg) |  |
+| [Disk Encryption Set](svg/Microsoft_Azure_DiskMgmt/DiskEncryptionSet.svg) | Microsoft.Compute/ diskEncryptionSets |
+| [Disk Access](svg/Microsoft_Azure_DiskMgmt/DiskAccess.svg) | Microsoft.Compute/ diskAccesses |
+| [Disk](svg/Microsoft_Azure_DiskMgmt/DiskComputeHub.svg) |  |
+| [Disk](svg/Microsoft_Azure_DiskMgmt/Disk.svg) | Microsoft.Compute/ disks |
+| [Community image](svg/Microsoft_Azure_DiskMgmt/CommunityImageComputeHub.svg) | Microsoft.Compute/ locations/ communityGalleries/ imagesComputehub |
+| [Community image](svg/Microsoft_Azure_DiskMgmt/CommunityImage.svg) | Microsoft.Compute/ locations/ communityGalleries/ images |
 | [Azure Database Migration Service (classic)](svg/Microsoft_Azure_DMS/Dms.svg) | Microsoft.DataMigration/ services |
 | [Azure Database Migration Project](svg/Microsoft_Azure_DMS/DmsProject.svg) | Microsoft.DataMigration/ services/ projects |
 | [Azure Database Migration Service](svg/Microsoft_Azure_DMS/DmsV2.svg) | microsoft.datamigration/ sqlmigrationservices |
