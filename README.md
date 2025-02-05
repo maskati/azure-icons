@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.287.0.131260.250108-2305 on 2025-02-04.
+Extracted from Azure Portal version 14.287.0.131260.250108-2305 on 2025-02-05.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -587,28 +587,28 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [SQL Server - Azure Arc](svg/Microsoft_Azure_HybridData_Platform/SqlServerInstance.svg) | Microsoft.AzureArcData/ sqlServerInstances |
 | [SQL Server database - Azure Arc](svg/Microsoft_Azure_HybridData_Platform/SqlServerInstancesDatabases.svg) | Microsoft.AzureArcData/ SqlServerInstances/ Databases |
 | [SQL Server License](svg/Microsoft_Azure_HybridData_Platform/SqlServerLicense.svg) | microsoft.azurearcdata/ sqlserverlicenses |
-| [Application Gateway for Containers](svg/Microsoft_Azure_HybridNetworking/AppGwForContainers.svg) | Microsoft.ServiceNetworking/ trafficControllers |
-| [Application gateway](svg/Microsoft_Azure_HybridNetworking/ApplicationGateway.svg) | Microsoft.Network/ applicationGateways |
-| [Bastion](svg/Microsoft_Azure_HybridNetworking/BastionHost.svg) | Microsoft.Network/ bastionHosts |
-| [Firewall](svg/Microsoft_Azure_HybridNetworking/CloudNativeFirewall.svg) | Microsoft.Network/ azureFirewalls |
-| [Connection](svg/Microsoft_Azure_HybridNetworking/Connection.svg) | Microsoft.Network/ connections |
-| [ExpressRoute circuit](svg/Microsoft_Azure_HybridNetworking/ExpressRoute.svg) | Microsoft.Network/ expressRouteCircuits |
-| [ExpressRoute Direct](svg/Microsoft_Azure_HybridNetworking/ExpressRouteDirect.svg) | Microsoft.Network/ expressRoutePorts |
-| [Microsoft.Network express route gateways express route connection](svg/Microsoft_Azure_HybridNetworking/Microsoft_Network_expressRouteGateways_expressRouteConnections_2022_01_01.svg) | Microsoft.Network/ expressRouteGateways/ expressRouteConnections |
-| [ExpressRoute provider](svg/Microsoft_Azure_HybridNetworking/ExpressRouteProvider.svg) |  |
-| [ExpressRoute traffic collector](svg/Microsoft_Azure_HybridNetworking/ExpressRouteTrafficCollector.svg) | Microsoft.NetworkFunction/ azureTrafficCollectors |
-| [Firewall Manager](svg/Microsoft_Azure_HybridNetworking/FirewallManager.svg) |  |
-| [Firewall Policy](svg/Microsoft_Azure_HybridNetworking/FirewallPolicy.svg) | Microsoft.Network/ firewallPolicies |
-| [IP Group](svg/Microsoft_Azure_HybridNetworking/IpGroups.svg) | Microsoft.Network/ ipGroups |
-| [Local network gateway](svg/Microsoft_Azure_HybridNetworking/LocalNetworkGateway.svg) | Microsoft.Network/ localnetworkgateways |
-| [Mesh VPN](svg/Microsoft_Azure_HybridNetworking/MeshVpn.svg) | Microsoft.NetworkFunction/ meshVpns |
-| [Route filter](svg/Microsoft_Azure_HybridNetworking/RouteFilter.svg) | Microsoft.Network/ routeFilters |
-| [Virtual network gateway](svg/Microsoft_Azure_HybridNetworking/VirtualNetworkGateway.svg) | Microsoft.Network/ virtualNetworkGateways |
-| [Microsoft.Network/virtualHub](svg/Microsoft_Azure_HybridNetworking/VirtualRouter.svg) | Microsoft.Network/ virtualHubs |
-| [Route Server](svg/Microsoft_Azure_HybridNetworking/VirtualRoutermanager.svg) |  |
-| [Azure Cortex](svg/Microsoft_Azure_HybridNetworking/GlobalSecureAccess.svg) |  |
-| [Virtual WAN](svg/Microsoft_Azure_HybridNetworking/VirtualWan.svg) | Microsoft.Network/ virtualWans |
 | [Microsoft.Network network virtual appliance](svg/Microsoft_Azure_HybridNetworking/microsoft_network_networkvirtualappliances_2020_03_01.svg) | microsoft.network/ networkvirtualappliances |
+| [Virtual WAN](svg/Microsoft_Azure_HybridNetworking/VirtualWan.svg) | Microsoft.Network/ virtualWans |
+| [Azure Cortex](svg/Microsoft_Azure_HybridNetworking/GlobalSecureAccess.svg) |  |
+| [Route Server](svg/Microsoft_Azure_HybridNetworking/VirtualRoutermanager.svg) |  |
+| [Microsoft.Network/virtualHub](svg/Microsoft_Azure_HybridNetworking/VirtualRouter.svg) | Microsoft.Network/ virtualHubs |
+| [Virtual network gateway](svg/Microsoft_Azure_HybridNetworking/VirtualNetworkGateway.svg) | Microsoft.Network/ virtualNetworkGateways |
+| [Route filter](svg/Microsoft_Azure_HybridNetworking/RouteFilter.svg) | Microsoft.Network/ routeFilters |
+| [Mesh VPN](svg/Microsoft_Azure_HybridNetworking/MeshVpn.svg) | Microsoft.NetworkFunction/ meshVpns |
+| [Local network gateway](svg/Microsoft_Azure_HybridNetworking/LocalNetworkGateway.svg) | Microsoft.Network/ localnetworkgateways |
+| [IP Group](svg/Microsoft_Azure_HybridNetworking/IpGroups.svg) | Microsoft.Network/ ipGroups |
+| [Firewall Policy](svg/Microsoft_Azure_HybridNetworking/FirewallPolicy.svg) | Microsoft.Network/ firewallPolicies |
+| [Firewall Manager](svg/Microsoft_Azure_HybridNetworking/FirewallManager.svg) |  |
+| [ExpressRoute traffic collector](svg/Microsoft_Azure_HybridNetworking/ExpressRouteTrafficCollector.svg) | Microsoft.NetworkFunction/ azureTrafficCollectors |
+| [ExpressRoute provider](svg/Microsoft_Azure_HybridNetworking/ExpressRouteProvider.svg) |  |
+| [Microsoft.Network express route gateways express route connection](svg/Microsoft_Azure_HybridNetworking/Microsoft_Network_expressRouteGateways_expressRouteConnections_2022_01_01.svg) | Microsoft.Network/ expressRouteGateways/ expressRouteConnections |
+| [ExpressRoute Direct](svg/Microsoft_Azure_HybridNetworking/ExpressRouteDirect.svg) | Microsoft.Network/ expressRoutePorts |
+| [ExpressRoute circuit](svg/Microsoft_Azure_HybridNetworking/ExpressRoute.svg) | Microsoft.Network/ expressRouteCircuits |
+| [Connection](svg/Microsoft_Azure_HybridNetworking/Connection.svg) | Microsoft.Network/ connections |
+| [Firewall](svg/Microsoft_Azure_HybridNetworking/CloudNativeFirewall.svg) | Microsoft.Network/ azureFirewalls |
+| [Bastion](svg/Microsoft_Azure_HybridNetworking/BastionHost.svg) | Microsoft.Network/ bastionHosts |
+| [Application gateway](svg/Microsoft_Azure_HybridNetworking/ApplicationGateway.svg) | Microsoft.Network/ applicationGateways |
+| [Application Gateway for Containers](svg/Microsoft_Azure_HybridNetworking/AppGwForContainers.svg) | Microsoft.ServiceNetworking/ trafficControllers |
 | [Infrastructure as Code Automation](svg/Microsoft_Azure_IacAutomation/ArcIacAutomation.svg) | Microsoft.DevHub/ iacProfiles |
 | [My Resource](svg/Microsoft_Azure_IdentityGovernance/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [My Resource](svg/Microsoft_Azure_IndustrySolutionCenter/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
@@ -850,8 +850,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Speech service](svg/Microsoft_Azure_ProjectOxford/SpeechServices.svg) | Microsoft.CognitiveServices/ BrowseSpeechServices |
 | [Language](svg/Microsoft_Azure_ProjectOxford/TextAnalytics.svg) | Microsoft.CognitiveServices/ BrowseTextAnalytics |
 | [Translator](svg/Microsoft_Azure_ProjectOxford/TextTranslation.svg) | Microsoft.CognitiveServices/ BrowseTextTranslation |
-| [Azure Quantum](svg/Microsoft_Azure_Quantum/AzureQuantum.svg) |  |
 | [Quantum Workspace](svg/Microsoft_Azure_Quantum/QuantumWorkspace.svg) | Microsoft.Quantum/ Workspaces |
+| [Azure Quantum](svg/Microsoft_Azure_Quantum/AzureQuantum.svg) |  |
 | [Intelligent Recommendations Account](svg/Microsoft_Azure_RecommendationsService/Account.svg) | Microsoft.RecommendationsService/ accounts |
 | [Modeling](svg/Microsoft_Azure_RecommendationsService/Modeling.svg) | Microsoft.RecommendationsService/ accounts/ modeling |
 | [Service Endpoint](svg/Microsoft_Azure_RecommendationsService/ServiceEndpoint.svg) | Microsoft.RecommendationsService/ accounts/ serviceEndpoints |
