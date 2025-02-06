@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.287.0.131260.250108-2305 on 2025-02-05.
+Extracted from Azure Portal version 14.287.0.131260.250108-2305 on 2025-02-06.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -239,7 +239,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Device Update for IoT Hub](svg/Microsoft_Azure_ADU/IotDUResource.svg) | Microsoft.DeviceUpdate/ Accounts |
 | [Front Door and CDN profile](svg/Microsoft_Azure_AFDX/FrontdoorProfile.svg) | microsoft.cdn/ profiles |
 | [Azure Data Manager for Agriculture](svg/Microsoft_Azure_AgFoodPlatform/FarmbeatsResource.svg) | Microsoft.AgFoodPlatform/ farmBeats |
-| [Azure Data Manager for Agriculture](svg/Microsoft_Azure_AgriculturePlatform/AgriServices.svg) | Microsoft.AgriculturePlatform/ agriServices |
+| [Agriculture data solutions](svg/Microsoft_Azure_AgriculturePlatform/AgriServices.svg) | Microsoft.AgriculturePlatform/ agriServices |
 | [Analysis Services](svg/Microsoft_Azure_AnalysisServices/AnalysisServices.svg) | Microsoft.AnalysisServices/ servers |
 | [Fabric Capacity](svg/Microsoft_Azure_Analytics/REDIDCILDCBJNGCP.svg) | Microsoft.Fabric/ capacities |
 | [Verifier Workspace](svg/Microsoft_Azure_ANMVerifier/verifierWorkspace.svg) | Microsoft.Network/ networkManagers/ verifierWorkspaces |
@@ -326,25 +326,25 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Communications Gateway Test Line](svg/Microsoft_Azure_CommunicationsGatewayExtension/TestLines.svg) | Microsoft.VoiceServices/ CommunicationsGateways/ TestLines |
 | [Communications Gateway](svg/Microsoft_Azure_CommunicationsGatewayExtension/CommunicationsGateways.svg) | Microsoft.VoiceServices/ CommunicationsGateways |
 | [Community Training](svg/Microsoft_Azure_CommunityTraining/CommunityTraining.svg) | Microsoft.Community/ communityTrainings |
-| [Availability set](svg/Microsoft_Azure_Compute/AvailabilitySet.svg) | Microsoft.Compute/ availabilitySets |
-| [Capacity Reservation Group](svg/Microsoft_Azure_Compute/CapacityReservationGroup.svg) | Microsoft.Compute/ capacityReservationGroups |
-| [Capacity Reservation Group](svg/Microsoft_Azure_Compute/CapacityReservationGroupComputeHub.svg) | Microsoft.Compute/ capacityReservationGroupsComputehub |
-| [Host group](svg/Microsoft_Azure_Compute/DedicatedHostGroup.svg) | Microsoft.Compute/ hostgroups |
-| [Host group](svg/Microsoft_Azure_Compute/DedicatedHostGroupComputeHub.svg) | Microsoft.Compute/ hostgroupsComputehub |
-| [Host](svg/Microsoft_Azure_Compute/DedicatedHost.svg) | Microsoft.Compute/ hostgroups/ hosts |
-| [Host](svg/Microsoft_Azure_Compute/DedicatedHostComputeHub.svg) |  |
-| [Instance](svg/Microsoft_Azure_Compute/ComputeFleetInstance.svg) | microsoft.compute/ computefleetinstances |
-| [Virtual machine scale set](svg/Microsoft_Azure_Compute/ComputeFleetScaleSet.svg) | microsoft.compute/ computefleetscalesets |
-| [Standby pool](svg/Microsoft_Azure_Compute/StandbyPoolInstance.svg) | microsoft.compute/ standbypoolinstance |
-| [Instance](svg/Microsoft_Azure_Compute/VirtualMachineFlexInstance.svg) | microsoft.compute/ virtualmachineflexinstances |
-| [Proximity placement group](svg/Microsoft_Azure_Compute/ProximityPlacementGroup.svg) | Microsoft.Compute/ ProximityPlacementGroups |
-| [Proximity placement group](svg/Microsoft_Azure_Compute/ProximityPlacementGroupComputeHub.svg) | Microsoft.Compute/ ProximityPlacementGroupsComputehub |
-| [SSH key](svg/Microsoft_Azure_Compute/SshKey.svg) | Microsoft.Compute/ sshPublicKeys |
-| [Virtual machine](svg/Microsoft_Azure_Compute/AllVirtualMachine.svg) | Microsoft.All/ virtualMachines |
-| [Virtual machine](svg/Microsoft_Azure_Compute/VirtualMachine.svg) | Microsoft.Compute/ VirtualMachines |
-| [Virtual machine](svg/Microsoft_Azure_Compute/VirtualMachineComputeHub.svg) | Microsoft.Compute/ VirtualMachineComputehub |
-| [Virtual machine scale set](svg/Microsoft_Azure_Compute/VirtualMachineScaleSet.svg) | Microsoft.Compute/ virtualMachineScaleSets |
 | [Virtual machine scale set](svg/Microsoft_Azure_Compute/VirtualMachineScaleSetComputeHub.svg) | Microsoft.Compute/ virtualMachineScaleSetsComputehub |
+| [Virtual machine scale set](svg/Microsoft_Azure_Compute/VirtualMachineScaleSet.svg) | Microsoft.Compute/ virtualMachineScaleSets |
+| [Virtual machine](svg/Microsoft_Azure_Compute/VirtualMachineComputeHub.svg) | Microsoft.Compute/ VirtualMachineComputehub |
+| [Virtual machine](svg/Microsoft_Azure_Compute/VirtualMachine.svg) | Microsoft.Compute/ VirtualMachines |
+| [Virtual machine](svg/Microsoft_Azure_Compute/AllVirtualMachine.svg) | Microsoft.All/ virtualMachines |
+| [SSH key](svg/Microsoft_Azure_Compute/SshKey.svg) | Microsoft.Compute/ sshPublicKeys |
+| [Proximity placement group](svg/Microsoft_Azure_Compute/ProximityPlacementGroupComputeHub.svg) | Microsoft.Compute/ ProximityPlacementGroupsComputehub |
+| [Proximity placement group](svg/Microsoft_Azure_Compute/ProximityPlacementGroup.svg) | Microsoft.Compute/ ProximityPlacementGroups |
+| [Instance](svg/Microsoft_Azure_Compute/VirtualMachineFlexInstance.svg) | microsoft.compute/ virtualmachineflexinstances |
+| [Standby pool](svg/Microsoft_Azure_Compute/StandbyPoolInstance.svg) | microsoft.compute/ standbypoolinstance |
+| [Virtual machine scale set](svg/Microsoft_Azure_Compute/ComputeFleetScaleSet.svg) | microsoft.compute/ computefleetscalesets |
+| [Instance](svg/Microsoft_Azure_Compute/ComputeFleetInstance.svg) | microsoft.compute/ computefleetinstances |
+| [Host](svg/Microsoft_Azure_Compute/DedicatedHostComputeHub.svg) |  |
+| [Host](svg/Microsoft_Azure_Compute/DedicatedHost.svg) | Microsoft.Compute/ hostgroups/ hosts |
+| [Host group](svg/Microsoft_Azure_Compute/DedicatedHostGroupComputeHub.svg) | Microsoft.Compute/ hostgroupsComputehub |
+| [Host group](svg/Microsoft_Azure_Compute/DedicatedHostGroup.svg) | Microsoft.Compute/ hostgroups |
+| [Capacity Reservation Group](svg/Microsoft_Azure_Compute/CapacityReservationGroupComputeHub.svg) | Microsoft.Compute/ capacityReservationGroupsComputehub |
+| [Capacity Reservation Group](svg/Microsoft_Azure_Compute/CapacityReservationGroup.svg) | Microsoft.Compute/ capacityReservationGroups |
+| [Availability set](svg/Microsoft_Azure_Compute/AvailabilitySet.svg) | Microsoft.Compute/ availabilitySets |
 | [Recommendations](svg/Microsoft_Azure_ComputeHub/AdvisorCost.svg) | Microsoft.ComputeHub/ AdvisorCost |
 | [Recommendations](svg/Microsoft_Azure_ComputeHub/AdvisorOperationalExcellence.svg) | Microsoft.ComputeHub/ AdvisorOperationalExcellence |
 | [Recommendations](svg/Microsoft_Azure_ComputeHub/AdvisorPerformance.svg) | Microsoft.ComputeHub/ AdvisorPerformance |
@@ -817,8 +817,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Registered prefix](svg/Microsoft_Azure_Peering/RegisteredPrefix.svg) | Microsoft.Peering/ peerings/ registeredPrefixes |
 | [Microsoft Entra Privileged Identity Management](svg/Microsoft_Azure_PIMCommon/BrowsePIM.svg) |  |
 | [Playwright Testing](svg/Microsoft_Azure_PlaywrightService/PlaywrightService.svg) | Microsoft.AzurePlaywrightService/ accounts |
-| [Blueprint](svg/Microsoft_Azure_Policy/ArmBlueprintHub.svg) |  |
 | [Policy](svg/Microsoft_Azure_Policy/PolicyHub.svg) |  |
+| [Blueprint](svg/Microsoft_Azure_Policy/ArmBlueprintHub.svg) |  |
 | [Dashboard hub](svg/Microsoft_Azure_PortalDashboard/DashboardHub.svg) |  |
 | [Shared dashboard](svg/Microsoft_Azure_PortalDashboard/Dashboards.svg) | Microsoft.Portal/ dashboards |
 | [Shared dashboard (preview)](svg/Microsoft_Azure_PortalDashboard/DashboardsV2.svg) | Microsoft.Portalservices/ dashboards |
@@ -850,6 +850,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Speech service](svg/Microsoft_Azure_ProjectOxford/SpeechServices.svg) | Microsoft.CognitiveServices/ BrowseSpeechServices |
 | [Language](svg/Microsoft_Azure_ProjectOxford/TextAnalytics.svg) | Microsoft.CognitiveServices/ BrowseTextAnalytics |
 | [Translator](svg/Microsoft_Azure_ProjectOxford/TextTranslation.svg) | Microsoft.CognitiveServices/ BrowseTextTranslation |
+| [Project Sustainability Calculator (Preview)](svg/Microsoft_Azure_PSC/SustainabilityCalculations.svg) | Microsoft.SustainabilityServices/ calculations |
 | [Quantum Workspace](svg/Microsoft_Azure_Quantum/QuantumWorkspace.svg) | Microsoft.Quantum/ Workspaces |
 | [Azure Quantum](svg/Microsoft_Azure_Quantum/AzureQuantum.svg) |  |
 | [Intelligent Recommendations Account](svg/Microsoft_Azure_RecommendationsService/Account.svg) | Microsoft.RecommendationsService/ accounts |
@@ -891,7 +892,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Operation log (classic)](svg/Microsoft_Azure_Resources/OperationLog.svg) |  |
 | [Management group](svg/Microsoft_Azure_Resources/ManagementGroups.svg) |  |
 | [GitHub](svg/Microsoft_Azure_Resources/GitHub.svg) |  |
-| [Azure Data Boundary](svg/Microsoft_Azure_Resources/AzureDataBoundary.svg) |  |
+| [Azure Data Boundaries](svg/Microsoft_Azure_Resources/AzureDataBoundary.svg) |  |
 | [Deployment](svg/Microsoft_Azure_Resources/Deployment.svg) |  |
 | [Deployment stack](svg/Microsoft_Azure_Resources/StackManagementGroup.svg) | Microsoft.Management/ managementGroups/ Microsoft.Resources/ deploymentStacks |
 | [Deployment stack](svg/Microsoft_Azure_Resources/Stack.svg) | Microsoft.Resources/ deploymentStacks |
