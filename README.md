@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.287.0.131260.250108-2305 on 2025-02-09.
+Extracted from Azure Portal version 14.287.0.131260.250108-2305 on 2025-02-10.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -785,9 +785,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Global Secure Access](svg/Microsoft_Azure_Network_Access/NetworkAccess.svg) |  |
 | [Notification Hub Namespace](svg/Microsoft_Azure_NotificationHubs/Namespace.svg) | Microsoft.NotificationHubs/ namespaces |
 | [Notification Hub](svg/Microsoft_Azure_NotificationHubs/NotificationHub.svg) | Microsoft.NotificationHubs/ namespaces/ notificationHubs |
-| [My Resource](svg/Microsoft_Azure_OneInventory/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
-| [Change Analysis (preview)](svg/Microsoft_Azure_OneInventory/ResourceChange.svg) | Microsoft.Resources/ resourceChange |
 | [Resource Graph Visualizer](svg/Microsoft_Azure_OneInventory/ResourceGraphVisualizer.svg) | Microsoft.Resources/ resourceGraphVisualizer |
+| [Change Analysis (preview)](svg/Microsoft_Azure_OneInventory/ResourceChange.svg) | Microsoft.Resources/ resourceChange |
+| [My Resource](svg/Microsoft_Azure_OneInventory/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [OneMigrate](svg/Microsoft_Azure_OneMigrate/AzureOneMigrate.svg) |  |
 | [My Resource](svg/Microsoft_Azure_OnlineExperimentation/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Azure Data Manager for Energy](svg/Microsoft_Azure_OpenEnergyPlatform/OpenEnergyResource.svg) | Microsoft.OpenEnergyPlatform/ energyServices |
