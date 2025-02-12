@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.287.0.131260.250108-2305 on 2025-02-11.
+Extracted from Azure Portal version 15.94.1.115.94.0.14692.250204-1622 on 2025-02-12.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -243,7 +243,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Analysis Services](svg/Microsoft_Azure_AnalysisServices/AnalysisServices.svg) | Microsoft.AnalysisServices/ servers |
 | [Fabric Capacity](svg/Microsoft_Azure_Analytics/REDIDCILDCBJNGCP.svg) | Microsoft.Fabric/ capacities |
 | [Verifier Workspace](svg/Microsoft_Azure_ANMVerifier/verifierWorkspace.svg) | Microsoft.Network/ networkManagers/ verifierWorkspaces |
-| [Operator 5G Core](svg/Microsoft_Azure_AO5GC/HealthChecks.svg) |  |
 | [Attached Data Network](svg/Microsoft_Azure_AP5GC/MobileNetworkPacketCoreControlPlanesPacketCoreDataPlanesAttachedDataNetworks.svg) | Microsoft.MobileNetwork/ packetCoreControlPlanes/ packetCoreDataPlanes/ attachedDataNetworks |
 | [Packet Core Control Plane](svg/Microsoft_Azure_AP5GC/MobileNetworkPacketCoreControlPlanes.svg) | Microsoft.MobileNetwork/ packetCoreControlPlanes |
 | [Data Network](svg/Microsoft_Azure_AP5GC/MobileNetworkMobileNetworkDataNetworks.svg) | Microsoft.MobileNetwork/ mobileNetworks/ dataNetworks |
@@ -407,8 +406,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Database watcher](svg/Microsoft_Azure_DatabaseInsights/DatabaseWatcher.svg) | Microsoft.DatabaseWatcher/ watchers |
 | [Access Connector for Azure Databricks](svg/Microsoft_Azure_Databricks/AccessConnector.svg) | Microsoft.Databricks/ accessConnectors |
 | [Azure Databricks Service](svg/Microsoft_Azure_Databricks/Workspace.svg) | Microsoft.Databricks/ workspaces |
-| [Project CI](svg/Microsoft_Azure_DataCollaboration/DataCollaboration.svg) | Microsoft.DataCollaboration/ workspaces |
-| [Project CI Invitation](svg/Microsoft_Azure_DataCollaboration/InvitationsBrowse.svg) |  |
 | [Activity](svg/Microsoft_Azure_DataFactory/Activity.svg) |  |
 | [Table](svg/Microsoft_Azure_DataFactory/Table.svg) |  |
 | [Data factory](svg/Microsoft_Azure_DataFactory/DataFactory.svg) | Microsoft.DataFactory/ dataFactories |
@@ -423,8 +420,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Data Share](svg/Microsoft_Azure_DataShare/DataShare.svg) | Microsoft.DataShare/ accounts |
 | [Data Share Invitation](svg/Microsoft_Azure_DataShare/InvitationsBrowse.svg) |  |
 | [ClusterStor](svg/Microsoft_Azure_Dedicated_ClusterStor/ClusterStor.svg) | Microsoft.ClusterStor/ nodes |
-| [Cray Server](svg/Microsoft_Azure_Dedicated_Cray/CrayServer.svg) | Microsoft.BareMetal/ crayServers |
-| [Monitoring Server](svg/Microsoft_Azure_Dedicated_Monitoring/MonitoringServer.svg) | Microsoft.BareMetal/ monitoringServers |
 | [Security Detonation Chamber](svg/Microsoft_Azure_DetonationService/DetonationChamber.svg) | Microsoft.SecurityDetonation/ chambers |
 | [Project](svg/Microsoft_Azure_DevCenter/Project.svg) | Microsoft.DevCenter/ projects |
 | [Pool](svg/Microsoft_Azure_DevCenter/Pools.svg) | Microsoft.DevCenter/ projects/ pools |
@@ -654,7 +649,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Marketplace](svg/Microsoft_Azure_Marketplace/StoreGallery.svg) |  |
 | [Marketplace](svg/Microsoft_Azure_Marketplace/Gallery.svg) |  |
 | [Professional Service](svg/Microsoft_Azure_MarketplaceTransact/ProfessionalService.svg) | Microsoft.ProfessionalService/ resources |
-| [Media service](svg/Microsoft_Azure_Media/MediaServiceAccount.svg) | microsoft.media/ mediaservices |
 | [Migration project](svg/Microsoft_Azure_Migrate/MigrationProject.svg) | Microsoft.Migrate/ projects |
 | [Azure Migrate](svg/Microsoft_Azure_Migrate/AzureMigrationHub.svg) |  |
 | [Migrate Assessment](svg/Microsoft_Azure_MigrateAssessment/MigrateAssessmentResource.svg) | Providers.Test/ statefulIbizaEngines |
@@ -828,6 +822,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Shared dashboard (preview)](svg/Microsoft_Azure_PortalDashboard/DashboardsV2.svg) | Microsoft.Portalservices/ dashboards |
 | [Power BI Embedded](svg/Microsoft_Azure_PowerBIDedicated/PowerBIDedicated.svg) | Microsoft.PowerBIDedicated/ capacities |
 | [Power Platform](svg/Microsoft_Azure_PowerPlatform/PowerPlatform.svg) |  |
+| [Catalog](svg/Microsoft_Azure_PrivateAiForScience_Catalog/CatalogResource.svg) | Private.AiForScience/ catalogs |
 | [Private DNS zone](svg/Microsoft_Azure_PrivateDNS/PrivateDnsZone.svg) | Microsoft.Network/ privateDnsZones |
 | [APC Operator API Plan](svg/Microsoft_Azure_ProgrammableConnectivity/OperatorApiPlanResource.svg) | Microsoft.ProgrammableConnectivity/ operatorApiPlans |
 | [APC Operator API Connection](svg/Microsoft_Azure_ProgrammableConnectivity/OperatorApiConnectionResource.svg) | Microsoft.ProgrammableConnectivity/ operatorApiConnections |
