@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.94.1.115.94.0.14692.250204-1622 on 2025-02-12.
+Extracted from Azure Portal version 15.94.1.115.94.0.14692.250204-1622 on 2025-02-13.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -920,8 +920,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Service Bus Queue](svg/Microsoft_Azure_ServiceBus/ServiceBusQueue.svg) | Microsoft.ServiceBus/ namespaces/ queues |
 | [Service Bus Geo-DR Alias](svg/Microsoft_Azure_ServiceBus/ServiceBusDrConfig.svg) | Microsoft.ServiceBus/ namespaces/ disasterrecoveryconfigs |
 | [Service Bus Namespace](svg/Microsoft_Azure_ServiceBus/ServiceBus.svg) | Microsoft.ServiceBus/ namespaces |
-| [Service Fabric managed cluster](svg/Microsoft_Azure_ServiceFabric/ManagedServiceFabricCluster.svg) | Microsoft.ServiceFabric/ managedclusters |
 | [Service Fabric cluster](svg/Microsoft_Azure_ServiceFabric/ServiceFabricCluster.svg) | Microsoft.ServiceFabric/ clusters |
+| [Service Fabric managed cluster](svg/Microsoft_Azure_ServiceFabric/ManagedServiceFabricCluster.svg) | Microsoft.ServiceFabric/ managedclusters |
 | [Resource Provider as a Service](svg/Microsoft_Azure_ServiceHub/RPaaS_ResourceProvider.svg) | Microsoft.ProviderHub/ ProviderRegistrations |
 | [Resource Type](svg/Microsoft_Azure_ServiceHub/RPaaS_ResourceType.svg) | Microsoft.ProviderHub/ ProviderRegistrations/ ResourceTypeRegistrations |
 | [Resource Type](svg/Microsoft_Azure_ServiceHub/RPaaS_ResourceTypeNestedOne.svg) | Microsoft.ProviderHub/ ProviderRegistrations/ ResourceTypeRegistrations/ ResourceTypeRegistrations |
@@ -945,8 +945,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Storage Action](svg/Microsoft_Azure_StorageTasks/AzureStorageActions.svg) |  |
 | [Stream Analytics cluster](svg/Microsoft_Azure_StreamAnalytics/StreamAnalyticsCluster.svg) | Microsoft.StreamAnalytics/ clusters |
 | [Stream Analytics job](svg/Microsoft_Azure_StreamAnalytics/StreamAnalyticsJob.svg) | Microsoft.StreamAnalytics/ StreamingJobs |
-| [Help + support](svg/Microsoft_Azure_Support/HelpAndSupport.svg) |  |
 | [Support Request](svg/Microsoft_Azure_Support/SupportRequest.svg) | microsoft.support/ supporttickets |
+| [Help + support](svg/Microsoft_Azure_Support/HelpAndSupport.svg) |  |
 | [Surface Management Portal](svg/Microsoft_Azure_Surface/SurfaceDashboard.svg) |  |
 | [Carbon optimization](svg/Microsoft_Azure_Sustainability/Sustainability.svg) |  |
 | [Synapse private link hub](svg/Microsoft_Azure_Synapse/SynapsePrivateLinkHub.svg) | Microsoft.Synapse/ privateLinkHubs |
