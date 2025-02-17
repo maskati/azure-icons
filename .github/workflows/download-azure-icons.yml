@@ -35,10 +35,10 @@ jobs:
           # Image Library JSON
           $imagelibraryfile=($portalrequires.requireConfig.dependencyTree.psobject.properties|?{$_.value.psobject.properties.name -contains 'MsPortalImpl/Base/Base.ImageLibrary'}).name
           $imagelibraryjs=irm "https://portal.azure.com/$($imagelibraryfile).js"
-          $imagelibrary=([regex]'{type:(\d+),data:"(<svg[^"]+</svg>)"}').matches($imagelibraryjs)|select @{n='type';e={[int]($_.groups[1].value)}},@{n='svg';e={$_.groups[2].value}}
-          $svglibrary=$portalrequires.requireConfig.dependencyTree.psobject.properties|?{$_.value.psobject.properties.name -like '*.svg'}|select -exp name|sort-object -unique|%{([regex]'{type:(\d+),data:"(<svg[^"]+</svg>)"}').matches((irm "https://portal.azure.com/$($_).js"))|select @{n='type';e={[int]($_.groups[1].value)}},@{n='svg';e={$_.groups[2].value}}}
+          $imagelibrary=([regex]'e\.type=(\d+),e\.data="(<svg[^"]+</svg>)"').matches($imagelibraryjs)|select @{n='type';e={[int]($_.groups[1].value)}},@{n='svg';e={$_.groups[2].value}}
+          $svglibrary=$portalrequires.requireConfig.dependencyTree.psobject.properties|?{$_.value.psobject.properties.name -like '*.svg'}|select -exp name|sort-object -unique|%{([regex]'e\.type=(\d+),e\.data="(<svg[^"]+</svg>)"').matches((irm "https://portal.azure.com/$($_).js"))|select @{n='type';e={[int]($_.groups[1].value)}},@{n='svg';e={$_.groups[2].value}}}
           $iconlibrary=$imagelibrary+$svglibrary
-          $iconlibrary|convertto-json -depth 100|out-file icon-library.json
+          $iconlibrary|sort-object type|convertto-json -depth 100|out-file icon-library.json
           "Got total of $($iconlibrary.count) library icons" >> $env:GITHUB_STEP_SUMMARY
           # Icon Assets JSON
           $manifestindex=$portalconfig.portalServerConfig.supportedLanguages.IndexOf('en')
@@ -76,14 +76,38 @@ jobs:
               }else{
                 $svg='<svg viewBox="0 0 50 50" xmlns="http://www.w3.org/2000/svg"><text x="0" y="25" class="small">'+$firsticontype+'</text></svg>'
               }
-              $svg=$svg -replace "xmlns:svg='http://www.w3.org/2000/svg'","xmlns='http://www.w3.org/2000/svg'"
-              if($svg -match '^<svg([^>]*)>'){if(-not ($matches[1] -match "xmlns='http://www\.w3\.org/2000/svg'")){$svg=$svg -replace "<svg$($matches[1])>","<svg$($matches[1]) xmlns='http://www.w3.org/2000/svg'>"}}
-              $svg=$svg -replace '</svg>',"<style>$iconstyles</style></svg>"
-              $svg=$svg -replace '<title></title>',"<title>$([web.httputility]::htmlencode(($_.singularDisplayName -replace "`n",'')))</title><desc>$([web.httputility]::htmlencode(($_.description -replace "`n",' ')))</desc>"
-              [regex]::matches($svg,'url\(#(?<guid>[0-9a-fA-F-]{36})\)')|%{$i=0}{$svg=$svg -replace $_.groups['guid'].value,"definition-$($i++;$i)"}
+              $svgxml=[xml]$svg
+              $svgxmlns=$svgxml.documentelement.attributes|?{$_.prefix -eq 'xmlns' -and $_.value -eq 'http://www.w3.org/2000/svg'}
+              if($svgxmlns){
+                [void]$svgxml.documentelement.removeattributenode($svgxmlns)
+              }
+              $svgxml.documentelement.setattribute('xmlns','http://www.w3.org/2000/svg')
+              $desctext=[web.httputility]::htmlencode(($_.description -replace "`n",' '))
+              $descs=$svgxml.documentelement.getelementsbytagname('desc')
+              if($descs.count -gt 0){
+                $descs|%{$_.innertext=$desctext}
+              }else{
+                $svgxml.documentelement.prependchild($svgxml.createelement('desc')).innertext=$desctext
+              }
+              $titletext=[web.httputility]::htmlencode(($_.singularDisplayName -replace "`n",''))
+              $titles=$svgxml.documentelement.getelementsbytagname('title')
+              if($titles.count -gt 0){
+                $titles|%{$_.innertext=$titletext}
+              }else{
+                $svgxml.documentelement.prependchild($svgxml.createelement('title')).innertext=$titletext
+              }
+              $svgxml.documentelement.appendchild($svgxml.createelement('style')).innerxml=$iconstyles
+              $svgxml.selectnodes('//@*')|%{$i=0}{
+                if($_.value -match 'url\(#(?<guid>[0-9a-fA-F-]{36})\)'){
+                  $_.value="url(#definition-$($i++;$i))"
+                  $svgxml.selectnodes("//@id[.='$($matches['guid'])']")|%{
+                    $_.value="definition-$($i)"
+                  }
+                }
+              }
               [pscustomobject]@{
                 name="$($m)/$($_.name)"
-                svg=$svg
+                svg=$svgxml.outerxml
                 singularDisplayName=$_.singularDisplayName -replace "`n",''
                 pluralDisplayName=$_.pluralDisplayName -replace "`n",''
                 resourceType=$_.resourceType.resourceTypeName -replace "`n",''
@@ -107,7 +131,7 @@ jobs:
           $icondata=gc icon-data.json|convertfrom-json
           new-item -itemtype directory -name svg|out-null
           $iconstat=$icondata|%{$_.svg|new-item -path "svg/$($_.name).svg" -force}|measure-object -property length -sum
-          "Created $($iconstat.count) svg files with total size $([math]::round($iconstat.sum/1024/1024, 1))MB"
+          "Created $($iconstat.count) svg files with total size $([math]::round($iconstat.sum/1024/1024, 1))MB" >> $env:GITHUB_STEP_SUMMARY
       - name: Compose HTML
         shell: pwsh
         run: |
