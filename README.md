@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.94.1.115.94.0.14692.250204-1622 on 2025-02-17.
+Extracted from Azure Portal version 15.94.1.115.94.0.14692.250204-1622 on 2025-02-18.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -855,13 +855,13 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Intelligent Recommendations Account](svg/Microsoft_Azure_RecommendationsService/Account.svg) | Microsoft.RecommendationsService/ accounts |
 | [Modeling](svg/Microsoft_Azure_RecommendationsService/Modeling.svg) | Microsoft.RecommendationsService/ accounts/ modeling |
 | [Service Endpoint](svg/Microsoft_Azure_RecommendationsService/ServiceEndpoint.svg) | Microsoft.RecommendationsService/ accounts/ serviceEndpoints |
-| [Replication job](svg/Microsoft_Azure_RecoveryServices/ReplicationJobAsset.svg) |  |
-| [Recovery Services vault](svg/Microsoft_Azure_RecoveryServices/RecoveryServicesResource.svg) | Microsoft.RecoveryServices/ vaults |
-| [Recovery Services BVTD](svg/Microsoft_Azure_RecoveryServices/RecoveryServicesResourceBVTD.svg) | Microsoft.RecoveryServicesBVTD/ vaults |
-| [Recovery Services BVTD2](svg/Microsoft_Azure_RecoveryServices/RecoveryServicesResourceBVTD2.svg) | Microsoft.RecoveryServicesBVTD2/ vaults |
-| [Recovery Services INTD](svg/Microsoft_Azure_RecoveryServices/RecoveryServicesResourceINTD.svg) | Microsoft.RecoveryServicesINTD/ vaults |
-| [Recovery Services INTD2](svg/Microsoft_Azure_RecoveryServices/RecoveryServicesResourceINTD2.svg) | Microsoft.RecoveryServicesINTD2/ vaults |
 | [Backup Item](svg/Microsoft_Azure_RecoveryServices/BackupItem.svg) | Microsoft.RecoveryServices/ vaults/ backupFabrics/ protectionContainers/ protectedItems |
+| [Recovery Services INTD2](svg/Microsoft_Azure_RecoveryServices/RecoveryServicesResourceINTD2.svg) | Microsoft.RecoveryServicesINTD2/ vaults |
+| [Recovery Services INTD](svg/Microsoft_Azure_RecoveryServices/RecoveryServicesResourceINTD.svg) | Microsoft.RecoveryServicesINTD/ vaults |
+| [Recovery Services BVTD2](svg/Microsoft_Azure_RecoveryServices/RecoveryServicesResourceBVTD2.svg) | Microsoft.RecoveryServicesBVTD2/ vaults |
+| [Recovery Services BVTD](svg/Microsoft_Azure_RecoveryServices/RecoveryServicesResourceBVTD.svg) | Microsoft.RecoveryServicesBVTD/ vaults |
+| [Recovery Services vault](svg/Microsoft_Azure_RecoveryServices/RecoveryServicesResource.svg) | Microsoft.RecoveryServices/ vaults |
+| [Replication job](svg/Microsoft_Azure_RecoveryServices/ReplicationJobAsset.svg) |  |
 | [WCF Relay](svg/Microsoft_Azure_Relay/WcfRelay.svg) | Microsoft.Relay/ namespaces/ WcfRelays |
 | [Relay](svg/Microsoft_Azure_Relay/Relay.svg) | Microsoft.Relay/ namespaces |
 | [Hybrid Connection](svg/Microsoft_Azure_Relay/HybridConnection.svg) | Microsoft.Relay/ namespaces/ HybridConnections |
