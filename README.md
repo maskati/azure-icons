@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.94.1.115.94.0.14692.250204-1622 on 2025-02-19.
+Extracted from Azure Portal version 15.94.1.115.94.0.14692.250204-1622 on 2025-02-20.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -42,6 +42,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Cloud NGFW by Palo Alto Networks](svg/Azure_Marketplace_PaloAltoNetworks_Cloudngfw/PaloAltoNetworksCloudNGFW.svg) | PaloAltoNetworks.Cloudngfw/ firewalls |
 | [Global Rulestack](svg/Azure_Marketplace_PaloAltoNetworks_Cloudngfw/PaloAltoNetworksGlobalRulestack.svg) | PaloAltoNetworks.Cloudngfw/ globalRulestacks |
 | [Local Rulestack for Cloud NGFW by Palo Alto Networks](svg/Azure_Marketplace_PaloAltoNetworks_Cloudngfw/PaloAltoNetworksLocalRulestack.svg) | PaloAltoNetworks.Cloudngfw/ localRulestacks |
+| [Azure Pilot](svg/Azure_Marketplace_Pilot/Pilot.svg) | Microsoft.LiftrPilot/ organizations |
 | [PureStorage.Block storage pools avs storage container](svg/Azure_Marketplace_PureStorage/purestorage_block_storagepools_avsstoragecontainers.svg) | purestorage.block/ storagepools/ avsstoragecontainers |
 | [Azure Native Pure Storage Cloud Service](svg/Azure_Marketplace_PureStorage/purestorage_block_reservations.svg) | purestorage.block/ reservations |
 | [Storage pool](svg/Azure_Marketplace_PureStorage/purestorage_block_storagepools.svg) | purestorage.block/ storagepools |
@@ -606,7 +607,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Application Gateway for Containers](svg/Microsoft_Azure_HybridNetworking/AppGwForContainers.svg) | Microsoft.ServiceNetworking/ trafficControllers |
 | [Infrastructure as Code Automation](svg/Microsoft_Azure_IacAutomation/ArcIacAutomation.svg) | Microsoft.DevHub/ iacProfiles |
 | [My Resource](svg/Microsoft_Azure_IdentityGovernance/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
-| [My Resource](svg/Microsoft_Azure_IndustrySolutionCenter/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [IoT Central Application](svg/Microsoft_Azure_IoTCentral/IoTApps.svg) | Microsoft.IoTCentral/ IoTApps |
 | [Azure IoT Hub Device Provisioning Service (DPS)](svg/Microsoft_Azure_IotHub/DeviceProvisioning.svg) | Microsoft.Devices/ ProvisioningServices |
 | [IoT Hub](svg/Microsoft_Azure_IotHub/IotHubs.svg) | Microsoft.Devices/ IotHubs |
@@ -855,13 +855,13 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Intelligent Recommendations Account](svg/Microsoft_Azure_RecommendationsService/Account.svg) | Microsoft.RecommendationsService/ accounts |
 | [Modeling](svg/Microsoft_Azure_RecommendationsService/Modeling.svg) | Microsoft.RecommendationsService/ accounts/ modeling |
 | [Service Endpoint](svg/Microsoft_Azure_RecommendationsService/ServiceEndpoint.svg) | Microsoft.RecommendationsService/ accounts/ serviceEndpoints |
-| [Backup Item](svg/Microsoft_Azure_RecoveryServices/BackupItem.svg) | Microsoft.RecoveryServices/ vaults/ backupFabrics/ protectionContainers/ protectedItems |
-| [Recovery Services INTD2](svg/Microsoft_Azure_RecoveryServices/RecoveryServicesResourceINTD2.svg) | Microsoft.RecoveryServicesINTD2/ vaults |
-| [Recovery Services INTD](svg/Microsoft_Azure_RecoveryServices/RecoveryServicesResourceINTD.svg) | Microsoft.RecoveryServicesINTD/ vaults |
-| [Recovery Services BVTD2](svg/Microsoft_Azure_RecoveryServices/RecoveryServicesResourceBVTD2.svg) | Microsoft.RecoveryServicesBVTD2/ vaults |
-| [Recovery Services BVTD](svg/Microsoft_Azure_RecoveryServices/RecoveryServicesResourceBVTD.svg) | Microsoft.RecoveryServicesBVTD/ vaults |
-| [Recovery Services vault](svg/Microsoft_Azure_RecoveryServices/RecoveryServicesResource.svg) | Microsoft.RecoveryServices/ vaults |
 | [Replication job](svg/Microsoft_Azure_RecoveryServices/ReplicationJobAsset.svg) |  |
+| [Recovery Services vault](svg/Microsoft_Azure_RecoveryServices/RecoveryServicesResource.svg) | Microsoft.RecoveryServices/ vaults |
+| [Recovery Services BVTD](svg/Microsoft_Azure_RecoveryServices/RecoveryServicesResourceBVTD.svg) | Microsoft.RecoveryServicesBVTD/ vaults |
+| [Recovery Services BVTD2](svg/Microsoft_Azure_RecoveryServices/RecoveryServicesResourceBVTD2.svg) | Microsoft.RecoveryServicesBVTD2/ vaults |
+| [Recovery Services INTD](svg/Microsoft_Azure_RecoveryServices/RecoveryServicesResourceINTD.svg) | Microsoft.RecoveryServicesINTD/ vaults |
+| [Recovery Services INTD2](svg/Microsoft_Azure_RecoveryServices/RecoveryServicesResourceINTD2.svg) | Microsoft.RecoveryServicesINTD2/ vaults |
+| [Backup Item](svg/Microsoft_Azure_RecoveryServices/BackupItem.svg) | Microsoft.RecoveryServices/ vaults/ backupFabrics/ protectionContainers/ protectedItems |
 | [WCF Relay](svg/Microsoft_Azure_Relay/WcfRelay.svg) | Microsoft.Relay/ namespaces/ WcfRelays |
 | [Relay](svg/Microsoft_Azure_Relay/Relay.svg) | Microsoft.Relay/ namespaces |
 | [Hybrid Connection](svg/Microsoft_Azure_Relay/HybridConnection.svg) | Microsoft.Relay/ namespaces/ HybridConnections |
@@ -1007,6 +1007,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Host pool](svg/Microsoft_Azure_WVD/Hostpool.svg) | Microsoft.DesktopVirtualization/ HostPools |
 | [Application group](svg/Microsoft_Azure_WVD/ApplicationGroup.svg) | Microsoft.DesktopVirtualization/ ApplicationGroups |
 | [App attach package](svg/Microsoft_Azure_WVD/AppAttach.svg) | Microsoft.DesktopVirtualization/ appAttachPackages |
+| [My Resource](svg/Microsoft_Azure_ZeroTrustSegmentation/SegmentationManagers.svg) | Microsoft.ZeroTrustSegmentation/ segmentationManagers |
 | [Bing Resource](svg/Microsoft_Bing_Api/BingAPIAccount.svg) | Microsoft.Bing/ accounts |
 | [Health Model](svg/Microsoft_CloudHealth_HealthModels/AzureHealthModel.svg) | Microsoft.CloudHealth/ healthmodels |
 | [Remote Rendering Account](svg/Microsoft_Cognition_MixedReality/RemoteRenderingAccount.svg) | Microsoft.MixedReality/ remoteRenderingAccounts |
