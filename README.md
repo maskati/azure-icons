@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.94.1.115.94.0.14692.250204-1622 on 2025-02-21.
+Extracted from Azure Portal version 15.118.0.1016132058.250212-1352 on 2025-02-22.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -1011,7 +1011,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Bing Resource](svg/Microsoft_Bing_Api/BingAPIAccount.svg) | Microsoft.Bing/ accounts |
 | [Health Model](svg/Microsoft_CloudHealth_HealthModels/AzureHealthModel.svg) | Microsoft.CloudHealth/ healthmodels |
 | [Remote Rendering Account](svg/Microsoft_Cognition_MixedReality/RemoteRenderingAccount.svg) | Microsoft.MixedReality/ remoteRenderingAccounts |
-| [Connected Cache for Enterprise & Education (early preview)](svg/Microsoft_ConnectedCache_Ent/DoincResource.svg) | Microsoft.ConnectedCache/ enterpriseCustomers |
 | [Connected Cache for Enterprise & Education](svg/Microsoft_ConnectedCache_Enterprise/MccEnterpriseResource.svg) | Microsoft.ConnectedCache/ enterpriseMccCustomers |
 | [MCC CacheNode for Enterprise](svg/Microsoft_ConnectedCache_Enterprise/MccEnterpriseCacheNodeResource.svg) | Microsoft.ConnectedCache/ enterpriseMccCustomers/ enterpriseMccCacheNodes |
 | [Connected Cache for ISP](svg/Microsoft_ConnectedCache_ISP/MCCIspResource.svg) | Microsoft.ConnectedCache/ ispCustomers |
@@ -1062,7 +1061,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Solution](svg/Microsoft_OperationsManagementSuite_Workspace/Solution.svg) | Microsoft.OperationsManagement/ solutions |
 | [Log Analytics workspace](svg/Microsoft_OperationsManagementSuite_Workspace/Workspace.svg) | Microsoft.OperationalInsights/ workspaces |
 | [Log Analytics query pack](svg/Microsoft_OperationsManagementSuite_Workspace/QueryPack.svg) | Microsoft.OperationalInsights/ querypacks |
-| [Genomics account](svg/Microsoft_Research_Genomics/GenomicsAccountAsset.svg) | Microsoft.Genomics/ accounts |
 | [Microsoft Security Copilot compute capacity](svg/Microsoft_Security_Copilot/SecurityCopilotResource.svg) | Microsoft.SecurityCopilot/ capacities |
 | [Services Hub Connector](svg/Microsoft_ServicesHub_Extension/Connector.svg) | Microsoft.ServicesHub/ connectors |
 | [Azure AI Video Indexer](svg/Microsoft_VideoIndexer/VideoIndexerAccount.svg) | Microsoft.VideoIndexer/ accounts |
