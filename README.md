@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.118.0.1016132058.250212-1352 on 2025-02-22.
+Extracted from Azure Portal version 15.94.1.115.94.0.14692.250204-1622 on 2025-02-23.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -34,7 +34,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Commvault Cloud Account](svg/Azure_MarketPlace_NativeISVService/CommvaultCloudAccounts.svg) | Commvault.ContentStore/ cloudAccounts |
 | [Commvault Overview](svg/Azure_MarketPlace_NativeISVService/CommvaultOverview.svg) |  |
 | [Azure Native LambdaTest Cloud Service](svg/Azure_MarketPlace_NativeISVService/LambdaTest.svg) | LambdaTest.HyperExecute/ organizations |
-| [MongoDB Atlas - An Azure Native ISV Service](svg/Azure_MarketPlace_NativeISVService/MongoDB.svg) | MongoDB.Atlas/ organizations |
+| [MongoDB Atlas Organization](svg/Azure_MarketPlace_NativeISVService/MongoDB.svg) | MongoDB.Atlas/ organizations |
 | [Azure Native Pinecone Cloud Service](svg/Azure_MarketPlace_NativeISVService/Pinecone.svg) | Pinecone.VectorDb/ organizations |
 | [Azure Native WeightsAndBiases Cloud Service](svg/Azure_MarketPlace_NativeISVService/WeightsAndBiases.svg) | Microsoft.WeightsAndBiases/ instances |
 | [Neon Serverless Postgres Organization](svg/Azure_Marketplace_Neon/NeonResource.svg) | Neon.Postgres/ organizations |
@@ -490,7 +490,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Stack Edge / Data Box Gateway](svg/Microsoft_Azure_EdgeGateway/EdgeGateway.svg) | Microsoft.DataBoxEdge/ dataBoxEdgeDevices |
 | [My Resource](svg/Microsoft_Azure_EdgeManagementCopilot/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Azure Edge Hardware Center Address](svg/Microsoft_Azure_EdgeOrder/AllAddressResources.svg) | Microsoft.EdgeOrder/ addresses |
-| [Site Bootstrap Key](svg/Microsoft_Azure_EdgeOrder/AllBootstrapConfigurationResources.svg) | microsoft.edgeorder/ bootstrapConfigurations |
+| [Site Key](svg/Microsoft_Azure_EdgeOrder/AllBootstrapConfigurationResources.svg) | microsoft.edgeorder/ bootstrapConfigurations |
 | [Azure Edge Hardware Center](svg/Microsoft_Azure_EdgeOrder/AllOrderResources.svg) | Microsoft.EdgeOrder/ orderItems |
 | [Device](svg/Microsoft_Azure_EdgeOrder/AllZtpOrderItemResources.svg) | Microsoft.EdgeOrder/ virtual_orderItems |
 | [Azure Edge Hardware Center](svg/Microsoft_Azure_EdgeOrder/AzureEdgeDevice.svg) |  |
