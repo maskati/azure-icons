@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.94.1.115.94.0.14692.250204-1622 on 2025-02-23.
+Extracted from Azure Portal version 15.94.1.115.94.0.14692.250204-1622 on 2025-02-24.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -294,9 +294,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Custom domain](svg/Microsoft_Azure_Cdn/CustomDomain.svg) | microsoft.cdn/ profiles/ endpoints/ customdomains |
 | [Front Door and CDN profiles](svg/Microsoft_Azure_Cdn/CdnProfile.svg) | microsoft.cdn/ profiles |
 | [Change Analysis](svg/Microsoft_Azure_ChangeAnalysis/AzureChangeAnalysis.svg) |  |
-| [Chaos Experiment](svg/Microsoft_Azure_Chaos/chaosExperimentResource.svg) | microsoft.chaos/ experiments |
-| [Chaos Studio](svg/Microsoft_Azure_Chaos/chaosStudio.svg) |  |
 | [Agent Private Access](svg/Microsoft_Azure_Chaos/privateAccess.svg) | microsoft.chaos/ privateaccesses |
+| [Chaos Studio](svg/Microsoft_Azure_Chaos/chaosStudio.svg) |  |
+| [Chaos Experiment](svg/Microsoft_Azure_Chaos/chaosExperimentResource.svg) | microsoft.chaos/ experiments |
 | [Domain Name](svg/Microsoft_Azure_Classic_Compute/DomainName.svg) |  |
 | [Disk (classic)](svg/Microsoft_Azure_Classic_Compute/Disks.svg) | Microsoft.ClassicStorage/ storageAccounts/ disks |
 | [OS image (classic)](svg/Microsoft_Azure_Classic_Compute/OsUserImages.svg) | Microsoft.ClassicStorage/ storageAccounts/ osimages |
