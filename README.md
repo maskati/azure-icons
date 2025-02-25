@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.94.1.115.94.0.14692.250204-1622 on 2025-02-24.
+Extracted from Azure Portal version 15.118.0.1016132058.250212-1352 on 2025-02-25.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -800,7 +800,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [L2 Connection](svg/Microsoft_Azure_Orbital/L2Connections.svg) | Microsoft.Orbital/ l2Connections |
 | [Azure Orbital](svg/Microsoft_Azure_Orbital/AzureOrbital.svg) |  |
 | [Spacecraft](svg/Microsoft_Azure_Orbital/Spacecrafts.svg) | Microsoft.Orbital/ spacecrafts |
-| [Azure Database for PostgreSQL - Flexible Server](svg/Microsoft_Azure_OSSDatabases/PostgreSqlFlexibleServer.svg) | Microsoft.DBforPostgreSQL/ flexibleServers |
+| [Azure Database for PostgreSQL flexible server](svg/Microsoft_Azure_OSSDatabases/PostgreSqlFlexibleServer.svg) | Microsoft.DBforPostgreSQL/ flexibleServers |
 | [Azure Database for MySQL flexible server](svg/Microsoft_Azure_OSSDatabases/MySqlFlexibleServer.svg) | Microsoft.DBforMySQL/ flexibleServers |
 | [Task Hub](svg/Microsoft_Azure_PaasServerless/TaskHub.svg) | Microsoft.DurableTask/ Schedulers/ TaskHubs |
 | [My Resource](svg/Microsoft_Azure_PaasServerless/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
