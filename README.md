@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.118.0.1016132058.250212-1352 on 2025-02-26.
+Extracted from Azure Portal version 15.118.0.1016132058.250212-1352 on 2025-02-27.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -297,11 +297,11 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Agent Private Access](svg/Microsoft_Azure_Chaos/privateAccess.svg) | microsoft.chaos/ privateaccesses |
 | [Chaos Studio](svg/Microsoft_Azure_Chaos/chaosStudio.svg) |  |
 | [Chaos Experiment](svg/Microsoft_Azure_Chaos/chaosExperimentResource.svg) | microsoft.chaos/ experiments |
-| [Domain Name](svg/Microsoft_Azure_Classic_Compute/DomainName.svg) |  |
-| [Disk (classic)](svg/Microsoft_Azure_Classic_Compute/Disks.svg) | Microsoft.ClassicStorage/ storageAccounts/ disks |
-| [OS image (classic)](svg/Microsoft_Azure_Classic_Compute/OsUserImages.svg) | Microsoft.ClassicStorage/ storageAccounts/ osimages |
-| [VM image (classic)](svg/Microsoft_Azure_Classic_Compute/VmUserImages.svg) | Microsoft.ClassicStorage/ storageAccounts/ vmimages |
 | [Virtual machine (classic)](svg/Microsoft_Azure_Classic_Compute/VirtualMachine.svg) | Microsoft.ClassicCompute/ VirtualMachines |
+| [VM image (classic)](svg/Microsoft_Azure_Classic_Compute/VmUserImages.svg) | Microsoft.ClassicStorage/ storageAccounts/ vmimages |
+| [OS image (classic)](svg/Microsoft_Azure_Classic_Compute/OsUserImages.svg) | Microsoft.ClassicStorage/ storageAccounts/ osimages |
+| [Disk (classic)](svg/Microsoft_Azure_Classic_Compute/Disks.svg) | Microsoft.ClassicStorage/ storageAccounts/ disks |
+| [Domain Name](svg/Microsoft_Azure_Classic_Compute/DomainName.svg) |  |
 | [Transparency log](svg/Microsoft_Azure_CloudforSovereignty/TransparencyLogsAsset.svg) | microsoft.sovereign/ transparencylogs |
 | [Regulated Environment Management](svg/Microsoft_Azure_CloudforSovereignty/SovereigntyAsset.svg) |  |
 | [Landing Zone Registration](svg/Microsoft_Azure_CloudforSovereignty/LandingZoneRegistrationsAsset.svg) | microsoft.sovereign/ landingzoneregistrations |
@@ -476,10 +476,10 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [DNS private resolver](svg/Microsoft_Azure_DNSManagedResolver/DnsManagedResolver.svg) | Microsoft.Network/ dnsResolvers |
 | [DNS Domain List](svg/Microsoft_Azure_DnsSecurityPolicy/DnsDomainList.svg) | Microsoft.Network/ dnsResolverDomainLists |
 | [DNS Security Policy](svg/Microsoft_Azure_DnsSecurityPolicy/DnsSecurityPolicy.svg) | Microsoft.Network/ dnsResolverPolicies |
-| [Azure Cosmos DB account](svg/Microsoft_Azure_DocumentDB/DocumentDBDatabaseAccount.svg) | Microsoft.DocumentDb/ databaseAccounts |
-| [Azure Managed Instance for Apache Cassandra](svg/Microsoft_Azure_DocumentDB/DocumentDBCassandraClusters.svg) | Microsoft.DocumentDB/ cassandraClusters |
-| [Azure Cosmos DB for PostgreSQL Cluster](svg/Microsoft_Azure_DocumentDB/PostgreSqlServerGroupV2.svg) | Microsoft.DBforPostgreSQL/ serverGroupsv2 |
 | [Azure Cosmos DB for MongoDB (vCore)](svg/Microsoft_Azure_DocumentDB/MongoCluster.svg) | Microsoft.DocumentDB/ mongoClusters |
+| [Azure Cosmos DB for PostgreSQL Cluster](svg/Microsoft_Azure_DocumentDB/PostgreSqlServerGroupV2.svg) | Microsoft.DBforPostgreSQL/ serverGroupsv2 |
+| [Azure Managed Instance for Apache Cassandra](svg/Microsoft_Azure_DocumentDB/DocumentDBCassandraClusters.svg) | Microsoft.DocumentDB/ cassandraClusters |
+| [Azure Cosmos DB account](svg/Microsoft_Azure_DocumentDB/DocumentDBDatabaseAccount.svg) | Microsoft.DocumentDb/ databaseAccounts |
 | [Reporting & Analytics](svg/Microsoft_Azure_DocumentManagement/Microsoft_Azure_DocumentManagement.svg) |  |
 | [Microsoft Defender EASM](svg/Microsoft_Azure_EASM/EasmWorkspace.svg) | Microsoft.Easm/ workspaces |
 | [Microsoft Defender EASM (Preview)](svg/Microsoft_Azure_EASM/PrivateEasmWorkspace.svg) | Private.Easm/ workspaces |
