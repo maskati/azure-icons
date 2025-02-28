@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.118.0.1016132058.250212-1352 on 2025-02-27.
+Extracted from Azure Portal version 15.118.0.1016132058.250212-1352 on 2025-02-28.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -551,31 +551,31 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Healthcare agent service](svg/Microsoft_Azure_HealthBot/HealthBot.svg) | Microsoft.HealthBot/ healthBots |
 | [De-identification Service](svg/Microsoft_Azure_HealthDataDeidentification/DeidService.svg) | Microsoft.HealthDataAIServices/ DeidServices |
 | [Health Model (preview)](svg/Microsoft_Azure_HealthModels/AzureHealthModel.svg) | Microsoft.HealthModel/ healthmodels |
-| [Resource bridge](svg/Microsoft_Azure_HybridCompute/ResourceBridge.svg) | Microsoft.ResourceConnector/ Appliances |
-| [Azure Arc Kubernetes cluster](svg/Microsoft_Azure_HybridCompute/ArcK8Resources.svg) | Microsoft.Arc/ kubernetesResources |
-| [Kubernetes - Azure Arc](svg/Microsoft_Azure_HybridCompute/ConnectedClusters.svg) | Microsoft.Kubernetes/ connectedClusters |
-| [Kubernetes - Azure Arc extension](svg/Microsoft_Azure_HybridCompute/ConnectedClusterExtension.svg) | Microsoft.Kubernetes/ connectedClusters/ Microsoft.KubernetesConfiguration/ extensions |
-| [Kubernetes hybrid - Azure Arc](svg/Microsoft_Azure_HybridCompute/ProvisionedCluster.svg) | Microsoft.HybridContainerService/ provisionedClusters |
-| [Azure Arc virtual machine](svg/Microsoft_Azure_HybridCompute/ArcVirtualMachines.svg) | Microsoft.All/ arcVirtualMachines |
-| [Virtual machine](svg/Microsoft_Azure_HybridCompute/VirtualMachines.svg) | Microsoft.All/ virtualMachines |
-| [Azure Local virtual machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/AzureStackHci.svg) | Microsoft.AzureStackHci/ virtualMachines |
-| [Custom location](svg/Microsoft_Azure_HybridCompute/CustomLocation.svg) | Microsoft.ExtendedLocation/ CustomLocations |
-| [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/ArcServerWithWac.svg) | Microsoft.HybridCompute/ arcServerWithWac |
-| [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/HybridCompute.svg) | Microsoft.HybridCompute/ machines |
-| [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/HybridComputeSovereign.svg) | Microsoft.HybridCompute/ machinesSovereign |
-| [Microsoft.AwsConnector ec2 instance](svg/Microsoft_Azure_HybridCompute/microsoft_awsconnector_ec2instances_2024_08_01_preview.svg) | microsoft.hybridcompute/ machines/ microsoft.awsconnector/ ec2instances |
-| [Multicloud connector](svg/Microsoft_Azure_HybridCompute/MultiCloudConnector.svg) | Microsoft.HybridConnectivity/ publicCloudConnectors |
-| [Azure Arc Private Link Scope](svg/Microsoft_Azure_HybridCompute/AzureArcPrivateLinkScope.svg) | Microsoft.HybridCompute/ privateLinkScopes |
-| [SCVMM virtual machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/ArcVmScVmm.svg) | Microsoft.scvmm/ virtualMachines |
-| [SCVMM management server](svg/Microsoft_Azure_HybridCompute/ScVmmManagementServer.svg) | Microsoft.ScVmm/ vmmServers |
-| [Arc gateway](svg/Microsoft_Azure_HybridCompute/ArcGateway.svg) | Microsoft.HybridCompute/ gateways |
-| [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/HybridComputeEsu.svg) | Microsoft.HybridCompute/ machinesEsu |
-| [Extended Security Updates - Windows Server 2012/R2](svg/Microsoft_Azure_HybridCompute/EsuLicense.svg) | Microsoft.HybridCompute/ licenses |
-| [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/PayGoEligible.svg) | Microsoft.HybridCompute/ machinesPayGo |
-| [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/SoftwareAssurance.svg) | Microsoft.HybridCompute/ machinesSoftwareAssurance |
-| [VMware vCenter](svg/Microsoft_Azure_HybridCompute/VMwarevCenter.svg) | Microsoft.connectedVMwareVSphere/ vCenters |
-| [VMware + AVS virtual machine](svg/Microsoft_Azure_HybridCompute/VMwareVm.svg) | Microsoft.ConnectedVMwarevSphere/ VirtualMachines |
 | [VMware + AVS virtual machine](svg/Microsoft_Azure_HybridCompute/VMwareVmV2.svg) | Microsoft.HybridCompute/ Machines/ Microsoft.ConnectedVMwarevSphere/ virtualMachineInstances |
+| [VMware + AVS virtual machine](svg/Microsoft_Azure_HybridCompute/VMwareVm.svg) | Microsoft.ConnectedVMwarevSphere/ VirtualMachines |
+| [VMware vCenter](svg/Microsoft_Azure_HybridCompute/VMwarevCenter.svg) | Microsoft.connectedVMwareVSphere/ vCenters |
+| [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/SoftwareAssurance.svg) | Microsoft.HybridCompute/ machinesSoftwareAssurance |
+| [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/PayGoEligible.svg) | Microsoft.HybridCompute/ machinesPayGo |
+| [Extended Security Updates - Windows Server 2012/R2](svg/Microsoft_Azure_HybridCompute/EsuLicense.svg) | Microsoft.HybridCompute/ licenses |
+| [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/HybridComputeEsu.svg) | Microsoft.HybridCompute/ machinesEsu |
+| [Arc gateway](svg/Microsoft_Azure_HybridCompute/ArcGateway.svg) | Microsoft.HybridCompute/ gateways |
+| [SCVMM management server](svg/Microsoft_Azure_HybridCompute/ScVmmManagementServer.svg) | Microsoft.ScVmm/ vmmServers |
+| [SCVMM virtual machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/ArcVmScVmm.svg) | Microsoft.scvmm/ virtualMachines |
+| [Azure Arc Private Link Scope](svg/Microsoft_Azure_HybridCompute/AzureArcPrivateLinkScope.svg) | Microsoft.HybridCompute/ privateLinkScopes |
+| [Multicloud connector](svg/Microsoft_Azure_HybridCompute/MultiCloudConnector.svg) | Microsoft.HybridConnectivity/ publicCloudConnectors |
+| [Microsoft.AwsConnector ec2 instance](svg/Microsoft_Azure_HybridCompute/microsoft_awsconnector_ec2instances_2024_08_01_preview.svg) | microsoft.hybridcompute/ machines/ microsoft.awsconnector/ ec2instances |
+| [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/HybridComputeSovereign.svg) | Microsoft.HybridCompute/ machinesSovereign |
+| [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/HybridCompute.svg) | Microsoft.HybridCompute/ machines |
+| [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/ArcServerWithWac.svg) | Microsoft.HybridCompute/ arcServerWithWac |
+| [Custom location](svg/Microsoft_Azure_HybridCompute/CustomLocation.svg) | Microsoft.ExtendedLocation/ CustomLocations |
+| [Azure Local virtual machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/AzureStackHci.svg) | Microsoft.AzureStackHci/ virtualMachines |
+| [Virtual machine](svg/Microsoft_Azure_HybridCompute/VirtualMachines.svg) | Microsoft.All/ virtualMachines |
+| [Azure Arc virtual machine](svg/Microsoft_Azure_HybridCompute/ArcVirtualMachines.svg) | Microsoft.All/ arcVirtualMachines |
+| [Azure Arc Kubernetes cluster](svg/Microsoft_Azure_HybridCompute/ArcK8Resources.svg) | Microsoft.Arc/ kubernetesResources |
+| [Kubernetes hybrid - Azure Arc](svg/Microsoft_Azure_HybridCompute/ProvisionedCluster.svg) | Microsoft.HybridContainerService/ provisionedClusters |
+| [Kubernetes - Azure Arc extension](svg/Microsoft_Azure_HybridCompute/ConnectedClusterExtension.svg) | Microsoft.Kubernetes/ connectedClusters/ Microsoft.KubernetesConfiguration/ extensions |
+| [Kubernetes - Azure Arc](svg/Microsoft_Azure_HybridCompute/ConnectedClusters.svg) | Microsoft.Kubernetes/ connectedClusters |
+| [Resource bridge](svg/Microsoft_Azure_HybridCompute/ResourceBridge.svg) | Microsoft.ResourceConnector/ Appliances |
 | [Azure Arc data controller](svg/Microsoft_Azure_HybridData_Platform/DataController.svg) | Microsoft.AzureArcData/ dataControllers |
 | [PostgreSQL server – Azure Arc](svg/Microsoft_Azure_HybridData_Platform/PostgresInstance.svg) | Microsoft.AzureArcData/ postgresInstances |
 | [SQL managed instance - Azure Arc](svg/Microsoft_Azure_HybridData_Platform/SqlManagedInstance.svg) | Microsoft.AzureArcData/ sqlManagedInstances |
@@ -701,40 +701,40 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Volume](svg/Microsoft_Azure_NetApp/NfsVolume.svg) | Microsoft.NetApp/ netAppAccounts/ capacityPools/ Volumes |
 | [VolumeGroup](svg/Microsoft_Azure_NetApp/NfsVolumeGroup.svg) | Microsoft.NetApp/ netAppAccounts/ volumeGroups |
 | [User and group quota](svg/Microsoft_Azure_NetApp/NfsVolumeQuotaRule.svg) | Microsoft.NetApp/ netAppAccounts/ capacityPools/ volumes/ volumeQuotaRules |
-| [Application security group](svg/Microsoft_Azure_Network/ApplicationSecurityGroup.svg) | Microsoft.Network/ applicationSecurityGroups |
-| [Network security group (classic)](svg/Microsoft_Azure_Network/ClassicNetworkSecurityGroup.svg) | Microsoft.ClassicNetwork/ networkSecurityGroups |
-| [Virtual network (classic)](svg/Microsoft_Azure_Network/ClassicVirtualNetwork.svg) | Microsoft.ClassicNetwork/ virtualNetworks |
-| [Custom IP Prefix](svg/Microsoft_Azure_Network/CustomIpPrefix.svg) | Microsoft.Network/ customIpPrefixes |
-| [DDoS protection plan](svg/Microsoft_Azure_Network/DdosProtectionPlan.svg) | Microsoft.Network/ ddosProtectionPlans |
-| [DNS zone](svg/Microsoft_Azure_Network/DnsZone.svg) | Microsoft.Network/ dnsZones |
-| [Guest Assignment](svg/Microsoft_Azure_Network/GuestAssignment.svg) | Microsoft.Compute/ virtualMachines/ providers/ guestConfigurationAssignments |
-| [Guest Assignment](svg/Microsoft_Azure_Network/NonAzureGuestAssignment.svg) | Microsoft.HybridCompute/ machines/ providers/ guestConfigurationAssignments |
-| [Guest Assignment](svg/Microsoft_Azure_Network/VMSSGuestAssignment.svg) | Microsoft.Compute/ virtualMachineScaleSets/ providers/ guestConfigurationAssignments |
-| [Guest Assignment](svg/Microsoft_Azure_Network/VMWareGuestAssignment.svg) | Microsoft.ConnectedVMwarevSphere/ virtualMachines/ providers/ guestConfigurationAssignments |
-| [Load balancer](svg/Microsoft_Azure_Network/LoadBalancer.svg) | Microsoft.Network/ LoadBalancers |
-| [Load balancing and content delivery](svg/Microsoft_Azure_Network/LoadBalancerAndContentDelivery.svg) |  |
-| [Load balancing - help me choose](svg/Microsoft_Azure_Network/LoadBalancingHub.svg) |  |
-| [NAT gateway](svg/Microsoft_Azure_Network/NatGateway.svg) | Microsoft.Network/ natGateways |
-| [Network interface](svg/Microsoft_Azure_Network/NetworkInterface.svg) | Microsoft.Network/ networkinterfaces |
-| [Network security group](svg/Microsoft_Azure_Network/NetworkSecurityGroup.svg) | Microsoft.Network/ NetworkSecurityGroups |
-| [Network Watcher](svg/Microsoft_Azure_Network/NetworkWatcher.svg) |  |
-| [Network Watcher](svg/Microsoft_Azure_Network/NetworkWatcherResource.svg) | microsoft.network/ networkwatchers |
-| [Flow log](svg/Microsoft_Azure_Network/NSGFlowLog.svg) | microsoft.network/ networkwatchers/ flowlogs |
-| [Private endpoint](svg/Microsoft_Azure_Network/PrivateEndpoint.svg) | Microsoft.Network/ privateEndpoints |
-| [Application Gateway](svg/Microsoft_Azure_Network/PrivateLinkAssociations.svg) | Microsoft.Management/ managementGroups/ providers/ privateLinkAssociations |
-| [Private Link](svg/Microsoft_Azure_Network/PrivateLinkCenter.svg) |  |
-| [Private link service](svg/Microsoft_Azure_Network/PrivateLinkService.svg) | Microsoft.Network/ privateLinkServices |
-| [Public IP address](svg/Microsoft_Azure_Network/PublicIpAddress.svg) | Microsoft.Network/ PublicIpAddresses |
-| [Public IP Prefix](svg/Microsoft_Azure_Network/PublicIpPrefix.svg) | Microsoft.Network/ publicIpPrefixes |
-| [Reserved IP address (classic)](svg/Microsoft_Azure_Network/ReservedIpAddress.svg) | Microsoft.ClassicNetwork/ reservedIps |
-| [Resource management private link](svg/Microsoft_Azure_Network/ResourceManagementPrivateLink.svg) | Microsoft.Authorization/ resourceManagementPrivateLinks |
-| [Route table](svg/Microsoft_Azure_Network/RouteTable.svg) | Microsoft.Network/ routeTables |
-| [Service endpoint policy](svg/Microsoft_Azure_Network/ServiceEndpointPolicy.svg) | Microsoft.Network/ serviceEndpointPolicies |
-| [Virtual network](svg/Microsoft_Azure_Network/VirtualNetwork.svg) | Microsoft.Network/ virtualNetworks |
-| [Virtual network terminal access point](svg/Microsoft_Azure_Network/VirtualNetworkTAP.svg) | microsoft.network/ virtualnetworktaps |
-| [Application Gateway WAF policy](svg/Microsoft_Azure_Network/ApplicationGatewayWafPolicy.svg) | Microsoft.Network/ ApplicationGatewayWebApplicationFirewallPolicies |
-| [Content Delivery Network WAF policy](svg/Microsoft_Azure_Network/ContentDeliveryNetworkWafPolicy.svg) | Microsoft.Cdn/ CdnWebApplicationFirewallPolicies |
 | [Front Door WAF policy](svg/Microsoft_Azure_Network/FrontdoorWafPolicy.svg) | Microsoft.Network/ FrontDoorWebApplicationFirewallPolicies |
+| [Content Delivery Network WAF policy](svg/Microsoft_Azure_Network/ContentDeliveryNetworkWafPolicy.svg) | Microsoft.Cdn/ CdnWebApplicationFirewallPolicies |
+| [Application Gateway WAF policy](svg/Microsoft_Azure_Network/ApplicationGatewayWafPolicy.svg) | Microsoft.Network/ ApplicationGatewayWebApplicationFirewallPolicies |
+| [Virtual network terminal access point](svg/Microsoft_Azure_Network/VirtualNetworkTAP.svg) | microsoft.network/ virtualnetworktaps |
+| [Virtual network](svg/Microsoft_Azure_Network/VirtualNetwork.svg) | Microsoft.Network/ virtualNetworks |
+| [Service endpoint policy](svg/Microsoft_Azure_Network/ServiceEndpointPolicy.svg) | Microsoft.Network/ serviceEndpointPolicies |
+| [Route table](svg/Microsoft_Azure_Network/RouteTable.svg) | Microsoft.Network/ routeTables |
+| [Resource management private link](svg/Microsoft_Azure_Network/ResourceManagementPrivateLink.svg) | Microsoft.Authorization/ resourceManagementPrivateLinks |
+| [Reserved IP address (classic)](svg/Microsoft_Azure_Network/ReservedIpAddress.svg) | Microsoft.ClassicNetwork/ reservedIps |
+| [Public IP Prefix](svg/Microsoft_Azure_Network/PublicIpPrefix.svg) | Microsoft.Network/ publicIpPrefixes |
+| [Public IP address](svg/Microsoft_Azure_Network/PublicIpAddress.svg) | Microsoft.Network/ PublicIpAddresses |
+| [Private link service](svg/Microsoft_Azure_Network/PrivateLinkService.svg) | Microsoft.Network/ privateLinkServices |
+| [Private Link](svg/Microsoft_Azure_Network/PrivateLinkCenter.svg) |  |
+| [Application Gateway](svg/Microsoft_Azure_Network/PrivateLinkAssociations.svg) | Microsoft.Management/ managementGroups/ providers/ privateLinkAssociations |
+| [Private endpoint](svg/Microsoft_Azure_Network/PrivateEndpoint.svg) | Microsoft.Network/ privateEndpoints |
+| [Flow log](svg/Microsoft_Azure_Network/NSGFlowLog.svg) | microsoft.network/ networkwatchers/ flowlogs |
+| [Network Watcher](svg/Microsoft_Azure_Network/NetworkWatcherResource.svg) | microsoft.network/ networkwatchers |
+| [Network Watcher](svg/Microsoft_Azure_Network/NetworkWatcher.svg) |  |
+| [Network security group](svg/Microsoft_Azure_Network/NetworkSecurityGroup.svg) | Microsoft.Network/ NetworkSecurityGroups |
+| [Network interface](svg/Microsoft_Azure_Network/NetworkInterface.svg) | Microsoft.Network/ networkinterfaces |
+| [NAT gateway](svg/Microsoft_Azure_Network/NatGateway.svg) | Microsoft.Network/ natGateways |
+| [Load balancing - help me choose](svg/Microsoft_Azure_Network/LoadBalancingHub.svg) |  |
+| [Load balancing and content delivery](svg/Microsoft_Azure_Network/LoadBalancerAndContentDelivery.svg) |  |
+| [Load balancer](svg/Microsoft_Azure_Network/LoadBalancer.svg) | Microsoft.Network/ LoadBalancers |
+| [Guest Assignment](svg/Microsoft_Azure_Network/VMWareGuestAssignment.svg) | Microsoft.ConnectedVMwarevSphere/ virtualMachines/ providers/ guestConfigurationAssignments |
+| [Guest Assignment](svg/Microsoft_Azure_Network/VMSSGuestAssignment.svg) | Microsoft.Compute/ virtualMachineScaleSets/ providers/ guestConfigurationAssignments |
+| [Guest Assignment](svg/Microsoft_Azure_Network/NonAzureGuestAssignment.svg) | Microsoft.HybridCompute/ machines/ providers/ guestConfigurationAssignments |
+| [Guest Assignment](svg/Microsoft_Azure_Network/GuestAssignment.svg) | Microsoft.Compute/ virtualMachines/ providers/ guestConfigurationAssignments |
+| [DNS zone](svg/Microsoft_Azure_Network/DnsZone.svg) | Microsoft.Network/ dnsZones |
+| [DDoS protection plan](svg/Microsoft_Azure_Network/DdosProtectionPlan.svg) | Microsoft.Network/ ddosProtectionPlans |
+| [Custom IP Prefix](svg/Microsoft_Azure_Network/CustomIpPrefix.svg) | Microsoft.Network/ customIpPrefixes |
+| [Virtual network (classic)](svg/Microsoft_Azure_Network/ClassicVirtualNetwork.svg) | Microsoft.ClassicNetwork/ virtualNetworks |
+| [Network security group (classic)](svg/Microsoft_Azure_Network/ClassicNetworkSecurityGroup.svg) | Microsoft.ClassicNetwork/ networkSecurityGroups |
+| [Application security group](svg/Microsoft_Azure_Network/ApplicationSecurityGroup.svg) | Microsoft.Network/ applicationSecurityGroups |
 | [Volume (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/VolumeResource.svg) | Microsoft.NetworkCloud/ volumes |
 | [Virtual Machine Console (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/ConsoleResource.svg) | Microsoft.NetworkCloud/ virtualMachines/ consoles |
 | [Virtual Machine (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/VirtualMachineResource.svg) | Microsoft.NetworkCloud/ virtualMachines |
