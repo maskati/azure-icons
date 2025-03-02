@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.118.0.1016132058.250212-1352 on 2025-03-01.
+Extracted from Azure Portal version 15.118.0.1016132058.250212-1352 on 2025-03-02.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -49,6 +49,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Native Qumulo Scalable File Service](svg/Azure_Marketplace_Qumulo/MyResource.svg) | Qumulo.Storage/ fileSystems |
 | [Sample Partner Resource](svg/Azure_Marketplace_SamplePartner/MyResource.svg) | Microsoft.SamplePartner/ organizations |
 | [SolarWinds Observability](svg/Azure_Marketplace_SolarWindsObservability/SolarWinds.svg) | SolarWinds.Observability/ Organizations |
+| [Split Experimentation Workspace (preview)](svg/Azure_Marketplace_SplitIO/experimentationWorkspaces.svg) | SplitIO.Experimentation/ experimentationWorkspaces |
 | [Resource Explorer](svg/HubsExtension/ArmExplorer.svg) |  |
 | [Resource Graph query](svg/HubsExtension/ARGSharedQueries.svg) | Microsoft.resourcegraph/ queries |
 | [Resource](svg/HubsExtension/BrowseAllResources.svg) |  |
@@ -1032,24 +1033,24 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Apps](svg/Microsoft_Intune_DeviceSettings/AppsAsset.svg) |  |
 | [Intune for Education](svg/Microsoft_Intune_DeviceSettings/IntuneEduAsset.svg) |  |
 | [Microsoft Entra](svg/Microsoft_Intune_DeviceSettings/AADAsset.svg) |  |
-| [Alert](svg/Microsoft_Intune_Edu/Alerts.svg) |  |
-| [App](svg/Microsoft_Intune_Edu/Apps.svg) |  |
-| [Barcode scanner](svg/Microsoft_Intune_Edu/BarcodeScanner.svg) |  |
-| [Delegation](svg/Microsoft_Intune_Edu/Delegation.svg) |  |
-| [Devices](svg/Microsoft_Intune_Edu/DeviceSearch.svg) |  |
-| [Documentation](svg/Microsoft_Intune_Edu/Documentation.svg) |  |
-| [Enrollment manager](svg/Microsoft_Intune_Edu/EnrollmentAccounts.svg) |  |
-| [Intune](svg/Microsoft_Intune_Edu/FullIntune.svg) |  |
-| [Group](svg/Microsoft_Intune_Edu/Groups.svg) |  |
-| [Reports](svg/Microsoft_Intune_Edu/Reporting.svg) |  |
-| [School Data Sync](svg/Microsoft_Intune_Edu/SchoolDataSync.svg) |  |
-| [Service health](svg/Microsoft_Intune_Edu/ServiceHealthDashboard.svg) |  |
-| [Manage subscriptions](svg/Microsoft_Intune_Edu/Subscriptions.svg) |  |
-| [Help + support](svg/Microsoft_Intune_Edu/Support.svg) |  |
-| [Tenant setting](svg/Microsoft_Intune_Edu/TenantSettings.svg) |  |
-| [Term of Use](svg/Microsoft_Intune_Edu/TermsOfUse.svg) |  |
-| [Users](svg/Microsoft_Intune_Edu/UserSearch.svg) |  |
 | [Express configuration](svg/Microsoft_Intune_Edu/ExpressSetup.svg) |  |
+| [Users](svg/Microsoft_Intune_Edu/UserSearch.svg) |  |
+| [Term of Use](svg/Microsoft_Intune_Edu/TermsOfUse.svg) |  |
+| [Tenant setting](svg/Microsoft_Intune_Edu/TenantSettings.svg) |  |
+| [Help + support](svg/Microsoft_Intune_Edu/Support.svg) |  |
+| [Manage subscriptions](svg/Microsoft_Intune_Edu/Subscriptions.svg) |  |
+| [Service health](svg/Microsoft_Intune_Edu/ServiceHealthDashboard.svg) |  |
+| [School Data Sync](svg/Microsoft_Intune_Edu/SchoolDataSync.svg) |  |
+| [Reports](svg/Microsoft_Intune_Edu/Reporting.svg) |  |
+| [Group](svg/Microsoft_Intune_Edu/Groups.svg) |  |
+| [Intune](svg/Microsoft_Intune_Edu/FullIntune.svg) |  |
+| [Enrollment manager](svg/Microsoft_Intune_Edu/EnrollmentAccounts.svg) |  |
+| [Documentation](svg/Microsoft_Intune_Edu/Documentation.svg) |  |
+| [Devices](svg/Microsoft_Intune_Edu/DeviceSearch.svg) |  |
+| [Delegation](svg/Microsoft_Intune_Edu/Delegation.svg) |  |
+| [Barcode scanner](svg/Microsoft_Intune_Edu/BarcodeScanner.svg) |  |
+| [App](svg/Microsoft_Intune_Edu/Apps.svg) |  |
+| [Alert](svg/Microsoft_Intune_Edu/Alerts.svg) |  |
 | [Reports](svg/Microsoft_Intune_Enrollment/ReportsAsset.svg) |  |
 | [Security Baselines](svg/Microsoft_Intune_Workflows/SecurityBaselineAsset.svg) |  |
 | [Endpoint security](svg/Microsoft_Intune_Workflows/SecurityManagementAsset.svg) |  |
