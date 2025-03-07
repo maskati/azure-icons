@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.118.0.1016132058.250212-1352 on 2025-03-06.
+Extracted from Azure Portal version 15.118.0.1016132058.250212-1352 on 2025-03-07.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -534,7 +534,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Fairfield Gardens](svg/Microsoft_Azure_FairfieldGardens/fairfieldgardens.svg) | Microsoft.FairfieldGardens/ ProvisioningResources |
 | [Provisioning policy](svg/Microsoft_Azure_FairfieldGardens/provisioningpolicies.svg) | Microsoft.FairfieldGardens/ ProvisioningResources/ ProvisioningPolicies |
 | [File share](svg/Microsoft_Azure_FileShare/FileShares.svg) | Microsoft.FileShares/ fileshares |
-| [Microsoft Firmware Analysis](svg/Microsoft_Azure_FIST/FirmwareDefender.svg) | microsoft.iotfirmwaredefense/ workspaces |
+| [Firmware analysis workspace](svg/Microsoft_Azure_FIST/FirmwareAnalysisWorkspace.svg) | microsoft.iotfirmwaredefense/ workspaces |
+| [Firmware analysis](svg/Microsoft_Azure_FIST/FirmwareDefender.svg) |  |
 | [Fluid Relay](svg/Microsoft_Azure_FluidRelay/FrsResource.svg) | Microsoft.FluidRelay/ fluidRelayServers |
 | [Front Door and CDN profiles](svg/Microsoft_Azure_Frontdoor/AzureFrontdoor.svg) | Microsoft.Network/ frontdoors |
 | [Global view](svg/Microsoft_Azure_GlobalView/GlobalView.svg) |  |
@@ -1054,7 +1055,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Reports](svg/Microsoft_Intune_Enrollment/ReportsAsset.svg) |  |
 | [Security Baselines](svg/Microsoft_Intune_Workflows/SecurityBaselineAsset.svg) |  |
 | [Endpoint security](svg/Microsoft_Intune_Workflows/SecurityManagementAsset.svg) |  |
-| [Factory Operations Agent in Azure AI](svg/Microsoft_ManufacturingPlatform_DMM/DataManagerForManufacturing.svg) | Microsoft.ManufacturingPlatform/ ManufacturingDataServices |
+| [Factory Operations Agent in Azure AI Foundry](svg/Microsoft_ManufacturingPlatform_DMM/DataManagerForManufacturing.svg) | Microsoft.ManufacturingPlatform/ ManufacturingDataServices |
 | [My Resource](svg/Microsoft_Marketplace_SolutionFinder/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Skylarc](svg/Microsoft_OneFleet_DataHub/Skylark.svg) |  |
 | [Grip](svg/Microsoft_OneFleet_DataHub/Grip.svg) |  |
