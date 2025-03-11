@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.130.0.14373913.250227-1654 on 2025-03-10.
+Extracted from Azure Portal version 15.118.0.1016132058.250212-1352 on 2025-03-11.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -1057,7 +1057,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Reports](svg/Microsoft_Intune_Enrollment/ReportsAsset.svg) |  |
 | [Security Baselines](svg/Microsoft_Intune_Workflows/SecurityBaselineAsset.svg) |  |
 | [Endpoint security](svg/Microsoft_Intune_Workflows/SecurityManagementAsset.svg) |  |
-| [Factory Operations Agent in Azure AI Foundry](svg/Microsoft_ManufacturingPlatform_DMM/DataManagerForManufacturing.svg) | Microsoft.ManufacturingPlatform/ ManufacturingDataServices |
+| [Factory Operations Agent in Azure AI](svg/Microsoft_ManufacturingPlatform_DMM/DataManagerForManufacturing.svg) | Microsoft.ManufacturingPlatform/ ManufacturingDataServices |
 | [My Resource](svg/Microsoft_Marketplace_SolutionFinder/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Skylarc](svg/Microsoft_OneFleet_DataHub/Skylark.svg) |  |
 | [Grip](svg/Microsoft_OneFleet_DataHub/Grip.svg) |  |
