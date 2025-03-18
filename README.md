@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.130.1.115.130.0.118044.250312-0219 on 2025-03-17.
+Extracted from Azure Portal version 15.130.1.115.130.0.118044.250312-0219 on 2025-03-18.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -16,8 +16,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Workbook](svg/AppInsightsExtension/Workbooks.svg) | microsoft.insights/ workbooks |
 | [Azure Workbook Template](svg/AppInsightsExtension/WorkbookTemplates.svg) | microsoft.insights/ workbooktemplates |
 | [Azure Spring Apps](svg/AppPlatformExtension/AppPlatformAsset.svg) | Microsoft.AppPlatform/ Spring |
-| [Redis Enterprise database](svg/AzureCacheExtension/RedisEnterpriseDatabaseAsset.svg) | Microsoft.Cache/ RedisEnterprise/ Databases |
 | [Azure Cache for Redis](svg/AzureCacheExtension/CacheAsset.svg) | Microsoft.Cache/ Redis |
+| [Redis Enterprise database](svg/AzureCacheExtension/RedisEnterpriseDatabaseAsset.svg) | Microsoft.Cache/ RedisEnterprise/ Databases |
+| [Redis Enterprise cluster](svg/AzureCacheExtension/RedisEnterpriseAsset.svg) | Microsoft.Cache/ RedisEnterprise |
 | [Azure DevOps organization](svg/AzureTfsExtension/Account.svg) |  |
 | [Azure DevOps organization](svg/AzureTfsExtension/Organization.svg) | microsoft.visualstudio/ account |
 | [Astro Organization](svg/Azure_Marketplace_Astronomer/Astronomer.svg) | Astronomer.Astro/ organizations |
@@ -231,6 +232,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Local Storage path](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCIStoragePath.svg) | Microsoft.AzureStackHCI/ storagecontainers |
 | [Azure Local Virtual Machine - Azure Arc](svg/Microsoft_AzureStackHCI_PortalExtension/HCIVirtualMachines.svg) | Microsoft.All/ hciVirtualMachines |
 | [Edge Center](svg/Microsoft_AzureStackHCI_PortalExtension/EdgeCenter.svg) |  |
+| [Azure Local - disconnected operations](svg/Microsoft_AzureStackHCI_PortalExtension/Winfields.svg) | Microsoft.Edge/ disconnectedoperations |
 | [AszLabHardware Lab Server](svg/Microsoft_AzureStack_LabHardware/LabServers.svg) | private.aszlabhardware/ labservers |
 | [AszLabHardware Reservation](svg/Microsoft_AzureStack_LabHardware/Reservations.svg) | private.aszlabhardware/ reservations |
 | [AszLabHardware Server](svg/Microsoft_AzureStack_LabHardware/Servers.svg) | private.aszlabhardware/ servers |
@@ -498,7 +500,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Elastic SAN](svg/Microsoft_Azure_ElasticSan/ElasticSan.svg) | Microsoft.ElasticSan/ elasticsans |
 | [Logic app](svg/Microsoft_Azure_EMA/Workflow.svg) | Microsoft.Logic/ workflows |
 | [Managed Connector](svg/Microsoft_Azure_EMA/ManagedConnector.svg) | Microsoft.Logic/ integrationServiceEnvironments/ managedApis |
-| [Integration Service Environment](svg/Microsoft_Azure_EMA/IntegrationServiceEnvironment.svg) | Microsoft.Logic/ integrationServiceEnvironments |
 | [Integration account](svg/Microsoft_Azure_EMA/IntegrationAccount.svg) | Microsoft.Logic/ integrationAccounts |
 | [On-premises data gateway](svg/Microsoft_Azure_EMA/Gateway.svg) | Microsoft.Web/ connectionGateways |
 | [Logic apps custom connector](svg/Microsoft_Azure_EMA/CustomConnector.svg) | Microsoft.Web/ customApis |
@@ -1021,6 +1022,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [MCC CacheNode for Enterprise](svg/Microsoft_ConnectedCache_Enterprise/MccEnterpriseCacheNodeResource.svg) | Microsoft.ConnectedCache/ enterpriseMccCustomers/ enterpriseMccCacheNodes |
 | [Connected Cache for ISP](svg/Microsoft_ConnectedCache_ISP/MCCIspResource.svg) | Microsoft.ConnectedCache/ ispCustomers |
 | [Managed Desktop](svg/Microsoft_EMM_ModernWorkplace/MWaaS.svg) |  |
+| [My Resource](svg/Microsoft_Entra_IDX/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [FHIR service](svg/Microsoft_Healthcare_APIs/JupiterFhirService.svg) | Microsoft.HealthcareApis/ workspaces/ fhirservices |
 | [MedTech service](svg/Microsoft_Healthcare_APIs/IotConnector.svg) | Microsoft.HealthcareApis/ workspaces/ iotconnectors |
 | [Azure Health Data and AI Services](svg/Microsoft_Healthcare_APIs/HealthDataAIServices.svg) | Microsoft.Test/ healthDataAIServices |
