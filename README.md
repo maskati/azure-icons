@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.130.1.115.130.0.118044.250312-0219 on 2025-03-19.
+Extracted from Azure Portal version 15.130.1.115.130.0.118044.250312-0219 on 2025-03-20.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -628,8 +628,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Data Explorer pool (preview)](svg/Microsoft_Azure_Kusto/kustoSynapsePool.svg) | Microsoft.Synapse/ workspaces/ kustopools |
 | [Azure Data Explorer Database](svg/Microsoft_Azure_Kusto/KustoClusterDatabase.svg) | Microsoft.Kusto/ clusters/ databases |
 | [Azure Data Explorer Cluster](svg/Microsoft_Azure_Kusto/KustoCluster.svg) | Microsoft.Kusto/ clusters |
-| [Azure Maps Creator Resource](svg/Microsoft_Azure_LocationServices/Creator.svg) | Microsoft.Maps/ accounts/ creators |
 | [Azure Maps Account](svg/Microsoft_Azure_LocationServices/Maps.svg) | Microsoft.Maps/ accounts |
+| [Azure Maps Creator Resource](svg/Microsoft_Azure_LocationServices/Creator.svg) | Microsoft.Maps/ accounts/ creators |
 | [Customer Lockbox for Microsoft Azure](svg/Microsoft_Azure_Lockbox/AzureLockbox.svg) |  |
 | [Maintenance Configuration](svg/Microsoft_Azure_Maintenance/MaintenanceConfiguration.svg) | Microsoft.Maintenance/ maintenanceConfigurations |
 | [Azure Key Vault Managed HSM](svg/Microsoft_Azure_ManagedHSM/ManagedHSM.svg) | Microsoft.KeyVault/ managedHSMs |
