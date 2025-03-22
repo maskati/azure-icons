@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.130.1.115.130.0.118044.250312-0219 on 2025-03-21.
+Extracted from Azure Portal version 15.130.1.115.130.0.118044.250312-0219 on 2025-03-22.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -547,8 +547,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Invoice](svg/Microsoft_Azure_GTM/Invoice.svg) |  |
 | [Billing subscription](svg/Microsoft_Azure_GTM/BillingSubscriptions.svg) |  |
 | [Billing access control (IAM)](svg/Microsoft_Azure_GTM/AccessControl.svg) |  |
-| [Azure HDInsight on AKS cluster pool](svg/Microsoft_Azure_HDInsight/HDInsightClusterPool.svg) | Microsoft.HDInsight/ clusterpools |
-| [Azure HDInsight on AKS cluster](svg/Microsoft_Azure_HDInsight/HDInsightClusterGen2.svg) | Microsoft.HDInsight/ clusterpools/ clusters |
+| [Azure HDInsight on AKS cluster pool](svg/Microsoft_Azure_HDInsight/HDInsightClusterPool.svg) |  |
+| [Azure HDInsight on AKS cluster](svg/Microsoft_Azure_HDInsight/HDInsightClusterGen2.svg) |  |
 | [HDInsight cluster](svg/Microsoft_Azure_HDInsight/HDInsightCluster.svg) | Microsoft.HDInsight/ clusters |
 | [Service Health](svg/Microsoft_Azure_Health/AzureHealth.svg) |  |
 | [Healthcare agent service](svg/Microsoft_Azure_HealthBot/HealthBot.svg) | Microsoft.HealthBot/ healthBots |
@@ -595,6 +595,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Microsoft.Network/virtualHub](svg/Microsoft_Azure_HybridNetworking/VirtualRouter.svg) | Microsoft.Network/ virtualHubs |
 | [Virtual network gateway](svg/Microsoft_Azure_HybridNetworking/VirtualNetworkGateway.svg) | Microsoft.Network/ virtualNetworkGateways |
 | [Route filter](svg/Microsoft_Azure_HybridNetworking/RouteFilter.svg) | Microsoft.Network/ routeFilters |
+| [Network Security](svg/Microsoft_Azure_HybridNetworking/NetworkSecurity.svg) |  |
 | [Mesh VPN](svg/Microsoft_Azure_HybridNetworking/MeshVpn.svg) | Microsoft.NetworkFunction/ meshVpns |
 | [Local network gateway](svg/Microsoft_Azure_HybridNetworking/LocalNetworkGateway.svg) | Microsoft.Network/ localnetworkgateways |
 | [IP Group](svg/Microsoft_Azure_HybridNetworking/IpGroups.svg) | Microsoft.Network/ ipGroups |
@@ -948,6 +949,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Storage account (classic)](svg/Microsoft_Azure_Storage/ClassicStorageAccount.svg) | Microsoft.ClassicStorage/ StorageAccounts |
 | [HPC cache](svg/Microsoft_Azure_StorageCache/StorageCache.svg) | Microsoft.StorageCache/ caches |
 | [Azure Managed Lustre](svg/Microsoft_Azure_StorageCache/AmlFileSystems.svg) | Microsoft.StorageCache/ amlFilesystems |
+| [Storage Discovery workspace](svg/Microsoft_Azure_StorageDiscovery/StorageDiscovery.svg) | Microsoft.StorageDiscovery/ storageDiscoveryWorkspaces |
 | [Storage mover](svg/Microsoft_Azure_StorageMover/StorageMover.svg) | Microsoft.StorageMover/ storageMovers |
 | [Storage task - Azure Storage Actions](svg/Microsoft_Azure_StorageTasks/StorageTasks.svg) | Microsoft.StorageActions/ storageTasks |
 | [Azure Storage Action](svg/Microsoft_Azure_StorageTasks/AzureStorageActions.svg) |  |
@@ -1094,7 +1096,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Instance pool](svg/SqlAzureExtension/InstancePool.svg) | Microsoft.Sql/ instancePools |
 | [tier](svg/SqlAzureExtension/Tiers.svg) | Microsoft.DatabaseFleetManager/ fleets/ tiers |
 | [Fleetspaces](svg/SqlAzureExtension/Fleetspace.svg) | Microsoft.DatabaseFleetManager/ fleets/ fleetspaces |
-| [Fleet Managed Database](svg/SqlAzureExtension/FleetDatabase.svg) | Microsoft.DatabaseFleetManager/ fleets/ fleetspaces/ databases |
+| [Fleet managed database](svg/SqlAzureExtension/FleetDatabase.svg) | Microsoft.DatabaseFleetManager/ fleets/ fleetspaces/ databases |
 | [Database fleet manager](svg/SqlAzureExtension/DatabaseFleetManager.svg) | Microsoft.DatabaseFleetManager/ fleets |
 | [SQL elastic pool](svg/SqlAzureExtension/ElasticPool.svg) | Microsoft.Sql/ servers/ elasticpools |
 | [Elastic Job agent](svg/SqlAzureExtension/JobAgent.svg) | Microsoft.Sql/ servers/ jobAgents |
