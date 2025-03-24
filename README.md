@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.130.1.115.130.0.118044.250312-0219 on 2025-03-23.
+Extracted from Azure Portal version 15.130.1.115.130.0.118044.250312-0219 on 2025-03-24.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -487,7 +487,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Microsoft Defender EASM](svg/Microsoft_Azure_EASM/EasmWorkspace.svg) | Microsoft.Easm/ workspaces |
 | [Microsoft Defender EASM (Preview)](svg/Microsoft_Azure_EASM/PrivateEasmWorkspace.svg) | Private.Easm/ workspaces |
 | [Impact Reporting](svg/Microsoft_Azure_ECE/ImpactRP.svg) |  |
-| [Impact Reporting Connector](svg/Microsoft_Azure_ECE/microsoft_impact_connectors_2024_05_01_preview.svg) | microsoft.impact/ connectors |
+| [Impact Reporting Connector](svg/Microsoft_Azure_ECE/microsoft_impact_connectors_2025_01_01_preview.svg) | microsoft.impact/ connectors |
 | [Edge Action](svg/Microsoft_Azure_EdgeAction/EdgeAction.svg) | Microsoft.Cdn/ edgeactions |
 | [My Resource](svg/Microsoft_Azure_EdgeAIExtension/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Azure Stack Edge / Data Box Gateway](svg/Microsoft_Azure_EdgeGateway/EdgeGateway.svg) | Microsoft.DataBoxEdge/ dataBoxEdgeDevices |
@@ -620,10 +620,10 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Microsoft Defender for IoT](svg/Microsoft_Azure_IoT_Defender/IoTDefender.svg) |  |
 | [IP address pool](svg/Microsoft_Azure_IPAddressManager/IPAMPools.svg) | Microsoft.Network/ networkManagers/ ipamPools |
 | [Storage Sync Service](svg/Microsoft_Azure_Kailani/SyncServiceAsset.svg) | Microsoft.StorageSync/ storageSyncServices |
-| [Certificate](svg/Microsoft_Azure_KeyVault/Certificate.svg) |  |
-| [Key](svg/Microsoft_Azure_KeyVault/Key.svg) |  |
-| [Key vault](svg/Microsoft_Azure_KeyVault/KeyVault.svg) | Microsoft.KeyVault/ vaults |
 | [Secret](svg/Microsoft_Azure_KeyVault/Secret.svg) |  |
+| [Key vault](svg/Microsoft_Azure_KeyVault/KeyVault.svg) | Microsoft.KeyVault/ vaults |
+| [Key](svg/Microsoft_Azure_KeyVault/Key.svg) |  |
+| [Certificate](svg/Microsoft_Azure_KeyVault/Certificate.svg) |  |
 | [Kubernetes fleet manager](svg/Microsoft_Azure_KubernetesFleet/Fleets.svg) | microsoft.containerservice/ fleets |
 | [Data Explorer Database](svg/Microsoft_Azure_Kusto/kustoSynapsePoolDatabase.svg) | Microsoft.Synapse/ workspaces/ kustopools/ databases |
 | [Data Explorer pool (preview)](svg/Microsoft_Azure_Kusto/kustoSynapsePool.svg) | Microsoft.Synapse/ workspaces/ kustopools |
