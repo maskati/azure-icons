@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.130.1.115.130.0.118044.250312-0219 on 2025-03-26.
+Extracted from Azure Portal version 15.130.1.115.130.0.118044.250312-0219 on 2025-03-27.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -278,6 +278,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Change Tracking and Inventory](svg/Microsoft_Azure_Automation/ChangeTrackingCenter.svg) |  |
 | [Guest Assignment](svg/Microsoft_Azure_Automation/GuestAssignment.svg) | Microsoft.Compute/ virtualMachines/ providers/ guestConfigurationAssignments |
 | [Guest Assignment](svg/Microsoft_Azure_Automation/NonAzureGuestAssignment.svg) | Microsoft.HybridCompute/ machines/ providers/ guestConfigurationAssignments |
+| [Maintenance configuration (preview)](svg/Microsoft_Azure_Automation/MaintenanceConfigurationAUMasset.svg) | microsoft.maintenance/ maintenanceconfigurationsBladeResource |
 | [Azure Update Manager](svg/Microsoft_Azure_Automation/UpdateCenter.svg) |  |
 | [](svg/Microsoft_Azure_Automation/UpdateAgentTroubleshooting.svg) |  |
 | [App Configuration](svg/Microsoft_Azure_AzConfig/StoreResource.svg) | Microsoft.AppConfiguration/ configurationStores |
@@ -295,7 +296,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Endpoint](svg/Microsoft_Azure_Cdn/Endpoint.svg) | microsoft.cdn/ profiles/ endpoints |
 | [Custom domain](svg/Microsoft_Azure_Cdn/CustomDomain.svg) | microsoft.cdn/ profiles/ endpoints/ customdomains |
 | [Front Door and CDN profiles](svg/Microsoft_Azure_Cdn/CdnProfile.svg) | microsoft.cdn/ profiles |
-| [Change Analysis](svg/Microsoft_Azure_ChangeAnalysis/AzureChangeAnalysis.svg) |  |
+| [Change Analysis (classic)](svg/Microsoft_Azure_ChangeAnalysis/AzureChangeAnalysis.svg) |  |
 | [Agent Private Access](svg/Microsoft_Azure_Chaos/privateAccess.svg) | microsoft.chaos/ privateaccesses |
 | [Chaos Studio](svg/Microsoft_Azure_Chaos/chaosStudio.svg) |  |
 | [Chaos Experiment](svg/Microsoft_Azure_Chaos/chaosExperimentResource.svg) | microsoft.chaos/ experiments |
@@ -369,11 +370,11 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Confidential Ledger](svg/Microsoft_Azure_ConfidentialLedger/ConfidentialLedger.svg) | Microsoft.ConfidentialLedger/ ledgers |
 | [Managed CCF App](svg/Microsoft_Azure_ConfidentialLedger/ManagedCCF.svg) | Microsoft.ConfidentialLedger/ ManagedCCFs |
 | [Solution Manager](svg/Microsoft_Azure_ConfigManager/ConfigManager.svg) |  |
-| [Container registry](svg/Microsoft_Azure_ContainerRegistries/RegistryResource.svg) | Microsoft.ContainerRegistry/ registries |
-| [Container registry replication](svg/Microsoft_Azure_ContainerRegistries/ReplicationResource.svg) | Microsoft.ContainerRegistry/ registries/ replications |
-| [Container registry scope map](svg/Microsoft_Azure_ContainerRegistries/ScopeMapResource.svg) | Microsoft.ContainerRegistry/ registries/ scopeMaps |
-| [Container registry token](svg/Microsoft_Azure_ContainerRegistries/TokenResource.svg) | Microsoft.ContainerRegistry/ registries/ tokens |
 | [Container registry webhook](svg/Microsoft_Azure_ContainerRegistries/WebhookResource.svg) | Microsoft.ContainerRegistry/ registries/ webhooks |
+| [Container registry token](svg/Microsoft_Azure_ContainerRegistries/TokenResource.svg) | Microsoft.ContainerRegistry/ registries/ tokens |
+| [Container registry scope map](svg/Microsoft_Azure_ContainerRegistries/ScopeMapResource.svg) | Microsoft.ContainerRegistry/ registries/ scopeMaps |
+| [Container registry replication](svg/Microsoft_Azure_ContainerRegistries/ReplicationResource.svg) | Microsoft.ContainerRegistry/ registries/ replications |
+| [Container registry](svg/Microsoft_Azure_ContainerRegistries/RegistryResource.svg) | Microsoft.ContainerRegistry/ registries |
 | [GitOps configuration](svg/Microsoft_Azure_ContainerService/ManagedClustersGitOpsConfiguration.svg) | Microsoft.ContainerService/ managedClusters/ Microsoft.KubernetesConfiguration/ fluxConfigurations |
 | [GitOps configuration](svg/Microsoft_Azure_ContainerService/ConnectedClustersGitOpsConfiguration.svg) | Microsoft.Kubernetes/ connectedClusters/ Microsoft.KubernetesConfiguration/ fluxConfigurations |
 | [Kubernetes namespace](svg/Microsoft_Azure_ContainerService/ManagedClusterNamespaces.svg) | Microsoft.ContainerService/ managedClusters/ Microsoft.KubernetesConfiguration/ namespaces |
@@ -633,6 +634,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Maps Creator Resource](svg/Microsoft_Azure_LocationServices/Creator.svg) | Microsoft.Maps/ accounts/ creators |
 | [Customer Lockbox for Microsoft Azure](svg/Microsoft_Azure_Lockbox/AzureLockbox.svg) |  |
 | [Maintenance Configuration](svg/Microsoft_Azure_Maintenance/MaintenanceConfiguration.svg) | Microsoft.Maintenance/ maintenanceConfigurations |
+| [Automatic Action](svg/Microsoft_Azure_Maintenance/AutomaticAction.svg) | Microsoft.ComputeSchedule/ autoActions |
 | [Azure Key Vault Managed HSM](svg/Microsoft_Azure_ManagedHSM/ManagedHSM.svg) | Microsoft.KeyVault/ managedHSMs |
 | [Lab](svg/Microsoft_Azure_ManagedLab/Lab.svg) | Microsoft.LabServices/ labs |
 | [Lab account](svg/Microsoft_Azure_ManagedLab/LabAccount.svg) | Microsoft.LabServices/ labAccounts |
@@ -669,15 +671,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Machine Learning registry](svg/Microsoft_Azure_MLTeamAccounts/Registry.svg) | Microsoft.MachineLearningServices/ registries |
 | [Machine learning online endpoint](svg/Microsoft_Azure_MLTeamAccounts/OnlineEndpoint.svg) | Microsoft.MachineLearningServices/ workspaces/ onlineEndpoints |
 | [Machine learning online deployment](svg/Microsoft_Azure_MLTeamAccounts/OnlineEndpointDeployment.svg) | Microsoft.MachineLearningServices/ workspaces/ onlineEndpoints/ deployments |
-| [Chamber](svg/Microsoft_Azure_ModSimWorkbench/SdwChamberResource.svg) | Microsoft.ModSimWorkbench/ workbenches/ chambers |
-| [Chamber Data Pipeline File](svg/Microsoft_Azure_ModSimWorkbench/SdwChamberDataPipelineFileResource.svg) | Microsoft.ModSimWorkbench/ workbenches/ chambers/ files |
-| [Chamber Data Pipeline File Request](svg/Microsoft_Azure_ModSimWorkbench/SdwChamberDataPipelineFileRequestResource.svg) | Microsoft.ModSimWorkbench/ workbenches/ chambers/ fileRequests |
-| [Chamber License](svg/Microsoft_Azure_ModSimWorkbench/SdwChamberLicenseResource.svg) | Microsoft.ModSimWorkbench/ workbenches/ chambers/ licenses |
-| [Modeling and Simulation Workbench](svg/Microsoft_Azure_ModSimWorkbench/WorkbenchResource.svg) | Microsoft.ModSimWorkbench/ workbenches |
-| [Chamber Connector](svg/Microsoft_Azure_ModSimWorkbench/SdwChamberConnectorResource.svg) | Microsoft.ModSimWorkbench/ workbenches/ chambers/ connectors |
-| [Shared Storage](svg/Microsoft_Azure_ModSimWorkbench/SdwSharedStorageResource.svg) | Microsoft.ModSimWorkbench/ workbenches/ sharedStorages |
-| [Chamber Storage](svg/Microsoft_Azure_ModSimWorkbench/SdwChamberStorageResource.svg) | Microsoft.ModSimWorkbench/ workbenches/ chambers/ storages |
-| [Chamber VM](svg/Microsoft_Azure_ModSimWorkbench/SdwChamberWorkloadResource.svg) | Microsoft.ModSimWorkbench/ workbenches/ chambers/ workloads |
 | [Azure Monitor Dashboard](svg/Microsoft_Azure_MonitorDashboard/MonitorDashboard.svg) | Microsoft.Dashboard/ dashboards |
 | [Azure Monitor Dashboard (PrivateRP)](svg/Microsoft_Azure_MonitorDashboard/PrivateMonitorDashboard.svg) | Private.MonitorGrafana/ dashboards |
 | [Azure Monitor pipeline (preview)](svg/Microsoft_Azure_Monitoring/AzureEdgePipeline.svg) | Microsoft.monitor/ pipelineGroups |
