@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.130.3.115.130.0.193.250325-0151 on 2025-03-30.
+Extracted from Azure Portal version 15.130.3.115.130.0.193.250325-0151 on 2025-03-31.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -1060,10 +1060,10 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Skylarc](svg/Microsoft_OneFleet_DataHub/Skylark.svg) |  |
 | [Grip](svg/Microsoft_OneFleet_DataHub/Grip.svg) |  |
 | [AzPubSub](svg/Microsoft_OneFleet_DataHub/AzPubSub.svg) |  |
-| [Log Analytics dedicated cluster](svg/Microsoft_OperationsManagementSuite_Workspace/cluster.svg) | microsoft.operationalinsights/ clusters |
-| [Solution](svg/Microsoft_OperationsManagementSuite_Workspace/Solution.svg) | Microsoft.OperationsManagement/ solutions |
-| [Log Analytics workspace](svg/Microsoft_OperationsManagementSuite_Workspace/Workspace.svg) | Microsoft.OperationalInsights/ workspaces |
 | [Log Analytics query pack](svg/Microsoft_OperationsManagementSuite_Workspace/QueryPack.svg) | Microsoft.OperationalInsights/ querypacks |
+| [Log Analytics workspace](svg/Microsoft_OperationsManagementSuite_Workspace/Workspace.svg) | Microsoft.OperationalInsights/ workspaces |
+| [Solution](svg/Microsoft_OperationsManagementSuite_Workspace/Solution.svg) | Microsoft.OperationsManagement/ solutions |
+| [Log Analytics dedicated cluster](svg/Microsoft_OperationsManagementSuite_Workspace/cluster.svg) | microsoft.operationalinsights/ clusters |
 | [Microsoft Security Copilot compute capacity](svg/Microsoft_Security_Copilot/SecurityCopilotResource.svg) | Microsoft.SecurityCopilot/ capacities |
 | [Services Hub Connector](svg/Microsoft_ServicesHub_Extension/Connector.svg) | Microsoft.ServicesHub/ connectors |
 | [Azure AI Video Indexer](svg/Microsoft_VideoIndexer/VideoIndexerAccount.svg) | Microsoft.VideoIndexer/ accounts |
