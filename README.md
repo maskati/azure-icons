@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.130.3.115.130.0.193.250325-0151 on 2025-03-31.
+Extracted from Azure Portal version 15.130.1.115.130.0.118044.250312-0219 on 2025-04-01.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -635,11 +635,11 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Customer Lockbox for Microsoft Azure](svg/Microsoft_Azure_Lockbox/AzureLockbox.svg) |  |
 | [Maintenance Configuration](svg/Microsoft_Azure_Maintenance/MaintenanceConfiguration.svg) | Microsoft.Maintenance/ maintenanceConfigurations |
 | [Azure Key Vault Managed HSM](svg/Microsoft_Azure_ManagedHSM/ManagedHSM.svg) | Microsoft.KeyVault/ managedHSMs |
-| [Lab](svg/Microsoft_Azure_ManagedLab/Lab.svg) | Microsoft.LabServices/ labs |
-| [Lab account](svg/Microsoft_Azure_ManagedLab/LabAccount.svg) | Microsoft.LabServices/ labAccounts |
-| [Lab plan](svg/Microsoft_Azure_ManagedLab/LabPlan.svg) | Microsoft.LabServices/ labPlans |
-| [Azure Lab Services](svg/Microsoft_Azure_ManagedLab/LabServices.svg) |  |
 | [Lab](svg/Microsoft_Azure_ManagedLab/LegacyLab.svg) | Microsoft.LabServices/ labAccounts/ labs |
+| [Azure Lab Services](svg/Microsoft_Azure_ManagedLab/LabServices.svg) |  |
+| [Lab plan](svg/Microsoft_Azure_ManagedLab/LabPlan.svg) | Microsoft.LabServices/ labPlans |
+| [Lab account](svg/Microsoft_Azure_ManagedLab/LabAccount.svg) | Microsoft.LabServices/ labAccounts |
+| [Lab](svg/Microsoft_Azure_ManagedLab/Lab.svg) | Microsoft.LabServices/ labs |
 | [Virtual Network Manager](svg/Microsoft_Azure_ManagedNetwork/VirtualNetworkManager.svg) |  |
 | [Network manager](svg/Microsoft_Azure_ManagedNetwork/UserDefinedRoutingConfiguration.svg) | Microsoft.Network/ networkManagers/ routingConfigurations |
 | [Network manager](svg/Microsoft_Azure_ManagedNetwork/SecurityUserConfigurationOverview.svg) | Microsoft.Network/ networkManagers/ securityUserConfigurations |
