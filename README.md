@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.130.5.115.130.0.11225.250328-2253 on 2025-04-04.
+Extracted from Azure Portal version 15.130.7.115.130.0.192711.250401-2001 on 2025-04-05.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -822,6 +822,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Microsoft Purview account](svg/Microsoft_Azure_ProjectBabylon/PurviewAccountResource.svg) | Microsoft.Purview/ Accounts |
 | [Azure AI services](svg/Microsoft_Azure_ProjectOxford/AIServices.svg) | Microsoft.CognitiveServices/ BrowseAIServices |
 | [Azure AI services multi-service account](svg/Microsoft_Azure_ProjectOxford/AllInOne.svg) | Microsoft.CognitiveServices/ BrowseAllInOne |
+| [All Resources](svg/Microsoft_Azure_ProjectOxford/AllServices.svg) | Microsoft.CognitiveServices/ BrowseAllServices |
 | [Anomaly detector](svg/Microsoft_Azure_ProjectOxford/AnomalyDetector.svg) | Microsoft.CognitiveServices/ BrowseAnomalyDetector |
 | [Azure AI services](svg/Microsoft_Azure_ProjectOxford/CognitiveServicesAccount.svg) | Microsoft.CognitiveServices/ accounts |
 | [Computer vision](svg/Microsoft_Azure_ProjectOxford/ComputerVision.svg) | Microsoft.CognitiveServices/ BrowseComputerVision |
