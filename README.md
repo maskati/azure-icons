@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.165.0.1 on 2025-04-10.
+Extracted from Azure Portal version 15.165.0.1 on 2025-04-11.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -285,10 +285,10 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Compute Fleet](svg/Microsoft_Azure_AzFleet/AzureFleet.svg) | microsoft.azurefleet/ fleets |
 | [Batch account](svg/Microsoft_Azure_Batch/BatchAccount.svg) | Microsoft.Batch/ batchAccounts |
 | [Business Continuity Center](svg/Microsoft_Azure_BCDRCenter/ABCCenter.svg) |  |
-| [Subscription](svg/Microsoft_Azure_Billing/Subscription.svg) | microsoft.resources/ subscriptions |
-| [Subscription](svg/Microsoft_Azure_Billing/SubscriptionDetail.svg) |  |
-| [Cost Management + Billing](svg/Microsoft_Azure_Billing/Billing.svg) |  |
 | [Free service](svg/Microsoft_Azure_Billing/FreeServices.svg) |  |
+| [Cost Management + Billing](svg/Microsoft_Azure_Billing/Billing.svg) |  |
+| [Subscription](svg/Microsoft_Azure_Billing/SubscriptionDetail.svg) |  |
+| [Subscription](svg/Microsoft_Azure_Billing/Subscription.svg) | microsoft.resources/ subscriptions |
 | [Bot Service](svg/Microsoft_Azure_BotService/BotService.svg) | Microsoft.BotService/ botServices |
 | [Quotas](svg/Microsoft_Azure_Capacity/QuotaMenu.svg) |  |
 | [Origin](svg/Microsoft_Azure_Cdn/Origin.svg) | microsoft.cdn/ profiles/ endpoints/ origins |
@@ -402,9 +402,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Flow](svg/Microsoft_Azure_CtsExtension/CloudTransferFlow.svg) | Microsoft.AzureDataTransfer/ Connections/ Flows |
 | [Connection](svg/Microsoft_Azure_CtsExtension/CloudTransferConnection.svg) | Microsoft.AzureDataTransfer/ Connections |
 | [Azure Data Transfer](svg/Microsoft_Azure_CtsExtension/CloudTransferService.svg) |  |
-| [Azure Lighthouse](svg/Microsoft_Azure_CustomerHub/Lighthouse.svg) | Microsoft.ManagedServices/ registrationDefinitions |
-| [My customers](svg/Microsoft_Azure_CustomerHub/MyCustomers.svg) |  |
 | [Service providers](svg/Microsoft_Azure_CustomerHub/ServiceProviders.svg) |  |
+| [My customers](svg/Microsoft_Azure_CustomerHub/MyCustomers.svg) |  |
+| [Azure Lighthouse](svg/Microsoft_Azure_CustomerHub/Lighthouse.svg) | Microsoft.ManagedServices/ registrationDefinitions |
 | [Azure Managed Grafana](svg/Microsoft_Azure_Dashboard/AzureDashboardGrafanaResource.svg) | Microsoft.Dashboard/ grafana |
 | [Database watcher](svg/Microsoft_Azure_DatabaseInsights/DatabaseWatcher.svg) | Microsoft.DatabaseWatcher/ watchers |
 | [Access Connector for Azure Databricks](svg/Microsoft_Azure_Databricks/AccessConnector.svg) | Microsoft.Databricks/ accessConnectors |
@@ -796,7 +796,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Database for PostgreSQL flexible server](svg/Microsoft_Azure_OSSDatabases/PostgreSqlFlexibleServer.svg) | Microsoft.DBforPostgreSQL/ flexibleServers |
 | [Azure Database for MySQL flexible server](svg/Microsoft_Azure_OSSDatabases/MySqlFlexibleServer.svg) | Microsoft.DBforMySQL/ flexibleServers |
 | [Task Hub](svg/Microsoft_Azure_PaasServerless/TaskHub.svg) | Microsoft.DurableTask/ Schedulers/ TaskHubs |
-| [My Resource](svg/Microsoft_Azure_PaasServerless/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Integration Environment](svg/Microsoft_Azure_PaasServerless/IntegrationSpace.svg) | Microsoft.IntegrationSpaces/ spaces |
 | [Durable Task Scheduler](svg/Microsoft_Azure_PaasServerless/DurableTaskScheduler.svg) | Microsoft.DurableTask/ Schedulers |
 | [Business Process](svg/Microsoft_Azure_PaasServerless/BusinessProcessTracking.svg) | Microsoft.Logic/ businessprocesses |
@@ -866,6 +865,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Reservation](svg/Microsoft_Azure_Reservations/ReservationAsset.svg) | Microsoft.Capacity/ reservationorders/ reservations |
 | [Savings plan](svg/Microsoft_Azure_Reservations/SavingsPlanItemAsset.svg) | Microsoft.Billing/ billingAccounts/ savingsPlanOrders/ savingsPlans |
 | [Savings plan](svg/Microsoft_Azure_Reservations/SavingsPlanItemServiceAdminAsset.svg) | Microsoft.BillingBenefits/ savingsPlanOrders/ savingsPlans |
+| [Discount](svg/Microsoft_Azure_Reservations/DiscountBrowseAsset.svg) | Microsoft.BillingBenefits/ discounts |
 | [Microsoft Azure Consumption Commitment](svg/Microsoft_Azure_Reservations/MaccBrowseAsset.svg) | Microsoft.BillingBenefits/ maccs |
 | [Milestone](svg/Microsoft_Azure_Reservations/MilestoneBillingAdminAsset.svg) | Microsoft.Billing/ billingAccounts/ incentiveSchedules/ milestones |
 | [Milestone](svg/Microsoft_Azure_Reservations/MilestoneServiceAdminAsset.svg) | Microsoft.BillingBenefits/ incentiveSchedules/ milestones |
@@ -876,6 +876,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Resource Mover](svg/Microsoft_Azure_ResourceMove/AzureResourceMoveHub.svg) |  |
 | [What's new](svg/Microsoft_Azure_Resources/WhatsNew.svg) |  |
 | [User privacy](svg/Microsoft_Azure_Resources/UserPrivacy.svg) |  |
+| [Connected Resource](svg/Microsoft_Azure_Resources/ServiceGroupRelationships.svg) | microsoft.relationships/ serviceGroupRelationships |
 | [Service group member relationship](svg/Microsoft_Azure_Resources/ServiceGroupMembersRelationships.svg) | microsoft.relationships/ servicegroupmember |
 | [Dependency Relationship](svg/Microsoft_Azure_Resources/DependencyRelationships.svg) | microsoft.relationships/ dependencyOf |
 | [Subscription](svg/Microsoft_Azure_Resources/ResExtVirtualSubscriptions.svg) | microsoft.resources/ virtualsubscriptionsforresourcepicker |
