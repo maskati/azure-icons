@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.165.0.1 on 2025-04-12.
+Extracted from Azure Portal version 15.165.0.1 on 2025-04-13.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -34,7 +34,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Native WeightsAndBiases Cloud Service](svg/Azure_MarketPlace_NativeISVService/WeightsAndBiases.svg) | Microsoft.WeightsAndBiases/ instances |
 | [Azure Native Pinecone Cloud Service](svg/Azure_MarketPlace_NativeISVService/Pinecone.svg) | Pinecone.VectorDb/ organizations |
 | [MongoDB Atlas Organization](svg/Azure_MarketPlace_NativeISVService/MongoDB.svg) | MongoDB.Atlas/ organizations |
-| [Azure Native LambdaTest Cloud Service](svg/Azure_MarketPlace_NativeISVService/LambdaTest.svg) | LambdaTest.HyperExecute/ organizations |
+| [Azure Native LambdaTest - HyperExecute Cloud Service](svg/Azure_MarketPlace_NativeISVService/LambdaTest.svg) | LambdaTest.HyperExecute/ organizations |
 | [Commvault Overview](svg/Azure_MarketPlace_NativeISVService/CommvaultOverview.svg) |  |
 | [Commvault Cloud Account](svg/Azure_MarketPlace_NativeISVService/CommvaultCloudAccounts.svg) | Commvault.ContentStore/ cloudAccounts |
 | [Azure Native Arize AI Cloud Service](svg/Azure_MarketPlace_NativeISVService/ArizeAi.svg) | ArizeAi.ObservabilityEval/ organizations |
@@ -285,10 +285,10 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Compute Fleet](svg/Microsoft_Azure_AzFleet/AzureFleet.svg) | microsoft.azurefleet/ fleets |
 | [Batch account](svg/Microsoft_Azure_Batch/BatchAccount.svg) | Microsoft.Batch/ batchAccounts |
 | [Business Continuity Center](svg/Microsoft_Azure_BCDRCenter/ABCCenter.svg) |  |
-| [Subscription](svg/Microsoft_Azure_Billing/Subscription.svg) | microsoft.resources/ subscriptions |
-| [Subscription](svg/Microsoft_Azure_Billing/SubscriptionDetail.svg) |  |
-| [Cost Management + Billing](svg/Microsoft_Azure_Billing/Billing.svg) |  |
 | [Free service](svg/Microsoft_Azure_Billing/FreeServices.svg) |  |
+| [Cost Management + Billing](svg/Microsoft_Azure_Billing/Billing.svg) |  |
+| [Subscription](svg/Microsoft_Azure_Billing/SubscriptionDetail.svg) |  |
+| [Subscription](svg/Microsoft_Azure_Billing/Subscription.svg) | microsoft.resources/ subscriptions |
 | [Bot Service](svg/Microsoft_Azure_BotService/BotService.svg) | Microsoft.BotService/ botServices |
 | [Quotas](svg/Microsoft_Azure_Capacity/QuotaMenu.svg) |  |
 | [Origin](svg/Microsoft_Azure_Cdn/Origin.svg) | microsoft.cdn/ profiles/ endpoints/ origins |
@@ -876,6 +876,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Resource Mover](svg/Microsoft_Azure_ResourceMove/AzureResourceMoveHub.svg) |  |
 | [What's new](svg/Microsoft_Azure_Resources/WhatsNew.svg) |  |
 | [User privacy](svg/Microsoft_Azure_Resources/UserPrivacy.svg) |  |
+| [Connected Resource](svg/Microsoft_Azure_Resources/ServiceGroupRelationships.svg) | microsoft.relationships/ serviceGroupRelationships |
 | [Service group member relationship](svg/Microsoft_Azure_Resources/ServiceGroupMembersRelationships.svg) | microsoft.relationships/ servicegroupmember |
 | [Dependency Relationship](svg/Microsoft_Azure_Resources/DependencyRelationships.svg) | microsoft.relationships/ dependencyOf |
 | [Subscription](svg/Microsoft_Azure_Resources/ResExtVirtualSubscriptions.svg) | microsoft.resources/ virtualsubscriptionsforresourcepicker |
