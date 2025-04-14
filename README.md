@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.165.0.1 on 2025-04-13.
+Extracted from Azure Portal version 15.165.0.1 on 2025-04-14.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -866,6 +866,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Reservation](svg/Microsoft_Azure_Reservations/ReservationAsset.svg) | Microsoft.Capacity/ reservationorders/ reservations |
 | [Savings plan](svg/Microsoft_Azure_Reservations/SavingsPlanItemAsset.svg) | Microsoft.Billing/ billingAccounts/ savingsPlanOrders/ savingsPlans |
 | [Savings plan](svg/Microsoft_Azure_Reservations/SavingsPlanItemServiceAdminAsset.svg) | Microsoft.BillingBenefits/ savingsPlanOrders/ savingsPlans |
+| [Discount](svg/Microsoft_Azure_Reservations/DiscountBrowseAsset.svg) | Microsoft.BillingBenefits/ discounts |
 | [Microsoft Azure Consumption Commitment](svg/Microsoft_Azure_Reservations/MaccBrowseAsset.svg) | Microsoft.BillingBenefits/ maccs |
 | [Milestone](svg/Microsoft_Azure_Reservations/MilestoneBillingAdminAsset.svg) | Microsoft.Billing/ billingAccounts/ incentiveSchedules/ milestones |
 | [Milestone](svg/Microsoft_Azure_Reservations/MilestoneServiceAdminAsset.svg) | Microsoft.BillingBenefits/ incentiveSchedules/ milestones |
