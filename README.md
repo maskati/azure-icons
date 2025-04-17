@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.173.0.1 on 2025-04-16.
+Extracted from Azure Portal version 15.173.0.1 on 2025-04-17.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -402,9 +402,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Flow](svg/Microsoft_Azure_CtsExtension/CloudTransferFlow.svg) | Microsoft.AzureDataTransfer/ Connections/ Flows |
 | [Connection](svg/Microsoft_Azure_CtsExtension/CloudTransferConnection.svg) | Microsoft.AzureDataTransfer/ Connections |
 | [Azure Data Transfer](svg/Microsoft_Azure_CtsExtension/CloudTransferService.svg) |  |
-| [Azure Lighthouse](svg/Microsoft_Azure_CustomerHub/Lighthouse.svg) | Microsoft.ManagedServices/ registrationDefinitions |
-| [My customers](svg/Microsoft_Azure_CustomerHub/MyCustomers.svg) |  |
 | [Service providers](svg/Microsoft_Azure_CustomerHub/ServiceProviders.svg) |  |
+| [My customers](svg/Microsoft_Azure_CustomerHub/MyCustomers.svg) |  |
+| [Azure Lighthouse](svg/Microsoft_Azure_CustomerHub/Lighthouse.svg) | Microsoft.ManagedServices/ registrationDefinitions |
 | [Azure Managed Grafana](svg/Microsoft_Azure_Dashboard/AzureDashboardGrafanaResource.svg) | Microsoft.Dashboard/ grafana |
 | [Database watcher](svg/Microsoft_Azure_DatabaseInsights/DatabaseWatcher.svg) | Microsoft.DatabaseWatcher/ watchers |
 | [Access Connector for Azure Databricks](svg/Microsoft_Azure_Databricks/AccessConnector.svg) | Microsoft.Databricks/ accessConnectors |
@@ -599,6 +599,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Mesh VPN](svg/Microsoft_Azure_HybridNetworking/MeshVpn.svg) | Microsoft.NetworkFunction/ meshVpns |
 | [Local network gateway](svg/Microsoft_Azure_HybridNetworking/LocalNetworkGateway.svg) | Microsoft.Network/ localnetworkgateways |
 | [IP Group](svg/Microsoft_Azure_HybridNetworking/IpGroups.svg) | Microsoft.Network/ ipGroups |
+| [Hybrid connectivity](svg/Microsoft_Azure_HybridNetworking/HybridConnectivityHub.svg) |  |
 | [Firewall Policy](svg/Microsoft_Azure_HybridNetworking/FirewallPolicy.svg) | Microsoft.Network/ firewallPolicies |
 | [Firewall Manager](svg/Microsoft_Azure_HybridNetworking/FirewallManager.svg) |  |
 | [ExpressRoute traffic collector](svg/Microsoft_Azure_HybridNetworking/ExpressRouteTrafficCollector.svg) | Microsoft.NetworkFunction/ azureTrafficCollectors |
@@ -796,7 +797,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Database for PostgreSQL flexible server](svg/Microsoft_Azure_OSSDatabases/PostgreSqlFlexibleServer.svg) | Microsoft.DBforPostgreSQL/ flexibleServers |
 | [Azure Database for MySQL flexible server](svg/Microsoft_Azure_OSSDatabases/MySqlFlexibleServer.svg) | Microsoft.DBforMySQL/ flexibleServers |
 | [Task Hub](svg/Microsoft_Azure_PaasServerless/TaskHub.svg) | Microsoft.DurableTask/ Schedulers/ TaskHubs |
-| [My Resource](svg/Microsoft_Azure_PaasServerless/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Integration Environment](svg/Microsoft_Azure_PaasServerless/IntegrationSpace.svg) | Microsoft.IntegrationSpaces/ spaces |
 | [Durable Task Scheduler](svg/Microsoft_Azure_PaasServerless/DurableTaskScheduler.svg) | Microsoft.DurableTask/ Schedulers |
 | [Business Process](svg/Microsoft_Azure_PaasServerless/BusinessProcessTracking.svg) | Microsoft.Logic/ businessprocesses |
@@ -1050,8 +1050,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [App](svg/Microsoft_Intune_Edu/Apps.svg) |  |
 | [Alert](svg/Microsoft_Intune_Edu/Alerts.svg) |  |
 | [Reports](svg/Microsoft_Intune_Enrollment/ReportsAsset.svg) |  |
-| [Security Baselines](svg/Microsoft_Intune_Workflows/SecurityBaselineAsset.svg) |  |
 | [Endpoint security](svg/Microsoft_Intune_Workflows/SecurityManagementAsset.svg) |  |
+| [Security Baselines](svg/Microsoft_Intune_Workflows/SecurityBaselineAsset.svg) |  |
 | [Factory Operations Agent in Azure AI Foundry](svg/Microsoft_ManufacturingPlatform_DMM/DataManagerForManufacturing.svg) | Microsoft.ManufacturingPlatform/ ManufacturingDataServices |
 | [My Resource](svg/Microsoft_Marketplace_SolutionFinder/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Skylarc](svg/Microsoft_OneFleet_DataHub/Skylark.svg) |  |
