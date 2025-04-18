@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.173.0.1 on 2025-04-17.
+Extracted from Azure Portal version 15.173.0.1 on 2025-04-18.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -313,8 +313,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Landing Zone Configuration](svg/Microsoft_Azure_CloudforSovereignty/LZConfigurationsAsset.svg) | microsoft.sovereign/ landingzoneaccounts/ landingzoneconfigurations |
 | [Azure Cloud HSM](svg/Microsoft_Azure_CloudHSM/CloudHSM.svg) | Microsoft.HardwareSecurityModules/ cloudHsmClusters |
 | [Azure Load Testing](svg/Microsoft_Azure_CloudNativeTesting/CloudNativeTesting.svg) | Microsoft.LoadTestService/ LoadTests |
-| [Cloud service (classic)](svg/Microsoft_Azure_CloudServices/CloudService.svg) | microsoft.classicCompute/ domainNames |
 | [Cloud service role (classic)](svg/Microsoft_Azure_CloudServices/Role.svg) | microsoft.classiccompute/ domainnames/ slots/ roles |
+| [Cloud service (classic)](svg/Microsoft_Azure_CloudServices/CloudService.svg) | microsoft.classicCompute/ domainNames |
 | [Cloud service (extended support)](svg/Microsoft_Azure_CloudServices_Arm/CloudServicesArm.svg) | Microsoft.Compute/ cloudServices |
 | [1ES](svg/Microsoft_Azure_CloudTest/CloudTest.svg) |  |
 | [CloudTest Account](svg/Microsoft_Azure_CloudTest/CloudTestAccounts.svg) | Microsoft.CloudTest/ accounts |
@@ -369,11 +369,11 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Confidential Ledger](svg/Microsoft_Azure_ConfidentialLedger/ConfidentialLedger.svg) | Microsoft.ConfidentialLedger/ ledgers |
 | [Managed CCF App](svg/Microsoft_Azure_ConfidentialLedger/ManagedCCF.svg) | Microsoft.ConfidentialLedger/ ManagedCCFs |
 | [Solution Manager](svg/Microsoft_Azure_ConfigManager/ConfigManager.svg) |  |
-| [Container registry](svg/Microsoft_Azure_ContainerRegistries/RegistryResource.svg) | Microsoft.ContainerRegistry/ registries |
-| [Container registry replication](svg/Microsoft_Azure_ContainerRegistries/ReplicationResource.svg) | Microsoft.ContainerRegistry/ registries/ replications |
-| [Container registry scope map](svg/Microsoft_Azure_ContainerRegistries/ScopeMapResource.svg) | Microsoft.ContainerRegistry/ registries/ scopeMaps |
-| [Container registry token](svg/Microsoft_Azure_ContainerRegistries/TokenResource.svg) | Microsoft.ContainerRegistry/ registries/ tokens |
 | [Container registry webhook](svg/Microsoft_Azure_ContainerRegistries/WebhookResource.svg) | Microsoft.ContainerRegistry/ registries/ webhooks |
+| [Container registry token](svg/Microsoft_Azure_ContainerRegistries/TokenResource.svg) | Microsoft.ContainerRegistry/ registries/ tokens |
+| [Container registry scope map](svg/Microsoft_Azure_ContainerRegistries/ScopeMapResource.svg) | Microsoft.ContainerRegistry/ registries/ scopeMaps |
+| [Container registry replication](svg/Microsoft_Azure_ContainerRegistries/ReplicationResource.svg) | Microsoft.ContainerRegistry/ registries/ replications |
+| [Container registry](svg/Microsoft_Azure_ContainerRegistries/RegistryResource.svg) | Microsoft.ContainerRegistry/ registries |
 | [GitOps configuration](svg/Microsoft_Azure_ContainerService/ManagedClustersGitOpsConfiguration.svg) | Microsoft.ContainerService/ managedClusters/ Microsoft.KubernetesConfiguration/ fluxConfigurations |
 | [GitOps configuration](svg/Microsoft_Azure_ContainerService/ConnectedClustersGitOpsConfiguration.svg) | Microsoft.Kubernetes/ connectedClusters/ Microsoft.KubernetesConfiguration/ fluxConfigurations |
 | [Kubernetes namespace](svg/Microsoft_Azure_ContainerService/ManagedClusterNamespaces.svg) | Microsoft.ContainerService/ managedClusters/ Microsoft.KubernetesConfiguration/ namespaces |
