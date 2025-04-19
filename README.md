@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.173.0.1 on 2025-04-18.
+Extracted from Azure Portal version 15.173.0.1 on 2025-04-19.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -420,8 +420,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Resource Guard](svg/Microsoft_Azure_DataProtection/ResourceGuardResource.svg) | Microsoft.DataProtection/ resourceGuards |
 | [Backup vault](svg/Microsoft_Azure_DataProtection/DataProtectionResource.svg) | Microsoft.DataProtection/ BackupVaults |
 | [Backup center](svg/Microsoft_Azure_DataProtection/BackupCenter.svg) |  |
-| [Data Share](svg/Microsoft_Azure_DataShare/DataShare.svg) | Microsoft.DataShare/ accounts |
 | [Data Share Invitation](svg/Microsoft_Azure_DataShare/InvitationsBrowse.svg) |  |
+| [Data Share](svg/Microsoft_Azure_DataShare/DataShare.svg) | Microsoft.DataShare/ accounts |
 | [ClusterStor](svg/Microsoft_Azure_Dedicated_ClusterStor/ClusterStor.svg) | Microsoft.ClusterStor/ nodes |
 | [Security Detonation Chamber](svg/Microsoft_Azure_DetonationService/DetonationChamber.svg) | Microsoft.SecurityDetonation/ chambers |
 | [Project](svg/Microsoft_Azure_DevCenter/Project.svg) | Microsoft.DevCenter/ projects |
