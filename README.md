@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.173.0.1 on 2025-04-19.
+Extracted from Azure Portal version 15.173.0.1 on 2025-04-20.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -476,8 +476,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [DNS zone](svg/Microsoft_Azure_DNS/DnsZone.svg) | Microsoft.Network/ dnsZones |
 | [DNS forwarding ruleset](svg/Microsoft_Azure_DNSManagedResolver/DnsForwardingRulesets.svg) | Microsoft.Network/ dnsForwardingRulesets |
 | [DNS private resolver](svg/Microsoft_Azure_DNSManagedResolver/DnsManagedResolver.svg) | Microsoft.Network/ dnsResolvers |
-| [DNS Domain List](svg/Microsoft_Azure_DnsSecurityPolicy/DnsDomainList.svg) | Microsoft.Network/ dnsResolverDomainLists |
 | [DNS Security Policy](svg/Microsoft_Azure_DnsSecurityPolicy/DnsSecurityPolicy.svg) | Microsoft.Network/ dnsResolverPolicies |
+| [DNS Domain List](svg/Microsoft_Azure_DnsSecurityPolicy/DnsDomainList.svg) | Microsoft.Network/ dnsResolverDomainLists |
 | [Azure Cosmos DB for MongoDB (vCore)](svg/Microsoft_Azure_DocumentDB/MongoCluster.svg) | Microsoft.DocumentDB/ mongoClusters |
 | [Azure Cosmos DB for PostgreSQL Cluster](svg/Microsoft_Azure_DocumentDB/PostgreSqlServerGroupV2.svg) | Microsoft.DBforPostgreSQL/ serverGroupsv2 |
 | [Azure Managed Instance for Apache Cassandra](svg/Microsoft_Azure_DocumentDB/DocumentDBCassandraClusters.svg) | Microsoft.DocumentDB/ cassandraClusters |
