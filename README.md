@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.190.0.1 on 2025-04-23.
+Extracted from Azure Portal version 15.190.0.1 on 2025-04-24.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -10,11 +10,11 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 
 | Icon | Type |
 | --- | --- |
-| [Application Insights](svg/AppInsightsExtension/ApplicationInsights.svg) | microsoft.insights/ components |
-| [Azure Monitor Private Link Scope](svg/AppInsightsExtension/PrivateLinkScope.svg) | Microsoft.Insights/ privateLinkScopes |
-| [Availability test](svg/AppInsightsExtension/WebTest.svg) | microsoft.insights/ webtests |
-| [Azure Workbook](svg/AppInsightsExtension/Workbooks.svg) | microsoft.insights/ workbooks |
 | [Azure Workbook Template](svg/AppInsightsExtension/WorkbookTemplates.svg) | microsoft.insights/ workbooktemplates |
+| [Azure Workbook](svg/AppInsightsExtension/Workbooks.svg) | microsoft.insights/ workbooks |
+| [Availability test](svg/AppInsightsExtension/WebTest.svg) | microsoft.insights/ webtests |
+| [Azure Monitor Private Link Scope](svg/AppInsightsExtension/PrivateLinkScope.svg) | Microsoft.Insights/ privateLinkScopes |
+| [Application Insights](svg/AppInsightsExtension/ApplicationInsights.svg) | microsoft.insights/ components |
 | [Azure Spring Apps](svg/AppPlatformExtension/AppPlatformAsset.svg) | Microsoft.AppPlatform/ Spring |
 | [Azure Cache for Redis](svg/AzureCacheExtension/CacheAsset.svg) | Microsoft.Cache/ Redis |
 | [Redis Enterprise database](svg/AzureCacheExtension/RedisEnterpriseDatabaseAsset.svg) | Microsoft.Cache/ RedisEnterprise/ Databases |
