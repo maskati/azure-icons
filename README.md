@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.190.0.1 on 2025-04-25.
+Extracted from Azure Portal version 15.190.1.1 on 2025-04-26.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -210,7 +210,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Groups](svg/Microsoft_AAD_IAM/GroupsManagement.svg) |  |
 | [Tenant properties](svg/Microsoft_AAD_IAM/TenantProperties.svg) |  |
 | [User settings](svg/Microsoft_AAD_IAM/DirectoryUserSettings.svg) |  |
-| [Microsoft Entra Connect](svg/Microsoft_AAD_IAM/DirectoriesADConnect.svg) |  |
 | [Create custom Microsoft Entra roles](svg/Microsoft_AAD_IAM/CreateCustomRole.svg) |  |
 | [External Identities](svg/Microsoft_AAD_IAM/CompanyRelationshipsMenuBlade.svg) |  |
 | [Microsoft Entra ID](svg/Microsoft_AAD_IAM/AzureActiveDirectory.svg) |  |
