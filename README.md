@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.190.1.1 on 2025-04-28.
+Extracted from Azure Portal version 15.190.0.1 on 2025-04-29.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -929,8 +929,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Web PubSub Service](svg/Microsoft_Azure_SignalR/WebPubSub.svg) | Microsoft.SignalRService/ WebPubSub |
 | [SignalR Replica](svg/Microsoft_Azure_SignalR/SignalRReplica.svg) | Microsoft.SignalRService/ SignalR/ replicas |
 | [SignalR](svg/Microsoft_Azure_SignalR/SignalR.svg) | Microsoft.SignalRService/ SignalR |
-| [Site configuration](svg/Microsoft_Azure_SiteManager/SiteConfig.svg) | Microsoft.Edge/ Configurations |
 | [Site manager - Azure Arc](svg/Microsoft_Azure_SiteManager/SiteManager.svg) | Microsoft.Edge/ sites |
+| [Site configuration](svg/Microsoft_Azure_SiteManager/SiteConfig.svg) | Microsoft.Edge/ Configurations |
 | [Azure Sphere Catalog](svg/Microsoft_Azure_Sphere/AzureSphereArm.svg) | microsoft.azuresphere/ catalogs |
 | [Azure Sphere (Legacy)](svg/Microsoft_Azure_Sphere/AzureSphere.svg) |  |
 | [Storage browser](svg/Microsoft_Azure_Storage/StorageBrowser.svg) |  |
