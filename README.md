@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.190.0.1 on 2025-04-29.
+Extracted from Azure Portal version 15.190.7.1 on 2025-04-30.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -24,7 +24,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Astro Organization](svg/Azure_Marketplace_Astronomer/Astronomer.svg) | Astronomer.Astro/ organizations |
 | [Confluent organization](svg/Azure_Marketplace_Confluent/Confluent.svg) | Microsoft.Confluent/ organizations |
 | [Datadog](svg/Azure_Marketplace_Datadog/Datadog.svg) | Microsoft.Datadog/ monitors |
-| [Dell APEX File Storage, An Azure Native Service](svg/Azure_Marketplace_Dell/Azure_Microsoft_Dell.svg) | Dell.Storage/ filesystems |
+| [Dell PowerScale](svg/Azure_Marketplace_Dell/Azure_Microsoft_Dell.svg) | Dell.Storage/ filesystems |
 | [Dynatrace](svg/Azure_Marketplace_Dynatrace/Dynatrace.svg) | Dynatrace.Observability/ monitors |
 | [Elastic](svg/Azure_Marketplace_Elastic/Elastic.svg) | Microsoft.Elastic/ monitors |
 | [Informatica Organization](svg/Azure_Marketplace_Informatica/Informatica.svg) | Informatica.DataManagement/ organizations |
@@ -465,7 +465,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Disk Encryption Set](svg/Microsoft_Azure_DiskMgmt/DiskEncryptionSetComputeHub.svg) |  |
 | [Disk Encryption Set](svg/Microsoft_Azure_DiskMgmt/DiskEncryptionSet.svg) | Microsoft.Compute/ diskEncryptionSets |
 | [Disk Access](svg/Microsoft_Azure_DiskMgmt/DiskAccess.svg) | Microsoft.Compute/ diskAccesses |
-| [Disk](svg/Microsoft_Azure_DiskMgmt/DiskComputeHub.svg) |  |
 | [Disk](svg/Microsoft_Azure_DiskMgmt/Disk.svg) | Microsoft.Compute/ disks |
 | [Community image](svg/Microsoft_Azure_DiskMgmt/CommunityImageComputeHub.svg) | Microsoft.Compute/ locations/ communityGalleries/ imagesComputehub |
 | [Community image](svg/Microsoft_Azure_DiskMgmt/CommunityImage.svg) | Microsoft.Compute/ locations/ communityGalleries/ images |
