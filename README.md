@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.190.9.1 on 2025-05-01.
+Extracted from Azure Portal version 15.190.7.1 on 2025-05-02.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -28,8 +28,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Dynatrace](svg/Azure_Marketplace_Dynatrace/Dynatrace.svg) | Dynatrace.Observability/ monitors |
 | [Elastic](svg/Azure_Marketplace_Elastic/Elastic.svg) | Microsoft.Elastic/ monitors |
 | [Informatica Organization](svg/Azure_Marketplace_Informatica/Informatica.svg) | Informatica.DataManagement/ organizations |
-| [Logz.io](svg/Azure_Marketplace_Liftr_Logz/Logz.svg) | Microsoft.Logz/ monitors |
-| [Logz sub account](svg/Azure_Marketplace_Liftr_Logz/LogzSubAccount.svg) | Microsoft.Logz/ monitors/ accounts |
 | [New Relic](svg/Azure_Marketplace_Liftr_NewRelic/NewRelic.svg) | NewRelic.Observability/ monitors |
 | [Azure Native WeightsAndBiases Cloud Service](svg/Azure_MarketPlace_NativeISVService/WeightsAndBiases.svg) | Microsoft.WeightsAndBiases/ instances |
 | [Azure Native Pinecone Cloud Service](svg/Azure_MarketPlace_NativeISVService/Pinecone.svg) | Pinecone.VectorDb/ organizations |
@@ -69,7 +67,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Microsoft Entra Authentication Strengths](svg/Microsoft_AAD_ConditionalAccess/AuthenticationStrengthsRootAsset.svg) |  |
 | [Microsoft Entra Conditional Access](svg/Microsoft_AAD_ConditionalAccess/PolicyRootAsset.svg) |  |
 | [Verified ID](svg/Microsoft_AAD_DecentralizedIdentity/PortableIdentityCards.svg) |  |
-| [Microsoft Entra Domain Services](svg/Microsoft_AAD_DomainServices/AADDomainService.svg) | Microsoft.AAD/ domainServices |
+| [Microsoft Entra Domain Services   ](svg/Microsoft_AAD_DomainServices/AADDomainService.svg) | Microsoft.AAD/ domainServices |
 | [Identity Governance](svg/Microsoft_AAD_ERM/RootAsset.svg) |  |
 | [Users](svg/Microsoft_AAD_IAM/UserManagement.svg) |  |
 | [Workload Identity](svg/Microsoft_AAD_IAM/WorkloadIdentities.svg) |  |
@@ -468,9 +466,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Disk](svg/Microsoft_Azure_DiskMgmt/Disk.svg) | Microsoft.Compute/ disks |
 | [Community image](svg/Microsoft_Azure_DiskMgmt/CommunityImageComputeHub.svg) | Microsoft.Compute/ locations/ communityGalleries/ imagesComputehub |
 | [Community image](svg/Microsoft_Azure_DiskMgmt/CommunityImage.svg) | Microsoft.Compute/ locations/ communityGalleries/ images |
-| [Azure Database Migration Service (classic)](svg/Microsoft_Azure_DMS/Dms.svg) | Microsoft.DataMigration/ services |
-| [Azure Database Migration Project](svg/Microsoft_Azure_DMS/DmsProject.svg) | Microsoft.DataMigration/ services/ projects |
 | [Azure Database Migration Service](svg/Microsoft_Azure_DMS/DmsV2.svg) | microsoft.datamigration/ sqlmigrationservices |
+| [Azure Database Migration Project](svg/Microsoft_Azure_DMS/DmsProject.svg) | Microsoft.DataMigration/ services/ projects |
+| [Azure Database Migration Service (classic)](svg/Microsoft_Azure_DMS/Dms.svg) | Microsoft.DataMigration/ services |
 | [Traffic Manager profile](svg/Microsoft_Azure_DNS/TrafficManager.svg) | Microsoft.Network/ trafficmanagerprofiles |
 | [DNS zone](svg/Microsoft_Azure_DNS/DnsZone.svg) | Microsoft.Network/ dnsZones |
 | [DNS forwarding ruleset](svg/Microsoft_Azure_DNSManagedResolver/DnsForwardingRulesets.svg) | Microsoft.Network/ dnsForwardingRulesets |
@@ -594,7 +592,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Microsoft.Network/virtualHub](svg/Microsoft_Azure_HybridNetworking/VirtualRouter.svg) | Microsoft.Network/ virtualHubs |
 | [Virtual network gateway](svg/Microsoft_Azure_HybridNetworking/VirtualNetworkGateway.svg) | Microsoft.Network/ virtualNetworkGateways |
 | [Route filter](svg/Microsoft_Azure_HybridNetworking/RouteFilter.svg) | Microsoft.Network/ routeFilters |
-| [Network Security](svg/Microsoft_Azure_HybridNetworking/NetworkSecurity.svg) |  |
+| [Network security](svg/Microsoft_Azure_HybridNetworking/NetworkSecurity.svg) |  |
 | [Mesh VPN](svg/Microsoft_Azure_HybridNetworking/MeshVpn.svg) | Microsoft.NetworkFunction/ meshVpns |
 | [Local network gateway](svg/Microsoft_Azure_HybridNetworking/LocalNetworkGateway.svg) | Microsoft.Network/ localnetworkgateways |
 | [IP Group](svg/Microsoft_Azure_HybridNetworking/IpGroups.svg) | Microsoft.Network/ ipGroups |
@@ -720,6 +718,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Network Watcher](svg/Microsoft_Azure_Network/NetworkWatcher.svg) |  |
 | [Network security group](svg/Microsoft_Azure_Network/NetworkSecurityGroup.svg) | Microsoft.Network/ NetworkSecurityGroups |
 | [Network interface](svg/Microsoft_Azure_Network/NetworkInterface.svg) | Microsoft.Network/ networkinterfaces |
+| [Network foundation](svg/Microsoft_Azure_Network/NetworkFoundation.svg) |  |
 | [NAT gateway](svg/Microsoft_Azure_Network/NatGateway.svg) | Microsoft.Network/ natGateways |
 | [Load balancing - help me choose](svg/Microsoft_Azure_Network/LoadBalancingHub.svg) |  |
 | [Load balancing and content delivery](svg/Microsoft_Azure_Network/LoadBalancerAndContentDelivery.svg) |  |
