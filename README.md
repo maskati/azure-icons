@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.190.9.1 on 2025-05-04.
+Extracted from Azure Portal version 15.190.9.1 on 2025-05-05.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -28,8 +28,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Dynatrace](svg/Azure_Marketplace_Dynatrace/Dynatrace.svg) | Dynatrace.Observability/ monitors |
 | [Elastic](svg/Azure_Marketplace_Elastic/Elastic.svg) | Microsoft.Elastic/ monitors |
 | [Informatica Organization](svg/Azure_Marketplace_Informatica/Informatica.svg) | Informatica.DataManagement/ organizations |
-| [Logz.io](svg/Azure_Marketplace_Liftr_Logz/Logz.svg) | Microsoft.Logz/ monitors |
-| [Logz sub account](svg/Azure_Marketplace_Liftr_Logz/LogzSubAccount.svg) | Microsoft.Logz/ monitors/ accounts |
 | [New Relic](svg/Azure_Marketplace_Liftr_NewRelic/NewRelic.svg) | NewRelic.Observability/ monitors |
 | [Azure Native WeightsAndBiases Cloud Service](svg/Azure_MarketPlace_NativeISVService/WeightsAndBiases.svg) | Microsoft.WeightsAndBiases/ instances |
 | [Azure Native Pinecone Cloud Service](svg/Azure_MarketPlace_NativeISVService/Pinecone.svg) | Pinecone.VectorDb/ organizations |
