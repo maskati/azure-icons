@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.219.6.1 on 2025-05-10.
+Extracted from Azure Portal version 15.219.6.1 on 2025-05-11.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -670,18 +670,18 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Monitor dashboards with Grafana](svg/Microsoft_Azure_MonitorDashboard/MonitorDashboard.svg) | Microsoft.Dashboard/ dashboards |
 | [Azure Monitor dashboards with Grafana (Preview)](svg/Microsoft_Azure_MonitorDashboard/GalleryAsset.svg) |  |
 | [Azure Monitor dashboards with Grafana (PrivateRP)](svg/Microsoft_Azure_MonitorDashboard/PrivateMonitorDashboard.svg) | Private.MonitorGrafana/ dashboards |
-| [Azure Monitor pipeline (preview)](svg/Microsoft_Azure_Monitoring/AzureEdgePipeline.svg) | Microsoft.monitor/ pipelineGroups |
-| [Autoscale](svg/Microsoft_Azure_Monitoring/Autoscale.svg) |  |
-| [Monitor](svg/Microsoft_Azure_Monitoring/AzureMonitoring.svg) |  |
-| [Diagnostic settings](svg/Microsoft_Azure_Monitoring/AzureMonitoringDiagnostics.svg) |  |
-| [Diagnostic settings](svg/Microsoft_Azure_Monitoring/AzureMonitoringDiagnosticsDetail.svg) | microsoft.eventhub/ namespaces/ providers/ diagnosticsettings |
-| [Diagnostic settings](svg/Microsoft_Azure_Monitoring/AzureMonitoringSubscriptionalLevelDiagnosticsDetail.svg) | Microsoft.Insights/ diagnosticSettings |
-| [Metrics](svg/Microsoft_Azure_Monitoring/Metrics.svg) |  |
-| [Managed Prometheus](svg/Microsoft_Azure_Monitoring/Prometheus.svg) |  |
-| [Data collection endpoint](svg/Microsoft_Azure_Monitoring/DataCollectionEndpoints.svg) | microsoft.insights/ datacollectionendpoints |
-| [Data collection rule](svg/Microsoft_Azure_Monitoring/DataCollectionRules.svg) | microsoft.insights/ datacollectionrules |
-| [Azure Monitor workspace](svg/Microsoft_Azure_Monitoring/MonitoringAccount.svg) | microsoft.monitor/ accounts |
 | [Prometheus rule group](svg/Microsoft_Azure_Monitoring/PrometheusRuleGroup.svg) | microsoft.alertsmanagement/ prometheusrulegroups |
+| [Azure Monitor workspace](svg/Microsoft_Azure_Monitoring/MonitoringAccount.svg) | microsoft.monitor/ accounts |
+| [Data collection rule](svg/Microsoft_Azure_Monitoring/DataCollectionRules.svg) | microsoft.insights/ datacollectionrules |
+| [Data collection endpoint](svg/Microsoft_Azure_Monitoring/DataCollectionEndpoints.svg) | microsoft.insights/ datacollectionendpoints |
+| [Managed Prometheus](svg/Microsoft_Azure_Monitoring/Prometheus.svg) |  |
+| [Metrics](svg/Microsoft_Azure_Monitoring/Metrics.svg) |  |
+| [Diagnostic settings](svg/Microsoft_Azure_Monitoring/AzureMonitoringSubscriptionalLevelDiagnosticsDetail.svg) | Microsoft.Insights/ diagnosticSettings |
+| [Diagnostic settings](svg/Microsoft_Azure_Monitoring/AzureMonitoringDiagnosticsDetail.svg) | microsoft.eventhub/ namespaces/ providers/ diagnosticsettings |
+| [Diagnostic settings](svg/Microsoft_Azure_Monitoring/AzureMonitoringDiagnostics.svg) |  |
+| [Monitor](svg/Microsoft_Azure_Monitoring/AzureMonitoring.svg) |  |
+| [Autoscale](svg/Microsoft_Azure_Monitoring/Autoscale.svg) |  |
+| [Azure Monitor pipeline (preview)](svg/Microsoft_Azure_Monitoring/AzureEdgePipeline.svg) | Microsoft.monitor/ pipelineGroups |
 | [Smart detector alert rule](svg/Microsoft_Azure_Monitoring_Alerts/SmartDetectorAlertRule.svg) | microsoft.alertsmanagement/ smartdetectoralertrules |
 | [Metric alert rule](svg/Microsoft_Azure_Monitoring_Alerts/MetricAlertRule.svg) | microsoft.insights/ metricalerts |
 | [Log search alert rule](svg/Microsoft_Azure_Monitoring_Alerts/LogSearchAlertRule.svg) | microsoft.insights/ scheduledqueryrules |
