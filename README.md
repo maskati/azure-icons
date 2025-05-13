@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.219.6.1 on 2025-05-12.
+Extracted from Azure Portal version 15.219.6.1 on 2025-05-13.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -374,7 +374,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Kubernetes namespace](svg/Microsoft_Azure_ContainerService/ManagedClusterNamespaces.svg) | Microsoft.ContainerService/ managedClusters/ Microsoft.KubernetesConfiguration/ namespaces |
 | [Kubernetes - Azure Arc namespace](svg/Microsoft_Azure_ContainerService/ConnectedClusterNamespaces.svg) | Microsoft.Kubernetes/ connectedClusters/ Microsoft.KubernetesConfiguration/ namespaces |
 | [Container instances](svg/Microsoft_Azure_ContainerService/ContainerGroup.svg) | Microsoft.ContainerInstance/ containerGroups |
-| [Managed namespace](svg/Microsoft_Azure_ContainerService/ManagedNamespaces.svg) | Microsoft.ContainerService/ managedClusters/ namespaces |
+| [Managed namespace](svg/Microsoft_Azure_ContainerService/ManagedNamespaces.svg) | Microsoft.ContainerService/ managedClusters/ managedNamespaces |
 | [Kubernetes service](svg/Microsoft_Azure_ContainerService/ManagedClusters.svg) | Microsoft.ContainerService/ managedClusters |
 | [Kubernetes service extension](svg/Microsoft_Azure_ContainerService/KubernetesClusterExtensionsChild.svg) | microsoft.containerservice/ managedclusters/ microsoft.kubernetesconfiguration/ extensions |
 | [Kubernetes service extension](svg/Microsoft_Azure_ContainerService/KubernetesClusterExtensions.svg) | microsoft.kubernetesconfiguration/ extensions |
@@ -669,18 +669,18 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Monitor dashboards with Grafana](svg/Microsoft_Azure_MonitorDashboard/MonitorDashboard.svg) | Microsoft.Dashboard/ dashboards |
 | [Azure Monitor dashboards with Grafana (Preview)](svg/Microsoft_Azure_MonitorDashboard/GalleryAsset.svg) |  |
 | [Azure Monitor dashboards with Grafana (PrivateRP)](svg/Microsoft_Azure_MonitorDashboard/PrivateMonitorDashboard.svg) | Private.MonitorGrafana/ dashboards |
-| [Azure Monitor pipeline (preview)](svg/Microsoft_Azure_Monitoring/AzureEdgePipeline.svg) | Microsoft.monitor/ pipelineGroups |
-| [Autoscale](svg/Microsoft_Azure_Monitoring/Autoscale.svg) |  |
-| [Monitor](svg/Microsoft_Azure_Monitoring/AzureMonitoring.svg) |  |
-| [Diagnostic settings](svg/Microsoft_Azure_Monitoring/AzureMonitoringDiagnostics.svg) |  |
-| [Diagnostic settings](svg/Microsoft_Azure_Monitoring/AzureMonitoringDiagnosticsDetail.svg) | microsoft.eventhub/ namespaces/ providers/ diagnosticsettings |
-| [Diagnostic settings](svg/Microsoft_Azure_Monitoring/AzureMonitoringSubscriptionalLevelDiagnosticsDetail.svg) | Microsoft.Insights/ diagnosticSettings |
-| [Metrics](svg/Microsoft_Azure_Monitoring/Metrics.svg) |  |
-| [Managed Prometheus](svg/Microsoft_Azure_Monitoring/Prometheus.svg) |  |
-| [Data collection endpoint](svg/Microsoft_Azure_Monitoring/DataCollectionEndpoints.svg) | microsoft.insights/ datacollectionendpoints |
-| [Data collection rule](svg/Microsoft_Azure_Monitoring/DataCollectionRules.svg) | microsoft.insights/ datacollectionrules |
-| [Azure Monitor workspace](svg/Microsoft_Azure_Monitoring/MonitoringAccount.svg) | microsoft.monitor/ accounts |
 | [Prometheus rule group](svg/Microsoft_Azure_Monitoring/PrometheusRuleGroup.svg) | microsoft.alertsmanagement/ prometheusrulegroups |
+| [Azure Monitor workspace](svg/Microsoft_Azure_Monitoring/MonitoringAccount.svg) | microsoft.monitor/ accounts |
+| [Data collection rule](svg/Microsoft_Azure_Monitoring/DataCollectionRules.svg) | microsoft.insights/ datacollectionrules |
+| [Data collection endpoint](svg/Microsoft_Azure_Monitoring/DataCollectionEndpoints.svg) | microsoft.insights/ datacollectionendpoints |
+| [Managed Prometheus](svg/Microsoft_Azure_Monitoring/Prometheus.svg) |  |
+| [Metrics](svg/Microsoft_Azure_Monitoring/Metrics.svg) |  |
+| [Diagnostic settings](svg/Microsoft_Azure_Monitoring/AzureMonitoringSubscriptionalLevelDiagnosticsDetail.svg) | Microsoft.Insights/ diagnosticSettings |
+| [Diagnostic settings](svg/Microsoft_Azure_Monitoring/AzureMonitoringDiagnosticsDetail.svg) | microsoft.eventhub/ namespaces/ providers/ diagnosticsettings |
+| [Diagnostic settings](svg/Microsoft_Azure_Monitoring/AzureMonitoringDiagnostics.svg) |  |
+| [Monitor](svg/Microsoft_Azure_Monitoring/AzureMonitoring.svg) |  |
+| [Autoscale](svg/Microsoft_Azure_Monitoring/Autoscale.svg) |  |
+| [Azure Monitor pipeline (preview)](svg/Microsoft_Azure_Monitoring/AzureEdgePipeline.svg) | Microsoft.monitor/ pipelineGroups |
 | [Smart detector alert rule](svg/Microsoft_Azure_Monitoring_Alerts/SmartDetectorAlertRule.svg) | microsoft.alertsmanagement/ smartdetectoralertrules |
 | [Metric alert rule](svg/Microsoft_Azure_Monitoring_Alerts/MetricAlertRule.svg) | microsoft.insights/ metricalerts |
 | [Log search alert rule](svg/Microsoft_Azure_Monitoring_Alerts/LogSearchAlertRule.svg) | microsoft.insights/ scheduledqueryrules |
@@ -998,7 +998,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Winfield  Preview](svg/Microsoft_Azure_Winfields/Winfields.svg) | private.edgeinternal/ winfields |
 | [Microsoft.Workloads insight](svg/Microsoft_Azure_WorkloadInsight/microsoft_workloads_insights_2022_10_15_preview.svg) | microsoft.workloads/ insights |
 | [MARIO](svg/Microsoft_Azure_WorkloadInsight/mario.svg) |  |
-| [Azure Monitor for SAP Solutions (classic)](svg/Microsoft_Azure_WorkloadMonitor/SapMonitorV1.svg) | Microsoft.HanaOnAzure/ sapMonitors |
 | [Azure Monitor for SAP solutions](svg/Microsoft_Azure_WorkloadMonitor/SapMonitorV2.svg) | Microsoft.Workloads/ monitors |
 | [Azure Virtual Desktop](svg/Microsoft_Azure_WVD/WvdManager.svg) |  |
 | [Workspace](svg/Microsoft_Azure_WVD/Workspace.svg) | Microsoft.DesktopVirtualization/ Workspaces |
