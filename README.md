@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.219.6.1 on 2025-05-14.
+Extracted from Azure Portal version 15.219.6.1 on 2025-05-15.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -477,9 +477,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Cosmos DB for MongoDB (vCore)](svg/Microsoft_Azure_DocumentDB/MongoCluster.svg) | Microsoft.DocumentDB/ mongoClusters |
 | [Azure Cosmos DB for PostgreSQL Cluster](svg/Microsoft_Azure_DocumentDB/PostgreSqlServerGroupV2.svg) | Microsoft.DBforPostgreSQL/ serverGroupsv2 |
 | [Azure Managed Instance for Apache Cassandra](svg/Microsoft_Azure_DocumentDB/DocumentDBCassandraClusters.svg) | Microsoft.DocumentDB/ cassandraClusters |
-| [Potential Azure Cosmos DB account](svg/Microsoft_Azure_DocumentDB/CosmosDBFleetspacePotentialDatabaseAccountsWithLocations.svg) | microsoft.documentdb/ fleetspacepotentialdatabaseaccountswithlocations |
-| [Potential Azure Cosmos DB account](svg/Microsoft_Azure_DocumentDB/CosmosDBFleetspacePotentialDatabaseAccounts.svg) | microsoft.documentdb/ fleetspacepotentialdatabaseaccounts |
-| [Azure Cosmos DB Fleet](svg/Microsoft_Azure_DocumentDB/CosmosDBFleet.svg) | Microsoft.DocumentDB/ fleets |
+| [Cosmos DB Fleet](svg/Microsoft_Azure_DocumentDB/CosmosDBFleet.svg) | Microsoft.DocumentDB/ fleets |
 | [Azure Cosmos DB account](svg/Microsoft_Azure_DocumentDB/DocumentDBDatabaseAccount.svg) | Microsoft.DocumentDb/ databaseAccounts |
 | [Reporting & Analytics](svg/Microsoft_Azure_DocumentManagement/Microsoft_Azure_DocumentManagement.svg) |  |
 | [Microsoft Defender EASM](svg/Microsoft_Azure_EASM/EasmWorkspace.svg) | Microsoft.Easm/ workspaces |
@@ -499,7 +497,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Elastic SAN](svg/Microsoft_Azure_ElasticSan/ElasticSan.svg) | Microsoft.ElasticSan/ elasticsans |
 | [Logic app](svg/Microsoft_Azure_EMA/Workflow.svg) | Microsoft.Logic/ workflows |
 | [Managed Connector](svg/Microsoft_Azure_EMA/ManagedConnector.svg) | Microsoft.Logic/ integrationServiceEnvironments/ managedApis |
-| [Logic Apps Template](svg/Microsoft_Azure_EMA/LogicAppsTemplate.svg) | Microsoft.Web/ logicAppsTemplate |
 | [Integration account](svg/Microsoft_Azure_EMA/IntegrationAccount.svg) | Microsoft.Logic/ integrationAccounts |
 | [On-premises data gateway](svg/Microsoft_Azure_EMA/Gateway.svg) | Microsoft.Web/ connectionGateways |
 | [Logic apps custom connector](svg/Microsoft_Azure_EMA/CustomConnector.svg) | Microsoft.Web/ customApis |
@@ -938,12 +935,16 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Site configuration](svg/Microsoft_Azure_SiteManager/SiteConfig.svg) | Microsoft.Edge/ Configurations |
 | [Azure Sphere Catalog](svg/Microsoft_Azure_Sphere/AzureSphereArm.svg) | microsoft.azuresphere/ catalogs |
 | [Azure Sphere (Legacy)](svg/Microsoft_Azure_Sphere/AzureSphere.svg) |  |
+| [Data replication vault](svg/Microsoft_Azure_Stack_Migrate/ASRV2ReplicationVaultResource.svg) | Microsoft.DataReplication/ replicationVaults |
 | [Storage browser](svg/Microsoft_Azure_Storage/StorageBrowser.svg) |  |
 | [Storage account](svg/Microsoft_Azure_Storage/StorageAccount.svg) | Microsoft.Storage/ StorageAccounts |
 | [Storage account (classic)](svg/Microsoft_Azure_Storage/ClassicStorageAccount.svg) | Microsoft.ClassicStorage/ StorageAccounts |
 | [HPC cache](svg/Microsoft_Azure_StorageCache/StorageCache.svg) | Microsoft.StorageCache/ caches |
 | [Azure Managed Lustre](svg/Microsoft_Azure_StorageCache/AmlFileSystems.svg) | Microsoft.StorageCache/ amlFilesystems |
 | [Storage Discovery workspace](svg/Microsoft_Azure_StorageDiscovery/StorageDiscovery.svg) | Microsoft.StorageDiscovery/ storageDiscoveryWorkspaces |
+| [Storage Center](svg/Microsoft_Azure_StorageHub/StorageHub.svg) |  |
+| [Policy compliance](svg/Microsoft_Azure_StorageHub/PolicyComplianceResources.svg) | Microsoft.StorageHub/ PolicyComplianceResources |
+| [All resources](svg/Microsoft_Azure_StorageHub/AllResources.svg) | Microsoft.StorageHub/ all |
 | [Storage mover](svg/Microsoft_Azure_StorageMover/StorageMover.svg) | Microsoft.StorageMover/ storageMovers |
 | [Storage task - Azure Storage Actions](svg/Microsoft_Azure_StorageTasks/StorageTasks.svg) | Microsoft.StorageActions/ storageTasks |
 | [Azure Storage Action](svg/Microsoft_Azure_StorageTasks/AzureStorageActions.svg) |  |
@@ -1071,11 +1072,14 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Services Hub Connector](svg/Microsoft_ServicesHub_Extension/Connector.svg) | Microsoft.ServicesHub/ connectors |
 | [Azure AI Video Indexer](svg/Microsoft_VideoIndexer/VideoIndexerAccount.svg) | Microsoft.VideoIndexer/ accounts |
 | [Oracle Database@Azure](svg/Oracle_Databases_At_Azure/oracledatabaseservice.svg) |  |
+| [Resource Anchor](svg/Oracle_Databases_At_Azure/oracle_resource_anchor.svg) | Oracle.Database/ resourceanchors |
+| [Network Anchor](svg/Oracle_Databases_At_Azure/oracle_network_anchor.svg) | Oracle.Database/ networkanchors |
 | [Oracle Exascale VM Cluster](svg/Oracle_Databases_At_Azure/oracle_exascale_vmcluster.svg) | Oracle.Database/ exadbVmClusters |
 | [Oracle Exascale DB Storage Vault](svg/Oracle_Databases_At_Azure/oracle_exascale_storage_vaults.svg) | oracle.database/ exascaledbstoragevaults |
 | [Oracle Exadata VM Cluster](svg/Oracle_Databases_At_Azure/oracle_exadata_vmcluster.svg) | oracle.database/ cloudvmclusters |
 | [Oracle Exadata Infrastructure](svg/Oracle_Databases_At_Azure/oracle_exadata_infrastructure.svg) | oracle.database/ cloudexadatainfrastructures |
 | [OracleSubscription](svg/Oracle_Databases_At_Azure/oracleSubscription.svg) | Oracle.Database/ oracleSubscriptions |
+| [Autonomous Database](svg/Oracle_Databases_At_Azure/oracle_basedb.svg) | oracle.database/ basedb |
 | [Autonomous Database](svg/Oracle_Databases_At_Azure/oracle_adbs.svg) | oracle.database/ autonomousdatabases |
 | [ScanX Management](svg/ScanX_Management/ScanXManagement.svg) |  |
 | [ESRP Scan](svg/ScanX_Management/ScanXMeter.svg) | Microsoft.AzureScan/ scanningAccounts |
