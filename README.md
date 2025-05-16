@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.219.6.1 on 2025-05-15.
+Extracted from Azure Portal version 15.219.6.1 on 2025-05-16.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -497,6 +497,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Elastic SAN](svg/Microsoft_Azure_ElasticSan/ElasticSan.svg) | Microsoft.ElasticSan/ elasticsans |
 | [Logic app](svg/Microsoft_Azure_EMA/Workflow.svg) | Microsoft.Logic/ workflows |
 | [Managed Connector](svg/Microsoft_Azure_EMA/ManagedConnector.svg) | Microsoft.Logic/ integrationServiceEnvironments/ managedApis |
+| [Logic Apps Template](svg/Microsoft_Azure_EMA/LogicAppsTemplate.svg) | Microsoft.Web/ logicAppsTemplate |
 | [Integration account](svg/Microsoft_Azure_EMA/IntegrationAccount.svg) | Microsoft.Logic/ integrationAccounts |
 | [On-premises data gateway](svg/Microsoft_Azure_EMA/Gateway.svg) | Microsoft.Web/ connectionGateways |
 | [Logic apps custom connector](svg/Microsoft_Azure_EMA/CustomConnector.svg) | Microsoft.Web/ customApis |
