@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.219.6.1 on 2025-05-16.
+Extracted from Azure Portal version 15.223.11.1 on 2025-05-17.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -477,7 +477,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Cosmos DB for MongoDB (vCore)](svg/Microsoft_Azure_DocumentDB/MongoCluster.svg) | Microsoft.DocumentDB/ mongoClusters |
 | [Azure Cosmos DB for PostgreSQL Cluster](svg/Microsoft_Azure_DocumentDB/PostgreSqlServerGroupV2.svg) | Microsoft.DBforPostgreSQL/ serverGroupsv2 |
 | [Azure Managed Instance for Apache Cassandra](svg/Microsoft_Azure_DocumentDB/DocumentDBCassandraClusters.svg) | Microsoft.DocumentDB/ cassandraClusters |
-| [Cosmos DB Fleet](svg/Microsoft_Azure_DocumentDB/CosmosDBFleet.svg) | Microsoft.DocumentDB/ fleets |
+| [Potential Azure Cosmos DB account](svg/Microsoft_Azure_DocumentDB/CosmosDBFleetspacePotentialDatabaseAccountsWithLocations.svg) | microsoft.documentdb/ fleetspacepotentialdatabaseaccountswithlocations |
+| [Potential Azure Cosmos DB account](svg/Microsoft_Azure_DocumentDB/CosmosDBFleetspacePotentialDatabaseAccounts.svg) | microsoft.documentdb/ fleetspacepotentialdatabaseaccounts |
+| [Azure Cosmos DB Fleet](svg/Microsoft_Azure_DocumentDB/CosmosDBFleet.svg) | Microsoft.DocumentDB/ fleets |
 | [Azure Cosmos DB account](svg/Microsoft_Azure_DocumentDB/DocumentDBDatabaseAccount.svg) | Microsoft.DocumentDb/ databaseAccounts |
 | [Reporting & Analytics](svg/Microsoft_Azure_DocumentManagement/Microsoft_Azure_DocumentManagement.svg) |  |
 | [Microsoft Defender EASM](svg/Microsoft_Azure_EASM/EasmWorkspace.svg) | Microsoft.Easm/ workspaces |
@@ -725,6 +727,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Load balancing - help me choose](svg/Microsoft_Azure_Network/LoadBalancingHub.svg) |  |
 | [Load balancing and content delivery](svg/Microsoft_Azure_Network/LoadBalancerAndContentDelivery.svg) |  |
 | [Load balancer](svg/Microsoft_Azure_Network/LoadBalancer.svg) | Microsoft.Network/ LoadBalancers |
+| [Load balancer](svg/Microsoft_Azure_Network/GatewayLoadBalancer.svg) |  |
 | [Guest Assignment](svg/Microsoft_Azure_Network/VMWareGuestAssignment.svg) | Microsoft.ConnectedVMwarevSphere/ virtualMachines/ providers/ guestConfigurationAssignments |
 | [Guest Assignment](svg/Microsoft_Azure_Network/VMSSGuestAssignment.svg) | Microsoft.Compute/ virtualMachineScaleSets/ providers/ guestConfigurationAssignments |
 | [Guest Assignment](svg/Microsoft_Azure_Network/NonAzureGuestAssignment.svg) | Microsoft.HybridCompute/ machines/ providers/ guestConfigurationAssignments |
