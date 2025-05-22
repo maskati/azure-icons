@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.223.11.1 on 2025-05-21.
+Extracted from Azure Portal version 15.223.11.1 on 2025-05-22.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -536,8 +536,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Fairfield Gardens](svg/Microsoft_Azure_FairfieldGardens/fairfieldgardens.svg) | Microsoft.FairfieldGardens/ ProvisioningResources |
 | [Provisioning policy](svg/Microsoft_Azure_FairfieldGardens/provisioningpolicies.svg) | Microsoft.FairfieldGardens/ ProvisioningResources/ ProvisioningPolicies |
 | [File share](svg/Microsoft_Azure_FileShare/FileShares.svg) | Microsoft.FileShares/ fileshares |
-| [Firmware analysis workspace](svg/Microsoft_Azure_FIST/FirmwareAnalysisWorkspace.svg) | microsoft.iotfirmwaredefense/ workspaces |
 | [Firmware analysis](svg/Microsoft_Azure_FIST/FirmwareDefender.svg) |  |
+| [Firmware analysis workspace](svg/Microsoft_Azure_FIST/FirmwareAnalysisWorkspace.svg) | microsoft.iotfirmwaredefense/ workspaces |
 | [Fluid Relay](svg/Microsoft_Azure_FluidRelay/FrsResource.svg) | Microsoft.FluidRelay/ fluidRelayServers |
 | [Front Door and CDN profiles](svg/Microsoft_Azure_Frontdoor/AzureFrontdoor.svg) | Microsoft.Network/ frontdoors |
 | [Global view](svg/Microsoft_Azure_GlobalView/GlobalView.svg) |  |
