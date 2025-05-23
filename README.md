@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.223.11.1 on 2025-05-22.
+Extracted from Azure Portal version 15.219.6.1 on 2025-05-23.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -490,11 +490,11 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [My Resource](svg/Microsoft_Azure_EdgeAIExtension/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Azure Stack Edge / Data Box Gateway](svg/Microsoft_Azure_EdgeGateway/EdgeGateway.svg) | Microsoft.DataBoxEdge/ dataBoxEdgeDevices |
 | [My Resource](svg/Microsoft_Azure_EdgeManagementCopilot/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
-| [Azure Edge Hardware Center Address](svg/Microsoft_Azure_EdgeOrder/AllAddressResources.svg) | Microsoft.EdgeOrder/ addresses |
-| [Site Key](svg/Microsoft_Azure_EdgeOrder/AllBootstrapConfigurationResources.svg) | microsoft.edgeorder/ bootstrapConfigurations |
-| [Azure Edge Hardware Center](svg/Microsoft_Azure_EdgeOrder/AllOrderResources.svg) | Microsoft.EdgeOrder/ orderItems |
-| [Device](svg/Microsoft_Azure_EdgeOrder/AllZtpOrderItemResources.svg) | Microsoft.EdgeOrder/ virtual_orderItems |
 | [Azure Edge Hardware Center](svg/Microsoft_Azure_EdgeOrder/AzureEdgeDevice.svg) |  |
+| [Device](svg/Microsoft_Azure_EdgeOrder/AllZtpOrderItemResources.svg) | Microsoft.EdgeOrder/ virtual_orderItems |
+| [Azure Edge Hardware Center](svg/Microsoft_Azure_EdgeOrder/AllOrderResources.svg) | Microsoft.EdgeOrder/ orderItems |
+| [Site Key](svg/Microsoft_Azure_EdgeOrder/AllBootstrapConfigurationResources.svg) | microsoft.edgeorder/ bootstrapConfigurations |
+| [Azure Edge Hardware Center Address](svg/Microsoft_Azure_EdgeOrder/AllAddressResources.svg) | Microsoft.EdgeOrder/ addresses |
 | [Education](svg/Microsoft_Azure_Education/Education.svg) |  |
 | [Elastic SAN](svg/Microsoft_Azure_ElasticSan/ElasticSan.svg) | Microsoft.ElasticSan/ elasticsans |
 | [Logic app](svg/Microsoft_Azure_EMA/Workflow.svg) | Microsoft.Logic/ workflows |
@@ -947,7 +947,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [HPC cache](svg/Microsoft_Azure_StorageCache/StorageCache.svg) | Microsoft.StorageCache/ caches |
 | [Azure Managed Lustre](svg/Microsoft_Azure_StorageCache/AmlFileSystems.svg) | Microsoft.StorageCache/ amlFilesystems |
 | [Storage Discovery workspace](svg/Microsoft_Azure_StorageDiscovery/StorageDiscovery.svg) | Microsoft.StorageDiscovery/ storageDiscoveryWorkspaces |
-| [Storage Center](svg/Microsoft_Azure_StorageHub/StorageHub.svg) |  |
+| [Storage center](svg/Microsoft_Azure_StorageHub/StorageHub.svg) |  |
 | [Policy compliance](svg/Microsoft_Azure_StorageHub/PolicyComplianceResources.svg) | Microsoft.StorageHub/ PolicyComplianceResources |
 | [All resources](svg/Microsoft_Azure_StorageHub/AllResources.svg) | Microsoft.StorageHub/ all |
 | [Storage mover](svg/Microsoft_Azure_StorageMover/StorageMover.svg) | Microsoft.StorageMover/ storageMovers |
@@ -1074,6 +1074,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Log Analytics dedicated cluster](svg/Microsoft_OperationsManagementSuite_Workspace/cluster.svg) | microsoft.operationalinsights/ clusters |
 | [SafeFly V2](svg/Microsoft_SafeflyV2/SafeFlyV2.svg) |  |
 | [Microsoft Security Copilot compute capacity](svg/Microsoft_Security_Copilot/SecurityCopilotResource.svg) | Microsoft.SecurityCopilot/ capacities |
+| [Private Engage Center Connector](svg/Microsoft_ServicesHub_Extension/PrivateConnector.svg) | Private.ServicesHubDev/ connectors |
 | [Services Hub Connector](svg/Microsoft_ServicesHub_Extension/Connector.svg) | Microsoft.ServicesHub/ connectors |
 | [Azure AI Video Indexer](svg/Microsoft_VideoIndexer/VideoIndexerAccount.svg) | Microsoft.VideoIndexer/ accounts |
 | [Oracle Database@Azure](svg/Oracle_Databases_At_Azure/oracledatabaseservice.svg) |  |
