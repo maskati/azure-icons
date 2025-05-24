@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.219.6.1 on 2025-05-23.
+Extracted from Azure Portal version 15.223.11.1 on 2025-05-24.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -441,7 +441,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Device Update Agent](svg/Microsoft_Azure_DeviceUpdate/agent.svg) | Microsoft.DeviceUpdate/ updateAccounts/ agents |
 | [Device Update Active Deployment](svg/Microsoft_Azure_DeviceUpdate/activeDeployment.svg) | Microsoft.DeviceUpdate/ updateAccounts/ activeDeployments |
 | [Managed DevOps Pool](svg/Microsoft_Azure_DevOpsInfrastructure/ManagedDevOpsPools.svg) | Microsoft.DevOpsInfrastructure/ pools |
-| [Virtual machine](svg/Microsoft_Azure_DevTestLab/MyLabVms.svg) | Microsoft.DevTestLab/ labs/ virtualMachines |
+| [DevTest Labs virtual machine](svg/Microsoft_Azure_DevTestLab/MyLabVms.svg) | Microsoft.DevTestLab/ labs/ virtualMachines |
 | [DevTest Lab](svg/Microsoft_Azure_DevTestLab/DevTestLab.svg) | Microsoft.DevTestLab/ labs |
 | [Custom image](svg/Microsoft_Azure_DevTestLab/CustomImage.svg) |  |
 | [Dev Tunnels Domain](svg/Microsoft_Azure_DevTunnels/devtunnels.svg) | microsoft.devtunnels/ tunnelplans |
@@ -830,7 +830,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure AI services multi-service account](svg/Microsoft_Azure_ProjectOxford/AllInOne.svg) | Microsoft.CognitiveServices/ BrowseAllInOne |
 | [All Resources](svg/Microsoft_Azure_ProjectOxford/AllServices.svg) | Microsoft.CognitiveServices/ BrowseAllServices |
 | [Anomaly detector](svg/Microsoft_Azure_ProjectOxford/AnomalyDetector.svg) | Microsoft.CognitiveServices/ BrowseAnomalyDetector |
-| [Azure AI foundry](svg/Microsoft_Azure_ProjectOxford/CognitiveServicesAccount.svg) | Microsoft.CognitiveServices/ accounts |
+| [Azure AI Foundry](svg/Microsoft_Azure_ProjectOxford/CognitiveServicesAccount.svg) | Microsoft.CognitiveServices/ accounts |
 | [Computer vision](svg/Microsoft_Azure_ProjectOxford/ComputerVision.svg) | Microsoft.CognitiveServices/ BrowseComputerVision |
 | [Content moderator](svg/Microsoft_Azure_ProjectOxford/ContentModerator.svg) | Microsoft.CognitiveServices/ BrowseContentModerator |
 | [Content safety](svg/Microsoft_Azure_ProjectOxford/ContentSafety.svg) | Microsoft.CognitiveServices/ BrowseContentSafety |
@@ -1073,7 +1073,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Solution](svg/Microsoft_OperationsManagementSuite_Workspace/Solution.svg) | Microsoft.OperationsManagement/ solutions |
 | [Log Analytics dedicated cluster](svg/Microsoft_OperationsManagementSuite_Workspace/cluster.svg) | microsoft.operationalinsights/ clusters |
 | [SafeFly V2](svg/Microsoft_SafeflyV2/SafeFlyV2.svg) |  |
-| [Microsoft Security Copilot compute capacity](svg/Microsoft_Security_Copilot/SecurityCopilotResource.svg) | Microsoft.SecurityCopilot/ capacities |
+| [Microsoft Security compute capacity](svg/Microsoft_Security_Copilot/SecurityCopilotResource.svg) | Microsoft.SecurityCopilot/ capacities |
 | [Private Engage Center Connector](svg/Microsoft_ServicesHub_Extension/PrivateConnector.svg) | Private.ServicesHubDev/ connectors |
 | [Services Hub Connector](svg/Microsoft_ServicesHub_Extension/Connector.svg) | Microsoft.ServicesHub/ connectors |
 | [Azure AI Video Indexer](svg/Microsoft_VideoIndexer/VideoIndexerAccount.svg) | Microsoft.VideoIndexer/ accounts |
