@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.223.11.1 on 2025-05-27.
+Extracted from Azure Portal version 15.223.11.1 on 2025-05-28.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -947,7 +947,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [HPC cache](svg/Microsoft_Azure_StorageCache/StorageCache.svg) | Microsoft.StorageCache/ caches |
 | [Azure Managed Lustre](svg/Microsoft_Azure_StorageCache/AmlFileSystems.svg) | Microsoft.StorageCache/ amlFilesystems |
 | [Storage Discovery workspace](svg/Microsoft_Azure_StorageDiscovery/StorageDiscovery.svg) | Microsoft.StorageDiscovery/ storageDiscoveryWorkspaces |
-| [Storage Center](svg/Microsoft_Azure_StorageHub/StorageHub.svg) |  |
+| [Storage center](svg/Microsoft_Azure_StorageHub/StorageHub.svg) |  |
 | [Policy compliance](svg/Microsoft_Azure_StorageHub/PolicyComplianceResources.svg) | Microsoft.StorageHub/ PolicyComplianceResources |
 | [All resources](svg/Microsoft_Azure_StorageHub/AllResources.svg) | Microsoft.StorageHub/ all |
 | [Storage mover](svg/Microsoft_Azure_StorageMover/StorageMover.svg) | Microsoft.StorageMover/ storageMovers |
