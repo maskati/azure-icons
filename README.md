@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.223.11.1 on 2025-05-30.
+Extracted from Azure Portal version 15.223.11.1 on 2025-05-31.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -46,6 +46,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Native Pure Storage Cloud Service](svg/Azure_Marketplace_PureStorage/purestorage_block_reservations.svg) | purestorage.block/ reservations |
 | [Storage pool](svg/Azure_Marketplace_PureStorage/purestorage_block_storagepools.svg) | purestorage.block/ storagepools |
 | [Azure Native Qumulo Scalable File Service](svg/Azure_Marketplace_Qumulo/MyResource.svg) | Qumulo.Storage/ fileSystems |
+| [Sample Partner Resource](svg/Azure_Marketplace_SamplePartner/MyResource.svg) | Microsoft.SamplePartner/ organizations |
 | [SolarWinds Observability](svg/Azure_Marketplace_SolarWindsObservability/SolarWinds.svg) | SolarWinds.Observability/ Organizations |
 | [Tag](svg/HubsExtension/Tag.svg) |  |
 | [Resource group](svg/HubsExtension/ResourceGroups.svg) | Microsoft.Resources/ subscriptions/ resourceGroups |
@@ -445,18 +446,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Custom image](svg/Microsoft_Azure_DevTestLab/CustomImage.svg) |  |
 | [Dev Tunnels Domain](svg/Microsoft_Azure_DevTunnels/devtunnels.svg) | microsoft.devtunnels/ tunnelplans |
 | [Azure Digital Twins](svg/Microsoft_Azure_DigitalTwins/digitaltwinsInstances.svg) | Microsoft.DigitalTwins/ digitalTwinsInstances |
-| [Discovery Workspace](svg/Microsoft_Azure_Discovery/WorkspaceResource.svg) | Microsoft.Discovery/ workspaces |
-| [Tool](svg/Microsoft_Azure_Discovery/ToolResource.svg) | Microsoft.Discovery/ tools |
-| [Supercomputer](svg/Microsoft_Azure_Discovery/SupercomputerResource.svg) | Microsoft.Discovery/ supercomputers |
-| [Discovery Storage](svg/Microsoft_Azure_Discovery/StorageResource.svg) | Microsoft.Discovery/ storages |
-| [Project](svg/Microsoft_Azure_Discovery/ProjectResource.svg) | Microsoft.Discovery/ workspaces/ projects |
-| [Nodepool](svg/Microsoft_Azure_Discovery/NodepoolResource.svg) | Microsoft.Discovery/ supercomputers/ nodepools |
-| [Model](svg/Microsoft_Azure_Discovery/ModelResource.svg) | Microsoft.Discovery/ models |
-| [Data Container](svg/Microsoft_Azure_Discovery/DataContainerResource.svg) | Microsoft.Discovery/ dataContainers |
-| [Data asset](svg/Microsoft_Azure_Discovery/DataAssetResource.svg) | Microsoft.Discovery/ dataContainers/ dataAssets |
-| [Catalog](svg/Microsoft_Azure_Discovery/CatalogResource.svg) | Microsoft.Discovery/ catalogs |
-| [Bookshelf](svg/Microsoft_Azure_Discovery/BookshelfResource.svg) | Microsoft.Discovery/ bookshelves |
-| [Agent](svg/Microsoft_Azure_Discovery/AgentResource.svg) | Microsoft.Discovery/ agents |
 | [Snapshot](svg/Microsoft_Azure_DiskMgmt/Snapshot.svg) | Microsoft.Compute/ snapshots |
 | [Azure compute gallery](svg/Microsoft_Azure_DiskMgmt/SharedImageGallery.svg) | Microsoft.Compute/ galleries |
 | [Restore Point Collection](svg/Microsoft_Azure_DiskMgmt/RestorePointCollection.svg) | Microsoft.Compute/ restorePointCollections |
@@ -859,6 +848,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Speech service](svg/Microsoft_Azure_ProjectOxford/SpeechServices.svg) | Microsoft.CognitiveServices/ BrowseSpeechServices |
 | [Language](svg/Microsoft_Azure_ProjectOxford/TextAnalytics.svg) | Microsoft.CognitiveServices/ BrowseTextAnalytics |
 | [Translator](svg/Microsoft_Azure_ProjectOxford/TextTranslation.svg) | Microsoft.CognitiveServices/ BrowseTextTranslation |
+| [Project Sustainability Calculator (Preview)](svg/Microsoft_Azure_PSC/SustainabilityCalculations.svg) | Microsoft.SustainabilityServices/ calculations |
 | [Quantum Workspace](svg/Microsoft_Azure_Quantum/QuantumWorkspace.svg) | Microsoft.Quantum/ Workspaces |
 | [Azure Quantum](svg/Microsoft_Azure_Quantum/AzureQuantum.svg) |  |
 | [Intelligent Recommendations Account](svg/Microsoft_Azure_RecommendationsService/Account.svg) | Microsoft.RecommendationsService/ accounts |
@@ -1026,6 +1016,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Host pool](svg/Microsoft_Azure_WVD/Hostpool.svg) | Microsoft.DesktopVirtualization/ HostPools |
 | [Application group](svg/Microsoft_Azure_WVD/ApplicationGroup.svg) | Microsoft.DesktopVirtualization/ ApplicationGroups |
 | [App attach package](svg/Microsoft_Azure_WVD/AppAttach.svg) | Microsoft.DesktopVirtualization/ appAttachPackages |
+| [Segmentation Manager](svg/Microsoft_Azure_ZeroTrustSegmentation/SegmentationManagers.svg) | Microsoft.ZeroTrustSegmentation/ segmentationManagers |
 | [Bing Resource](svg/Microsoft_Bing_Api/BingAPIAccount.svg) | Microsoft.Bing/ accounts |
 | [Health Model](svg/Microsoft_CloudHealth_HealthModels/AzureHealthModel.svg) | Microsoft.CloudHealth/ healthmodels |
 | [Remote Rendering Account](svg/Microsoft_Cognition_MixedReality/RemoteRenderingAccount.svg) | Microsoft.MixedReality/ remoteRenderingAccounts |
