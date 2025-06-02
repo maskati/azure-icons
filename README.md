@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.223.11.1 on 2025-06-01.
+Extracted from Azure Portal version 15.223.11.1 on 2025-06-02.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -481,8 +481,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Database Migration Service (classic)](svg/Microsoft_Azure_DMS/Dms.svg) | Microsoft.DataMigration/ services |
 | [Traffic Manager profile](svg/Microsoft_Azure_DNS/TrafficManager.svg) | Microsoft.Network/ trafficmanagerprofiles |
 | [DNS zone](svg/Microsoft_Azure_DNS/DnsZone.svg) | Microsoft.Network/ dnsZones |
-| [DNS private resolver](svg/Microsoft_Azure_DNSManagedResolver/DnsManagedResolver.svg) | Microsoft.Network/ dnsResolvers |
 | [DNS forwarding ruleset](svg/Microsoft_Azure_DNSManagedResolver/DnsForwardingRulesets.svg) | Microsoft.Network/ dnsForwardingRulesets |
+| [DNS private resolver](svg/Microsoft_Azure_DNSManagedResolver/DnsManagedResolver.svg) | Microsoft.Network/ dnsResolvers |
 | [DNS Security Policy](svg/Microsoft_Azure_DnsSecurityPolicy/DnsSecurityPolicy.svg) | Microsoft.Network/ dnsResolverPolicies |
 | [DNS Domain List](svg/Microsoft_Azure_DnsSecurityPolicy/DnsDomainList.svg) | Microsoft.Network/ dnsResolverDomainLists |
 | [Azure Cosmos DB for MongoDB (vCore)](svg/Microsoft_Azure_DocumentDB/MongoCluster.svg) | Microsoft.DocumentDB/ mongoClusters |
