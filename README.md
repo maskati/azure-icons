@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.223.11.1 on 2025-06-05.
+Extracted from Azure Portal version 15.223.11.1 on 2025-06-06.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -890,7 +890,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Reservation order](svg/Microsoft_Azure_Reservations/ReservationOrderAsset.svg) | Microsoft.Capacity/ reservationorders |
 | [Savings plan order](svg/Microsoft_Azure_Reservations/SavingsPlanOrderAsset.svg) | Microsoft.Billing/ billingAccounts/ savingsPlanOrders |
 | [Savings plan order](svg/Microsoft_Azure_Reservations/SavingsPlanOrderServiceAdminAsset.svg) | Microsoft.BillingBenefits/ savingsPlanOrders |
-| [Resilience Hub](svg/Microsoft_Azure_ResiliencyHub/ResiliencyHub.svg) |  |
+| [Reservations_SG](svg/Microsoft_Azure_ResiliencyHub/ResiliencyHub.svg) |  |
 | [Azure Resource Mover](svg/Microsoft_Azure_ResourceMove/AzureResourceMoveHub.svg) |  |
 | [What's new](svg/Microsoft_Azure_Resources/WhatsNew.svg) |  |
 | [User privacy](svg/Microsoft_Azure_Resources/UserPrivacy.svg) |  |
@@ -1017,6 +1017,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Configuration Group Value](svg/Microsoft_Azure_VnfManager/AosmCgv.svg) | Microsoft.HybridNetwork/ configurationGroupValues |
 | [Wave Migration](svg/Microsoft_Azure_WaveMigration/WaveMigrationResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Winfield  Preview](svg/Microsoft_Azure_Winfields/Winfields.svg) | private.edgeinternal/ winfields |
+| [My Resource](svg/Microsoft_Azure_WorkloadHub/WorkloadResource.svg) | Microsoft.Workloads/ WorkloadInstance |
 | [Microsoft.Workloads insight](svg/Microsoft_Azure_WorkloadInsight/microsoft_workloads_insights_2022_10_15_preview.svg) | microsoft.workloads/ insights |
 | [MARIO](svg/Microsoft_Azure_WorkloadInsight/mario.svg) |  |
 | [Azure Monitor for SAP solutions](svg/Microsoft_Azure_WorkloadMonitor/SapMonitorV2.svg) | Microsoft.Workloads/ monitors |
