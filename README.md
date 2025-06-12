@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.238.0.1 on 2025-06-11.
+Extracted from Azure Portal version 15.238.0.1 on 2025-06-12.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -252,10 +252,10 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [SIM Policy](svg/Microsoft_Azure_AP5GC/MobileNetworkMobileNetworkSimPolicies.svg) | Microsoft.MobileNetwork/ mobileNetworks/ simPolicies |
 | [Mobile Network Site](svg/Microsoft_Azure_AP5GC/MobileNetworkMobileNetworkSites.svg) | Microsoft.MobileNetwork/ mobileNetworks/ sites |
 | [Slice](svg/Microsoft_Azure_AP5GC/MobileNetworkMobileNetworkSlices.svg) | Microsoft.MobileNetwork/ mobileNetworks/ slices |
-| [API Center](svg/Microsoft_Azure_ApiManagement/Center.svg) | Microsoft.ApiCenter/ services |
-| [Gateway](svg/Microsoft_Azure_ApiManagement/Gateway.svg) | Microsoft.ApiManagement/ gateways |
-| [API Management service](svg/Microsoft_Azure_ApiManagement/Service.svg) | Microsoft.ApiManagement/ service |
 | [Workspace](svg/Microsoft_Azure_ApiManagement/WorkspaceCatalog.svg) | Microsoft.ApiCenter/ services/ workspaces |
+| [API Management service](svg/Microsoft_Azure_ApiManagement/Service.svg) | Microsoft.ApiManagement/ service |
+| [Gateway](svg/Microsoft_Azure_ApiManagement/Gateway.svg) | Microsoft.ApiManagement/ gateways |
+| [API Center](svg/Microsoft_Azure_ApiManagement/Center.svg) | Microsoft.ApiCenter/ services |
 | [App Compliance Automation Tool for Microsoft 365](svg/Microsoft_Azure_AppComplianceAutomation/AppComplianceAutomation.svg) |  |
 | [Service catalog managed application definition](svg/Microsoft_Azure_Appliance/ApplianceDefinition.svg) | Microsoft.Solutions/ applicationDefinitions |
 | [Managed applications center](svg/Microsoft_Azure_Appliance/ApplicationsHub.svg) |  |
@@ -445,18 +445,19 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Custom image](svg/Microsoft_Azure_DevTestLab/CustomImage.svg) |  |
 | [Dev Tunnels Domain](svg/Microsoft_Azure_DevTunnels/devtunnels.svg) | microsoft.devtunnels/ tunnelplans |
 | [Azure Digital Twins](svg/Microsoft_Azure_DigitalTwins/digitaltwinsInstances.svg) | Microsoft.DigitalTwins/ digitalTwinsInstances |
-| [Discovery Workspace](svg/Microsoft_Azure_Discovery/WorkspaceResource.svg) | Microsoft.Discovery/ workspaces |
-| [Tool](svg/Microsoft_Azure_Discovery/ToolResource.svg) | Microsoft.Discovery/ tools |
-| [Supercomputer](svg/Microsoft_Azure_Discovery/SupercomputerResource.svg) | Microsoft.Discovery/ supercomputers |
+| [Microsoft Discovery Workspace](svg/Microsoft_Azure_Discovery/WorkspaceResource.svg) | Microsoft.Discovery/ workspaces |
+| [Microsoft Discovery Workflow](svg/Microsoft_Azure_Discovery/WorkflowResource.svg) | Microsoft.Discovery/ workflows |
+| [Microsoft Discovery Tool](svg/Microsoft_Azure_Discovery/ToolResource.svg) | Microsoft.Discovery/ tools |
+| [Microsoft Discovery Supercomputer](svg/Microsoft_Azure_Discovery/SupercomputerResource.svg) | Microsoft.Discovery/ supercomputers |
 | [Discovery Storage](svg/Microsoft_Azure_Discovery/StorageResource.svg) | Microsoft.Discovery/ storages |
-| [Project](svg/Microsoft_Azure_Discovery/ProjectResource.svg) | Microsoft.Discovery/ workspaces/ projects |
-| [Nodepool](svg/Microsoft_Azure_Discovery/NodepoolResource.svg) | Microsoft.Discovery/ supercomputers/ nodepools |
-| [Model](svg/Microsoft_Azure_Discovery/ModelResource.svg) | Microsoft.Discovery/ models |
-| [Data Container](svg/Microsoft_Azure_Discovery/DataContainerResource.svg) | Microsoft.Discovery/ dataContainers |
+| [Microsoft Discovery Project](svg/Microsoft_Azure_Discovery/ProjectResource.svg) | Microsoft.Discovery/ workspaces/ projects |
+| [Microsoft Discovery Nodepool](svg/Microsoft_Azure_Discovery/NodepoolResource.svg) | Microsoft.Discovery/ supercomputers/ nodepools |
+| [Microsoft Discovery Model](svg/Microsoft_Azure_Discovery/ModelResource.svg) | Microsoft.Discovery/ models |
+| [Microsoft Discovery Data Container](svg/Microsoft_Azure_Discovery/DataContainerResource.svg) | Microsoft.Discovery/ dataContainers |
 | [Data asset](svg/Microsoft_Azure_Discovery/DataAssetResource.svg) | Microsoft.Discovery/ dataContainers/ dataAssets |
 | [Catalog](svg/Microsoft_Azure_Discovery/CatalogResource.svg) | Microsoft.Discovery/ catalogs |
-| [Bookshelf](svg/Microsoft_Azure_Discovery/BookshelfResource.svg) | Microsoft.Discovery/ bookshelves |
-| [Agent](svg/Microsoft_Azure_Discovery/AgentResource.svg) | Microsoft.Discovery/ agents |
+| [Microsoft Discovery Bookshelf](svg/Microsoft_Azure_Discovery/BookshelfResource.svg) | Microsoft.Discovery/ bookshelves |
+| [Microsoft Discovery Agent](svg/Microsoft_Azure_Discovery/AgentResource.svg) | Microsoft.Discovery/ agents |
 | [Snapshot](svg/Microsoft_Azure_DiskMgmt/Snapshot.svg) | Microsoft.Compute/ snapshots |
 | [Azure compute gallery](svg/Microsoft_Azure_DiskMgmt/SharedImageGallery.svg) | Microsoft.Compute/ galleries |
 | [Restore Point Collection](svg/Microsoft_Azure_DiskMgmt/RestorePointCollection.svg) | Microsoft.Compute/ restorePointCollections |
