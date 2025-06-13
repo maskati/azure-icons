@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.238.0.1 on 2025-06-12.
+Extracted from Azure Portal version 15.238.0.1 on 2025-06-13.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -674,10 +674,12 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Nixtla](svg/Microsoft_Azure_MLTeamAccounts/Nixtla.svg) |  |
 | [Model Provider](svg/Microsoft_Azure_MLTeamAccounts/ModelProvider.svg) |  |
 | [Mistral](svg/Microsoft_Azure_MLTeamAccounts/Mistral.svg) |  |
+| [Azure Machine Learning workspace](svg/Microsoft_Azure_MLTeamAccounts/MachineLearningServicesCreate.svg) | Microsoft.MachineLearningServices/ workspacescreate |
 | [Azure Machine Learning workspace](svg/Microsoft_Azure_MLTeamAccounts/MachineLearningServices.svg) | Microsoft.MachineLearningServices/ workspaces |
 | [Llama2](svg/Microsoft_Azure_MLTeamAccounts/Llama2.svg) |  |
 | [Core42](svg/Microsoft_Azure_MLTeamAccounts/Core42.svg) |  |
 | [Cohere](svg/Microsoft_Azure_MLTeamAccounts/Cohere.svg) |  |
+| [Azure AI Foundry](svg/Microsoft_Azure_MLTeamAccounts/AIStudioCreate.svg) | Microsoft.MachineLearningServices/ aistudiocreate |
 | [Azure AI Foundry](svg/Microsoft_Azure_MLTeamAccounts/AIStudio.svg) | Microsoft.MachineLearningServices/ aistudio |
 | [Azure Machine Learning registry](svg/Microsoft_Azure_MLTeamAccounts/Registry.svg) | Microsoft.MachineLearningServices/ registries |
 | [Machine learning online endpoint](svg/Microsoft_Azure_MLTeamAccounts/OnlineEndpoint.svg) | Microsoft.MachineLearningServices/ workspaces/ onlineEndpoints |
