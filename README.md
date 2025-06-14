@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.238.0.1 on 2025-06-13.
+Extracted from Azure Portal version 15.238.0.1 on 2025-06-14.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -377,7 +377,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Kubernetes service](svg/Microsoft_Azure_ContainerService/ManagedClusters.svg) | Microsoft.ContainerService/ managedClusters |
 | [Kubernetes service extension](svg/Microsoft_Azure_ContainerService/KubernetesClusterExtensionsChild.svg) | microsoft.containerservice/ managedclusters/ microsoft.kubernetesconfiguration/ extensions |
 | [Kubernetes service extension](svg/Microsoft_Azure_ContainerService/KubernetesClusterExtensions.svg) | microsoft.kubernetesconfiguration/ extensions |
-| [Kubernetes fleet manager](svg/Microsoft_Azure_ContainerService/Fleets.svg) | microsoft.containerservice/ fleets |
 | [Azure Red Hat OpenShift cluster](svg/Microsoft_Azure_ContainerService/AroClusters.svg) | Microsoft.RedHatOpenShift/ OpenShiftClusters |
 | [Container storage](svg/Microsoft_Azure_ContainerStorage/ContainerStorage.svg) | Microsoft.ContainerStorage/ pools |
 | [Copilot in Azure admin center](svg/Microsoft_Azure_Copilot/CopilotSettingsAsset.svg) |  |
@@ -877,22 +876,22 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [WCF Relay](svg/Microsoft_Azure_Relay/WcfRelay.svg) | Microsoft.Relay/ namespaces/ WcfRelays |
 | [Relay](svg/Microsoft_Azure_Relay/Relay.svg) | Microsoft.Relay/ namespaces |
 | [Hybrid Connection](svg/Microsoft_Azure_Relay/HybridConnection.svg) | Microsoft.Relay/ namespaces/ HybridConnections |
-| [Reservation](svg/Microsoft_Azure_Reservations/ReservationsBrowseAsset.svg) |  |
-| [Savings plan](svg/Microsoft_Azure_Reservations/SavingsPlanBrowseAsset.svg) |  |
-| [Incentive Schedule](svg/Microsoft_Azure_Reservations/ContingencyBillingAdminAsset.svg) | Microsoft.Billing/ billingAccounts/ incentiveSchedules |
-| [Incentive Schedule](svg/Microsoft_Azure_Reservations/ContingencyBrowseAsset.svg) |  |
-| [Incentive Schedule](svg/Microsoft_Azure_Reservations/ContingencyServiceAdminAsset.svg) | Microsoft.BillingBenefits/ incentiveSchedules |
-| [Credit](svg/Microsoft_Azure_Reservations/CreditBrowseAsset.svg) | Microsoft.BillingBenefits/ credits |
-| [Reservation](svg/Microsoft_Azure_Reservations/ReservationAsset.svg) | Microsoft.Capacity/ reservationorders/ reservations |
-| [Savings plan](svg/Microsoft_Azure_Reservations/SavingsPlanItemAsset.svg) | Microsoft.Billing/ billingAccounts/ savingsPlanOrders/ savingsPlans |
-| [Savings plan](svg/Microsoft_Azure_Reservations/SavingsPlanItemServiceAdminAsset.svg) | Microsoft.BillingBenefits/ savingsPlanOrders/ savingsPlans |
-| [Discount](svg/Microsoft_Azure_Reservations/DiscountBrowseAsset.svg) | Microsoft.BillingBenefits/ discounts |
-| [Microsoft Azure Consumption Commitment](svg/Microsoft_Azure_Reservations/MaccBrowseAsset.svg) | Microsoft.BillingBenefits/ maccs |
-| [Milestone](svg/Microsoft_Azure_Reservations/MilestoneBillingAdminAsset.svg) | Microsoft.Billing/ billingAccounts/ incentiveSchedules/ milestones |
-| [Milestone](svg/Microsoft_Azure_Reservations/MilestoneServiceAdminAsset.svg) | Microsoft.BillingBenefits/ incentiveSchedules/ milestones |
-| [Reservation order](svg/Microsoft_Azure_Reservations/ReservationOrderAsset.svg) | Microsoft.Capacity/ reservationorders |
-| [Savings plan order](svg/Microsoft_Azure_Reservations/SavingsPlanOrderAsset.svg) | Microsoft.Billing/ billingAccounts/ savingsPlanOrders |
 | [Savings plan order](svg/Microsoft_Azure_Reservations/SavingsPlanOrderServiceAdminAsset.svg) | Microsoft.BillingBenefits/ savingsPlanOrders |
+| [Savings plan order](svg/Microsoft_Azure_Reservations/SavingsPlanOrderAsset.svg) | Microsoft.Billing/ billingAccounts/ savingsPlanOrders |
+| [Reservation order](svg/Microsoft_Azure_Reservations/ReservationOrderAsset.svg) | Microsoft.Capacity/ reservationorders |
+| [Milestone](svg/Microsoft_Azure_Reservations/MilestoneServiceAdminAsset.svg) | Microsoft.BillingBenefits/ incentiveSchedules/ milestones |
+| [Milestone](svg/Microsoft_Azure_Reservations/MilestoneBillingAdminAsset.svg) | Microsoft.Billing/ billingAccounts/ incentiveSchedules/ milestones |
+| [Microsoft Azure Consumption Commitment](svg/Microsoft_Azure_Reservations/MaccBrowseAsset.svg) | Microsoft.BillingBenefits/ maccs |
+| [Discount](svg/Microsoft_Azure_Reservations/DiscountBrowseAsset.svg) | Microsoft.BillingBenefits/ discounts |
+| [Savings plan](svg/Microsoft_Azure_Reservations/SavingsPlanItemServiceAdminAsset.svg) | Microsoft.BillingBenefits/ savingsPlanOrders/ savingsPlans |
+| [Savings plan](svg/Microsoft_Azure_Reservations/SavingsPlanItemAsset.svg) | Microsoft.Billing/ billingAccounts/ savingsPlanOrders/ savingsPlans |
+| [Reservation](svg/Microsoft_Azure_Reservations/ReservationAsset.svg) | Microsoft.Capacity/ reservationorders/ reservations |
+| [Credit](svg/Microsoft_Azure_Reservations/CreditBrowseAsset.svg) | Microsoft.BillingBenefits/ credits |
+| [Incentive Schedule](svg/Microsoft_Azure_Reservations/ContingencyServiceAdminAsset.svg) | Microsoft.BillingBenefits/ incentiveSchedules |
+| [Incentive Schedule](svg/Microsoft_Azure_Reservations/ContingencyBrowseAsset.svg) |  |
+| [Incentive Schedule](svg/Microsoft_Azure_Reservations/ContingencyBillingAdminAsset.svg) | Microsoft.Billing/ billingAccounts/ incentiveSchedules |
+| [Savings plan](svg/Microsoft_Azure_Reservations/SavingsPlanBrowseAsset.svg) |  |
+| [Reservation](svg/Microsoft_Azure_Reservations/ReservationsBrowseAsset.svg) |  |
 | [Reservations_SG](svg/Microsoft_Azure_ResiliencyHub/ResiliencyHub.svg) |  |
 | [Azure Resource Mover](svg/Microsoft_Azure_ResourceMove/AzureResourceMoveHub.svg) |  |
 | [What's new](svg/Microsoft_Azure_Resources/WhatsNew.svg) |  |
