@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.238.0.1 on 2025-06-19.
+Extracted from Azure Portal version 15.238.0.1 on 2025-06-20.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -214,7 +214,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Administrative units](svg/Microsoft_AAD_IAM/AdminUnitManagementBlade.svg) |  |
 | [Enterprise application](svg/Microsoft_AAD_IAM/Application.svg) |  |
 | [App proxy](svg/Microsoft_AAD_IAM/AppProxyOverview.svg) |  |
-| [App registration](svg/Microsoft_AAD_RegisteredApps/RegisteredApps.svg) |  |
 | [EngageHub Portal](svg/Microsoft_AzureCXP_EngageHub/EngageHubPortalMenu.svg) |  |
 | [Azure Local - disconnected operations](svg/Microsoft_AzureStackHCI_PortalExtension/Winfields.svg) | Microsoft.Edge/ disconnectedoperations |
 | [Edge Center](svg/Microsoft_AzureStackHCI_PortalExtension/EdgeCenter.svg) |  |
@@ -273,8 +272,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Change Tracking and Inventory](svg/Microsoft_Azure_Automation/ChangeTrackingCenter.svg) |  |
 | [Guest Assignment](svg/Microsoft_Azure_Automation/GuestAssignment.svg) | Microsoft.Compute/ virtualMachines/ providers/ guestConfigurationAssignments |
 | [Guest Assignment](svg/Microsoft_Azure_Automation/NonAzureGuestAssignment.svg) | Microsoft.HybridCompute/ machines/ providers/ guestConfigurationAssignments |
-| [Maintenance configuration (preview)](svg/Microsoft_Azure_Automation/MaintenanceConfigurationAUMasset.svg) | microsoft.maintenance/ maintenanceconfigurationsBladeResource |
+| [Maintenance configuration](svg/Microsoft_Azure_Automation/MaintenanceConfigurationAUMasset.svg) | microsoft.maintenance/ maintenanceconfigurationsAUMBladeResource |
 | [Azure Update Manager](svg/Microsoft_Azure_Automation/UpdateCenter.svg) |  |
+| [Update Rule](svg/Microsoft_Azure_Automation/UpdateRule.svg) | microsoft.updatemanager/ updaterules |
 | [](svg/Microsoft_Azure_Automation/UpdateAgentTroubleshooting.svg) |  |
 | [App Configuration](svg/Microsoft_Azure_AzConfig/StoreResource.svg) | Microsoft.AppConfiguration/ configurationStores |
 | [Compute Fleet](svg/Microsoft_Azure_AzFleet/AzureFleetComputeHub.svg) | microsoft.azurefleet/ fleetsComputehub |
