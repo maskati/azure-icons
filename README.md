@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.238.0.1 on 2025-06-21.
+Extracted from Azure Portal version 15.238.0.1 on 2025-06-22.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -226,7 +226,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Local Logical network](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCILogicalNetwork.svg) | Microsoft.AzureStackHCI/ logicalnetworks |
 | [Azure Local Gallery image](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCIGalleryImage.svg) | Microsoft.AzureStackHCI/ galleryImages |
 | [Azure Local](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCI.svg) |  |
-| [Azure Stack  Preview](svg/Microsoft_AzureStackHCI_PortalExtension/AzureEdgeNodePool.svg) | Microsoft.AzureStackHCI/ edgeNodePools |
+| [Azure Local](svg/Microsoft_AzureStackHCI_PortalExtension/AszBrowseUpdates.svg) | microsoft.azurestackhci/ clusters/ updateSummaries |
+| [Azure Local](svg/Microsoft_AzureStackHCI_PortalExtension/AszBrowseHistory.svg) | microsoft.azurestackhci/ clusters/ updates/ updateRuns |
+| [Azure Stack  Preview](svg/Microsoft_AzureStackHCI_PortalExtension/AzureEdgeNodePool.svg) | Microsoft.AzureStackHCI/ devicePools |
 | [AszLabHardware Lab Server](svg/Microsoft_AzureStack_LabHardware/LabServers.svg) | private.aszlabhardware/ labservers |
 | [AszLabHardware Reservation](svg/Microsoft_AzureStack_LabHardware/Reservations.svg) | private.aszlabhardware/ reservations |
 | [AszLabHardware Server](svg/Microsoft_AzureStack_LabHardware/Servers.svg) | private.aszlabhardware/ servers |
