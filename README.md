@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.238.0.1 on 2025-06-25.
+Extracted from Azure Portal version 15.238.0.1 on 2025-06-26.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -26,7 +26,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Datadog](svg/Azure_Marketplace_Datadog/Datadog.svg) | Microsoft.Datadog/ monitors |
 | [Dell PowerScale](svg/Azure_Marketplace_Dell/Azure_Microsoft_Dell.svg) | Dell.Storage/ filesystems |
 | [Dynatrace](svg/Azure_Marketplace_Dynatrace/Dynatrace.svg) | Dynatrace.Observability/ monitors |
-| [Elastic](svg/Azure_Marketplace_Elastic/Elastic.svg) | Microsoft.Elastic/ monitors |
+| [Elastic Cloud Resource](svg/Azure_Marketplace_Elastic/Elastic.svg) | Microsoft.Elastic/ monitors |
 | [Informatica Organization](svg/Azure_Marketplace_Informatica/Informatica.svg) | Informatica.DataManagement/ organizations |
 | [New Relic](svg/Azure_Marketplace_Liftr_NewRelic/NewRelic.svg) | NewRelic.Observability/ monitors |
 | [Azure Native Pinecone Cloud Service](svg/Azure_MarketPlace_NativeISVService/Pinecone.svg) | pinecone.vectordb/ organizations |
@@ -1140,7 +1140,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [			Deals		](svg/VLCentral_Quote/VLCentralQuote.svg) |  |
 | [Reporting & Analytics](svg/VLCentral_ReportingNAnalytics/VLCentralReporting.svg) |  |
 | [User Management](svg/VLCentral_UUM/VLCentralUUM.svg) |  |
-| [Azure VMware Solution private cloud](svg/VMCP/SDDC.svg) | Microsoft.AVS/ privateClouds |
+| [Azure VMware Solution private cloud](svg/VMCP/PrivateCloud.svg) | Microsoft.AVS/ privateClouds |
 | [Data Transfer Agent](svg/WandiscoExtension/DataTransferAgent.svg) | Wandisco.Fusion/ migrators/ dataTransferAgents |
 | [Exclusion](svg/WandiscoExtension/Exclusion.svg) | Wandisco.Fusion/ migrators/ exclusionTemplates |
 | [Migration](svg/WandiscoExtension/LiveDataMigration.svg) | Wandisco.Fusion/ migrators/ liveDataMigrations |
