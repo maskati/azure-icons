@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.242.0.1 on 2025-06-27.
+Extracted from Azure Portal version 15.242.0.1 on 2025-06-28.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -309,6 +309,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Landing zone account](svg/Microsoft_Azure_CloudforSovereignty/LandingZoneAccountsAsset.svg) | microsoft.sovereign/ landingzoneaccounts |
 | [Landing Zone Configuration](svg/Microsoft_Azure_CloudforSovereignty/LZConfigurationsAsset.svg) | microsoft.sovereign/ landingzoneaccounts/ landingzoneconfigurations |
 | [Azure Cloud HSM](svg/Microsoft_Azure_CloudHSM/CloudHSM.svg) | Microsoft.HardwareSecurityModules/ cloudHsmClusters |
+| [Playwright Workspace](svg/Microsoft_Azure_CloudNativeTesting/PlaywrightWorkspace.svg) | Microsoft.LoadTestService/ playwrightworkspaces |
 | [Azure Load Testing](svg/Microsoft_Azure_CloudNativeTesting/CloudNativeTesting.svg) | Microsoft.LoadTestService/ LoadTests |
 | [Cloud service role (classic)](svg/Microsoft_Azure_CloudServices/Role.svg) | microsoft.classiccompute/ domainnames/ slots/ roles |
 | [Cloud service (classic)](svg/Microsoft_Azure_CloudServices/CloudService.svg) | microsoft.classicCompute/ domainNames |
@@ -502,7 +503,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Microsoft Defender EASM (Preview)](svg/Microsoft_Azure_EASM/PrivateEasmWorkspace.svg) | Private.Easm/ workspaces |
 | [Impact Reporting](svg/Microsoft_Azure_ECE/ImpactRP.svg) |  |
 | [Impact Reporting Connector](svg/Microsoft_Azure_ECE/microsoft_impact_connectors_2025_01_01_preview.svg) | microsoft.impact/ connectors |
-| [Edge Action](svg/Microsoft_Azure_EdgeAction/EdgeAction.svg) | Microsoft.Cdn/ edgeactions |
+| [Edge Action](svg/Microsoft_Azure_EdgeAction/EdgeAction.svg) | Microsoft.Cdn/ EdgeActions |
 | [My Resource](svg/Microsoft_Azure_EdgeAIExtension/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Azure Stack Edge / Data Box Gateway](svg/Microsoft_Azure_EdgeGateway/EdgeGateway.svg) | Microsoft.DataBoxEdge/ dataBoxEdgeDevices |
 | [My Resource](svg/Microsoft_Azure_EdgeManagementCopilot/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
@@ -577,6 +578,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Extended Security Updates - Windows Server 2012/R2](svg/Microsoft_Azure_HybridCompute/EsuLicense.svg) | Microsoft.HybridCompute/ licenses |
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/HybridComputeEsu.svg) | Microsoft.HybridCompute/ machinesEsu |
 | [Arc gateway](svg/Microsoft_Azure_HybridCompute/ArcGateway.svg) | Microsoft.HybridCompute/ gateways |
+| [Arc gateway associated resource](svg/Microsoft_Azure_HybridCompute/ArcGatewayAssociatedResources.svg) | Microsoft.HybridCompute/ ArcGatewayAssociatedResources |
 | [SCVMM management server](svg/Microsoft_Azure_HybridCompute/ScVmmManagementServer.svg) | Microsoft.ScVmm/ vmmServers |
 | [SCVMM virtual machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/ArcVmScVmm.svg) | Microsoft.scvmm/ virtualMachines |
 | [Azure Arc Private Link Scope](svg/Microsoft_Azure_HybridCompute/AzureArcPrivateLinkScope.svg) | Microsoft.HybridCompute/ privateLinkScopes |
@@ -1059,6 +1061,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Tenant administration](svg/Microsoft_Intune_DeviceSettings/TenantAdminAsset.svg) |  |
 | [Devices](svg/Microsoft_Intune_DeviceSettings/DevicesAsset.svg) |  |
 | [Apps](svg/Microsoft_Intune_DeviceSettings/AppsAsset.svg) |  |
+| [Agents](svg/Microsoft_Intune_DeviceSettings/AgentsAsset.svg) |  |
 | [Intune for Education](svg/Microsoft_Intune_DeviceSettings/IntuneEduAsset.svg) |  |
 | [Microsoft Entra](svg/Microsoft_Intune_DeviceSettings/AADAsset.svg) |  |
 | [Express configuration](svg/Microsoft_Intune_Edu/ExpressSetup.svg) |  |
