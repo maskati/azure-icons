@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.242.0.1 on 2025-06-28.
+Extracted from Azure Portal version 15.238.0.1 on 2025-06-29.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -460,7 +460,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Microsoft Discovery Model](svg/Microsoft_Azure_Discovery/ModelResource.svg) | Microsoft.Discovery/ models |
 | [Microsoft Discovery Data Container](svg/Microsoft_Azure_Discovery/DataContainerResource.svg) | Microsoft.Discovery/ dataContainers |
 | [Data asset](svg/Microsoft_Azure_Discovery/DataAssetResource.svg) | Microsoft.Discovery/ dataContainers/ dataAssets |
-| [Catalog](svg/Microsoft_Azure_Discovery/CatalogResource.svg) | Microsoft.Discovery/ catalogs |
 | [Microsoft Discovery Bookshelf](svg/Microsoft_Azure_Discovery/BookshelfResource.svg) | Microsoft.Discovery/ bookshelves |
 | [Microsoft Discovery Agent](svg/Microsoft_Azure_Discovery/AgentResource.svg) | Microsoft.Discovery/ agents |
 | [Snapshot](svg/Microsoft_Azure_DiskMgmt/Snapshot.svg) | Microsoft.Compute/ snapshots |
@@ -578,7 +577,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Extended Security Updates - Windows Server 2012/R2](svg/Microsoft_Azure_HybridCompute/EsuLicense.svg) | Microsoft.HybridCompute/ licenses |
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/HybridComputeEsu.svg) | Microsoft.HybridCompute/ machinesEsu |
 | [Arc gateway](svg/Microsoft_Azure_HybridCompute/ArcGateway.svg) | Microsoft.HybridCompute/ gateways |
-| [Arc gateway associated resource](svg/Microsoft_Azure_HybridCompute/ArcGatewayAssociatedResources.svg) | Microsoft.HybridCompute/ ArcGatewayAssociatedResources |
 | [SCVMM management server](svg/Microsoft_Azure_HybridCompute/ScVmmManagementServer.svg) | Microsoft.ScVmm/ vmmServers |
 | [SCVMM virtual machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/ArcVmScVmm.svg) | Microsoft.scvmm/ virtualMachines |
 | [Azure Arc Private Link Scope](svg/Microsoft_Azure_HybridCompute/AzureArcPrivateLinkScope.svg) | Microsoft.HybridCompute/ privateLinkScopes |
@@ -1085,6 +1083,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Reports](svg/Microsoft_Intune_Enrollment/ReportsAsset.svg) |  |
 | [Endpoint security](svg/Microsoft_Intune_Workflows/SecurityManagementAsset.svg) |  |
 | [Security Baselines](svg/Microsoft_Intune_Workflows/SecurityBaselineAsset.svg) |  |
+| [Explorer](svg/Microsoft_Intune_Workflows/CustomQueryResultAsset.svg) |  |
 | [Factory Operations Agent in Azure AI Foundry](svg/Microsoft_ManufacturingPlatform_DMM/DataManagerForManufacturing.svg) | Microsoft.ManufacturingPlatform/ ManufacturingDataServices |
 | [My Resource](svg/Microsoft_Marketplace_SolutionFinder/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Skylarc](svg/Microsoft_OneFleet_DataHub/Skylark.svg) |  |
