@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.238.0.1 on 2025-06-29.
+Extracted from Azure Portal version 15.238.0.1 on 2025-06-30.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -577,6 +577,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Extended Security Updates - Windows Server 2012/R2](svg/Microsoft_Azure_HybridCompute/EsuLicense.svg) | Microsoft.HybridCompute/ licenses |
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/HybridComputeEsu.svg) | Microsoft.HybridCompute/ machinesEsu |
 | [Arc gateway](svg/Microsoft_Azure_HybridCompute/ArcGateway.svg) | Microsoft.HybridCompute/ gateways |
+| [Arc gateway associated resource](svg/Microsoft_Azure_HybridCompute/ArcGatewayAssociatedResources.svg) | Microsoft.HybridCompute/ ArcGatewayAssociatedResources |
 | [SCVMM management server](svg/Microsoft_Azure_HybridCompute/ScVmmManagementServer.svg) | Microsoft.ScVmm/ vmmServers |
 | [SCVMM virtual machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/ArcVmScVmm.svg) | Microsoft.scvmm/ virtualMachines |
 | [Azure Arc Private Link Scope](svg/Microsoft_Azure_HybridCompute/AzureArcPrivateLinkScope.svg) | Microsoft.HybridCompute/ privateLinkScopes |
@@ -696,6 +697,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Data collection rule associated resource](svg/Microsoft_Azure_Monitoring/DataCollectionRulesResources.svg) | Microsoft.Insights/ DataCollectionRulesResources |
 | [Data collection rule](svg/Microsoft_Azure_Monitoring/DataCollectionRules.svg) | microsoft.insights/ datacollectionrules |
 | [Data collection endpoint](svg/Microsoft_Azure_Monitoring/DataCollectionEndpoints.svg) | microsoft.insights/ datacollectionendpoints |
+| [SLI](svg/Microsoft_Azure_Monitoring/Sli.svg) |  |
 | [Managed Prometheus](svg/Microsoft_Azure_Monitoring/Prometheus.svg) |  |
 | [Metrics](svg/Microsoft_Azure_Monitoring/Metrics.svg) |  |
 | [Diagnostic settings](svg/Microsoft_Azure_Monitoring/AzureMonitoringSubscriptionalLevelDiagnosticsDetail.svg) | Microsoft.Insights/ diagnosticSettings |
