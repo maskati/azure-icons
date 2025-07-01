@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.238.0.1 on 2025-06-30.
+Extracted from Azure Portal version 16.81.0.1 on 2025-07-01.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -697,7 +697,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Data collection rule associated resource](svg/Microsoft_Azure_Monitoring/DataCollectionRulesResources.svg) | Microsoft.Insights/ DataCollectionRulesResources |
 | [Data collection rule](svg/Microsoft_Azure_Monitoring/DataCollectionRules.svg) | microsoft.insights/ datacollectionrules |
 | [Data collection endpoint](svg/Microsoft_Azure_Monitoring/DataCollectionEndpoints.svg) | microsoft.insights/ datacollectionendpoints |
-| [SLI](svg/Microsoft_Azure_Monitoring/Sli.svg) |  |
 | [Managed Prometheus](svg/Microsoft_Azure_Monitoring/Prometheus.svg) |  |
 | [Metrics](svg/Microsoft_Azure_Monitoring/Metrics.svg) |  |
 | [Diagnostic settings](svg/Microsoft_Azure_Monitoring/AzureMonitoringSubscriptionalLevelDiagnosticsDetail.svg) | Microsoft.Insights/ diagnosticSettings |
@@ -1145,15 +1144,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Reporting & Analytics](svg/VLCentral_ReportingNAnalytics/VLCentralReporting.svg) |  |
 | [User Management](svg/VLCentral_UUM/VLCentralUUM.svg) |  |
 | [Azure VMware Solution private cloud](svg/VMCP/PrivateCloud.svg) | Microsoft.AVS/ privateClouds |
-| [Data Transfer Agent](svg/WandiscoExtension/DataTransferAgent.svg) | Wandisco.Fusion/ migrators/ dataTransferAgents |
-| [Exclusion](svg/WandiscoExtension/Exclusion.svg) | Wandisco.Fusion/ migrators/ exclusionTemplates |
-| [Migration](svg/WandiscoExtension/LiveDataMigration.svg) | Wandisco.Fusion/ migrators/ liveDataMigrations |
-| [Metadata Migration](svg/WandiscoExtension/MetadataMigration.svg) | Wandisco.Fusion/ migrators/ metadataMigrations |
-| [Metadata Target](svg/WandiscoExtension/MetadataTarget.svg) | Wandisco.Fusion/ migrators/ metadataTargets |
-| [Verification](svg/WandiscoExtension/MigrationVerification.svg) | Wandisco.Fusion/ migrators/ verifications |
-| [LiveData Migrator](svg/WandiscoExtension/Migrator.svg) | Wandisco.Fusion/ migrators |
-| [Path Mapping](svg/WandiscoExtension/PathMapping.svg) | Wandisco.Fusion/ migrators/ pathMappings |
-| [Target](svg/WandiscoExtension/Target.svg) | Wandisco.Fusion/ migrators/ targets |
 | [App Service (Slot)](svg/WebsitesExtension/WebsiteSlot.svg) | Microsoft.Web/ sites/ slots |
 | [App Service](svg/WebsitesExtension/Website.svg) | Microsoft.Web/ sites |
 | [App Service plan](svg/WebsitesExtension/WebHostingPlan.svg) | Microsoft.Web/ serverFarms |
