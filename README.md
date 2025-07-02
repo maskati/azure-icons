@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.81.0.1 on 2025-07-01.
+Extracted from Azure Portal version 16.81.0.1 on 2025-07-02.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -214,6 +214,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Administrative units](svg/Microsoft_AAD_IAM/AdminUnitManagementBlade.svg) |  |
 | [Enterprise application](svg/Microsoft_AAD_IAM/Application.svg) |  |
 | [App proxy](svg/Microsoft_AAD_IAM/AppProxyOverview.svg) |  |
+| [App registration](svg/Microsoft_AAD_RegisteredApps/RegisteredApps.svg) |  |
 | [EngageHub Portal](svg/Microsoft_AzureCXP_EngageHub/EngageHubPortalMenu.svg) |  |
 | [Azure Local - disconnected operations](svg/Microsoft_AzureStackHCI_PortalExtension/Winfields.svg) | Microsoft.Edge/ disconnectedoperations |
 | [Edge Center](svg/Microsoft_AzureStackHCI_PortalExtension/EdgeCenter.svg) |  |
@@ -697,6 +698,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Data collection rule associated resource](svg/Microsoft_Azure_Monitoring/DataCollectionRulesResources.svg) | Microsoft.Insights/ DataCollectionRulesResources |
 | [Data collection rule](svg/Microsoft_Azure_Monitoring/DataCollectionRules.svg) | microsoft.insights/ datacollectionrules |
 | [Data collection endpoint](svg/Microsoft_Azure_Monitoring/DataCollectionEndpoints.svg) | microsoft.insights/ datacollectionendpoints |
+| [SLI](svg/Microsoft_Azure_Monitoring/Sli.svg) |  |
 | [Managed Prometheus](svg/Microsoft_Azure_Monitoring/Prometheus.svg) |  |
 | [Metrics](svg/Microsoft_Azure_Monitoring/Metrics.svg) |  |
 | [Diagnostic settings](svg/Microsoft_Azure_Monitoring/AzureMonitoringSubscriptionalLevelDiagnosticsDetail.svg) | Microsoft.Insights/ diagnosticSettings |
