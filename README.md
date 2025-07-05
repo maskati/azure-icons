@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.81.0.1 on 2025-07-04.
+Extracted from Azure Portal version 16.81.2.1 on 2025-07-05.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -32,6 +32,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Native Pinecone Cloud Service](svg/Azure_MarketPlace_NativeISVService/Pinecone.svg) | pinecone.vectordb/ organizations |
 | [MongoDB Atlas Organization](svg/Azure_MarketPlace_NativeISVService/MongoDB.svg) | MongoDB.Atlas/ organizations |
 | [Azure Native Weights & Biases Cloud Service](svg/Azure_MarketPlace_NativeISVService/WeightsAndBiases.svg) | microsoft.weightsandbiases/ instances |
+| [Azure Native LiftrLite Sample RP - An Azure Native Sample RP Cloud Service](svg/Azure_MarketPlace_NativeISVService/Liftrbasic.svg) | liftrbasic.samplerp/ organizations |
 | [Azure Native LambdaTest - HyperExecute Cloud Service](svg/Azure_MarketPlace_NativeISVService/LambdaTest.svg) | lambdatest.hyperexecute/ organizations |
 | [Commvault Overview](svg/Azure_MarketPlace_NativeISVService/CommvaultOverview.svg) |  |
 | [Commvault Cloud Account](svg/Azure_MarketPlace_NativeISVService/CommvaultCloudAccounts.svg) | Commvault.ContentStore/ cloudAccounts |
@@ -214,7 +215,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Administrative units](svg/Microsoft_AAD_IAM/AdminUnitManagementBlade.svg) |  |
 | [Enterprise application](svg/Microsoft_AAD_IAM/Application.svg) |  |
 | [App proxy](svg/Microsoft_AAD_IAM/AppProxyOverview.svg) |  |
-| [App registration](svg/Microsoft_AAD_RegisteredApps/RegisteredApps.svg) |  |
 | [EngageHub Portal](svg/Microsoft_AzureCXP_EngageHub/EngageHubPortalMenu.svg) |  |
 | [Azure Local - disconnected operations](svg/Microsoft_AzureStackHCI_PortalExtension/Winfields.svg) | Microsoft.Edge/ disconnectedoperations |
 | [Edge Center](svg/Microsoft_AzureStackHCI_PortalExtension/EdgeCenter.svg) |  |
@@ -267,6 +267,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Arc](svg/Microsoft_Azure_ArcCenterUX/AzureArcCenter.svg) |  |
 | [Azure Arc enabled resource](svg/Microsoft_Azure_ArcCenterUX/AllArcResourcesFairfax.svg) | Microsoft.Arc/ allFairfax |
 | [Azure Arc enabled resource](svg/Microsoft_Azure_ArcCenterUX/AllArcResources.svg) | Microsoft.Arc/ all |
+| [Azure Arc Kubernetes cluster](svg/Microsoft_Azure_ArcClusterUX/ArcK8Resources.svg) | Microsoft.Arc/ kubernetesResources |
+| [Kubernetes - Azure Arc](svg/Microsoft_Azure_ArcClusterUX/ConnectedClusters.svg) | Microsoft.Kubernetes/ connectedClusters |
+| [Kubernetes - Azure Arc extension](svg/Microsoft_Azure_ArcClusterUX/ConnectedClusterExtension.svg) | Microsoft.Kubernetes/ connectedClusters/ Microsoft.KubernetesConfiguration/ extensions |
 | [Arc Load Balancer](svg/Microsoft_Azure_ArcNetworking/ArcNetworking.svg) | microsoft.kubernetesruntime/ loadbalancers |
 | [My Resource](svg/Microsoft_Azure_ArcPrivateCloudUX/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Attestation provider](svg/Microsoft_Azure_Attestation/AttestResource.svg) | Microsoft.Attestation/ attestationProviders |
@@ -587,6 +590,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/HybridComputeSovereign.svg) | Microsoft.HybridCompute/ machinesSovereign |
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/HybridCompute.svg) | Microsoft.HybridCompute/ machines |
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/ArcServerWithWac.svg) | Microsoft.HybridCompute/ arcServerWithWac |
+| [Baseline settings assignment](svg/Microsoft_Azure_HybridCompute/BaselineSettingsAssignments.svg) | Microsoft.MachineConfiguration/ baselineSettingsAssignments |
 | [Custom location](svg/Microsoft_Azure_HybridCompute/CustomLocation.svg) | Microsoft.ExtendedLocation/ CustomLocations |
 | [Azure Local virtual machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/AzureStackHci.svg) | Microsoft.AzureStackHci/ virtualMachines |
 | [Virtual machine](svg/Microsoft_Azure_HybridCompute/VirtualMachines.svg) | Microsoft.All/ virtualMachines |
