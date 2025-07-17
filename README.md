@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.81.6.1 on 2025-07-16.
+Extracted from Azure Portal version 16.81.6.1 on 2025-07-17.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -299,6 +299,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Custom domain](svg/Microsoft_Azure_Cdn/CustomDomain.svg) | microsoft.cdn/ profiles/ endpoints/ customdomains |
 | [Front Door and CDN profiles](svg/Microsoft_Azure_Cdn/CdnProfile.svg) | microsoft.cdn/ profiles |
 | [Change Analysis (classic)](svg/Microsoft_Azure_ChangeAnalysis/AzureChangeAnalysis.svg) |  |
+| [Workspace](svg/Microsoft_Azure_Chaos/workspace.svg) | microsoft.chaos/ workspaces |
 | [Agent Private Access](svg/Microsoft_Azure_Chaos/privateAccess.svg) | microsoft.chaos/ privateaccesses |
 | [Chaos Studio](svg/Microsoft_Azure_Chaos/chaosStudio.svg) |  |
 | [Chaos Experiment](svg/Microsoft_Azure_Chaos/chaosExperimentResource.svg) | microsoft.chaos/ experiments |
@@ -1010,13 +1011,15 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Deployment Script](svg/Microsoft_Azure_TemplateSpecs/DeploymentScriptHub.svg) | Microsoft.Resources/ deploymentScripts |
 | [Azure Toolbox](svg/Microsoft_Azure_Toolbox/Overview.svg) |  |
 | [Azure Toolbox](svg/Microsoft_Azure_Toolbox/Gallery.svg) |  |
-| [Microsoft.UsageBilling accounts pipelines output selector](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_pipelines_outputselectors_2023_12_01_preview.svg) | microsoft.usagebilling/ accounts/ pipelines/ outputselectors |
-| [Microsoft.UsageBilling accounts pipeline](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_pipelines_2023_12_01_preview.svg) | microsoft.usagebilling/ accounts/ pipelines |
-| [Microsoft.UsageBilling accounts pav2output](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_pav2outputs_2023_12_01_preview.svg) | microsoft.usagebilling/ accounts/ pav2outputs |
-| [Microsoft.UsageBilling accounts metric export](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_metricexports_2023_12_01_preview.svg) | microsoft.usagebilling/ accounts/ metricexports |
-| [Microsoft.UsageBilling accounts input](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_inputs_2023_12_01_preview.svg) | microsoft.usagebilling/ accounts/ inputs |
-| [Microsoft.UsageBilling accounts data export](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_dataexports_2023_12_01_preview.svg) | microsoft.usagebilling/ accounts/ dataexports |
-| [Microsoft.UsageBilling account](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_2023_12_01_preview.svg) | microsoft.usagebilling/ accounts |
+| [Microsoft.UsageBilling accounts validation workspaces sign off](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_validationworkspaces_signoffs_2025_01_01_preview.svg) | microsoft.usagebilling/ accounts/ validationworkspaces/ signoffs |
+| [Microsoft.UsageBilling accounts validation workspace](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_validationworkspaces_2025_01_01_preview.svg) | microsoft.usagebilling/ accounts/ validationworkspaces |
+| [Microsoft.UsageBilling accounts pipelines output selector](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_pipelines_outputselectors_2025_01_01_preview.svg) | microsoft.usagebilling/ accounts/ pipelines/ outputselectors |
+| [Microsoft.UsageBilling accounts pipeline](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_pipelines_2025_01_01_preview.svg) | microsoft.usagebilling/ accounts/ pipelines |
+| [Microsoft.UsageBilling accounts pav2output](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_pav2outputs_2025_01_01_preview.svg) | microsoft.usagebilling/ accounts/ pav2outputs |
+| [Microsoft.UsageBilling accounts metric export](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_metricexports_2025_01_01_preview.svg) | microsoft.usagebilling/ accounts/ metricexports |
+| [Microsoft.UsageBilling accounts input](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_inputs_2025_01_01_preview.svg) | microsoft.usagebilling/ accounts/ inputs |
+| [Microsoft.UsageBilling accounts data export](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_dataexports_2025_01_01_preview.svg) | microsoft.usagebilling/ accounts/ dataexports |
+| [Microsoft.UsageBilling account](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_2025_01_01_preview.svg) | microsoft.usagebilling/ accounts |
 | [Workload](svg/Microsoft_Azure_VirtualEnclaves/Workload.svg) | Microsoft.Mission/ virtualEnclaves/ workloads |
 | [Enclave](svg/Microsoft_Azure_VirtualEnclaves/Enclave.svg) | Microsoft.Mission/ virtualenclaves |
 | [Transit hub](svg/Microsoft_Azure_VirtualEnclaves/TransitHub.svg) | Microsoft.Mission/ communities/ transitHubs |
