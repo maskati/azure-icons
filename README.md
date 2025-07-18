@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.81.6.1 on 2025-07-17.
+Extracted from Azure Portal version 16.81.6.1 on 2025-07-18.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -383,11 +383,10 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Kubernetes - Azure Arc namespace](svg/Microsoft_Azure_ContainerService/ConnectedClusterNamespaces.svg) | Microsoft.Kubernetes/ connectedClusters/ Microsoft.KubernetesConfiguration/ namespaces |
 | [Kubernetes hub](svg/Microsoft_Azure_ContainerService/KubernetesHub.svg) |  |
 | [Container instances](svg/Microsoft_Azure_ContainerService/ContainerGroup.svg) | Microsoft.ContainerInstance/ containerGroups |
-| [Managed namespace](svg/Microsoft_Azure_ContainerService/ManagedNamespaces.svg) | Microsoft.ContainerService/ managedClusters/ managedNamespaces |
+| [Managed Kubernetes namespace](svg/Microsoft_Azure_ContainerService/ManagedNamespaces.svg) | Microsoft.ContainerService/ managedClusters/ managedNamespaces |
 | [Kubernetes service](svg/Microsoft_Azure_ContainerService/ManagedClusters.svg) | Microsoft.ContainerService/ managedClusters |
 | [Kubernetes service extension](svg/Microsoft_Azure_ContainerService/KubernetesClusterExtensionsChild.svg) | microsoft.containerservice/ managedclusters/ microsoft.kubernetesconfiguration/ extensions |
 | [Kubernetes service extension](svg/Microsoft_Azure_ContainerService/KubernetesClusterExtensions.svg) | microsoft.kubernetesconfiguration/ extensions |
-| [Kubernetes fleet manager](svg/Microsoft_Azure_ContainerService/Fleets.svg) | microsoft.containerservice/ fleets |
 | [Azure Red Hat OpenShift cluster](svg/Microsoft_Azure_ContainerService/AroClusters.svg) | Microsoft.RedHatOpenShift/ OpenShiftClusters |
 | [Container storage](svg/Microsoft_Azure_ContainerStorage/ContainerStorage.svg) | Microsoft.ContainerStorage/ pools |
 | [Copilot in Azure admin center](svg/Microsoft_Azure_Copilot/CopilotSettingsAsset.svg) |  |
@@ -496,6 +495,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [DNS Security Policy](svg/Microsoft_Azure_DnsSecurityPolicy/DnsSecurityPolicy.svg) | Microsoft.Network/ dnsResolverPolicies |
 | [DNS Domain List](svg/Microsoft_Azure_DnsSecurityPolicy/DnsDomainList.svg) | Microsoft.Network/ dnsResolverDomainLists |
 | [Azure Cosmos DB for MongoDB (vCore)](svg/Microsoft_Azure_DocumentDB/MongoCluster.svg) | Microsoft.DocumentDB/ mongoClusters |
+| [Azure Managed Instance for Standalone Cache](svg/Microsoft_Azure_DocumentDB/StandaloneCache.svg) | Microsoft.DocumentDB/ garnetClusters |
 | [Azure Cosmos DB for PostgreSQL Cluster](svg/Microsoft_Azure_DocumentDB/PostgreSqlServerGroupV2.svg) | Microsoft.DBforPostgreSQL/ serverGroupsv2 |
 | [Azure Managed Instance for Apache Cassandra](svg/Microsoft_Azure_DocumentDB/DocumentDBCassandraClusters.svg) | Microsoft.DocumentDB/ cassandraClusters |
 | [Potential Azure Cosmos DB account](svg/Microsoft_Azure_DocumentDB/CosmosDBFleetspacePotentialDatabaseAccountsWithLocations.svg) | microsoft.documentdb/ fleetspacepotentialdatabaseaccountswithlocations |
@@ -820,7 +820,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Agent Pool (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/AgentPoolResource.svg) | Microsoft.NetworkCloud/ kubernetesClusters/ agentPools |
 | [My Resource](svg/Microsoft_Azure_NetworkCopilotExtension/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Network Security Perimeter](svg/Microsoft_Azure_NetworkSecurityPerimeter/networkSecurityPerimeter.svg) | Microsoft.Network/ networkSecurityPerimeters |
-| [Network Security Perimeter Profile](svg/Microsoft_Azure_NetworkSecurityPerimeter/NspProfiles.svg) | Microsoft.Network/ networkSecurityPerimeters/ profiles |
+| [Profile](svg/Microsoft_Azure_NetworkSecurityPerimeter/NspProfiles.svg) | Microsoft.Network/ networkSecurityPerimeters/ profiles |
 | [Global Secure Access](svg/Microsoft_Azure_Network_Access/NetworkAccess.svg) |  |
 | [Notification Hub](svg/Microsoft_Azure_NotificationHubs/NotificationHub.svg) | Microsoft.NotificationHubs/ namespaces/ notificationHubs |
 | [Notification Hub Namespace](svg/Microsoft_Azure_NotificationHubs/Namespace.svg) | Microsoft.NotificationHubs/ namespaces |
@@ -855,9 +855,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Playwright Testing](svg/Microsoft_Azure_PlaywrightService/PlaywrightService.svg) | Microsoft.AzurePlaywrightService/ accounts |
 | [Policy](svg/Microsoft_Azure_Policy/PolicyHub.svg) |  |
 | [Blueprint](svg/Microsoft_Azure_Policy/ArmBlueprintHub.svg) |  |
-| [Dashboard hub](svg/Microsoft_Azure_PortalDashboard/DashboardHub.svg) |  |
-| [Shared dashboard](svg/Microsoft_Azure_PortalDashboard/Dashboards.svg) | Microsoft.Portal/ dashboards |
 | [Shared dashboard (preview)](svg/Microsoft_Azure_PortalDashboard/DashboardsV2.svg) | Microsoft.Portalservices/ dashboards |
+| [Shared dashboard](svg/Microsoft_Azure_PortalDashboard/Dashboards.svg) | Microsoft.Portal/ dashboards |
+| [Dashboard hub](svg/Microsoft_Azure_PortalDashboard/DashboardHub.svg) |  |
 | [Power BI Embedded](svg/Microsoft_Azure_PowerBIDedicated/PowerBIDedicated.svg) | Microsoft.PowerBIDedicated/ capacities |
 | [Power Platform](svg/Microsoft_Azure_PowerPlatform/PowerPlatform.svg) |  |
 | [Private DNS zone](svg/Microsoft_Azure_PrivateDNS/PrivateDnsZone.svg) | Microsoft.Network/ privateDnsZones |
