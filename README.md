@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.81.6.1 on 2025-07-18.
+Extracted from Azure Portal version 16.99.0.1 on 2025-07-19.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -820,7 +820,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Agent Pool (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/AgentPoolResource.svg) | Microsoft.NetworkCloud/ kubernetesClusters/ agentPools |
 | [My Resource](svg/Microsoft_Azure_NetworkCopilotExtension/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Network Security Perimeter](svg/Microsoft_Azure_NetworkSecurityPerimeter/networkSecurityPerimeter.svg) | Microsoft.Network/ networkSecurityPerimeters |
-| [Profile](svg/Microsoft_Azure_NetworkSecurityPerimeter/NspProfiles.svg) | Microsoft.Network/ networkSecurityPerimeters/ profiles |
+| [Network Security Perimeter Profile](svg/Microsoft_Azure_NetworkSecurityPerimeter/NspProfiles.svg) | Microsoft.Network/ networkSecurityPerimeters/ profiles |
 | [Global Secure Access](svg/Microsoft_Azure_Network_Access/NetworkAccess.svg) |  |
 | [Notification Hub](svg/Microsoft_Azure_NotificationHubs/NotificationHub.svg) | Microsoft.NotificationHubs/ namespaces/ notificationHubs |
 | [Notification Hub Namespace](svg/Microsoft_Azure_NotificationHubs/Namespace.svg) | Microsoft.NotificationHubs/ namespaces |
@@ -855,9 +855,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Playwright Testing](svg/Microsoft_Azure_PlaywrightService/PlaywrightService.svg) | Microsoft.AzurePlaywrightService/ accounts |
 | [Policy](svg/Microsoft_Azure_Policy/PolicyHub.svg) |  |
 | [Blueprint](svg/Microsoft_Azure_Policy/ArmBlueprintHub.svg) |  |
-| [Shared dashboard (preview)](svg/Microsoft_Azure_PortalDashboard/DashboardsV2.svg) | Microsoft.Portalservices/ dashboards |
-| [Shared dashboard](svg/Microsoft_Azure_PortalDashboard/Dashboards.svg) | Microsoft.Portal/ dashboards |
 | [Dashboard hub](svg/Microsoft_Azure_PortalDashboard/DashboardHub.svg) |  |
+| [Shared dashboard](svg/Microsoft_Azure_PortalDashboard/Dashboards.svg) | Microsoft.Portal/ dashboards |
+| [Shared dashboard (preview)](svg/Microsoft_Azure_PortalDashboard/DashboardsV2.svg) | Microsoft.Portalservices/ dashboards |
 | [Power BI Embedded](svg/Microsoft_Azure_PowerBIDedicated/PowerBIDedicated.svg) | Microsoft.PowerBIDedicated/ capacities |
 | [Power Platform](svg/Microsoft_Azure_PowerPlatform/PowerPlatform.svg) |  |
 | [Private DNS zone](svg/Microsoft_Azure_PrivateDNS/PrivateDnsZone.svg) | Microsoft.Network/ privateDnsZones |
@@ -1134,7 +1134,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Oracle Exadata VM Cluster](svg/Oracle_Databases_At_Azure/oracle_exadata_vmcluster.svg) | oracle.database/ cloudvmclusters |
 | [Oracle Exadata Infrastructure](svg/Oracle_Databases_At_Azure/oracle_exadata_infrastructure.svg) | oracle.database/ cloudexadatainfrastructures |
 | [OracleSubscription](svg/Oracle_Databases_At_Azure/oracleSubscription.svg) | Oracle.Database/ oracleSubscriptions |
-| [Autonomous Database](svg/Oracle_Databases_At_Azure/oracle_basedb.svg) | oracle.database/ basedb |
+| [Base Database](svg/Oracle_Databases_At_Azure/oracle_basedb.svg) | oracle.database/ dbsystems |
 | [Autonomous Database](svg/Oracle_Databases_At_Azure/oracle_adbs.svg) | oracle.database/ autonomousdatabases |
 | [ScanX Management](svg/ScanX_Management/ScanXManagement.svg) |  |
 | [ESRP Scan](svg/ScanX_Management/ScanXMeter.svg) | Microsoft.AzureScan/ scanningAccounts |
