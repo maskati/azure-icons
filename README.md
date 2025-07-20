@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.99.0.1 on 2025-07-19.
+Extracted from Azure Portal version 16.97.1.1 on 2025-07-20.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -314,6 +314,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Landing zone account](svg/Microsoft_Azure_CloudforSovereignty/LandingZoneAccountsAsset.svg) | microsoft.sovereign/ landingzoneaccounts |
 | [Landing Zone Configuration](svg/Microsoft_Azure_CloudforSovereignty/LZConfigurationsAsset.svg) | microsoft.sovereign/ landingzoneaccounts/ landingzoneconfigurations |
 | [Azure Cloud HSM](svg/Microsoft_Azure_CloudHSM/CloudHSM.svg) | Microsoft.HardwareSecurityModules/ cloudHsmClusters |
+| [Resource](svg/Microsoft_Azure_CloudNativeTesting/AppComponentsSupportedResources.svg) | Microsoft.LoadTestService/ supportedResourceTypes |
 | [Playwright Workspace](svg/Microsoft_Azure_CloudNativeTesting/PlaywrightWorkspace.svg) | Microsoft.LoadTestService/ playwrightworkspaces |
 | [Azure Load Testing](svg/Microsoft_Azure_CloudNativeTesting/CloudNativeTesting.svg) | Microsoft.LoadTestService/ LoadTests |
 | [Cloud service role (classic)](svg/Microsoft_Azure_CloudServices/Role.svg) | microsoft.classiccompute/ domainnames/ slots/ roles |
@@ -561,7 +562,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Firmware analysis workspace](svg/Microsoft_Azure_FIST/FirmwareAnalysisWorkspace.svg) | microsoft.iotfirmwaredefense/ workspaces |
 | [Fluid Relay](svg/Microsoft_Azure_FluidRelay/FrsResource.svg) | Microsoft.FluidRelay/ fluidRelayServers |
 | [Front Door and CDN profiles](svg/Microsoft_Azure_Frontdoor/AzureFrontdoor.svg) | Microsoft.Network/ frontdoors |
-| [Global view](svg/Microsoft_Azure_GlobalView/GlobalView.svg) |  |
 | [Microsoft Graph Data Connect](svg/Microsoft_Azure_GraphDataConnect/Microsoft_Graph_Data_Connect.svg) |  |
 | [Cost Management + Billing](svg/Microsoft_Azure_GTM/Billing.svg) |  |
 | [Invoice](svg/Microsoft_Azure_GTM/Invoice.svg) |  |
@@ -820,7 +820,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Agent Pool (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/AgentPoolResource.svg) | Microsoft.NetworkCloud/ kubernetesClusters/ agentPools |
 | [My Resource](svg/Microsoft_Azure_NetworkCopilotExtension/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Network Security Perimeter](svg/Microsoft_Azure_NetworkSecurityPerimeter/networkSecurityPerimeter.svg) | Microsoft.Network/ networkSecurityPerimeters |
-| [Network Security Perimeter Profile](svg/Microsoft_Azure_NetworkSecurityPerimeter/NspProfiles.svg) | Microsoft.Network/ networkSecurityPerimeters/ profiles |
+| [Profile](svg/Microsoft_Azure_NetworkSecurityPerimeter/NspProfiles.svg) | Microsoft.Network/ networkSecurityPerimeters/ profiles |
 | [Global Secure Access](svg/Microsoft_Azure_Network_Access/NetworkAccess.svg) |  |
 | [Notification Hub](svg/Microsoft_Azure_NotificationHubs/NotificationHub.svg) | Microsoft.NotificationHubs/ namespaces/ notificationHubs |
 | [Notification Hub Namespace](svg/Microsoft_Azure_NotificationHubs/Namespace.svg) | Microsoft.NotificationHubs/ namespaces |
@@ -855,9 +855,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Playwright Testing](svg/Microsoft_Azure_PlaywrightService/PlaywrightService.svg) | Microsoft.AzurePlaywrightService/ accounts |
 | [Policy](svg/Microsoft_Azure_Policy/PolicyHub.svg) |  |
 | [Blueprint](svg/Microsoft_Azure_Policy/ArmBlueprintHub.svg) |  |
-| [Dashboard hub](svg/Microsoft_Azure_PortalDashboard/DashboardHub.svg) |  |
-| [Shared dashboard](svg/Microsoft_Azure_PortalDashboard/Dashboards.svg) | Microsoft.Portal/ dashboards |
 | [Shared dashboard (preview)](svg/Microsoft_Azure_PortalDashboard/DashboardsV2.svg) | Microsoft.Portalservices/ dashboards |
+| [Shared dashboard](svg/Microsoft_Azure_PortalDashboard/Dashboards.svg) | Microsoft.Portal/ dashboards |
+| [Dashboard hub](svg/Microsoft_Azure_PortalDashboard/DashboardHub.svg) |  |
 | [Power BI Embedded](svg/Microsoft_Azure_PowerBIDedicated/PowerBIDedicated.svg) | Microsoft.PowerBIDedicated/ capacities |
 | [Power Platform](svg/Microsoft_Azure_PowerPlatform/PowerPlatform.svg) |  |
 | [Private DNS zone](svg/Microsoft_Azure_PrivateDNS/PrivateDnsZone.svg) | Microsoft.Network/ privateDnsZones |
@@ -944,9 +944,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Preview features](svg/Microsoft_Azure_Resources/PreviewFeaturesArg.svg) | microsoft.features/ featureprovidernamespaces/ featureconfigurations |
 | [Preview features](svg/Microsoft_Azure_Resources/PreviewFeatures.svg) |  |
 | [Microsoft SaaS (Preview)](svg/Microsoft_Azure_SaasHub/SaaSHub.svg) | Microsoft.SaaSHub/ cloudServices/ hidden |
-| [Azure Large Instance](svg/Microsoft_Azure_SapHanaInstances/AzureLargeInstance.svg) | Microsoft.AzureLargeInstance/ azureLargeInstances |
-| [BareMetal Instance](svg/Microsoft_Azure_SapHanaInstances/BareMetalInstance.svg) | Microsoft.BareMetalInfrastructure/ bareMetalInstances |
 | [SAP HANA on Azure](svg/Microsoft_Azure_SapHanaInstances/HanaInstance.svg) | Microsoft.HanaOnAzure/ hanaInstances |
+| [BareMetal Instance](svg/Microsoft_Azure_SapHanaInstances/BareMetalInstance.svg) | Microsoft.BareMetalInfrastructure/ bareMetalInstances |
+| [Azure Large Instance](svg/Microsoft_Azure_SapHanaInstances/AzureLargeInstance.svg) | Microsoft.AzureLargeInstance/ azureLargeInstances |
 | [App server instance for SAP solutions](svg/Microsoft_Azure_SAPManagement/SAP_App_Server_instance.svg) | Microsoft.Workloads/ sapVirtualInstances/ applicationInstances |
 | [Central service instance for SAP solutions](svg/Microsoft_Azure_SAPManagement/SAP_Central_Server_instance.svg) | Microsoft.Workloads/ sapVirtualInstances/ centralInstances |
 | [Database for SAP solutions](svg/Microsoft_Azure_SAPManagement/SAP_DB_Server_instance.svg) | Microsoft.Workloads/ sapVirtualInstances/ databaseInstances |
