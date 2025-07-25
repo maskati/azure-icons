@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.101.4.1 on 2025-07-24.
+Extracted from Azure Portal version 16.101.4.1 on 2025-07-25.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -86,7 +86,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Verified ID Setup](svg/Microsoft_AAD_IAM/SetupBlade.svg) |  |
 | [Workflow Settings](svg/Microsoft_AAD_IAM/Settings.svg) |  |
 | [Microsoft Entra Application Activity](svg/Microsoft_AAD_IAM/ServicePrincipalActivity.svg) |  |
-| [Multifactor Authentication Server Status](svg/Microsoft_AAD_IAM/ServerStatusBlade.svg) |  |
 | [Multifactor Authentication Server Setting](svg/Microsoft_AAD_IAM/ServerSettingsBlade.svg) |  |
 | [Security Getting Started](svg/Microsoft_AAD_IAM/SecurityQuickStartBlade.svg) |  |
 | [Identity Protection Overview](svg/Microsoft_AAD_IAM/SecurityOverviewBlade.svg) |  |
