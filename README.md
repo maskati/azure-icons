@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.101.4.1 on 2025-07-26.
+Extracted from Azure Portal version 16.99.0.1 on 2025-07-27.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -315,6 +315,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Resource](svg/Microsoft_Azure_CloudNativeTesting/AppComponentsSupportedResources.svg) | Microsoft.LoadTestService/ supportedResourceTypes |
 | [Playwright Workspace](svg/Microsoft_Azure_CloudNativeTesting/PlaywrightWorkspace.svg) | Microsoft.LoadTestService/ playwrightworkspaces |
 | [Azure Load Testing](svg/Microsoft_Azure_CloudNativeTesting/CloudNativeTesting.svg) | Microsoft.LoadTestService/ LoadTests |
+| [Azure App Testing](svg/Microsoft_Azure_CloudNativeTesting/AzureAppTesting.svg) |  |
+| [All Resources](svg/Microsoft_Azure_CloudNativeTesting/AllResources.svg) | Microsoft.LoadTestService/ allservices |
 | [Cloud service role (classic)](svg/Microsoft_Azure_CloudServices/Role.svg) | microsoft.classiccompute/ domainnames/ slots/ roles |
 | [Cloud service (classic)](svg/Microsoft_Azure_CloudServices/CloudService.svg) | microsoft.classicCompute/ domainNames |
 | [Cloud service (extended support)](svg/Microsoft_Azure_CloudServices_Arm/CloudServicesArm.svg) | Microsoft.Compute/ cloudServices |
@@ -410,8 +412,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Lighthouse](svg/Microsoft_Azure_CustomerHub/Lighthouse.svg) | Microsoft.ManagedServices/ registrationDefinitions |
 | [Azure Managed Grafana](svg/Microsoft_Azure_Dashboard/AzureDashboardGrafanaResource.svg) | Microsoft.Dashboard/ grafana |
 | [Database watcher](svg/Microsoft_Azure_DatabaseInsights/DatabaseWatcher.svg) | Microsoft.DatabaseWatcher/ watchers |
-| [Access Connector for Azure Databricks](svg/Microsoft_Azure_Databricks/AccessConnector.svg) | Microsoft.Databricks/ accessConnectors |
 | [Azure Databricks Service](svg/Microsoft_Azure_Databricks/Workspace.svg) | Microsoft.Databricks/ workspaces |
+| [Access Connector for Azure Databricks](svg/Microsoft_Azure_Databricks/AccessConnector.svg) | Microsoft.Databricks/ accessConnectors |
 | [Activity](svg/Microsoft_Azure_DataFactory/Activity.svg) |  |
 | [Table](svg/Microsoft_Azure_DataFactory/Table.svg) |  |
 | [Data factory](svg/Microsoft_Azure_DataFactory/DataFactory.svg) | Microsoft.DataFactory/ dataFactories |
@@ -584,6 +586,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [SCVMM management server](svg/Microsoft_Azure_HybridCompute/ScVmmManagementServer.svg) | Microsoft.ScVmm/ vmmServers |
 | [SCVMM virtual machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/ArcVmScVmm.svg) | Microsoft.scvmm/ virtualMachines |
 | [Azure Arc Private Link Scope](svg/Microsoft_Azure_HybridCompute/AzureArcPrivateLinkScope.svg) | Microsoft.HybridCompute/ privateLinkScopes |
+| [Multicloud synced resource](svg/Microsoft_Azure_HybridCompute/MulticloudSyncedResources.svg) | Microsoft.HybridConnectivity/ publicCloudConnectors/ multicloudsyncedresources |
 | [Multicloud connector](svg/Microsoft_Azure_HybridCompute/MultiCloudConnector.svg) | Microsoft.HybridConnectivity/ publicCloudConnectors |
 | [Microsoft.AwsConnector ec2 instance](svg/Microsoft_Azure_HybridCompute/microsoft_awsconnector_ec2instances_2024_08_01_preview.svg) | microsoft.hybridcompute/ machines/ microsoft.awsconnector/ ec2instances |
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/HybridComputeSovereign.svg) | Microsoft.HybridCompute/ machinesSovereign |
@@ -668,6 +671,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Network manager](svg/Microsoft_Azure_ManagedNetwork/NetworkGroupOverview.svg) | Microsoft.Network/ networkManagers/ networkGroups |
 | [Network manager](svg/Microsoft_Azure_ManagedNetwork/ConnectivityConfigurationOverview.svg) | Microsoft.Network/ networkManagers/ connectivityConfigurations |
 | [Network manager](svg/Microsoft_Azure_ManagedNetwork/NetworkManager.svg) | Microsoft.Network/ networkManagers |
+| [Managed Ops Efficiency](svg/Microsoft_Azure_ManagedOps_Efficiency/ManagedOpsEfficiency.svg) | Providers.Test/ statefulIbizaEngines |
 | [Managed Identity](svg/Microsoft_Azure_ManagedServiceIdentity/UserAssignedIdentity.svg) | Microsoft.ManagedIdentity/ userAssignedIdentities |
 | [kubernetes 1 - Azure Arc](svg/Microsoft_Azure_ManagedStorageClass/ConnectedClusterWithStorageClassPlus.svg) | microsoft.kubernetes/ connectedClusters |
 | [SaaS](svg/Microsoft_Azure_Marketplace/SaasSubscriptionLevel.svg) | Microsoft.SaaS/ resources |
