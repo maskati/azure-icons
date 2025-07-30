@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.101.4.1 on 2025-07-29.
+Extracted from Azure Portal version 16.99.0.1 on 2025-07-30.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -47,6 +47,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Native Pure Storage Cloud Service](svg/Azure_Marketplace_PureStorage/purestorage_block_reservations.svg) | purestorage.block/ reservations |
 | [Storage pool](svg/Azure_Marketplace_PureStorage/purestorage_block_storagepools.svg) | purestorage.block/ storagepools |
 | [Azure Native Qumulo Scalable File Service](svg/Azure_Marketplace_Qumulo/MyResource.svg) | Qumulo.Storage/ fileSystems |
+| [SolarWinds Observability](svg/Azure_Marketplace_SolarWindsObservability/SolarWinds.svg) | SolarWinds.Observability/ Organizations |
 | [Tag](svg/HubsExtension/Tag.svg) |  |
 | [Resource group](svg/HubsExtension/ResourceGroups.svg) | Microsoft.Resources/ subscriptions/ resourceGroups |
 | [Deployment](svg/HubsExtension/Deployments.svg) |  |
@@ -670,7 +671,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Network manager](svg/Microsoft_Azure_ManagedNetwork/NetworkGroupOverview.svg) | Microsoft.Network/ networkManagers/ networkGroups |
 | [Network manager](svg/Microsoft_Azure_ManagedNetwork/ConnectivityConfigurationOverview.svg) | Microsoft.Network/ networkManagers/ connectivityConfigurations |
 | [Network manager](svg/Microsoft_Azure_ManagedNetwork/NetworkManager.svg) | Microsoft.Network/ networkManagers |
-| [Managed Ops Efficiency](svg/Microsoft_Azure_ManagedOps_Efficiency/ManagedOpsEfficiency.svg) | Providers.Test/ statefulIbizaEngines |
 | [Managed Identity](svg/Microsoft_Azure_ManagedServiceIdentity/UserAssignedIdentity.svg) | Microsoft.ManagedIdentity/ userAssignedIdentities |
 | [kubernetes 1 - Azure Arc](svg/Microsoft_Azure_ManagedStorageClass/ConnectedClusterWithStorageClassPlus.svg) | microsoft.kubernetes/ connectedClusters |
 | [SaaS](svg/Microsoft_Azure_Marketplace/SaasSubscriptionLevel.svg) | Microsoft.SaaS/ resources |
