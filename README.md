@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.99.0.1 on 2025-07-30.
+Extracted from Azure Portal version 16.99.0.1 on 2025-07-31.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -47,7 +47,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Native Pure Storage Cloud Service](svg/Azure_Marketplace_PureStorage/purestorage_block_reservations.svg) | purestorage.block/ reservations |
 | [Storage pool](svg/Azure_Marketplace_PureStorage/purestorage_block_storagepools.svg) | purestorage.block/ storagepools |
 | [Azure Native Qumulo Scalable File Service](svg/Azure_Marketplace_Qumulo/MyResource.svg) | Qumulo.Storage/ fileSystems |
-| [SolarWinds Observability](svg/Azure_Marketplace_SolarWindsObservability/SolarWinds.svg) | SolarWinds.Observability/ Organizations |
 | [Tag](svg/HubsExtension/Tag.svg) |  |
 | [Resource group](svg/HubsExtension/ResourceGroups.svg) | Microsoft.Resources/ subscriptions/ resourceGroups |
 | [Deployment](svg/HubsExtension/Deployments.svg) |  |
@@ -671,6 +670,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Network manager](svg/Microsoft_Azure_ManagedNetwork/NetworkGroupOverview.svg) | Microsoft.Network/ networkManagers/ networkGroups |
 | [Network manager](svg/Microsoft_Azure_ManagedNetwork/ConnectivityConfigurationOverview.svg) | Microsoft.Network/ networkManagers/ connectivityConfigurations |
 | [Network manager](svg/Microsoft_Azure_ManagedNetwork/NetworkManager.svg) | Microsoft.Network/ networkManagers |
+| [Managed Ops Efficiency](svg/Microsoft_Azure_ManagedOps_Efficiency/ManagedOpsEfficiency.svg) | Providers.Test/ statefulIbizaEngines |
 | [Managed Identity](svg/Microsoft_Azure_ManagedServiceIdentity/UserAssignedIdentity.svg) | Microsoft.ManagedIdentity/ userAssignedIdentities |
 | [kubernetes 1 - Azure Arc](svg/Microsoft_Azure_ManagedStorageClass/ConnectedClusterWithStorageClassPlus.svg) | microsoft.kubernetes/ connectedClusters |
 | [SaaS](svg/Microsoft_Azure_Marketplace/SaasSubscriptionLevel.svg) | Microsoft.SaaS/ resources |
@@ -866,29 +866,30 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [APC Operator API Connection](svg/Microsoft_Azure_ProgrammableConnectivity/OperatorApiConnectionResource.svg) | Microsoft.ProgrammableConnectivity/ operatorApiConnections |
 | [APC Gateway](svg/Microsoft_Azure_ProgrammableConnectivity/GatewayResource.svg) | Microsoft.ProgrammableConnectivity/ gateways |
 | [Microsoft Purview account](svg/Microsoft_Azure_ProjectBabylon/PurviewAccountResource.svg) | Microsoft.Purview/ Accounts |
-| [Azure AI Foundry ](svg/Microsoft_Azure_ProjectOxford/AIFoundry.svg) | Microsoft.CognitiveServices/ BrowseAIFoundry |
-| [Azure AI services](svg/Microsoft_Azure_ProjectOxford/AIServices.svg) | Microsoft.CognitiveServices/ BrowseAIServices |
-| [Azure AI services multi-service account](svg/Microsoft_Azure_ProjectOxford/AllInOne.svg) | Microsoft.CognitiveServices/ BrowseAllInOne |
-| [All Resources](svg/Microsoft_Azure_ProjectOxford/AllServices.svg) | Microsoft.CognitiveServices/ BrowseAllServices |
-| [Anomaly detector](svg/Microsoft_Azure_ProjectOxford/AnomalyDetector.svg) | Microsoft.CognitiveServices/ BrowseAnomalyDetector |
-| [Azure AI Foundry](svg/Microsoft_Azure_ProjectOxford/CognitiveServicesAccount.svg) | Microsoft.CognitiveServices/ accounts |
-| [Computer vision](svg/Microsoft_Azure_ProjectOxford/ComputerVision.svg) | Microsoft.CognitiveServices/ BrowseComputerVision |
-| [Content moderator](svg/Microsoft_Azure_ProjectOxford/ContentModerator.svg) | Microsoft.CognitiveServices/ BrowseContentModerator |
-| [Content safety](svg/Microsoft_Azure_ProjectOxford/ContentSafety.svg) | Microsoft.CognitiveServices/ BrowseContentSafety |
-| [Custom vision](svg/Microsoft_Azure_ProjectOxford/CustomVision.svg) | Microsoft.CognitiveServices/ BrowseCustomVision |
-| [Face API](svg/Microsoft_Azure_ProjectOxford/Face.svg) | Microsoft.CognitiveServices/ BrowseFace |
-| [Document intelligence](svg/Microsoft_Azure_ProjectOxford/FormRecognizer.svg) | Microsoft.CognitiveServices/ BrowseFormRecognizer |
-| [Health decision support](svg/Microsoft_Azure_ProjectOxford/HealthDecisionSupport.svg) | Microsoft.CognitiveServices/ BrowseHealthDecisionSupport |
-| [Health Insights](svg/Microsoft_Azure_ProjectOxford/HealthInsights.svg) | Microsoft.CognitiveServices/ BrowseHealthInsights |
-| [Immersive reader](svg/Microsoft_Azure_ProjectOxford/ImmersiveReader.svg) | Microsoft.CognitiveServices/ BrowseImmersiveReader |
-| [Language understanding](svg/Microsoft_Azure_ProjectOxford/LUIS.svg) | Microsoft.CognitiveServices/ BrowseLUIS |
-| [Metrics advisor](svg/Microsoft_Azure_ProjectOxford/MetricsAdvisor.svg) | Microsoft.CognitiveServices/ BrowseMetricsAdvisor |
-| [Azure OpenAI](svg/Microsoft_Azure_ProjectOxford/OpenAI.svg) | Microsoft.CognitiveServices/ BrowseOpenAI |
-| [Personalizer](svg/Microsoft_Azure_ProjectOxford/Personalizer.svg) | Microsoft.CognitiveServices/ BrowsePersonalizer |
-| [QnA maker](svg/Microsoft_Azure_ProjectOxford/QnAMaker.svg) | Microsoft.CognitiveServices/ BrowseQnAMaker |
-| [Speech service](svg/Microsoft_Azure_ProjectOxford/SpeechServices.svg) | Microsoft.CognitiveServices/ BrowseSpeechServices |
-| [Language](svg/Microsoft_Azure_ProjectOxford/TextAnalytics.svg) | Microsoft.CognitiveServices/ BrowseTextAnalytics |
 | [Translator](svg/Microsoft_Azure_ProjectOxford/TextTranslation.svg) | Microsoft.CognitiveServices/ BrowseTextTranslation |
+| [Language](svg/Microsoft_Azure_ProjectOxford/TextAnalyticsWithConfiguration.svg) |  |
+| [Language](svg/Microsoft_Azure_ProjectOxford/TextAnalytics.svg) | Microsoft.CognitiveServices/ BrowseTextAnalytics |
+| [Speech service](svg/Microsoft_Azure_ProjectOxford/SpeechServices.svg) | Microsoft.CognitiveServices/ BrowseSpeechServices |
+| [QnA maker](svg/Microsoft_Azure_ProjectOxford/QnAMaker.svg) | Microsoft.CognitiveServices/ BrowseQnAMaker |
+| [Personalizer](svg/Microsoft_Azure_ProjectOxford/Personalizer.svg) | Microsoft.CognitiveServices/ BrowsePersonalizer |
+| [Azure OpenAI](svg/Microsoft_Azure_ProjectOxford/OpenAI.svg) | Microsoft.CognitiveServices/ BrowseOpenAI |
+| [Metrics advisor](svg/Microsoft_Azure_ProjectOxford/MetricsAdvisor.svg) | Microsoft.CognitiveServices/ BrowseMetricsAdvisor |
+| [Language understanding](svg/Microsoft_Azure_ProjectOxford/LUIS.svg) | Microsoft.CognitiveServices/ BrowseLUIS |
+| [Immersive reader](svg/Microsoft_Azure_ProjectOxford/ImmersiveReader.svg) | Microsoft.CognitiveServices/ BrowseImmersiveReader |
+| [Health Insights](svg/Microsoft_Azure_ProjectOxford/HealthInsights.svg) | Microsoft.CognitiveServices/ BrowseHealthInsights |
+| [Health decision support](svg/Microsoft_Azure_ProjectOxford/HealthDecisionSupport.svg) | Microsoft.CognitiveServices/ BrowseHealthDecisionSupport |
+| [Document intelligence](svg/Microsoft_Azure_ProjectOxford/FormRecognizer.svg) | Microsoft.CognitiveServices/ BrowseFormRecognizer |
+| [Face API](svg/Microsoft_Azure_ProjectOxford/Face.svg) | Microsoft.CognitiveServices/ BrowseFace |
+| [Custom vision](svg/Microsoft_Azure_ProjectOxford/CustomVision.svg) | Microsoft.CognitiveServices/ BrowseCustomVision |
+| [Content safety](svg/Microsoft_Azure_ProjectOxford/ContentSafety.svg) | Microsoft.CognitiveServices/ BrowseContentSafety |
+| [Content moderator](svg/Microsoft_Azure_ProjectOxford/ContentModerator.svg) | Microsoft.CognitiveServices/ BrowseContentModerator |
+| [Computer vision](svg/Microsoft_Azure_ProjectOxford/ComputerVision.svg) | Microsoft.CognitiveServices/ BrowseComputerVision |
+| [Azure AI Foundry](svg/Microsoft_Azure_ProjectOxford/CognitiveServicesAccount.svg) | Microsoft.CognitiveServices/ accounts |
+| [Anomaly detector](svg/Microsoft_Azure_ProjectOxford/AnomalyDetector.svg) | Microsoft.CognitiveServices/ BrowseAnomalyDetector |
+| [All Resources](svg/Microsoft_Azure_ProjectOxford/AllServices.svg) | Microsoft.CognitiveServices/ BrowseAllServices |
+| [Azure AI services multi-service account](svg/Microsoft_Azure_ProjectOxford/AllInOne.svg) | Microsoft.CognitiveServices/ BrowseAllInOne |
+| [Azure AI services](svg/Microsoft_Azure_ProjectOxford/AIServices.svg) | Microsoft.CognitiveServices/ BrowseAIServices |
+| [Azure AI Foundry](svg/Microsoft_Azure_ProjectOxford/AIFoundry.svg) | Microsoft.CognitiveServices/ BrowseAIFoundry |
 | [Quantum Workspace](svg/Microsoft_Azure_Quantum/QuantumWorkspace.svg) | Microsoft.Quantum/ Workspaces |
 | [Azure Quantum](svg/Microsoft_Azure_Quantum/AzureQuantum.svg) |  |
 | [Intelligent Recommendations Account](svg/Microsoft_Azure_RecommendationsService/Account.svg) | Microsoft.RecommendationsService/ accounts |
@@ -1137,8 +1138,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [OracleSubscription](svg/Oracle_Databases_At_Azure/oracleSubscription.svg) | Oracle.Database/ oracleSubscriptions |
 | [Base Database](svg/Oracle_Databases_At_Azure/oracle_basedb.svg) | oracle.database/ dbsystems |
 | [Autonomous Database](svg/Oracle_Databases_At_Azure/oracle_adbs.svg) | oracle.database/ autonomousdatabases |
-| [ScanX Management](svg/ScanX_Management/ScanXManagement.svg) |  |
 | [ESRP Scan](svg/ScanX_Management/ScanXMeter.svg) | Microsoft.AzureScan/ scanningAccounts |
+| [ScanX Management](svg/ScanX_Management/ScanXManagement.svg) |  |
 | [Service Linker](svg/ServiceLinkerExtension/ServiceLinkerGlobal.svg) |  |
 | [Virtual cluster](svg/SqlAzureExtension/VirtualCluster.svg) | Microsoft.Sql/ virtualClusters |
 | [SQL virtual machine](svg/SqlAzureExtension/SqlVirtualMachine.svg) | Microsoft.SqlVirtualMachine/ SqlVirtualMachines |
