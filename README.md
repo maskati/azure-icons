@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.99.0.1 on 2025-07-31.
+Extracted from Azure Portal version 16.99.0.1 on 2025-08-01.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -235,7 +235,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Activity log](svg/Microsoft_Azure_ActivityLog/ActivityLogAsset.svg) |  |
 | [Microsoft Entra Connect Health](svg/Microsoft_Azure_ADHybridHealth/RootAsset.svg) |  |
 | [Device Update for IoT Hub](svg/Microsoft_Azure_ADU/IotDUResource.svg) | Microsoft.DeviceUpdate/ Accounts |
-| [Front Door and CDN profile](svg/Microsoft_Azure_AFDX/FrontdoorProfile.svg) | microsoft.cdn/ profiles |
+| [Front Door](svg/Microsoft_Azure_AFDX/FrontdoorProfile.svg) | microsoft.cdn/ profiles |
 | [Azure Data Manager for Agriculture](svg/Microsoft_Azure_AgFoodPlatform/FarmbeatsResource.svg) | Microsoft.AgFoodPlatform/ farmBeats |
 | [Agriculture data solutions](svg/Microsoft_Azure_AgriculturePlatform/AgriServices.svg) | Microsoft.AgriculturePlatform/ agriServices |
 | [Analysis Services](svg/Microsoft_Azure_AnalysisServices/AnalysisServices.svg) | Microsoft.AnalysisServices/ servers |
@@ -282,7 +282,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Update Rule](svg/Microsoft_Azure_Automation/UpdateRule.svg) | microsoft.updatemanager/ updaterules |
 | [](svg/Microsoft_Azure_Automation/UpdateAgentTroubleshooting.svg) |  |
 | [App Configuration](svg/Microsoft_Azure_AzConfig/StoreResource.svg) | Microsoft.AppConfiguration/ configurationStores |
-| [Compute Fleet](svg/Microsoft_Azure_AzFleet/AzureFleetComputeHub.svg) | microsoft.azurefleet/ fleetsComputehub |
 | [Compute Fleet](svg/Microsoft_Azure_AzFleet/AzureFleet.svg) | microsoft.azurefleet/ fleets |
 | [Batch account](svg/Microsoft_Azure_Batch/BatchAccount.svg) | Microsoft.Batch/ batchAccounts |
 | [Business Continuity Center](svg/Microsoft_Azure_BCDRCenter/ABCCenter.svg) |  |
@@ -332,23 +331,17 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Communications Gateway Test Line](svg/Microsoft_Azure_CommunicationsGatewayExtension/TestLines.svg) | Microsoft.VoiceServices/ CommunicationsGateways/ TestLines |
 | [Communications Gateway](svg/Microsoft_Azure_CommunicationsGatewayExtension/CommunicationsGateways.svg) | Microsoft.VoiceServices/ CommunicationsGateways |
 | [Community Training](svg/Microsoft_Azure_CommunityTraining/CommunityTraining.svg) | Microsoft.Community/ communityTrainings |
-| [Virtual machine scale set](svg/Microsoft_Azure_Compute/VirtualMachineScaleSetComputeHub.svg) | Microsoft.Compute/ virtualMachineScaleSetsComputehub |
 | [Virtual machine scale set](svg/Microsoft_Azure_Compute/VirtualMachineScaleSet.svg) | Microsoft.Compute/ virtualMachineScaleSets |
-| [Virtual machine](svg/Microsoft_Azure_Compute/VirtualMachineComputeHub.svg) | Microsoft.Compute/ VirtualMachineComputehub |
 | [Virtual machine](svg/Microsoft_Azure_Compute/VirtualMachine.svg) | Microsoft.Compute/ VirtualMachines |
 | [Virtual machine](svg/Microsoft_Azure_Compute/AllVirtualMachine.svg) | Microsoft.All/ virtualMachines |
 | [SSH key](svg/Microsoft_Azure_Compute/SshKey.svg) | Microsoft.Compute/ sshPublicKeys |
-| [Proximity placement group](svg/Microsoft_Azure_Compute/ProximityPlacementGroupComputeHub.svg) | Microsoft.Compute/ ProximityPlacementGroupsComputehub |
 | [Proximity placement group](svg/Microsoft_Azure_Compute/ProximityPlacementGroup.svg) | Microsoft.Compute/ ProximityPlacementGroups |
 | [Instance](svg/Microsoft_Azure_Compute/VirtualMachineFlexInstance.svg) | microsoft.compute/ virtualmachineflexinstances |
 | [Standby pool](svg/Microsoft_Azure_Compute/StandbyPoolInstance.svg) | microsoft.compute/ standbypoolinstance |
 | [Virtual machine scale set](svg/Microsoft_Azure_Compute/ComputeFleetScaleSet.svg) | microsoft.compute/ computefleetscalesets |
 | [Instance](svg/Microsoft_Azure_Compute/ComputeFleetInstance.svg) | microsoft.compute/ computefleetinstances |
-| [Host](svg/Microsoft_Azure_Compute/DedicatedHostComputeHub.svg) |  |
 | [Host](svg/Microsoft_Azure_Compute/DedicatedHost.svg) | Microsoft.Compute/ hostgroups/ hosts |
-| [Host group](svg/Microsoft_Azure_Compute/DedicatedHostGroupComputeHub.svg) | Microsoft.Compute/ hostgroupsComputehub |
 | [Host group](svg/Microsoft_Azure_Compute/DedicatedHostGroup.svg) | Microsoft.Compute/ hostgroups |
-| [Capacity Reservation Group](svg/Microsoft_Azure_Compute/CapacityReservationGroupComputeHub.svg) | Microsoft.Compute/ capacityReservationGroupsComputehub |
 | [Capacity Reservation Group](svg/Microsoft_Azure_Compute/CapacityReservationGroup.svg) | Microsoft.Compute/ capacityReservationGroups |
 | [Availability set](svg/Microsoft_Azure_Compute/AvailabilitySet.svg) | Microsoft.Compute/ availabilitySets |
 | [Windows OS](svg/Microsoft_Azure_ComputeHub/WindowsOSType.svg) | Microsoft.ComputeHub/ WindowsOSType |
@@ -384,7 +377,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Kubernetes - Azure Arc namespace](svg/Microsoft_Azure_ContainerService/ConnectedClusterNamespaces.svg) | Microsoft.Kubernetes/ connectedClusters/ Microsoft.KubernetesConfiguration/ namespaces |
 | [Kubernetes hub](svg/Microsoft_Azure_ContainerService/KubernetesHub.svg) |  |
 | [Container instances](svg/Microsoft_Azure_ContainerService/ContainerGroup.svg) | Microsoft.ContainerInstance/ containerGroups |
-| [Managed Kubernetes namespace](svg/Microsoft_Azure_ContainerService/ManagedNamespaces.svg) | Microsoft.ContainerService/ managedClusters/ managedNamespaces |
+| [Managed Kubernetes Namespace](svg/Microsoft_Azure_ContainerService/ManagedNamespaces.svg) | Microsoft.ContainerService/ managedClusters/ managedNamespaces |
 | [Kubernetes service](svg/Microsoft_Azure_ContainerService/ManagedClusters.svg) | Microsoft.ContainerService/ managedClusters |
 | [Kubernetes service extension](svg/Microsoft_Azure_ContainerService/KubernetesClusterExtensionsChild.svg) | microsoft.containerservice/ managedclusters/ microsoft.kubernetesconfiguration/ extensions |
 | [Kubernetes service extension](svg/Microsoft_Azure_ContainerService/KubernetesClusterExtensions.svg) | microsoft.kubernetesconfiguration/ extensions |
@@ -438,7 +431,10 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Dev center](svg/Microsoft_Azure_DevCenter/DevCenter.svg) | Microsoft.DevCenter/ devcenters |
 | [Dev Box definition](svg/Microsoft_Azure_DevCenter/DevBoxDefinitions.svg) | Microsoft.DevCenter/ devcenters/ devboxdefinitions |
 | [Microsoft Code Studio](svg/Microsoft_Azure_DevCenter/CodeStudioService.svg) |  |
+| [IoT Asset](svg/Microsoft_Azure_DeviceRegistry/convergedAssets.svg) | microsoft.deviceregistry/ convergedAssets |
 | [IoT Schema Registry](svg/Microsoft_Azure_DeviceRegistry/schemaRegistries.svg) | microsoft.deviceregistry/ schemaRegistries |
+| [IoT Namespace Asset](svg/Microsoft_Azure_DeviceRegistry/namespaceAssets.svg) | microsoft.deviceregistry/ namespaces/ assets |
+| [IoT Namespace](svg/Microsoft_Azure_DeviceRegistry/namespaces.svg) | microsoft.deviceregistry/ namespaces |
 | [Azure Device Registry](svg/Microsoft_Azure_DeviceRegistry/DeviceRegistry.svg) |  |
 | [IoT Device](svg/Microsoft_Azure_DeviceRegistry/devices.svg) | microsoft.deviceregistry/ devices |
 | [IoT Asset Endpoint Profile](svg/Microsoft_Azure_DeviceRegistry/assetEndpointProfiles.svg) | microsoft.deviceregistry/ assetEndpointProfiles |
@@ -486,7 +482,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Disk](svg/Microsoft_Azure_DiskMgmt/Disk.svg) | Microsoft.Compute/ disks |
 | [Community image](svg/Microsoft_Azure_DiskMgmt/CommunityImageComputeHub.svg) | Microsoft.Compute/ locations/ communityGalleries/ imagesComputehub |
 | [Community image](svg/Microsoft_Azure_DiskMgmt/CommunityImage.svg) | Microsoft.Compute/ locations/ communityGalleries/ images |
-| [Azure Database Migration Service](svg/Microsoft_Azure_DMS/DmsV2.svg) | microsoft.datamigration/ sqlmigrationservices |
+| [Azure Database Migration Service](svg/Microsoft_Azure_DMS/DmsV2.svg) | Microsoft.DataMigration/ sqlmigrationservices |
+| [Azure Database Migration Service resource](svg/Microsoft_Azure_DMS/DmsCenter.svg) | Microsoft.DataMigration/ dmscentermain |
+| [Azure Database Migration Service resource](svg/Microsoft_Azure_DMS/AllDmsResources.svg) | Microsoft.DataMigration/ all |
 | [Azure Database Migration Project](svg/Microsoft_Azure_DMS/DmsProject.svg) | Microsoft.DataMigration/ services/ projects |
 | [Azure Database Migration Service (classic)](svg/Microsoft_Azure_DMS/Dms.svg) | Microsoft.DataMigration/ services |
 | [Traffic Manager profile](svg/Microsoft_Azure_DNS/TrafficManager.svg) | Microsoft.Network/ trafficmanagerprofiles |
@@ -561,7 +559,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Firmware analysis](svg/Microsoft_Azure_FIST/FirmwareDefender.svg) |  |
 | [Firmware analysis workspace](svg/Microsoft_Azure_FIST/FirmwareAnalysisWorkspace.svg) | microsoft.iotfirmwaredefense/ workspaces |
 | [Fluid Relay](svg/Microsoft_Azure_FluidRelay/FrsResource.svg) | Microsoft.FluidRelay/ fluidRelayServers |
-| [Front Door and CDN profiles](svg/Microsoft_Azure_Frontdoor/AzureFrontdoor.svg) | Microsoft.Network/ frontdoors |
+| [Front Door](svg/Microsoft_Azure_Frontdoor/AzureFrontdoor.svg) | Microsoft.Network/ frontdoors |
 | [Microsoft Graph Data Connect](svg/Microsoft_Azure_GraphDataConnect/Microsoft_Graph_Data_Connect.svg) |  |
 | [Cost Management + Billing](svg/Microsoft_Azure_GTM/Billing.svg) |  |
 | [Invoice](svg/Microsoft_Azure_GTM/Invoice.svg) |  |
@@ -586,6 +584,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [SCVMM management server](svg/Microsoft_Azure_HybridCompute/ScVmmManagementServer.svg) | Microsoft.ScVmm/ vmmServers |
 | [SCVMM virtual machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/ArcVmScVmm.svg) | Microsoft.scvmm/ virtualMachines |
 | [Azure Arc Private Link Scope](svg/Microsoft_Azure_HybridCompute/AzureArcPrivateLinkScope.svg) | Microsoft.HybridCompute/ privateLinkScopes |
+| [Multicloud synced resource](svg/Microsoft_Azure_HybridCompute/MulticloudSyncedResources.svg) | Microsoft.HybridConnectivity/ publicCloudConnectors/ multicloudsyncedresources |
 | [Multicloud connector](svg/Microsoft_Azure_HybridCompute/MultiCloudConnector.svg) | Microsoft.HybridConnectivity/ publicCloudConnectors |
 | [Microsoft.AwsConnector ec2 instance](svg/Microsoft_Azure_HybridCompute/microsoft_awsconnector_ec2instances_2024_08_01_preview.svg) | microsoft.hybridcompute/ machines/ microsoft.awsconnector/ ec2instances |
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/HybridComputeSovereign.svg) | Microsoft.HybridCompute/ machinesSovereign |
@@ -949,11 +948,11 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [SAP HANA on Azure](svg/Microsoft_Azure_SapHanaInstances/HanaInstance.svg) | Microsoft.HanaOnAzure/ hanaInstances |
 | [BareMetal Instance](svg/Microsoft_Azure_SapHanaInstances/BareMetalInstance.svg) | Microsoft.BareMetalInfrastructure/ bareMetalInstances |
 | [Azure Large Instance](svg/Microsoft_Azure_SapHanaInstances/AzureLargeInstance.svg) | Microsoft.AzureLargeInstance/ azureLargeInstances |
-| [App server instance for SAP solutions](svg/Microsoft_Azure_SAPManagement/SAP_App_Server_instance.svg) | Microsoft.Workloads/ sapVirtualInstances/ applicationInstances |
-| [Central service instance for SAP solutions](svg/Microsoft_Azure_SAPManagement/SAP_Central_Server_instance.svg) | Microsoft.Workloads/ sapVirtualInstances/ centralInstances |
-| [Database for SAP solutions](svg/Microsoft_Azure_SAPManagement/SAP_DB_Server_instance.svg) | Microsoft.Workloads/ sapVirtualInstances/ databaseInstances |
-| [Azure Center for SAP solutions](svg/Microsoft_Azure_SAPManagement/SAPOnAzure.svg) |  |
 | [Virtual Instance for SAP solutions](svg/Microsoft_Azure_SAPManagement/SapVirtualInstanceAsset.svg) | Microsoft.Workloads/ sapVirtualInstances |
+| [Azure Center for SAP solutions](svg/Microsoft_Azure_SAPManagement/SAPOnAzure.svg) |  |
+| [Database for SAP solutions](svg/Microsoft_Azure_SAPManagement/SAP_DB_Server_instance.svg) | Microsoft.Workloads/ sapVirtualInstances/ databaseInstances |
+| [Central service instance for SAP solutions](svg/Microsoft_Azure_SAPManagement/SAP_Central_Server_instance.svg) | Microsoft.Workloads/ sapVirtualInstances/ centralInstances |
+| [App server instance for SAP solutions](svg/Microsoft_Azure_SAPManagement/SAP_App_Server_instance.svg) | Microsoft.Workloads/ sapVirtualInstances/ applicationInstances |
 | [Search service](svg/Microsoft_Azure_Search/SearchService.svg) | Microsoft.Search/ searchServices |
 | [My Resource](svg/Microsoft_Azure_SecureExchange/SecureExchange.svg) | Providers.Test/ statefulIbizaEngines |
 | [Microsoft Defender for Cloud](svg/Microsoft_Azure_Security/SecurityDashboard.svg) |  |
