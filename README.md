@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.101.4.1 on 2025-08-02.
+Extracted from Azure Portal version 16.108.0.1 on 2025-08-03.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -954,11 +954,11 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [SAP HANA on Azure](svg/Microsoft_Azure_SapHanaInstances/HanaInstance.svg) | Microsoft.HanaOnAzure/ hanaInstances |
 | [BareMetal Instance](svg/Microsoft_Azure_SapHanaInstances/BareMetalInstance.svg) | Microsoft.BareMetalInfrastructure/ bareMetalInstances |
 | [Azure Large Instance](svg/Microsoft_Azure_SapHanaInstances/AzureLargeInstance.svg) | Microsoft.AzureLargeInstance/ azureLargeInstances |
-| [App server instance for SAP solutions](svg/Microsoft_Azure_SAPManagement/SAP_App_Server_instance.svg) | Microsoft.Workloads/ sapVirtualInstances/ applicationInstances |
-| [Central service instance for SAP solutions](svg/Microsoft_Azure_SAPManagement/SAP_Central_Server_instance.svg) | Microsoft.Workloads/ sapVirtualInstances/ centralInstances |
-| [Database for SAP solutions](svg/Microsoft_Azure_SAPManagement/SAP_DB_Server_instance.svg) | Microsoft.Workloads/ sapVirtualInstances/ databaseInstances |
-| [Azure Center for SAP solutions](svg/Microsoft_Azure_SAPManagement/SAPOnAzure.svg) |  |
 | [Virtual Instance for SAP solutions](svg/Microsoft_Azure_SAPManagement/SapVirtualInstanceAsset.svg) | Microsoft.Workloads/ sapVirtualInstances |
+| [Azure Center for SAP solutions](svg/Microsoft_Azure_SAPManagement/SAPOnAzure.svg) |  |
+| [Database for SAP solutions](svg/Microsoft_Azure_SAPManagement/SAP_DB_Server_instance.svg) | Microsoft.Workloads/ sapVirtualInstances/ databaseInstances |
+| [Central service instance for SAP solutions](svg/Microsoft_Azure_SAPManagement/SAP_Central_Server_instance.svg) | Microsoft.Workloads/ sapVirtualInstances/ centralInstances |
+| [App server instance for SAP solutions](svg/Microsoft_Azure_SAPManagement/SAP_App_Server_instance.svg) | Microsoft.Workloads/ sapVirtualInstances/ applicationInstances |
 | [Search service](svg/Microsoft_Azure_Search/SearchService.svg) | Microsoft.Search/ searchServices |
 | [My Resource](svg/Microsoft_Azure_SecureExchange/SecureExchange.svg) | Providers.Test/ statefulIbizaEngines |
 | [Microsoft Defender for Cloud](svg/Microsoft_Azure_Security/SecurityDashboard.svg) |  |
