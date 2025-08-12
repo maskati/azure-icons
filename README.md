@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.108.0.1 on 2025-08-11.
+Extracted from Azure Portal version 16.108.0.1 on 2025-08-12.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -716,12 +716,19 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Action group](svg/Microsoft_Azure_Monitoring_Alerts/ActionGroup.svg) | microsoft.insights/ actiongroups |
 | [User and group quota](svg/Microsoft_Azure_NetApp/NfsVolumeQuotaRule.svg) | Microsoft.NetApp/ netAppAccounts/ capacityPools/ volumes/ volumeQuotaRules |
 | [VolumeGroup](svg/Microsoft_Azure_NetApp/NfsVolumeGroup.svg) | Microsoft.NetApp/ netAppAccounts/ volumeGroups |
+| [Volume](svg/Microsoft_Azure_NetApp/ScaleVolume.svg) | Microsoft.NetApp/ scaleAccounts/ scaleCapacityPools/ scaleVolumes |
 | [Volume](svg/Microsoft_Azure_NetApp/NfsVolume.svg) | Microsoft.NetApp/ netAppAccounts/ capacityPools/ Volumes |
+| [Snapshot policy](svg/Microsoft_Azure_NetApp/ScaleSnapshotPolicy.svg) | Microsoft.NetApp/ scaleAccounts/ scaleSnapshotPolicies |
 | [Snapshot policy](svg/Microsoft_Azure_NetApp/NfsSnapshotPolicy.svg) | Microsoft.NetApp/ netAppAccounts/ snapshotPolicies |
+| [Snapshot](svg/Microsoft_Azure_NetApp/ScaleSnapshot.svg) | Microsoft.NetApp/ scaleAccounts/ scaleCapacityPools/ scaleVolumes/ scaleSnapshots |
 | [Snapshot](svg/Microsoft_Azure_NetApp/NfsSnapshot.svg) | Microsoft.NetApp/ netAppAccounts/ capacityPools/ volumes/ snapshots |
+| [Capacity pool](svg/Microsoft_Azure_NetApp/ScaleCapacityPool.svg) | Microsoft.NetApp/ scaleAccounts/ scaleCapacityPools |
 | [Capacity pool](svg/Microsoft_Azure_NetApp/NfsPool.svg) | Microsoft.NetApp/ netAppAccounts/ capacityPools |
+| [Backup vault](svg/Microsoft_Azure_NetApp/ScaleBackupVault.svg) | Microsoft.NetApp/ scaleAccounts/ scaleBackupVaults |
 | [Backup vault](svg/Microsoft_Azure_NetApp/NfsBackupVault.svg) | Microsoft.NetApp/ netAppAccounts/ backupVaults |
+| [Backup Policy](svg/Microsoft_Azure_NetApp/ScaleBackupPolicy.svg) | Microsoft.NetApp/ scaleAccounts/ scaleBackupPolicies |
 | [Backup Policy](svg/Microsoft_Azure_NetApp/NfsBackupPolicy.svg) | Microsoft.NetApp/ netAppAccounts/ backupPolicies |
+| [NetApp account](svg/Microsoft_Azure_NetApp/ScaleAccount.svg) | Microsoft.NetApp/ scaleAccounts |
 | [NetApp account](svg/Microsoft_Azure_NetApp/NetAppAccount.svg) | Microsoft.NetApp/ netAppAccounts |
 | [Front Door WAF policy](svg/Microsoft_Azure_Network/FrontdoorWafPolicy.svg) | Microsoft.Network/ FrontDoorWebApplicationFirewallPolicies |
 | [Content Delivery Network WAF policy](svg/Microsoft_Azure_Network/ContentDeliveryNetworkWafPolicy.svg) | Microsoft.Cdn/ CdnWebApplicationFirewallPolicies |
