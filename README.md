@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.120.0.1 on 2025-08-16.
+Extracted from Azure Portal version 16.120.0.1 on 2025-08-17.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -648,8 +648,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Maps Account](svg/Microsoft_Azure_LocationServices/Maps.svg) | Microsoft.Maps/ accounts |
 | [Azure Maps Creator Resource](svg/Microsoft_Azure_LocationServices/Creator.svg) | Microsoft.Maps/ accounts/ creators |
 | [Customer Lockbox for Microsoft Azure](svg/Microsoft_Azure_Lockbox/AzureLockbox.svg) |  |
+| [Scheduled Action](svg/Microsoft_Azure_Maintenance/ScheduledAction.svg) | Microsoft.ComputeSchedule/ scheduledActions |
 | [Maintenance Configuration](svg/Microsoft_Azure_Maintenance/MaintenanceConfiguration.svg) | Microsoft.Maintenance/ maintenanceConfigurations |
-| [Automatic Action](svg/Microsoft_Azure_Maintenance/AutomaticAction.svg) | Microsoft.ComputeSchedule/ autoActions |
 | [Azure Key Vault Managed HSM](svg/Microsoft_Azure_ManagedHSM/ManagedHSM.svg) | Microsoft.KeyVault/ managedHSMs |
 | [Lab](svg/Microsoft_Azure_ManagedLab/LegacyLab.svg) | Microsoft.LabServices/ labAccounts/ labs |
 | [Azure Lab Services](svg/Microsoft_Azure_ManagedLab/LabServices.svg) |  |
@@ -1007,11 +1007,11 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Apache Spark pool](svg/Microsoft_Azure_Synapse/SparkPool.svg) | Microsoft.Synapse/ workspaces/ bigDataPools |
 | [SCOPE pool](svg/Microsoft_Azure_Synapse/ScopePool.svg) | Microsoft.Synapse/ workspaces/ scopePools |
 | [Synapse private link hub](svg/Microsoft_Azure_Synapse/SynapsePrivateLinkHub.svg) | Microsoft.Synapse/ privateLinkHubs |
-| [Built-in template spec](svg/Microsoft_Azure_TemplateSpecs/ArmBuiltInTemplateSpec.svg) | Microsoft.Resources/ builtInTemplateSpecs |
-| [Template spec](svg/Microsoft_Azure_TemplateSpecs/ArmTemplateSpec.svg) | Microsoft.Resources/ templateSpecs |
-| [Template spec](svg/Microsoft_Azure_TemplateSpecs/ArmTemplateSpecMG.svg) | Microsoft.Management/ managementgroups/ providers/ templatespecs |
-| [Template spec](svg/Microsoft_Azure_TemplateSpecs/ArmTemplateSpecsHub.svg) |  |
 | [Deployment Script](svg/Microsoft_Azure_TemplateSpecs/DeploymentScriptHub.svg) | Microsoft.Resources/ deploymentScripts |
+| [Template spec](svg/Microsoft_Azure_TemplateSpecs/ArmTemplateSpecsHub.svg) |  |
+| [Template spec](svg/Microsoft_Azure_TemplateSpecs/ArmTemplateSpecMG.svg) | Microsoft.Management/ managementgroups/ providers/ templatespecs |
+| [Template spec](svg/Microsoft_Azure_TemplateSpecs/ArmTemplateSpec.svg) | Microsoft.Resources/ templateSpecs |
+| [Built-in template spec](svg/Microsoft_Azure_TemplateSpecs/ArmBuiltInTemplateSpec.svg) | Microsoft.Resources/ builtInTemplateSpecs |
 | [Azure Toolbox](svg/Microsoft_Azure_Toolbox/Overview.svg) |  |
 | [Azure Toolbox](svg/Microsoft_Azure_Toolbox/Gallery.svg) |  |
 | [Microsoft.UsageBilling accounts validation workspaces sign off](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_validationworkspaces_signoffs_2025_01_01_preview.svg) | microsoft.usagebilling/ accounts/ validationworkspaces/ signoffs |
