@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.120.1.1 on 2025-08-19.
+Extracted from Azure Portal version 16.120.1.1 on 2025-08-20.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -648,8 +648,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Maps Account](svg/Microsoft_Azure_LocationServices/Maps.svg) | Microsoft.Maps/ accounts |
 | [Azure Maps Creator Resource](svg/Microsoft_Azure_LocationServices/Creator.svg) | Microsoft.Maps/ accounts/ creators |
 | [Customer Lockbox for Microsoft Azure](svg/Microsoft_Azure_Lockbox/AzureLockbox.svg) |  |
-| [Scheduled Action](svg/Microsoft_Azure_Maintenance/ScheduledAction.svg) | Microsoft.ComputeSchedule/ scheduledActions |
 | [Maintenance Configuration](svg/Microsoft_Azure_Maintenance/MaintenanceConfiguration.svg) | Microsoft.Maintenance/ maintenanceConfigurations |
+| [Automatic Action](svg/Microsoft_Azure_Maintenance/AutomaticAction.svg) | Microsoft.ComputeSchedule/ autoActions |
 | [Azure Key Vault Managed HSM](svg/Microsoft_Azure_ManagedHSM/ManagedHSM.svg) | Microsoft.KeyVault/ managedHSMs |
 | [Lab](svg/Microsoft_Azure_ManagedLab/LegacyLab.svg) | Microsoft.LabServices/ labAccounts/ labs |
 | [Azure Lab Services](svg/Microsoft_Azure_ManagedLab/LabServices.svg) |  |
