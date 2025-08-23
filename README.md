@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.120.1.1 on 2025-08-22.
+Extracted from Azure Portal version 16.120.1.1 on 2025-08-23.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -320,11 +320,11 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Cloud service (classic)](svg/Microsoft_Azure_CloudServices/CloudService.svg) | microsoft.classicCompute/ domainNames |
 | [Cloud service (extended support)](svg/Microsoft_Azure_CloudServices_Arm/CloudServicesArm.svg) | Microsoft.Compute/ cloudServices |
 | [1ES](svg/Microsoft_Azure_CloudTest/CloudTest.svg) |  |
-| [CloudTest Account](svg/Microsoft_Azure_CloudTest/CloudTestAccounts.svg) | Microsoft.CloudTest/ accounts |
-| [1ES Build Cache](svg/Microsoft_Azure_CloudTest/CloudTestBuildCache.svg) | Microsoft.CloudTest/ buildcaches |
-| [1ES Hosted Pool](svg/Microsoft_Azure_CloudTest/HostedPools.svg) | Microsoft.CloudTest/ hostedpools |
-| [1ES Image](svg/Microsoft_Azure_CloudTest/CloudTestImages.svg) | Microsoft.CloudTest/ images |
 | [CloudTest Pool](svg/Microsoft_Azure_CloudTest/CloudTestPools.svg) | Microsoft.CloudTest/ pools |
+| [1ES Image](svg/Microsoft_Azure_CloudTest/CloudTestImages.svg) | Microsoft.CloudTest/ images |
+| [1ES Hosted Pool](svg/Microsoft_Azure_CloudTest/HostedPools.svg) | Microsoft.CloudTest/ hostedpools |
+| [1ES Build Cache](svg/Microsoft_Azure_CloudTest/CloudTestBuildCache.svg) | Microsoft.CloudTest/ buildcaches |
+| [CloudTest Account](svg/Microsoft_Azure_CloudTest/CloudTestAccounts.svg) | Microsoft.CloudTest/ accounts |
 | [Code Optimizations](svg/Microsoft_Azure_CodeOptimizations/CodeOptimizations.svg) |  |
 | [Trusted Signing Account](svg/Microsoft_Azure_CodeSigning/CodeSigningAccounts.svg) | Microsoft.CodeSigning/ codesigningaccounts |
 | [Communication Service](svg/Microsoft_Azure_CommunicationServices/Communication.svg) | Microsoft.Communication/ CommunicationServices |
@@ -594,15 +594,15 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Kubernetes - Azure Arc extension](svg/Microsoft_Azure_HybridCompute/ConnectedClusterExtension.svg) | Microsoft.Kubernetes/ connectedClusters/ Microsoft.KubernetesConfiguration/ extensions |
 | [Kubernetes - Azure Arc](svg/Microsoft_Azure_HybridCompute/ConnectedClusters.svg) | Microsoft.Kubernetes/ connectedClusters |
 | [Resource bridge](svg/Microsoft_Azure_HybridCompute/ResourceBridge.svg) | Microsoft.ResourceConnector/ Appliances |
-| [Azure Arc data controller](svg/Microsoft_Azure_HybridData_Platform/DataController.svg) | Microsoft.AzureArcData/ dataControllers |
+| [SQL Server License](svg/Microsoft_Azure_HybridData_Platform/SqlServerLicense.svg) | microsoft.azurearcdata/ sqlserverlicenses |
+| [SQL Server database](svg/Microsoft_Azure_HybridData_Platform/SqlServerInstancesDatabases.svg) | Microsoft.AzureArcData/ SqlServerInstances/ Databases |
+| [SQL Server instance](svg/Microsoft_Azure_HybridData_Platform/SqlServerInstance.svg) | Microsoft.AzureArcData/ sqlServerInstances |
+| [SQL Server ESU license](svg/Microsoft_Azure_HybridData_Platform/SqlServerEsuLicense.svg) | microsoft.azurearcdata/ sqlserveresulicenses |
+| [SQL managed instance - Azure Arc](svg/Microsoft_Azure_HybridData_Platform/SqlManagedInstance.svg) | Microsoft.AzureArcData/ sqlManagedInstances |
+| [PostgresSql Server - Azure Arc](svg/Microsoft_Azure_HybridData_Platform/PostgresSqlServer.svg) | Microsoft.AzureArcData/ PostgresSqlServer |
 | [PostgreSQL server – Azure Arc](svg/Microsoft_Azure_HybridData_Platform/PostgresInstance.svg) | Microsoft.AzureArcData/ postgresInstances |
 | [MySql Server - Azure Arc](svg/Microsoft_Azure_HybridData_Platform/MySqlServer.svg) | Microsoft.AzureArcData/ MySqlServer |
-| [PostgresSql Server - Azure Arc](svg/Microsoft_Azure_HybridData_Platform/PostgresSqlServer.svg) | Microsoft.AzureArcData/ PostgresSqlServer |
-| [SQL managed instance - Azure Arc](svg/Microsoft_Azure_HybridData_Platform/SqlManagedInstance.svg) | Microsoft.AzureArcData/ sqlManagedInstances |
-| [SQL Server ESU license](svg/Microsoft_Azure_HybridData_Platform/SqlServerEsuLicense.svg) | microsoft.azurearcdata/ sqlserveresulicenses |
-| [SQL Server - Azure Arc](svg/Microsoft_Azure_HybridData_Platform/SqlServerInstance.svg) | Microsoft.AzureArcData/ sqlServerInstances |
-| [SQL Server database - Azure Arc](svg/Microsoft_Azure_HybridData_Platform/SqlServerInstancesDatabases.svg) | Microsoft.AzureArcData/ SqlServerInstances/ Databases |
-| [SQL Server License](svg/Microsoft_Azure_HybridData_Platform/SqlServerLicense.svg) | microsoft.azurearcdata/ sqlserverlicenses |
+| [Azure Arc data controller](svg/Microsoft_Azure_HybridData_Platform/DataController.svg) | Microsoft.AzureArcData/ dataControllers |
 | [Microsoft.Network network virtual appliance](svg/Microsoft_Azure_HybridNetworking/microsoft_network_networkvirtualappliances_2020_03_01.svg) | microsoft.network/ networkvirtualappliances |
 | [Virtual WAN](svg/Microsoft_Azure_HybridNetworking/VirtualWan.svg) | Microsoft.Network/ virtualWans |
 | [Azure Cortex](svg/Microsoft_Azure_HybridNetworking/GlobalSecureAccess.svg) |  |
