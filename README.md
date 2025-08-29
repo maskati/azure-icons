@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.120.1.1 on 2025-08-28.
+Extracted from Azure Portal version 16.130.0.1 on 2025-08-29.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -419,7 +419,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Backup center](svg/Microsoft_Azure_DataProtection/BackupCenter.svg) |  |
 | [Data Share Invitation](svg/Microsoft_Azure_DataShare/InvitationsBrowse.svg) |  |
 | [Data Share](svg/Microsoft_Azure_DataShare/DataShare.svg) | Microsoft.DataShare/ accounts |
-| [ClusterStor](svg/Microsoft_Azure_Dedicated_ClusterStor/ClusterStor.svg) | Microsoft.ClusterStor/ nodes |
 | [Security Detonation Chamber](svg/Microsoft_Azure_DetonationService/DetonationChamber.svg) | Microsoft.SecurityDetonation/ chambers |
 | [Project](svg/Microsoft_Azure_DevCenter/Project.svg) | Microsoft.DevCenter/ projects |
 | [Pool](svg/Microsoft_Azure_DevCenter/Pools.svg) | Microsoft.DevCenter/ projects/ pools |
@@ -520,8 +519,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [API Connection](svg/Microsoft_Azure_EMA/ApiConnection.svg) | Microsoft.Web/ connections |
 | [Email Communication Service](svg/Microsoft_Azure_EmailCommunicationServices/EmailCommunicationService.svg) | Microsoft.Communication/ EmailServices |
 | [Email Communication Services Domain](svg/Microsoft_Azure_EmailCommunicationServices/EmailCommunicationServicesDomain.svg) | Microsoft.Communication/ EmailServices/ Domains |
-| [Azure Center for Epic solution](svg/Microsoft_Azure_EpicManagement/LandingAsset.svg) |  |
-| [Virtual Instance for Epic solution](svg/Microsoft_Azure_EpicManagement/OverviewAsset.svg) | Microsoft.Workloads/ epicVirtualInstances |
 | [Event Grid Topic Space](svg/Microsoft_Azure_EventGrid/TopicSpace.svg) | Microsoft.EventGrid/ namespaces/ topicSpaces |
 | [Event Grid Topic](svg/Microsoft_Azure_EventGrid/Topic.svg) | Microsoft.EventGrid/ topics |
 | [Event Grid Subscriptions](svg/Microsoft_Azure_EventGrid/SystemTopicEventSubscription.svg) | Microsoft.EventGrid/ systemTopics/ eventSubscriptions |
@@ -822,8 +819,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Bare Metal Machine (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/BareMetalMachineResource.svg) | Microsoft.NetworkCloud/ bareMetalMachines |
 | [Agent Pool (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/AgentPoolResource.svg) | Microsoft.NetworkCloud/ kubernetesClusters/ agentPools |
 | [My Resource](svg/Microsoft_Azure_NetworkCopilotExtension/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
-| [Network Security Perimeter](svg/Microsoft_Azure_NetworkSecurityPerimeter/networkSecurityPerimeter.svg) | Microsoft.Network/ networkSecurityPerimeters |
-| [Profile](svg/Microsoft_Azure_NetworkSecurityPerimeter/NspProfiles.svg) | Microsoft.Network/ networkSecurityPerimeters/ profiles |
+| [Network Security Perimeter](svg/Microsoft_Azure_NetworkSecurityPerimeter/NetworkSecurityPerimeter.svg) | Microsoft.Network/ networkSecurityPerimeters |
+| [Profile](svg/Microsoft_Azure_NetworkSecurityPerimeter/Profile.svg) | Microsoft.Network/ networkSecurityPerimeters/ profiles |
 | [Global Secure Access](svg/Microsoft_Azure_Network_Access/NetworkAccess.svg) |  |
 | [Notification Hub](svg/Microsoft_Azure_NotificationHubs/NotificationHub.svg) | Microsoft.NotificationHubs/ namespaces/ notificationHubs |
 | [Notification Hub Namespace](svg/Microsoft_Azure_NotificationHubs/Namespace.svg) | Microsoft.NotificationHubs/ namespaces |
