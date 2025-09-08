@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.130.0.1 on 2025-09-07.
+Extracted from Azure Portal version 16.130.0.1 on 2025-09-08.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -1158,6 +1158,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Elastic Job agent](svg/SqlAzureExtension/JobAgent.svg) | Microsoft.Sql/ servers/ jobAgents |
 | [Database service](svg/SqlAzureExtension/SqlService.svg) |  |
 | [SQL database](svg/SqlAzureExtension/Database.svg) | Microsoft.Sql/ servers/ databases |
+| [Azure SQL resource](svg/SqlAzureExtension/AzureSQLAllResources.svg) | Microsoft.Sql/ azuresqlallresources |
 | [Azure SQL resource](svg/SqlAzureExtension/AzureSQL.svg) | Microsoft.Sql/ azuresql |
 | [Universal Print](svg/Universal_Print/universal_Print.svg) |  |
 | [My Resource](svg/VLCentral_Agreement/MyResource.svg) |  |
