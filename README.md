@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.133.0.1 on 2025-09-11.
+Extracted from Azure Portal version 16.133.0.1 on 2025-09-12.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -476,7 +476,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Disk](svg/Microsoft_Azure_DiskMgmt/Disk.svg) | Microsoft.Compute/ disks |
 | [Community image](svg/Microsoft_Azure_DiskMgmt/CommunityImage.svg) | Microsoft.Compute/ locations/ communityGalleries/ images |
 | [Azure Database Migration Service](svg/Microsoft_Azure_DMS/DmsV2.svg) | Microsoft.DataMigration/ sqlmigrationservices |
-| [Azure Database Migration Service resource](svg/Microsoft_Azure_DMS/DmsCenter.svg) | Microsoft.DataMigration/ dmscentermain |
+| [Azure Database Migration Service](svg/Microsoft_Azure_DMS/DmsCenter.svg) | Microsoft.DataMigration/ dmscentermain |
 | [Azure Database Migration Service resource](svg/Microsoft_Azure_DMS/AllDmsResources.svg) | Microsoft.DataMigration/ all |
 | [Azure Database Migration Project](svg/Microsoft_Azure_DMS/DmsProject.svg) | Microsoft.DataMigration/ services/ projects |
 | [Azure Database Migration Service (classic)](svg/Microsoft_Azure_DMS/Dms.svg) | Microsoft.DataMigration/ services |
@@ -667,6 +667,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [SaaS](svg/Microsoft_Azure_Marketplace/SaasSubscriptionLevel.svg) | Microsoft.SaaS/ resources |
 | [Software as a Service (classic)](svg/Microsoft_Azure_Marketplace/SaasClassic.svg) | Microsoft.SaaS/ applications |
 | [SaaS (classic)](svg/Microsoft_Azure_Marketplace/Saas.svg) | Microsoft.SaaS/ saasresources |
+| [Private Offer Management](svg/Microsoft_Azure_Marketplace/PrivateOffersCenter.svg) |  |
 | [Template](svg/Microsoft_Azure_Marketplace/GalleryRpItem.svg) | Microsoft.Gallery/ myareas/ galleryitems |
 | [Marketplace](svg/Microsoft_Azure_Marketplace/StoreGallery.svg) |  |
 | [Marketplace](svg/Microsoft_Azure_Marketplace/Gallery.svg) |  |
