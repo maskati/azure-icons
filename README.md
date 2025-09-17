@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.133.0.1 on 2025-09-16.
+Extracted from Azure Portal version 16.133.0.1 on 2025-09-17.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -667,6 +667,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [SaaS](svg/Microsoft_Azure_Marketplace/SaasSubscriptionLevel.svg) | Microsoft.SaaS/ resources |
 | [Software as a Service (classic)](svg/Microsoft_Azure_Marketplace/SaasClassic.svg) | Microsoft.SaaS/ applications |
 | [SaaS (classic)](svg/Microsoft_Azure_Marketplace/Saas.svg) | Microsoft.SaaS/ saasresources |
+| [Private Offer Management](svg/Microsoft_Azure_Marketplace/PrivateOffersCenter.svg) |  |
 | [Template](svg/Microsoft_Azure_Marketplace/GalleryRpItem.svg) | Microsoft.Gallery/ myareas/ galleryitems |
 | [Marketplace](svg/Microsoft_Azure_Marketplace/StoreGallery.svg) |  |
 | [Marketplace](svg/Microsoft_Azure_Marketplace/Gallery.svg) |  |
@@ -893,14 +894,12 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure AI Foundry](svg/Microsoft_Azure_ProjectOxford/AIFoundry.svg) | Microsoft.CognitiveServices/ BrowseAIFoundry |
 | [Quantum Workspace](svg/Microsoft_Azure_Quantum/QuantumWorkspace.svg) | Microsoft.Quantum/ Workspaces |
 | [Azure Quantum](svg/Microsoft_Azure_Quantum/AzureQuantum.svg) |  |
+| [React Playground Asset](svg/Microsoft_Azure_ReactPlayground/ReactPlaygroundAsset.svg) |  |
+| [My Resource](svg/Microsoft_Azure_ReactPlayground/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Intelligent Recommendations Account](svg/Microsoft_Azure_RecommendationsService/Account.svg) | Microsoft.RecommendationsService/ accounts |
 | [Modeling](svg/Microsoft_Azure_RecommendationsService/Modeling.svg) | Microsoft.RecommendationsService/ accounts/ modeling |
 | [Service Endpoint](svg/Microsoft_Azure_RecommendationsService/ServiceEndpoint.svg) | Microsoft.RecommendationsService/ accounts/ serviceEndpoints |
 | [Backup Item](svg/Microsoft_Azure_RecoveryServices/BackupItem.svg) | Microsoft.RecoveryServices/ vaults/ backupFabrics/ protectionContainers/ protectedItems |
-| [Recovery Services INTD2](svg/Microsoft_Azure_RecoveryServices/RecoveryServicesResourceINTD2.svg) | Microsoft.RecoveryServicesINTD2/ vaults |
-| [Recovery Services INTD](svg/Microsoft_Azure_RecoveryServices/RecoveryServicesResourceINTD.svg) | Microsoft.RecoveryServicesINTD/ vaults |
-| [Recovery Services BVTD2](svg/Microsoft_Azure_RecoveryServices/RecoveryServicesResourceBVTD2.svg) | Microsoft.RecoveryServicesBVTD2/ vaults |
-| [Recovery Services BVTD](svg/Microsoft_Azure_RecoveryServices/RecoveryServicesResourceBVTD.svg) | Microsoft.RecoveryServicesBVTD/ vaults |
 | [Recovery Services vault](svg/Microsoft_Azure_RecoveryServices/RecoveryServicesResource.svg) | Microsoft.RecoveryServices/ vaults |
 | [Replication job](svg/Microsoft_Azure_RecoveryServices/ReplicationJobAsset.svg) |  |
 | [WCF Relay](svg/Microsoft_Azure_Relay/WcfRelay.svg) | Microsoft.Relay/ namespaces/ WcfRelays |
@@ -1051,7 +1050,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Configuration Group Schema](svg/Microsoft_Azure_VnfManager/AosmConfigSchema.svg) | Microsoft.HybridNetwork/ publishers/ configurationGroupSchemas |
 | [Configuration Group Value](svg/Microsoft_Azure_VnfManager/AosmCgv.svg) | Microsoft.HybridNetwork/ configurationGroupValues |
 | [Wave Migration](svg/Microsoft_Azure_WaveMigration/WaveMigrationResource.svg) | Providers.Test/ statefulIbizaEngines |
-| [Winfield  Preview](svg/Microsoft_Azure_Winfields/Winfields.svg) | private.edgeinternal/ winfields |
 | [My Resource](svg/Microsoft_Azure_WorkloadHub/WorkloadResource.svg) | Microsoft.Workloads/ WorkloadInstance |
 | [Microsoft.Workloads insight](svg/Microsoft_Azure_WorkloadInsight/microsoft_workloads_insights_2022_10_15_preview.svg) | microsoft.workloads/ insights |
 | [MARIO](svg/Microsoft_Azure_WorkloadInsight/mario.svg) |  |
