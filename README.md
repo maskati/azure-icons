@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.139.2.1 on 2025-09-21.
+Extracted from Azure Portal version 16.139.2.1 on 2025-09-22.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -943,6 +943,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [GitHub](svg/Microsoft_Azure_Resources/GitHub.svg) |  |
 | [Azure Data Boundaries](svg/Microsoft_Azure_Resources/AzureDataBoundary.svg) |  |
 | [Deployment](svg/Microsoft_Azure_Resources/Deployment.svg) |  |
+| [Stage map](svg/Microsoft_Azure_Resources/changesafety_stagemaps.svg) | microsoft.changesafety/ stagemaps |
+| [Change modification request](svg/Microsoft_Azure_Resources/changesafety_changestates.svg) | microsoft.changesafety/ changestates |
+| [Stage progression](svg/Microsoft_Azure_Resources/changesafety_changestates_stageprogressions.svg) | microsoft.changesafety/ changestates/ stageprogressions |
 | [Deployment stack](svg/Microsoft_Azure_Resources/StackManagementGroup.svg) | Microsoft.Management/ managementGroups/ Microsoft.Resources/ deploymentStacks |
 | [Deployment stack](svg/Microsoft_Azure_Resources/Stack.svg) | Microsoft.Resources/ deploymentStacks |
 | [Rollout](svg/Microsoft_Azure_Resources/Rollout.svg) | Microsoft.DeploymentManager/ Rollouts |
