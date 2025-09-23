@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.139.2.1 on 2025-09-22.
+Extracted from Azure Portal version 16.139.2.1 on 2025-09-23.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -900,10 +900,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Modeling](svg/Microsoft_Azure_RecommendationsService/Modeling.svg) | Microsoft.RecommendationsService/ accounts/ modeling |
 | [Service Endpoint](svg/Microsoft_Azure_RecommendationsService/ServiceEndpoint.svg) | Microsoft.RecommendationsService/ accounts/ serviceEndpoints |
 | [Backup Item](svg/Microsoft_Azure_RecoveryServices/BackupItem.svg) | Microsoft.RecoveryServices/ vaults/ backupFabrics/ protectionContainers/ protectedItems |
-| [Recovery Services INTD2](svg/Microsoft_Azure_RecoveryServices/RecoveryServicesResourceINTD2.svg) | Microsoft.RecoveryServicesINTD2/ vaults |
-| [Recovery Services INTD](svg/Microsoft_Azure_RecoveryServices/RecoveryServicesResourceINTD.svg) | Microsoft.RecoveryServicesINTD/ vaults |
-| [Recovery Services BVTD2](svg/Microsoft_Azure_RecoveryServices/RecoveryServicesResourceBVTD2.svg) | Microsoft.RecoveryServicesBVTD2/ vaults |
-| [Recovery Services BVTD](svg/Microsoft_Azure_RecoveryServices/RecoveryServicesResourceBVTD.svg) | Microsoft.RecoveryServicesBVTD/ vaults |
 | [Recovery Services vault](svg/Microsoft_Azure_RecoveryServices/RecoveryServicesResource.svg) | Microsoft.RecoveryServices/ vaults |
 | [Replication job](svg/Microsoft_Azure_RecoveryServices/ReplicationJobAsset.svg) |  |
 | [WCF Relay](svg/Microsoft_Azure_Relay/WcfRelay.svg) | Microsoft.Relay/ namespaces/ WcfRelays |
@@ -1040,6 +1036,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Virtual Enclaves](svg/Microsoft_Azure_VirtualEnclaves/AzureVirtualEnclave.svg) |  |
 | [Approval](svg/Microsoft_Azure_VirtualEnclaves/Approvals.svg) | Microsoft.Mission/ approvals |
 | [Virtual machine scale set](svg/Microsoft_Azure_VirtualMachineScaleSets/VirtualMachineScaleSets.svg) | Microsoft.Compute/ virtualMachineScaleSets |
+| [Virtual network appliance](svg/Microsoft_Azure_VirtualNetworkAppliance/VirtualNetworkAppliance.svg) | Providers.Test/ statefulIbizaEngines |
 | [Virtual Appointments Builder](svg/Microsoft_Azure_VirtualVisitsBuilder/vvbuilder.svg) |  |
 | [Azure Network Function Manager – Network Function](svg/Microsoft_Azure_VnfManager/VnfManagerVnfs.svg) | Microsoft.HybridNetwork/ networkFunctions |
 | [Azure Network Function Manager – vendor](svg/Microsoft_Azure_VnfManager/VnfManagerVendors.svg) | Microsoft.HybridNetwork/ vendors |
