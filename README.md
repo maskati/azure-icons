@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.133.0.1 on 2025-09-25.
+Extracted from Azure Portal version 16.139.2.1 on 2025-09-26.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -43,9 +43,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Global Rulestack](svg/Azure_Marketplace_PaloAltoNetworks_Cloudngfw/PaloAltoNetworksGlobalRulestack.svg) | PaloAltoNetworks.Cloudngfw/ globalRulestacks |
 | [Cloud NGFW by Palo Alto Networks](svg/Azure_Marketplace_PaloAltoNetworks_Cloudngfw/PaloAltoNetworksCloudNGFW.svg) | PaloAltoNetworks.Cloudngfw/ firewalls |
 | [Azure Pilot](svg/Azure_Marketplace_Pilot/Pilot.svg) | Microsoft.LiftrPilot/ organizations |
-| [Storage pool](svg/Azure_Marketplace_PureStorage/purestorage_block_storagepools.svg) | purestorage.block/ storagepools |
-| [Azure Native Pure Storage Cloud Service](svg/Azure_Marketplace_PureStorage/purestorage_block_reservations.svg) | purestorage.block/ reservations |
 | [PureStorage.Block storage pools avs storage container](svg/Azure_Marketplace_PureStorage/purestorage_block_storagepools_avsstoragecontainers.svg) | purestorage.block/ storagepools/ avsstoragecontainers |
+| [Azure Native Pure Storage Cloud Service](svg/Azure_Marketplace_PureStorage/purestorage_block_reservations.svg) | purestorage.block/ reservations |
+| [Storage pool](svg/Azure_Marketplace_PureStorage/purestorage_block_storagepools.svg) | purestorage.block/ storagepools |
 | [Azure Native Qumulo Scalable File Service](svg/Azure_Marketplace_Qumulo/MyResource.svg) | Qumulo.Storage/ fileSystems |
 | [Tag](svg/HubsExtension/Tag.svg) |  |
 | [Resource group](svg/HubsExtension/ResourceGroups.svg) | Microsoft.Resources/ subscriptions/ resourceGroups |
