@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.139.2.1 on 2025-09-29.
+Extracted from Azure Portal version 16.139.2.1 on 2025-09-30.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -586,10 +586,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Local virtual machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/AzureStackHci.svg) | Microsoft.AzureStackHci/ virtualMachines |
 | [Virtual machine](svg/Microsoft_Azure_HybridCompute/VirtualMachines.svg) | Microsoft.All/ virtualMachines |
 | [Azure Arc virtual machine](svg/Microsoft_Azure_HybridCompute/ArcVirtualMachines.svg) | Microsoft.All/ arcVirtualMachines |
-| [Azure Arc Kubernetes cluster](svg/Microsoft_Azure_HybridCompute/ArcK8Resources.svg) | Microsoft.Arc/ kubernetesResources |
-| [Kubernetes hybrid - Azure Arc](svg/Microsoft_Azure_HybridCompute/ProvisionedCluster.svg) | Microsoft.HybridContainerService/ provisionedClusters |
-| [Kubernetes - Azure Arc extension](svg/Microsoft_Azure_HybridCompute/ConnectedClusterExtension.svg) | Microsoft.Kubernetes/ connectedClusters/ Microsoft.KubernetesConfiguration/ extensions |
-| [Kubernetes - Azure Arc](svg/Microsoft_Azure_HybridCompute/ConnectedClusters.svg) | Microsoft.Kubernetes/ connectedClusters |
 | [Resource bridge](svg/Microsoft_Azure_HybridCompute/ResourceBridge.svg) | Microsoft.ResourceConnector/ Appliances |
 | [SQL Server License](svg/Microsoft_Azure_HybridData_Platform/SqlServerLicense.svg) | microsoft.azurearcdata/ sqlserverlicenses |
 | [SQL Server database](svg/Microsoft_Azure_HybridData_Platform/SqlServerInstancesDatabases.svg) | Microsoft.AzureArcData/ SqlServerInstances/ Databases |
