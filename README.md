@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.139.2.1 on 2025-09-30.
+Extracted from Azure Portal version 16.176.0.1 on 2025-10-01.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -406,12 +406,12 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Database watcher](svg/Microsoft_Azure_DatabaseInsights/DatabaseWatcher.svg) | Microsoft.DatabaseWatcher/ watchers |
 | [Azure Databricks Service](svg/Microsoft_Azure_Databricks/Workspace.svg) | Microsoft.Databricks/ workspaces |
 | [Access Connector for Azure Databricks](svg/Microsoft_Azure_Databricks/AccessConnector.svg) | Microsoft.Databricks/ accessConnectors |
-| [Activity](svg/Microsoft_Azure_DataFactory/Activity.svg) |  |
-| [Table](svg/Microsoft_Azure_DataFactory/Table.svg) |  |
-| [Data factory](svg/Microsoft_Azure_DataFactory/DataFactory.svg) | Microsoft.DataFactory/ dataFactories |
-| [Data factory (V2)](svg/Microsoft_Azure_DataFactory/DataFactoryv2.svg) | Microsoft.DataFactory/ factories |
-| [Pipeline](svg/Microsoft_Azure_DataFactory/Pipeline.svg) |  |
 | [Slice](svg/Microsoft_Azure_DataFactory/Slice.svg) |  |
+| [Pipeline](svg/Microsoft_Azure_DataFactory/Pipeline.svg) |  |
+| [Data factory (V2)](svg/Microsoft_Azure_DataFactory/DataFactoryv2.svg) | Microsoft.DataFactory/ factories |
+| [Data factory](svg/Microsoft_Azure_DataFactory/DataFactory.svg) | Microsoft.DataFactory/ dataFactories |
+| [Table](svg/Microsoft_Azure_DataFactory/Table.svg) |  |
+| [Activity](svg/Microsoft_Azure_DataFactory/Activity.svg) |  |
 | [Data Lake Analytics](svg/Microsoft_Azure_DataLakeAnalytics/KonaAccount.svg) | Microsoft.DataLakeAnalytics/ accounts |
 | [Data Lake Storage Gen1](svg/Microsoft_Azure_DataLakeStore/CaboAccount.svg) | Microsoft.DataLakeStore/ accounts |
 | [Resource Guard](svg/Microsoft_Azure_DataProtection/ResourceGuardResource.svg) | Microsoft.DataProtection/ resourceGuards |
