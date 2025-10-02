@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.176.0.1 on 2025-10-01.
+Extracted from Azure Portal version 16.176.0.1 on 2025-10-02.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -235,6 +235,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Activity log](svg/Microsoft_Azure_ActivityLog/ActivityLogAsset.svg) |  |
 | [Microsoft Entra Connect Health](svg/Microsoft_Azure_ADHybridHealth/RootAsset.svg) |  |
 | [Device Update for IoT Hub](svg/Microsoft_Azure_ADU/IotDUResource.svg) | Microsoft.DeviceUpdate/ Accounts |
+| [My Resource](svg/Microsoft_Azure_AfdAgenticWebGW/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Front Door](svg/Microsoft_Azure_AFDX/FrontdoorProfile.svg) | microsoft.cdn/ profiles |
 | [Azure Data Manager for Agriculture](svg/Microsoft_Azure_AgFoodPlatform/FarmbeatsResource.svg) | Microsoft.AgFoodPlatform/ farmBeats |
 | [Agriculture data solutions](svg/Microsoft_Azure_AgriculturePlatform/AgriServices.svg) | Microsoft.AgriculturePlatform/ agriServices |
@@ -917,7 +918,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Incentive Schedule](svg/Microsoft_Azure_Reservations/ContingencyBillingAdminAsset.svg) | Microsoft.Billing/ billingAccounts/ incentiveSchedules |
 | [Savings plan](svg/Microsoft_Azure_Reservations/SavingsPlanBrowseAsset.svg) |  |
 | [Reservation](svg/Microsoft_Azure_Reservations/ReservationsBrowseAsset.svg) |  |
-| [Reservations_SG](svg/Microsoft_Azure_ResiliencyHub/ResiliencyHub.svg) |  |
+| [ContosoTaskApp](svg/Microsoft_Azure_ResiliencyHub/ResiliencyHub.svg) |  |
 | [Azure Resource Mover](svg/Microsoft_Azure_ResourceMove/AzureResourceMoveHub.svg) |  |
 | [What's new](svg/Microsoft_Azure_Resources/WhatsNew.svg) |  |
 | [User privacy](svg/Microsoft_Azure_Resources/UserPrivacy.svg) |  |
