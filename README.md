@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.176.0.1 on 2025-10-03.
+Extracted from Azure Portal version 16.176.0.1 on 2025-10-04.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -924,6 +924,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [User privacy](svg/Microsoft_Azure_Resources/UserPrivacy.svg) |  |
 | [Service group](svg/Microsoft_Azure_Resources/ServiceGroups.svg) | microsoft.management/ serviceGroups |
 | [Connected Resource](svg/Microsoft_Azure_Resources/ServiceGroupRelationships.svg) | microsoft.relationships/ serviceGroupRelationships |
+| [Service group member relationship](svg/Microsoft_Azure_Resources/ServiceGroupMembersRelationshipsNoJoin.svg) | microsoft.relationships/ servicegroupmembernojoin |
 | [Service group member relationship](svg/Microsoft_Azure_Resources/ServiceGroupMembersRelationships.svg) | microsoft.relationships/ servicegroupmember |
 | [Dependency Relationship](svg/Microsoft_Azure_Resources/DependencyRelationships.svg) | microsoft.relationships/ dependencyOf |
 | [Subscription](svg/Microsoft_Azure_Resources/ResExtVirtualSubscriptions.svg) | microsoft.resources/ virtualsubscriptionsforresourcepicker |
