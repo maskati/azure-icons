@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.185.0.1 on 2025-10-13.
+Extracted from Azure Portal version 16.181.0.1 on 2025-10-14.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -183,6 +183,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Activity Report](svg/Microsoft_AAD_IAM/AuthenticationActivityBlade.svg) |  |
 | [Audit Log](svg/Microsoft_AAD_IAM/AuditLogs.svg) |  |
 | [Privileged Identity Management Browse](svg/Microsoft_AAD_IAM/ArmResourceBrowseBlade.svg) |  |
+| [Application Policy](svg/Microsoft_AAD_IAM/AppPolicies.svg) |  |
 | [Admin Consent Request](svg/Microsoft_AAD_IAM/ApplicationRequestApprovalsBladeV2.svg) |  |
 | [Application Credential Activity](svg/Microsoft_AAD_IAM/ApplicationCredentialActivityList.svg) |  |
 | [Microsoft Entra Application Activity](svg/Microsoft_AAD_IAM/ApplicationActivityGrid.svg) |  |
@@ -220,7 +221,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Local Virtual Machine - Azure Arc](svg/Microsoft_AzureStackHCI_PortalExtension/HCIVirtualMachines.svg) | Microsoft.All/ hciVirtualMachines |
 | [Azure Local Storage path](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCIStoragePath.svg) | Microsoft.AzureStackHCI/ storagecontainers |
 | [Azure Local](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCIResource.svg) | Microsoft.AzureStackHCI/ clusters |
-| [Azure Local Network Security Group (preview)](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCINetworkSecurityGroup.svg) | Microsoft.AzureStackHCI/ networkSecurityGroups |
+| [Azure Local Network Security Group](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCINetworkSecurityGroup.svg) | Microsoft.AzureStackHCI/ networkSecurityGroups |
 | [Azure Local VM Network Interface](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCINetworkInterface.svg) | Microsoft.AzureStackHCI/ NetworkInterfaces |
 | [Azure Local Marketplace Gallery image](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCIMarketplaceGalleryImage.svg) | Microsoft.AzureStackHCI/ marketplacegalleryImages |
 | [Azure Local Logical network](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCILogicalNetwork.svg) | Microsoft.AzureStackHCI/ logicalnetworks |
@@ -577,8 +578,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [SCVMM management server](svg/Microsoft_Azure_HybridCompute/ScVmmManagementServer.svg) | Microsoft.ScVmm/ vmmServers |
 | [SCVMM virtual machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/ArcVmScVmm.svg) | Microsoft.scvmm/ virtualMachines |
 | [Azure Arc Private Link Scope](svg/Microsoft_Azure_HybridCompute/AzureArcPrivateLinkScope.svg) | Microsoft.HybridCompute/ privateLinkScopes |
-| [Multicloud synced resource](svg/Microsoft_Azure_HybridCompute/MulticloudSyncedResources.svg) | Microsoft.HybridConnectivity/ publicCloudConnectors/ multicloudsyncedresources |
 | [Multicloud connector](svg/Microsoft_Azure_HybridCompute/MultiCloudConnector.svg) | Microsoft.HybridConnectivity/ publicCloudConnectors |
+| [Multicloud synced resource](svg/Microsoft_Azure_HybridCompute/GcpSyncedResources.svg) | Microsoft.HybridConnectivity/ publicCloudConnectors/ gcpsyncedresources |
+| [Multicloud synced resource](svg/Microsoft_Azure_HybridCompute/AwsSyncedResources.svg) | Microsoft.HybridConnectivity/ publicCloudConnectors/ awssyncedresources |
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/HybridComputeSovereign.svg) | Microsoft.HybridCompute/ machinesSovereign |
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/HybridCompute.svg) | Microsoft.HybridCompute/ machines |
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/ArcServerWithWac.svg) | Microsoft.HybridCompute/ arcServerWithWac |
