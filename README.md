@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.181.0.1 on 2025-10-14.
+Extracted from Azure Portal version 16.185.0.1 on 2025-10-15.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -183,7 +183,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Activity Report](svg/Microsoft_AAD_IAM/AuthenticationActivityBlade.svg) |  |
 | [Audit Log](svg/Microsoft_AAD_IAM/AuditLogs.svg) |  |
 | [Privileged Identity Management Browse](svg/Microsoft_AAD_IAM/ArmResourceBrowseBlade.svg) |  |
-| [Application Policy](svg/Microsoft_AAD_IAM/AppPolicies.svg) |  |
 | [Admin Consent Request](svg/Microsoft_AAD_IAM/ApplicationRequestApprovalsBladeV2.svg) |  |
 | [Application Credential Activity](svg/Microsoft_AAD_IAM/ApplicationCredentialActivityList.svg) |  |
 | [Microsoft Entra Application Activity](svg/Microsoft_AAD_IAM/ApplicationActivityGrid.svg) |  |
@@ -729,6 +728,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Backup](svg/Microsoft_Azure_NetApp/NfsBackups.svg) | Microsoft.NetApp/ netAppAccounts/ backupVaults/ backups |
 | [Scale backup policy](svg/Microsoft_Azure_NetApp/ScaleBackupPolicy.svg) | Microsoft.NetApp/ scaleAccounts/ scaleBackupPolicies |
 | [Backup Policy](svg/Microsoft_Azure_NetApp/NfsBackupPolicy.svg) | Microsoft.NetApp/ netAppAccounts/ backupPolicies |
+| [Active directory config](svg/Microsoft_Azure_NetApp/ActiveDirectoryConfig.svg) | Microsoft.NetApp/ activeDirectoryConfigs |
 | [NetApp scale account](svg/Microsoft_Azure_NetApp/ScaleAccount.svg) | Microsoft.NetApp/ scaleAccounts |
 | [NetApp account](svg/Microsoft_Azure_NetApp/NetAppAccount.svg) | Microsoft.NetApp/ netAppAccounts |
 | [Front Door WAF policy](svg/Microsoft_Azure_Network/FrontdoorWafPolicy.svg) | Microsoft.Network/ FrontDoorWebApplicationFirewallPolicies |
