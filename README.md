@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.185.0.1 on 2025-10-15.
+Extracted from Azure Portal version 16.181.0.1 on 2025-10-16.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -183,6 +183,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Activity Report](svg/Microsoft_AAD_IAM/AuthenticationActivityBlade.svg) |  |
 | [Audit Log](svg/Microsoft_AAD_IAM/AuditLogs.svg) |  |
 | [Privileged Identity Management Browse](svg/Microsoft_AAD_IAM/ArmResourceBrowseBlade.svg) |  |
+| [Application Policy](svg/Microsoft_AAD_IAM/AppPolicies.svg) |  |
 | [Admin Consent Request](svg/Microsoft_AAD_IAM/ApplicationRequestApprovalsBladeV2.svg) |  |
 | [Application Credential Activity](svg/Microsoft_AAD_IAM/ApplicationCredentialActivityList.svg) |  |
 | [Microsoft Entra Application Activity](svg/Microsoft_AAD_IAM/ApplicationActivityGrid.svg) |  |
@@ -397,6 +398,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Extension Slot](svg/Microsoft_Azure_CreateUIDef/PortalExtensionSlots.svg) | Microsoft.PortalServices/ Extensions/ Slots |
 | [Extension Version](svg/Microsoft_Azure_CreateUIDef/PortalExtensionVersions.svg) | Microsoft.PortalServices/ Extensions/ Versions |
 | [Pipeline](svg/Microsoft_Azure_CtsExtension/CloudTransferPipeline.svg) | Microsoft.AzureDataTransfer/ Pipelines |
+| [Flow Profile](svg/Microsoft_Azure_CtsExtension/CloudTransferFlowProfile.svg) | Microsoft.AzureDataTransfer/ pipelines/ flowprofiles |
 | [Flow](svg/Microsoft_Azure_CtsExtension/CloudTransferFlow.svg) | Microsoft.AzureDataTransfer/ Connections/ Flows |
 | [Connection](svg/Microsoft_Azure_CtsExtension/CloudTransferConnection.svg) | Microsoft.AzureDataTransfer/ Connections |
 | [Azure Data Transfer](svg/Microsoft_Azure_CtsExtension/CloudTransferService.svg) |  |
