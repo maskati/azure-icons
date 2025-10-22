@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.185.0.1 on 2025-10-21.
+Extracted from Azure Portal version 16.185.0.1 on 2025-10-22.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -938,8 +938,10 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Recycle Bin](svg/Microsoft_Azure_Resources/DeletedResources.svg) | Microsoft.Resources/ deletedResources |
 | [Quickstart Center](svg/Microsoft_Azure_Resources/Quickstart.svg) |  |
 | [Operation log (classic)](svg/Microsoft_Azure_Resources/OperationLog.svg) |  |
+| [Multifactor authentication (Phase 1)](svg/Microsoft_Azure_Resources/MfaSettings.svg) |  |
 | [Management group](svg/Microsoft_Azure_Resources/ManagementGroups.svg) |  |
 | [GitHub](svg/Microsoft_Azure_Resources/GitHub.svg) |  |
+| [Feedback Policy Controls](svg/Microsoft_Azure_Resources/FeedbackPolicyControls.svg) |  |
 | [Azure Data Boundaries](svg/Microsoft_Azure_Resources/AzureDataBoundary.svg) |  |
 | [Deployment](svg/Microsoft_Azure_Resources/Deployment.svg) |  |
 | [Stage map](svg/Microsoft_Azure_Resources/changesafety_stagemaps.svg) | microsoft.changesafety/ stagemaps |
@@ -949,6 +951,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Deployment stack](svg/Microsoft_Azure_Resources/Stack.svg) | Microsoft.Resources/ deploymentStacks |
 | [Rollout](svg/Microsoft_Azure_Resources/Rollout.svg) | Microsoft.DeploymentManager/ Rollouts |
 | [API Playground](svg/Microsoft_Azure_Resources/APIPlayground.svg) |  |
+| [Multifactor authentication (Phase 2)](svg/Microsoft_Azure_Resources/ArmMfaSettings.svg) |  |
 | [Preview features](svg/Microsoft_Azure_Resources/PreviewFeaturesArg.svg) | microsoft.features/ featureprovidernamespaces/ featureconfigurations |
 | [Preview features](svg/Microsoft_Azure_Resources/PreviewFeatures.svg) |  |
 | [Microsoft SaaS (Preview)](svg/Microsoft_Azure_SaasHub/SaaSHub.svg) | Microsoft.SaaSHub/ cloudServices/ hidden |
