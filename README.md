@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.185.0.1 on 2025-10-22.
+Extracted from Azure Portal version 16.181.0.1 on 2025-10-23.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -378,13 +378,13 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Kubernetes Namespace](svg/Microsoft_Azure_ContainerService/ManagedClusterNamespaces.svg) | Microsoft.ContainerService/ managedClusters/ Microsoft.KubernetesConfiguration/ namespaces |
 | [Kubernetes - Azure Arc namespace](svg/Microsoft_Azure_ContainerService/ConnectedClusterNamespaces.svg) | Microsoft.Kubernetes/ connectedClusters/ Microsoft.KubernetesConfiguration/ namespaces |
 | [Container instances](svg/Microsoft_Azure_ContainerService/ContainerGroup.svg) | Microsoft.ContainerInstance/ containerGroups |
-| [Managed Kubernetes Namespace](svg/Microsoft_Azure_ContainerService/ManagedNamespaces.svg) | Microsoft.ContainerService/ managedClusters/ managedNamespaces |
+| [Managed Kubernetes Namespace (preview)](svg/Microsoft_Azure_ContainerService/ManagedNamespaces.svg) | Microsoft.ContainerService/ managedClusters/ managedNamespaces |
 | [Kubernetes service](svg/Microsoft_Azure_ContainerService/ManagedClusters.svg) | Microsoft.ContainerService/ managedClusters |
 | [Kubernetes service extension](svg/Microsoft_Azure_ContainerService/KubernetesClusterExtensionsChild.svg) | microsoft.containerservice/ managedclusters/ microsoft.kubernetesconfiguration/ extensions |
 | [Kubernetes service extension](svg/Microsoft_Azure_ContainerService/KubernetesClusterExtensions.svg) | microsoft.kubernetesconfiguration/ extensions |
 | [Azure Red Hat OpenShift cluster](svg/Microsoft_Azure_ContainerService/AroClusters.svg) | Microsoft.RedHatOpenShift/ OpenShiftClusters |
 | [Container storage](svg/Microsoft_Azure_ContainerStorage/ContainerStorage.svg) | Microsoft.ContainerStorage/ pools |
-| [Copilot in Azure admin center](svg/Microsoft_Azure_Copilot/CopilotSettingsAsset.svg) |  |
+| [Azure Copilot admin center](svg/Microsoft_Azure_Copilot/CopilotSettingsAsset.svg) |  |
 | [Cost exports](svg/Microsoft_Azure_CostManagement/Exports.svg) |  |
 | [Cost Management](svg/Microsoft_Azure_CostManagement/CostManagement.svg) |  |
 | [Cost analysis](svg/Microsoft_Azure_CostManagement/CostAnalysis.svg) |  |
@@ -1060,7 +1060,14 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Configuration Group Schema](svg/Microsoft_Azure_VnfManager/AosmConfigSchema.svg) | Microsoft.HybridNetwork/ publishers/ configurationGroupSchemas |
 | [Configuration Group Value](svg/Microsoft_Azure_VnfManager/AosmCgv.svg) | Microsoft.HybridNetwork/ configurationGroupValues |
 | [Wave Migration](svg/Microsoft_Azure_WaveMigration/WaveMigrationResource.svg) | Providers.Test/ statefulIbizaEngines |
-| [My Resource](svg/Microsoft_Azure_WorkloadHub/WorkloadResource.svg) | Microsoft.Workloads/ WorkloadInstance |
+| [Workloads Hub](svg/Microsoft_Azure_WorkloadHub/WorkloadResource.svg) |  |
+| [Workload Component](svg/Microsoft_Azure_WorkloadHub/WorkloadComponentAsset.svg) | Microsoft.Workloads/ virtualInstances/ components |
+| [Workload Virtual Instance](svg/Microsoft_Azure_WorkloadHub/VirtualInstanceAsset.svg) | Microsoft.Workloads/ virtualInstances |
+| [Workloads Hub](svg/Microsoft_Azure_WorkloadHub/VICheckResultsAsset.svg) | microsoft.workloads/ configurationvalidationresults/ checkname |
+| [Workload Virtual Instance](svg/Microsoft_Azure_WorkloadHub/RelatedVIAsset.svg) | Microsoft.Workloads/ virtualInstancess |
+| [Workloads Hub](svg/Microsoft_Azure_WorkloadHub/CheckResultAsset.svg) | microsoft.workloads/ configurationvalidationresults |
+| [Configuration Template](svg/Microsoft_Azure_WorkloadHub/VIConfigurationChecksTemplates.svg) | Microsoft.Workloads/ virtualInstances/ Microsoft.Workloads/ configurationChecksTemplates |
+| [Configuration Template](svg/Microsoft_Azure_WorkloadHub/configurationChecksTemplates.svg) | Microsoft.Workloads/ configurationChecksTemplates |
 | [Microsoft.Workloads insight](svg/Microsoft_Azure_WorkloadInsight/microsoft_workloads_insights_2022_10_15_preview.svg) | microsoft.workloads/ insights |
 | [MARIO](svg/Microsoft_Azure_WorkloadInsight/mario.svg) |  |
 | [Azure Monitor for SAP solutions](svg/Microsoft_Azure_WorkloadMonitor/SapMonitorV2.svg) | Microsoft.Workloads/ monitors |
@@ -1152,6 +1159,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Service Linker](svg/ServiceLinkerExtension/ServiceLinkerGlobal.svg) |  |
 | [Virtual cluster](svg/SqlAzureExtension/VirtualCluster.svg) | Microsoft.Sql/ virtualClusters |
 | [SQL virtual machine](svg/SqlAzureExtension/SqlVirtualMachine.svg) | Microsoft.SqlVirtualMachine/ SqlVirtualMachines |
+| [SQL Server instance](svg/SqlAzureExtension/SqlServerInstance.svg) | Microsoft.AzureArcData/ sqlServerInstancesUnified |
 | [SQL server](svg/SqlAzureExtension/Server.svg) | Microsoft.Sql/ servers |
 | [Azure Database for PostgreSQL single server](svg/SqlAzureExtension/PostgreSqlServer.svg) | Microsoft.DBforPostgreSQL/ servers |
 | [Azure Database for MySQL single server](svg/SqlAzureExtension/MySqlServer.svg) | Microsoft.DBforMySQL/ servers |
