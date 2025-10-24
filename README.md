@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.181.0.1 on 2025-10-23.
+Extracted from Azure Portal version 16.181.0.1 on 2025-10-24.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -710,6 +710,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Smart detector alert rule](svg/Microsoft_Azure_Monitoring_Alerts/SmartDetectorAlertRule.svg) | microsoft.alertsmanagement/ smartdetectoralertrules |
 | [Metric alert rule](svg/Microsoft_Azure_Monitoring_Alerts/MetricAlertRule.svg) | microsoft.insights/ metricalerts |
 | [Log search alert rule](svg/Microsoft_Azure_Monitoring_Alerts/LogSearchAlertRule.svg) | microsoft.insights/ scheduledqueryrules |
+| [Issue](svg/Microsoft_Azure_Monitoring_Alerts/Issue.svg) | microsoft.monitor/ accounts/ issues |
 | [Alerts](svg/Microsoft_Azure_Monitoring_Alerts/Alerts.svg) |  |
 | [Alert processing rule](svg/Microsoft_Azure_Monitoring_Alerts/AlertProcessingRule.svg) | microsoft.alertsmanagement/ actionrules |
 | [Activity log alert rule](svg/Microsoft_Azure_Monitoring_Alerts/ActivityLogAlertRule.svg) | microsoft.insights/ activitylogalerts |
@@ -967,6 +968,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [My Resource](svg/Microsoft_Azure_SecureExchange/SecureExchange.svg) | Providers.Test/ statefulIbizaEngines |
 | [Microsoft Defender for Cloud](svg/Microsoft_Azure_Security/SecurityDashboard.svg) |  |
 | [Security Alert](svg/Microsoft_Azure_Security/SecurityAlerts.svg) | microsoft.security/ locations/ alerts |
+| [Security Private Link](svg/Microsoft_Azure_Security_CloudNativeCompute/PrivateLinkResource.svg) | Microsoft.Security/ privatelinks |
 | [Microsoft Sentinel](svg/Microsoft_Azure_Security_Insights/Entity.svg) |  |
 | [Microsoft Sentinel incident](svg/Microsoft_Azure_Security_Insights/Incident.svg) |  |
 | [Microsoft Sentinel](svg/Microsoft_Azure_Security_Insights/SecurityInsightsDashboard.svg) | microsoft.securityinsightsarg/ sentinel |
