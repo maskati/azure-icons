@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.188.4.1 on 2025-10-26.
+Extracted from Azure Portal version 16.185.0.1 on 2025-10-27.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -710,6 +710,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Smart detector alert rule](svg/Microsoft_Azure_Monitoring_Alerts/SmartDetectorAlertRule.svg) | microsoft.alertsmanagement/ smartdetectoralertrules |
 | [Metric alert rule](svg/Microsoft_Azure_Monitoring_Alerts/MetricAlertRule.svg) | microsoft.insights/ metricalerts |
 | [Log search alert rule](svg/Microsoft_Azure_Monitoring_Alerts/LogSearchAlertRule.svg) | microsoft.insights/ scheduledqueryrules |
+| [Issue](svg/Microsoft_Azure_Monitoring_Alerts/Issue.svg) | microsoft.monitor/ accounts/ issues |
 | [Alerts](svg/Microsoft_Azure_Monitoring_Alerts/Alerts.svg) |  |
 | [Alert processing rule](svg/Microsoft_Azure_Monitoring_Alerts/AlertProcessingRule.svg) | microsoft.alertsmanagement/ actionrules |
 | [Activity log alert rule](svg/Microsoft_Azure_Monitoring_Alerts/ActivityLogAlertRule.svg) | microsoft.insights/ activitylogalerts |
@@ -1128,7 +1129,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Endpoint security](svg/Microsoft_Intune_Workflows/SecurityManagementAsset.svg) |  |
 | [Security Baselines](svg/Microsoft_Intune_Workflows/SecurityBaselineAsset.svg) |  |
 | [Explorer](svg/Microsoft_Intune_Workflows/CustomQueryResultAsset.svg) |  |
-| [Factory Operations Agent in Azure AI Foundry](svg/Microsoft_ManufacturingPlatform_DMM/DataManagerForManufacturing.svg) | Microsoft.ManufacturingPlatform/ ManufacturingDataServices |
 | [My Resource](svg/Microsoft_Marketplace_SolutionFinder/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Skylarc](svg/Microsoft_OneFleet_DataHub/Skylark.svg) |  |
 | [Grip](svg/Microsoft_OneFleet_DataHub/Grip.svg) |  |
