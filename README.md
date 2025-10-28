@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.185.0.1 on 2025-10-27.
+Extracted from Azure Portal version 16.188.4.1 on 2025-10-28.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -945,6 +945,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Feedback Policy Controls](svg/Microsoft_Azure_Resources/FeedbackPolicyControls.svg) |  |
 | [Azure Data Boundaries](svg/Microsoft_Azure_Resources/AzureDataBoundary.svg) |  |
 | [Deployment](svg/Microsoft_Azure_Resources/Deployment.svg) |  |
+| [Validation](svg/Microsoft_Azure_Resources/changesafety_validations.svg) | microsoft.changesafety/ validations |
 | [Stage map](svg/Microsoft_Azure_Resources/changesafety_stagemaps.svg) | microsoft.changesafety/ stagemaps |
 | [Change modification request](svg/Microsoft_Azure_Resources/changesafety_changestates.svg) | microsoft.changesafety/ changestates |
 | [Stage progression](svg/Microsoft_Azure_Resources/changesafety_changestates_stageprogressions.svg) | microsoft.changesafety/ changestates/ stageprogressions |
@@ -1129,6 +1130,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Endpoint security](svg/Microsoft_Intune_Workflows/SecurityManagementAsset.svg) |  |
 | [Security Baselines](svg/Microsoft_Intune_Workflows/SecurityBaselineAsset.svg) |  |
 | [Explorer](svg/Microsoft_Intune_Workflows/CustomQueryResultAsset.svg) |  |
+| [Factory Operations Agent in Azure AI Foundry](svg/Microsoft_ManufacturingPlatform_DMM/DataManagerForManufacturing.svg) | Microsoft.ManufacturingPlatform/ ManufacturingDataServices |
 | [My Resource](svg/Microsoft_Marketplace_SolutionFinder/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Skylarc](svg/Microsoft_OneFleet_DataHub/Skylark.svg) |  |
 | [Grip](svg/Microsoft_OneFleet_DataHub/Grip.svg) |  |
