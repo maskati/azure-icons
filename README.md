@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.188.4.1 on 2025-10-29.
+Extracted from Azure Portal version 16.188.4.1 on 2025-10-30.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -717,23 +717,23 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Action group](svg/Microsoft_Azure_Monitoring_Alerts/ActionGroup.svg) | microsoft.insights/ actiongroups |
 | [User and group quota](svg/Microsoft_Azure_NetApp/NfsVolumeQuotaRule.svg) | Microsoft.NetApp/ netAppAccounts/ capacityPools/ volumes/ volumeQuotaRules |
 | [VolumeGroup](svg/Microsoft_Azure_NetApp/NfsVolumeGroup.svg) | Microsoft.NetApp/ netAppAccounts/ volumeGroups |
-| [Scale volume](svg/Microsoft_Azure_NetApp/ScaleVolume.svg) | Microsoft.NetApp/ scaleAccounts/ scaleCapacityPools/ scaleVolumes |
 | [Volume](svg/Microsoft_Azure_NetApp/NfsVolume.svg) | Microsoft.NetApp/ netAppAccounts/ capacityPools/ Volumes |
-| [Scale snapshot policy](svg/Microsoft_Azure_NetApp/ScaleSnapshotPolicy.svg) | Microsoft.NetApp/ scaleAccounts/ scaleSnapshotPolicies |
+| [Elastic volume](svg/Microsoft_Azure_NetApp/ElasticVolume.svg) | Microsoft.NetApp/ elasticAccounts/ elasticCapacityPools/ elasticVolumes |
 | [Snapshot policy](svg/Microsoft_Azure_NetApp/NfsSnapshotPolicy.svg) | Microsoft.NetApp/ netAppAccounts/ snapshotPolicies |
-| [Scale snapshot](svg/Microsoft_Azure_NetApp/ScaleSnapshot.svg) | Microsoft.NetApp/ scaleAccounts/ scaleCapacityPools/ scaleVolumes/ scaleSnapshots |
+| [Elastic snapshot policy](svg/Microsoft_Azure_NetApp/ElasticSnapshotPolicy.svg) | Microsoft.NetApp/ elasticAccounts/ elasticSnapshotPolicies |
 | [Snapshot](svg/Microsoft_Azure_NetApp/NfsSnapshot.svg) | Microsoft.NetApp/ netAppAccounts/ capacityPools/ volumes/ snapshots |
-| [Scale capacity pool](svg/Microsoft_Azure_NetApp/ScaleCapacityPool.svg) | Microsoft.NetApp/ scaleAccounts/ scaleCapacityPools |
+| [Elastic snapshot](svg/Microsoft_Azure_NetApp/ElasticSnapshot.svg) | Microsoft.NetApp/ elasticAccounts/ elasticCapacityPools/ elasticVolumes/ elasticSnapshots |
 | [Capacity pool](svg/Microsoft_Azure_NetApp/NfsPool.svg) | Microsoft.NetApp/ netAppAccounts/ capacityPools |
-| [Scale backup vault](svg/Microsoft_Azure_NetApp/ScaleBackupVault.svg) | Microsoft.NetApp/ scaleAccounts/ scaleBackupVaults |
+| [Elastic capacity pool](svg/Microsoft_Azure_NetApp/ElasticCapacityPool.svg) | Microsoft.NetApp/ elasticAccounts/ elasticCapacityPools |
 | [Backup vault](svg/Microsoft_Azure_NetApp/NfsBackupVault.svg) | Microsoft.NetApp/ netAppAccounts/ backupVaults |
-| [Scale Backup](svg/Microsoft_Azure_NetApp/ScaleBackups.svg) | Microsoft.NetApp/ scaleAccounts/ scaleCapacityPools/ scaleVolumes/ scaleBackups |
+| [Elastic backup vault](svg/Microsoft_Azure_NetApp/ElasticBackupVault.svg) | Microsoft.NetApp/ elasticAccounts/ elasticBackupVaults |
 | [Backup](svg/Microsoft_Azure_NetApp/NfsBackups.svg) | Microsoft.NetApp/ netAppAccounts/ backupVaults/ backups |
-| [Scale backup policy](svg/Microsoft_Azure_NetApp/ScaleBackupPolicy.svg) | Microsoft.NetApp/ scaleAccounts/ scaleBackupPolicies |
+| [Elastic Backup](svg/Microsoft_Azure_NetApp/ElasticBackups.svg) | Microsoft.NetApp/ elasticAccounts/ elasticCapacityPools/ elasticVolumes/ elasticBackups |
 | [Backup Policy](svg/Microsoft_Azure_NetApp/NfsBackupPolicy.svg) | Microsoft.NetApp/ netAppAccounts/ backupPolicies |
+| [Elastic backup policy](svg/Microsoft_Azure_NetApp/ElasticBackupPolicy.svg) | Microsoft.NetApp/ elasticAccounts/ elasticBackupPolicies |
 | [Active directory config](svg/Microsoft_Azure_NetApp/ActiveDirectoryConfig.svg) | Microsoft.NetApp/ activeDirectoryConfigs |
-| [NetApp scale account](svg/Microsoft_Azure_NetApp/ScaleAccount.svg) | Microsoft.NetApp/ scaleAccounts |
 | [NetApp account](svg/Microsoft_Azure_NetApp/NetAppAccount.svg) | Microsoft.NetApp/ netAppAccounts |
+| [NetApp elastic account](svg/Microsoft_Azure_NetApp/ElasticAccount.svg) | Microsoft.NetApp/ elasticAccounts |
 | [Front Door WAF policy](svg/Microsoft_Azure_Network/FrontdoorWafPolicy.svg) | Microsoft.Network/ FrontDoorWebApplicationFirewallPolicies |
 | [Content Delivery Network WAF policy](svg/Microsoft_Azure_Network/ContentDeliveryNetworkWafPolicy.svg) | Microsoft.Cdn/ CdnWebApplicationFirewallPolicies |
 | [Application Gateway WAF policy](svg/Microsoft_Azure_Network/ApplicationGatewayWafPolicy.svg) | Microsoft.Network/ ApplicationGatewayWebApplicationFirewallPolicies |
@@ -897,7 +897,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure AI Foundry](svg/Microsoft_Azure_ProjectOxford/AIFoundry.svg) | Microsoft.CognitiveServices/ BrowseAIFoundry |
 | [Quantum Workspace](svg/Microsoft_Azure_Quantum/QuantumWorkspace.svg) | Microsoft.Quantum/ Workspaces |
 | [Azure Quantum](svg/Microsoft_Azure_Quantum/AzureQuantum.svg) |  |
-| [React Playground Asset](svg/Microsoft_Azure_ReactPlayground/ReactPlaygroundAsset.svg) |  |
 | [My Resource](svg/Microsoft_Azure_ReactPlayground/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Intelligent Recommendations Account](svg/Microsoft_Azure_RecommendationsService/Account.svg) | Microsoft.RecommendationsService/ accounts |
 | [Modeling](svg/Microsoft_Azure_RecommendationsService/Modeling.svg) | Microsoft.RecommendationsService/ accounts/ modeling |
