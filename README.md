@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.188.4.1 on 2025-10-30.
+Extracted from Azure Portal version 16.188.4.1 on 2025-10-31.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -312,6 +312,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Landing zone account](svg/Microsoft_Azure_CloudforSovereignty/LandingZoneAccountsAsset.svg) | microsoft.sovereign/ landingzoneaccounts |
 | [Landing Zone Configuration](svg/Microsoft_Azure_CloudforSovereignty/LZConfigurationsAsset.svg) | microsoft.sovereign/ landingzoneaccounts/ landingzoneconfigurations |
 | [Azure Cloud HSM](svg/Microsoft_Azure_CloudHSM/CloudHSM.svg) | Microsoft.HardwareSecurityModules/ cloudHsmClusters |
+| [Application Template](svg/Microsoft_Azure_CloudNative/ApplicationTemplates.svg) |  |
 | [Resource](svg/Microsoft_Azure_CloudNativeTesting/AppComponentsSupportedResources.svg) | Microsoft.LoadTestService/ supportedResourceTypes |
 | [Playwright Workspace](svg/Microsoft_Azure_CloudNativeTesting/PlaywrightWorkspace.svg) | Microsoft.LoadTestService/ playwrightworkspaces |
 | [Azure Load Testing](svg/Microsoft_Azure_CloudNativeTesting/CloudNativeTesting.svg) | Microsoft.LoadTestService/ LoadTests |
@@ -637,7 +638,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Key vault](svg/Microsoft_Azure_KeyVault/KeyVault.svg) | Microsoft.KeyVault/ vaults |
 | [Key](svg/Microsoft_Azure_KeyVault/Key.svg) |  |
 | [Certificate](svg/Microsoft_Azure_KeyVault/Certificate.svg) |  |
-| [Kubernetes hub](svg/Microsoft_Azure_KubernetesFleet/KubernetesHub.svg) |  |
+| [Kubernetes center](svg/Microsoft_Azure_KubernetesFleet/KubernetesHub.svg) |  |
 | [Managed Fleet Namespace](svg/Microsoft_Azure_KubernetesFleet/ManagedFleetNamespaces.svg) | microsoft.containerservice/ fleets/ managednamespaces |
 | [Kubernetes fleet manager](svg/Microsoft_Azure_KubernetesFleet/Fleets.svg) | microsoft.containerservice/ fleets |
 | [Data Explorer Database](svg/Microsoft_Azure_Kusto/kustoSynapsePoolDatabase.svg) | Microsoft.Synapse/ workspaces/ kustopools/ databases |
