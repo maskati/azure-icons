@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.188.4.1 on 2025-11-04.
+Extracted from Azure Portal version 16.188.4.1 on 2025-11-05.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -494,7 +494,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Cosmos DB for PostgreSQL Cluster](svg/Microsoft_Azure_DocumentDB/PostgreSqlServerGroupV2.svg) | Microsoft.DBforPostgreSQL/ serverGroupsv2 |
 | [Azure Managed Instance for Apache Cassandra](svg/Microsoft_Azure_DocumentDB/DocumentDBCassandraClusters.svg) | Microsoft.DocumentDB/ cassandraClusters |
 | [Azure Managed Instance for Garnet Cache](svg/Microsoft_Azure_DocumentDB/GarnetCache.svg) | Microsoft.DocumentDB/ garnetClusters |
-| [Potential Azure Cosmos DB account](svg/Microsoft_Azure_DocumentDB/CosmosDBFleetspacePotentialDatabaseAccountsWithLocations.svg) | microsoft.documentdb/ fleetspacepotentialdatabaseaccountswithlocations |
 | [Potential Azure Cosmos DB account](svg/Microsoft_Azure_DocumentDB/CosmosDBFleetspacePotentialDatabaseAccounts.svg) | microsoft.documentdb/ fleetspacepotentialdatabaseaccounts |
 | [Azure Cosmos DB Fleet](svg/Microsoft_Azure_DocumentDB/CosmosDBFleet.svg) | Microsoft.DocumentDB/ fleets |
 | [Azure Cosmos DB account](svg/Microsoft_Azure_DocumentDB/DocumentDBDatabaseAccount.svg) | Microsoft.DocumentDb/ databaseAccounts |
@@ -638,7 +637,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Key vault](svg/Microsoft_Azure_KeyVault/KeyVault.svg) | Microsoft.KeyVault/ vaults |
 | [Key](svg/Microsoft_Azure_KeyVault/Key.svg) |  |
 | [Certificate](svg/Microsoft_Azure_KeyVault/Certificate.svg) |  |
-| [Kubernetes center](svg/Microsoft_Azure_KubernetesFleet/KubernetesHub.svg) |  |
+| [Kubernetes hub](svg/Microsoft_Azure_KubernetesFleet/KubernetesHub.svg) |  |
 | [Managed Fleet Namespace](svg/Microsoft_Azure_KubernetesFleet/ManagedFleetNamespaces.svg) | microsoft.containerservice/ fleets/ managednamespaces |
 | [Kubernetes fleet manager](svg/Microsoft_Azure_KubernetesFleet/Fleets.svg) | microsoft.containerservice/ fleets |
 | [Data Explorer Database](svg/Microsoft_Azure_Kusto/kustoSynapsePoolDatabase.svg) | Microsoft.Synapse/ workspaces/ kustopools/ databases |
@@ -1131,7 +1130,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Endpoint security](svg/Microsoft_Intune_Workflows/SecurityManagementAsset.svg) |  |
 | [Security Baselines](svg/Microsoft_Intune_Workflows/SecurityBaselineAsset.svg) |  |
 | [Explorer](svg/Microsoft_Intune_Workflows/CustomQueryResultAsset.svg) |  |
-| [Factory Operations Agent in Azure AI Foundry](svg/Microsoft_ManufacturingPlatform_DMM/DataManagerForManufacturing.svg) | Microsoft.ManufacturingPlatform/ ManufacturingDataServices |
 | [My Resource](svg/Microsoft_Marketplace_SolutionFinder/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Skylarc](svg/Microsoft_OneFleet_DataHub/Skylark.svg) |  |
 | [Grip](svg/Microsoft_OneFleet_DataHub/Grip.svg) |  |
