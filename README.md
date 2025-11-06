@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.188.4.1 on 2025-11-05.
+Extracted from Azure Portal version 16.188.4.1 on 2025-11-06.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -285,7 +285,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [App Configuration](svg/Microsoft_Azure_AzConfig/StoreResource.svg) | Microsoft.AppConfiguration/ configurationStores |
 | [Compute Fleet](svg/Microsoft_Azure_AzFleet/AzureFleet.svg) | microsoft.azurefleet/ fleets |
 | [Batch account](svg/Microsoft_Azure_Batch/BatchAccount.svg) | Microsoft.Batch/ batchAccounts |
-| [Business Continuity Center](svg/Microsoft_Azure_BCDRCenter/ABCCenter.svg) |  |
+| [Resiliency](svg/Microsoft_Azure_BCDRCenter/ABCCenter.svg) |  |
 | [Free service](svg/Microsoft_Azure_Billing/FreeServices.svg) |  |
 | [Cost Management + Billing](svg/Microsoft_Azure_Billing/Billing.svg) |  |
 | [Subscription](svg/Microsoft_Azure_Billing/SubscriptionDetail.svg) |  |
@@ -637,7 +637,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Key vault](svg/Microsoft_Azure_KeyVault/KeyVault.svg) | Microsoft.KeyVault/ vaults |
 | [Key](svg/Microsoft_Azure_KeyVault/Key.svg) |  |
 | [Certificate](svg/Microsoft_Azure_KeyVault/Certificate.svg) |  |
-| [Kubernetes hub](svg/Microsoft_Azure_KubernetesFleet/KubernetesHub.svg) |  |
+| [Kubernetes center](svg/Microsoft_Azure_KubernetesFleet/KubernetesHub.svg) |  |
 | [Managed Fleet Namespace](svg/Microsoft_Azure_KubernetesFleet/ManagedFleetNamespaces.svg) | microsoft.containerservice/ fleets/ managednamespaces |
 | [Kubernetes fleet manager](svg/Microsoft_Azure_KubernetesFleet/Fleets.svg) | microsoft.containerservice/ fleets |
 | [Data Explorer Database](svg/Microsoft_Azure_Kusto/kustoSynapsePoolDatabase.svg) | Microsoft.Synapse/ workspaces/ kustopools/ databases |
@@ -672,7 +672,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Template](svg/Microsoft_Azure_Marketplace/GalleryRpItem.svg) | Microsoft.Gallery/ myareas/ galleryitems |
 | [Marketplace](svg/Microsoft_Azure_Marketplace/StoreGallery.svg) |  |
 | [Marketplace](svg/Microsoft_Azure_Marketplace/Gallery.svg) |  |
-| [Professional Service](svg/Microsoft_Azure_MarketplaceTransact/ProfessionalService.svg) | Microsoft.ProfessionalService/ resources |
 | [Migration project](svg/Microsoft_Azure_Migrate/MigrationProject.svg) | Microsoft.Migrate/ projects |
 | [Azure Migrate](svg/Microsoft_Azure_Migrate/AzureMigrationHub.svg) |  |
 | [My Resource](svg/Microsoft_Azure_MigrateAIAssistant/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
@@ -868,9 +867,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Power BI Embedded](svg/Microsoft_Azure_PowerBIDedicated/PowerBIDedicated.svg) | Microsoft.PowerBIDedicated/ capacities |
 | [Power Platform](svg/Microsoft_Azure_PowerPlatform/PowerPlatform.svg) |  |
 | [Private DNS zone](svg/Microsoft_Azure_PrivateDNS/PrivateDnsZone.svg) | Microsoft.Network/ privateDnsZones |
-| [APC Operator API Plan](svg/Microsoft_Azure_ProgrammableConnectivity/OperatorApiPlanResource.svg) | Microsoft.ProgrammableConnectivity/ operatorApiPlans |
-| [APC Operator API Connection](svg/Microsoft_Azure_ProgrammableConnectivity/OperatorApiConnectionResource.svg) | Microsoft.ProgrammableConnectivity/ operatorApiConnections |
-| [APC Gateway](svg/Microsoft_Azure_ProgrammableConnectivity/GatewayResource.svg) | Microsoft.ProgrammableConnectivity/ gateways |
 | [Microsoft Purview account](svg/Microsoft_Azure_ProjectBabylon/PurviewAccountResource.svg) | Microsoft.Purview/ Accounts |
 | [Translator](svg/Microsoft_Azure_ProjectOxford/TextTranslation.svg) | Microsoft.CognitiveServices/ BrowseTextTranslation |
 | [Language](svg/Microsoft_Azure_ProjectOxford/TextAnalyticsWithConfiguration.svg) |  |
@@ -1130,6 +1126,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Endpoint security](svg/Microsoft_Intune_Workflows/SecurityManagementAsset.svg) |  |
 | [Security Baselines](svg/Microsoft_Intune_Workflows/SecurityBaselineAsset.svg) |  |
 | [Explorer](svg/Microsoft_Intune_Workflows/CustomQueryResultAsset.svg) |  |
+| [Factory Operations Agent in Azure AI Foundry](svg/Microsoft_ManufacturingPlatform_DMM/DataManagerForManufacturing.svg) | Microsoft.ManufacturingPlatform/ ManufacturingDataServices |
 | [My Resource](svg/Microsoft_Marketplace_SolutionFinder/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Skylarc](svg/Microsoft_OneFleet_DataHub/Skylark.svg) |  |
 | [Grip](svg/Microsoft_OneFleet_DataHub/Grip.svg) |  |
