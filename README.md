@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.188.4.1 on 2025-11-06.
+Extracted from Azure Portal version 16.192.0.1 on 2025-11-07.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -847,6 +847,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Database for PostgreSQL flexible server](svg/Microsoft_Azure_OSSDatabases/PostgreSqlFlexibleServer.svg) | Microsoft.DBforPostgreSQL/ flexibleServers |
 | [Azure Database for MySQL flexible server](svg/Microsoft_Azure_OSSDatabases/MySqlFlexibleServer.svg) | Microsoft.DBforMySQL/ flexibleServers |
 | [Task Hub](svg/Microsoft_Azure_PaasServerless/TaskHub.svg) | Microsoft.DurableTask/ Schedulers/ TaskHubs |
+| [SRE Agent Space (Preview)](svg/Microsoft_Azure_PaasServerless/SreAgentSpace.svg) | Microsoft.App/ agentSpaces |
 | [Azure SRE Agent (Preview)](svg/Microsoft_Azure_PaasServerless/SreAgentResources.svg) | Microsoft.App/ agents |
 | [Azure SRE Agent (Preview)](svg/Microsoft_Azure_PaasServerless/SreAgentCustomMenu.svg) |  |
 | [Integration Environment](svg/Microsoft_Azure_PaasServerless/IntegrationSpace.svg) | Microsoft.IntegrationSpaces/ spaces |
@@ -1126,7 +1127,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Endpoint security](svg/Microsoft_Intune_Workflows/SecurityManagementAsset.svg) |  |
 | [Security Baselines](svg/Microsoft_Intune_Workflows/SecurityBaselineAsset.svg) |  |
 | [Explorer](svg/Microsoft_Intune_Workflows/CustomQueryResultAsset.svg) |  |
-| [Factory Operations Agent in Azure AI Foundry](svg/Microsoft_ManufacturingPlatform_DMM/DataManagerForManufacturing.svg) | Microsoft.ManufacturingPlatform/ ManufacturingDataServices |
 | [My Resource](svg/Microsoft_Marketplace_SolutionFinder/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Skylarc](svg/Microsoft_OneFleet_DataHub/Skylark.svg) |  |
 | [Grip](svg/Microsoft_OneFleet_DataHub/Grip.svg) |  |
