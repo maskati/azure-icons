@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.192.0.1 on 2025-11-07.
+Extracted from Azure Portal version 16.192.0.1 on 2025-11-08.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -669,7 +669,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Software as a Service (classic)](svg/Microsoft_Azure_Marketplace/SaasClassic.svg) | Microsoft.SaaS/ applications |
 | [SaaS (classic)](svg/Microsoft_Azure_Marketplace/Saas.svg) | Microsoft.SaaS/ saasresources |
 | [Private Offer Management](svg/Microsoft_Azure_Marketplace/PrivateOffersCenter.svg) |  |
-| [Template](svg/Microsoft_Azure_Marketplace/GalleryRpItem.svg) | Microsoft.Gallery/ myareas/ galleryitems |
 | [Marketplace](svg/Microsoft_Azure_Marketplace/StoreGallery.svg) |  |
 | [Marketplace](svg/Microsoft_Azure_Marketplace/Gallery.svg) |  |
 | [Migration project](svg/Microsoft_Azure_Migrate/MigrationProject.svg) | Microsoft.Migrate/ projects |
