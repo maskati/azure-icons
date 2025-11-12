@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.192.0.1 on 2025-11-11.
+Extracted from Azure Portal version 16.192.0.1 on 2025-11-12.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -238,8 +238,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Device Update for IoT Hub](svg/Microsoft_Azure_ADU/IotDUResource.svg) | Microsoft.DeviceUpdate/ Accounts |
 | [My Resource](svg/Microsoft_Azure_AfdAgenticWebGW/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Front Door](svg/Microsoft_Azure_AFDX/FrontdoorProfile.svg) | microsoft.cdn/ profiles |
-| [Azure Data Manager for Agriculture](svg/Microsoft_Azure_AgFoodPlatform/FarmbeatsResource.svg) | Microsoft.AgFoodPlatform/ farmBeats |
-| [Agriculture data solutions](svg/Microsoft_Azure_AgriculturePlatform/AgriServices.svg) | Microsoft.AgriculturePlatform/ agriServices |
 | [Analysis Services](svg/Microsoft_Azure_AnalysisServices/AnalysisServices.svg) | Microsoft.AnalysisServices/ servers |
 | [Fabric Capacity](svg/Microsoft_Azure_Analytics/REDIDCILDCBJNGCP.svg) | Microsoft.Fabric/ capacities |
 | [Verifier Workspace](svg/Microsoft_Azure_ANMVerifier/verifierWorkspace.svg) | Microsoft.Network/ networkManagers/ verifierWorkspaces |
@@ -428,6 +426,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Pool](svg/Microsoft_Azure_DevCenter/Pools.svg) | Microsoft.DevCenter/ projects/ pools |
 | [Dev center plan](svg/Microsoft_Azure_DevCenter/Plan.svg) | Microsoft.DevCenter/ plans |
 | [Network connection](svg/Microsoft_Azure_DevCenter/NetworkConnection.svg) | Microsoft.DevCenter/ networkconnections |
+| [Project Harstine](svg/Microsoft_Azure_DevCenter/HarstineService.svg) |  |
 | [Azure Deployment Environment](svg/Microsoft_Azure_DevCenter/EnvironmentsService.svg) |  |
 | [Microsoft Dev Box](svg/Microsoft_Azure_DevCenter/DevCenterService.svg) |  |
 | [Dev center](svg/Microsoft_Azure_DevCenter/DevCenter.svg) | Microsoft.DevCenter/ devcenters |
