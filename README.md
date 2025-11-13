@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.192.0.1 on 2025-11-12.
+Extracted from Azure Portal version 16.192.0.1 on 2025-11-13.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -30,6 +30,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Informatica Organization](svg/Azure_Marketplace_Informatica/Informatica.svg) | Informatica.DataManagement/ organizations |
 | [New Relic](svg/Azure_Marketplace_Liftr_NewRelic/NewRelic.svg) | NewRelic.Observability/ monitors |
 | [Azure Native Pinecone Cloud Service](svg/Azure_MarketPlace_NativeISVService/Pinecone.svg) | pinecone.vectordb/ organizations |
+| [MongoDB Atlas Organization](svg/Azure_MarketPlace_NativeISVService/MongoDB_Autogen.svg) | mongodb.atlas/ organizations_Autogen |
 | [MongoDB Atlas Organization](svg/Azure_MarketPlace_NativeISVService/MongoDB.svg) | MongoDB.Atlas/ organizations |
 | [Azure Native Weights & Biases Cloud Service](svg/Azure_MarketPlace_NativeISVService/WeightsAndBiases.svg) | microsoft.weightsandbiases/ instances |
 | [Azure Native LiftrLite Sample RP - An Azure Native Sample RP Cloud Service](svg/Azure_MarketPlace_NativeISVService/Liftrbasic.svg) | liftrbasic.samplerp/ organizations |
@@ -489,10 +490,10 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [DNS forwarding ruleset](svg/Microsoft_Azure_DNSManagedResolver/DnsForwardingRulesets.svg) | Microsoft.Network/ dnsForwardingRulesets |
 | [DNS Security Policy](svg/Microsoft_Azure_DnsSecurityPolicy/DnsSecurityPolicy.svg) | Microsoft.Network/ dnsResolverPolicies |
 | [DNS Domain List](svg/Microsoft_Azure_DnsSecurityPolicy/DnsDomainList.svg) | Microsoft.Network/ dnsResolverDomainLists |
-| [Azure Cosmos DB for MongoDB (vCore)](svg/Microsoft_Azure_DocumentDB/MongoCluster.svg) | Microsoft.DocumentDB/ mongoClusters |
+| [Azure DocumentDB (with MongoDB compatibility)](svg/Microsoft_Azure_DocumentDB/MongoCluster.svg) | Microsoft.DocumentDB/ mongoClusters |
 | [Azure Cosmos DB for PostgreSQL Cluster](svg/Microsoft_Azure_DocumentDB/PostgreSqlServerGroupV2.svg) | Microsoft.DBforPostgreSQL/ serverGroupsv2 |
 | [Azure Managed Instance for Apache Cassandra](svg/Microsoft_Azure_DocumentDB/DocumentDBCassandraClusters.svg) | Microsoft.DocumentDB/ cassandraClusters |
-| [Azure Managed Instance for Garnet Cache](svg/Microsoft_Azure_DocumentDB/GarnetCache.svg) | Microsoft.DocumentDB/ garnetClusters |
+| [Azure Cosmos DB Garnet Cache](svg/Microsoft_Azure_DocumentDB/GarnetCache.svg) | Microsoft.DocumentDB/ garnetClusters |
 | [Potential Azure Cosmos DB account](svg/Microsoft_Azure_DocumentDB/CosmosDBFleetspacePotentialDatabaseAccounts.svg) | microsoft.documentdb/ fleetspacepotentialdatabaseaccounts |
 | [Azure Cosmos DB Fleet](svg/Microsoft_Azure_DocumentDB/CosmosDBFleet.svg) | Microsoft.DocumentDB/ fleets |
 | [Azure Cosmos DB account](svg/Microsoft_Azure_DocumentDB/DocumentDBDatabaseAccount.svg) | Microsoft.DocumentDb/ databaseAccounts |
@@ -943,7 +944,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Deployment](svg/Microsoft_Azure_Resources/Deployment.svg) |  |
 | [Validation](svg/Microsoft_Azure_Resources/changesafety_validations.svg) | microsoft.changesafety/ validations |
 | [Stage map](svg/Microsoft_Azure_Resources/changesafety_stagemaps.svg) | microsoft.changesafety/ stagemaps |
-| [Change modification request](svg/Microsoft_Azure_Resources/changesafety_changestates.svg) | microsoft.changesafety/ changestates |
+| [Change record](svg/Microsoft_Azure_Resources/changesafety_changestates.svg) | microsoft.changesafety/ changestates |
 | [Stage progression](svg/Microsoft_Azure_Resources/changesafety_changestates_stageprogressions.svg) | microsoft.changesafety/ changestates/ stageprogressions |
 | [Deployment stack](svg/Microsoft_Azure_Resources/StackManagementGroup.svg) | Microsoft.Management/ managementGroups/ Microsoft.Resources/ deploymentStacks |
 | [Deployment stack](svg/Microsoft_Azure_Resources/Stack.svg) | Microsoft.Resources/ deploymentStacks |
@@ -1003,8 +1004,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Storage mover](svg/Microsoft_Azure_StorageMover/StorageMover.svg) | Microsoft.StorageMover/ storageMovers |
 | [Storage task - Azure Storage Actions](svg/Microsoft_Azure_StorageTasks/StorageTasks.svg) | Microsoft.StorageActions/ storageTasks |
 | [Azure Storage Action](svg/Microsoft_Azure_StorageTasks/AzureStorageActions.svg) |  |
-| [Stream Analytics cluster](svg/Microsoft_Azure_StreamAnalytics/StreamAnalyticsCluster.svg) | Microsoft.StreamAnalytics/ clusters |
 | [Stream Analytics job](svg/Microsoft_Azure_StreamAnalytics/StreamAnalyticsJob.svg) | Microsoft.StreamAnalytics/ StreamingJobs |
+| [Stream Analytics cluster](svg/Microsoft_Azure_StreamAnalytics/StreamAnalyticsCluster.svg) | Microsoft.StreamAnalytics/ clusters |
 | [Support Request](svg/Microsoft_Azure_Support/SupportRequest.svg) | microsoft.support/ supporttickets |
 | [Help + support](svg/Microsoft_Azure_Support/HelpAndSupport.svg) |  |
 | [Surface Management Portal](svg/Microsoft_Azure_Surface/SurfaceDashboard.svg) |  |
