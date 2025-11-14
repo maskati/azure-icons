@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.192.0.1 on 2025-11-13.
+Extracted from Azure Portal version 16.192.0.1 on 2025-11-14.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -30,7 +30,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Informatica Organization](svg/Azure_Marketplace_Informatica/Informatica.svg) | Informatica.DataManagement/ organizations |
 | [New Relic](svg/Azure_Marketplace_Liftr_NewRelic/NewRelic.svg) | NewRelic.Observability/ monitors |
 | [Azure Native Pinecone Cloud Service](svg/Azure_MarketPlace_NativeISVService/Pinecone.svg) | pinecone.vectordb/ organizations |
-| [MongoDB Atlas Organization](svg/Azure_MarketPlace_NativeISVService/MongoDB_Autogen.svg) | mongodb.atlas/ organizations_Autogen |
 | [MongoDB Atlas Organization](svg/Azure_MarketPlace_NativeISVService/MongoDB.svg) | MongoDB.Atlas/ organizations |
 | [Azure Native Weights & Biases Cloud Service](svg/Azure_MarketPlace_NativeISVService/WeightsAndBiases.svg) | microsoft.weightsandbiases/ instances |
 | [Azure Native LiftrLite Sample RP - An Azure Native Sample RP Cloud Service](svg/Azure_MarketPlace_NativeISVService/Liftrbasic.svg) | liftrbasic.samplerp/ organizations |
@@ -944,7 +943,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Deployment](svg/Microsoft_Azure_Resources/Deployment.svg) |  |
 | [Validation](svg/Microsoft_Azure_Resources/changesafety_validations.svg) | microsoft.changesafety/ validations |
 | [Stage map](svg/Microsoft_Azure_Resources/changesafety_stagemaps.svg) | microsoft.changesafety/ stagemaps |
-| [Change record](svg/Microsoft_Azure_Resources/changesafety_changestates.svg) | microsoft.changesafety/ changestates |
+| [Change modification request](svg/Microsoft_Azure_Resources/changesafety_changestates.svg) | microsoft.changesafety/ changestates |
 | [Stage progression](svg/Microsoft_Azure_Resources/changesafety_changestates_stageprogressions.svg) | microsoft.changesafety/ changestates/ stageprogressions |
 | [Deployment stack](svg/Microsoft_Azure_Resources/StackManagementGroup.svg) | Microsoft.Management/ managementGroups/ Microsoft.Resources/ deploymentStacks |
 | [Deployment stack](svg/Microsoft_Azure_Resources/Stack.svg) | Microsoft.Resources/ deploymentStacks |
@@ -1004,8 +1003,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Storage mover](svg/Microsoft_Azure_StorageMover/StorageMover.svg) | Microsoft.StorageMover/ storageMovers |
 | [Storage task - Azure Storage Actions](svg/Microsoft_Azure_StorageTasks/StorageTasks.svg) | Microsoft.StorageActions/ storageTasks |
 | [Azure Storage Action](svg/Microsoft_Azure_StorageTasks/AzureStorageActions.svg) |  |
-| [Stream Analytics job](svg/Microsoft_Azure_StreamAnalytics/StreamAnalyticsJob.svg) | Microsoft.StreamAnalytics/ StreamingJobs |
 | [Stream Analytics cluster](svg/Microsoft_Azure_StreamAnalytics/StreamAnalyticsCluster.svg) | Microsoft.StreamAnalytics/ clusters |
+| [Stream Analytics job](svg/Microsoft_Azure_StreamAnalytics/StreamAnalyticsJob.svg) | Microsoft.StreamAnalytics/ StreamingJobs |
 | [Support Request](svg/Microsoft_Azure_Support/SupportRequest.svg) | microsoft.support/ supporttickets |
 | [Help + support](svg/Microsoft_Azure_Support/HelpAndSupport.svg) |  |
 | [Surface Management Portal](svg/Microsoft_Azure_Surface/SurfaceDashboard.svg) |  |
