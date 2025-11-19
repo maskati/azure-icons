@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.192.0.1 on 2025-11-18.
+Extracted from Azure Portal version 16.192.0.1 on 2025-11-19.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -887,12 +887,13 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Content safety](svg/Microsoft_Azure_ProjectOxford/ContentSafety.svg) | Microsoft.CognitiveServices/ BrowseContentSafety |
 | [Content moderator](svg/Microsoft_Azure_ProjectOxford/ContentModerator.svg) | Microsoft.CognitiveServices/ BrowseContentModerator |
 | [Computer vision](svg/Microsoft_Azure_ProjectOxford/ComputerVision.svg) | Microsoft.CognitiveServices/ BrowseComputerVision |
-| [Azure AI Foundry](svg/Microsoft_Azure_ProjectOxford/CognitiveServicesAccount.svg) | Microsoft.CognitiveServices/ accounts |
+| [Foundry project](svg/Microsoft_Azure_ProjectOxford/AIFoundryProject.svg) | Microsoft.CognitiveServices/ accounts/ projects |
+| [Foundry](svg/Microsoft_Azure_ProjectOxford/CognitiveServicesAccount.svg) | Microsoft.CognitiveServices/ accounts |
 | [Anomaly detector](svg/Microsoft_Azure_ProjectOxford/AnomalyDetector.svg) | Microsoft.CognitiveServices/ BrowseAnomalyDetector |
 | [All Resources](svg/Microsoft_Azure_ProjectOxford/AllServices.svg) | Microsoft.CognitiveServices/ BrowseAllServices |
 | [Azure AI services multi-service account](svg/Microsoft_Azure_ProjectOxford/AllInOne.svg) | Microsoft.CognitiveServices/ BrowseAllInOne |
 | [Azure AI services](svg/Microsoft_Azure_ProjectOxford/AIServices.svg) | Microsoft.CognitiveServices/ BrowseAIServices |
-| [Azure AI Foundry](svg/Microsoft_Azure_ProjectOxford/AIFoundry.svg) | Microsoft.CognitiveServices/ BrowseAIFoundry |
+| [Microsoft Foundry](svg/Microsoft_Azure_ProjectOxford/AIFoundry.svg) | Microsoft.CognitiveServices/ BrowseAIFoundry |
 | [Quantum Workspace](svg/Microsoft_Azure_Quantum/QuantumWorkspace.svg) | Microsoft.Quantum/ Workspaces |
 | [Azure Quantum](svg/Microsoft_Azure_Quantum/AzureQuantum.svg) |  |
 | [My Resource](svg/Microsoft_Azure_ReactPlayground/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
