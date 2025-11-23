@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.192.0.1 on 2025-11-22.
+Extracted from Azure Portal version 16.192.0.1 on 2025-11-23.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -231,9 +231,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Local](svg/Microsoft_AzureStackHCI_PortalExtension/AszBrowseUpdates.svg) | microsoft.azurestackhci/ clusters/ updateSummaries |
 | [Azure Local](svg/Microsoft_AzureStackHCI_PortalExtension/AszBrowseHistory.svg) | microsoft.azurestackhci/ clusters/ updates/ updateRuns |
 | [Azure Stack  Preview](svg/Microsoft_AzureStackHCI_PortalExtension/AzureEdgeNodePool.svg) | Microsoft.AzureStackHCI/ devicePools |
-| [AszLabHardware Lab Server](svg/Microsoft_AzureStack_LabHardware/LabServers.svg) | private.aszlabhardware/ labservers |
-| [AszLabHardware Reservation](svg/Microsoft_AzureStack_LabHardware/Reservations.svg) | private.aszlabhardware/ reservations |
 | [AszLabHardware Server](svg/Microsoft_AzureStack_LabHardware/Servers.svg) | private.aszlabhardware/ servers |
+| [AszLabHardware Reservation](svg/Microsoft_AzureStack_LabHardware/Reservations.svg) | private.aszlabhardware/ reservations |
+| [AszLabHardware Lab Server](svg/Microsoft_AzureStack_LabHardware/LabServers.svg) | private.aszlabhardware/ labservers |
 | [Activity log](svg/Microsoft_Azure_ActivityLog/ActivityLogAsset.svg) |  |
 | [Microsoft Entra Connect Health](svg/Microsoft_Azure_ADHybridHealth/RootAsset.svg) |  |
 | [Device Update for IoT Hub](svg/Microsoft_Azure_ADU/IotDUResource.svg) | Microsoft.DeviceUpdate/ Accounts |
