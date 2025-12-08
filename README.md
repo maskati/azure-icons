@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.192.0.1 on 2025-12-07.
+Extracted from Azure Portal version 16.192.0.1 on 2025-12-08.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -942,6 +942,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Multifactor authentication (Phase 2)](svg/Microsoft_Azure_Resources/ArmMfaSettings.svg) |  |
 | [Preview features](svg/Microsoft_Azure_Resources/PreviewFeaturesArg.svg) | microsoft.features/ featureprovidernamespaces/ featureconfigurations |
 | [Preview features](svg/Microsoft_Azure_Resources/PreviewFeatures.svg) |  |
+| [Azure Portal admin center](svg/Microsoft_Azure_Resources/AdminSettingsAsset.svg) |  |
 | [Microsoft SaaS (Preview)](svg/Microsoft_Azure_SaasHub/SaaSHub.svg) | Microsoft.SaaSHub/ cloudServices/ hidden |
 | [SAP HANA on Azure](svg/Microsoft_Azure_SapHanaInstances/HanaInstance.svg) | Microsoft.HanaOnAzure/ hanaInstances |
 | [BareMetal Instance](svg/Microsoft_Azure_SapHanaInstances/BareMetalInstance.svg) | Microsoft.BareMetalInfrastructure/ bareMetalInstances |
