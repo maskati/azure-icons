@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.192.0.1 on 2025-12-08.
+Extracted from Azure Portal version 16.192.0.1 on 2025-12-09.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -242,6 +242,18 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Analysis Services](svg/Microsoft_Azure_AnalysisServices/AnalysisServices.svg) | Microsoft.AnalysisServices/ servers |
 | [Fabric Capacity](svg/Microsoft_Azure_Analytics/REDIDCILDCBJNGCP.svg) | Microsoft.Fabric/ capacities |
 | [Verifier Workspace](svg/Microsoft_Azure_ANMVerifier/verifierWorkspace.svg) | Microsoft.Network/ networkManagers/ verifierWorkspaces |
+| [Attached Data Network](svg/Microsoft_Azure_AP5GC/MobileNetworkPacketCoreControlPlanesPacketCoreDataPlanesAttachedDataNetworks.svg) | Microsoft.MobileNetwork/ packetCoreControlPlanes/ packetCoreDataPlanes/ attachedDataNetworks |
+| [Packet Core Control Plane](svg/Microsoft_Azure_AP5GC/MobileNetworkPacketCoreControlPlanes.svg) | Microsoft.MobileNetwork/ packetCoreControlPlanes |
+| [Data Network](svg/Microsoft_Azure_AP5GC/MobileNetworkMobileNetworkDataNetworks.svg) | Microsoft.MobileNetwork/ mobileNetworks/ dataNetworks |
+| [Packet Core Data Plane](svg/Microsoft_Azure_AP5GC/MobileNetworkPacketCoreControlPlanesPacketCoreDataPlanes.svg) | Microsoft.MobileNetwork/ packetCoreControlPlanes/ packetCoreDataPlanes |
+| [Mobile Network](svg/Microsoft_Azure_AP5GC/MobileNetworkMobileNetworks.svg) | Microsoft.MobileNetwork/ mobileNetworks |
+| [Radio Access Network Insights](svg/Microsoft_Azure_AP5GC/MobileNetworkSiteRadioAccessNetworks.svg) | Microsoft.MobileNetwork/ radioAccessNetworks |
+| [Service](svg/Microsoft_Azure_AP5GC/MobileNetworkMobileNetworkServices.svg) | Microsoft.MobileNetwork/ mobileNetworks/ services |
+| [SIM](svg/Microsoft_Azure_AP5GC/MobileNetworkSims.svg) | Microsoft.MobileNetwork/ simGroups/ sims |
+| [SIM Group](svg/Microsoft_Azure_AP5GC/MobileNetworkSimGroups.svg) | Microsoft.MobileNetwork/ simGroups |
+| [SIM Policy](svg/Microsoft_Azure_AP5GC/MobileNetworkMobileNetworkSimPolicies.svg) | Microsoft.MobileNetwork/ mobileNetworks/ simPolicies |
+| [Mobile Network Site](svg/Microsoft_Azure_AP5GC/MobileNetworkMobileNetworkSites.svg) | Microsoft.MobileNetwork/ mobileNetworks/ sites |
+| [Slice](svg/Microsoft_Azure_AP5GC/MobileNetworkMobileNetworkSlices.svg) | Microsoft.MobileNetwork/ mobileNetworks/ slices |
 | [Workspace](svg/Microsoft_Azure_ApiManagement/WorkspaceCatalog.svg) | Microsoft.ApiCenter/ services/ workspaces |
 | [API Management service](svg/Microsoft_Azure_ApiManagement/Service.svg) | Microsoft.ApiManagement/ service |
 | [Gateway](svg/Microsoft_Azure_ApiManagement/Gateway.svg) | Microsoft.ApiManagement/ gateways |
@@ -423,6 +435,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Microsoft Code Studio](svg/Microsoft_Azure_DevCenter/CodeStudioService.svg) |  |
 | [ADR Asset](svg/Microsoft_Azure_DeviceRegistry/convergedAssets.svg) | microsoft.deviceregistry/ convergedAssets |
 | [ADR Schema Registry](svg/Microsoft_Azure_DeviceRegistry/schemaRegistries.svg) | microsoft.deviceregistry/ schemaRegistries |
+| [IoT Credential Policy](svg/Microsoft_Azure_DeviceRegistry/namespacePolicies.svg) | microsoft.deviceregistry/ namespaces/ credentials/ policies |
 | [ADR Asset](svg/Microsoft_Azure_DeviceRegistry/namespaceAssets.svg) | microsoft.deviceregistry/ namespaces/ assets |
 | [ADR Namespace](svg/Microsoft_Azure_DeviceRegistry/namespaces.svg) | microsoft.deviceregistry/ namespaces |
 | [Azure Device Registry](svg/Microsoft_Azure_DeviceRegistry/DeviceRegistry.svg) |  |
@@ -678,7 +691,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Machine learning online endpoint](svg/Microsoft_Azure_MLTeamAccounts/OnlineEndpoint.svg) | Microsoft.MachineLearningServices/ workspaces/ onlineEndpoints |
 | [Machine learning online deployment](svg/Microsoft_Azure_MLTeamAccounts/OnlineEndpointDeployment.svg) | Microsoft.MachineLearningServices/ workspaces/ onlineEndpoints/ deployments |
 | [Azure Monitor dashboards with Grafana](svg/Microsoft_Azure_MonitorDashboard/MonitorDashboard.svg) | Microsoft.Dashboard/ dashboards |
-| [Azure Monitor dashboards with Grafana (Preview)](svg/Microsoft_Azure_MonitorDashboard/GalleryAsset.svg) |  |
+| [Azure Monitor dashboards with Grafana](svg/Microsoft_Azure_MonitorDashboard/GalleryAsset.svg) |  |
 | [Azure Monitor dashboards with Grafana (PrivateRP)](svg/Microsoft_Azure_MonitorDashboard/PrivateMonitorDashboard.svg) | Private.MonitorGrafana/ dashboards |
 | [Prometheus rule group](svg/Microsoft_Azure_Monitoring/PrometheusRuleGroup.svg) | microsoft.alertsmanagement/ prometheusrulegroups |
 | [Azure Monitor workspace](svg/Microsoft_Azure_Monitoring/MonitoringAccount.svg) | microsoft.monitor/ accounts |
