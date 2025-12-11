@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.192.0.1 on 2025-12-10.
+Extracted from Azure Portal version 16.192.0.1 on 2025-12-11.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -378,7 +378,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Kubernetes Namespace](svg/Microsoft_Azure_ContainerService/ManagedClusterNamespaces.svg) | Microsoft.ContainerService/ managedClusters/ Microsoft.KubernetesConfiguration/ namespaces |
 | [Kubernetes - Azure Arc namespace](svg/Microsoft_Azure_ContainerService/ConnectedClusterNamespaces.svg) | Microsoft.Kubernetes/ connectedClusters/ Microsoft.KubernetesConfiguration/ namespaces |
 | [Container instances](svg/Microsoft_Azure_ContainerService/ContainerGroup.svg) | Microsoft.ContainerInstance/ containerGroups |
-| [Managed Kubernetes Namespace (preview)](svg/Microsoft_Azure_ContainerService/ManagedNamespaces.svg) | Microsoft.ContainerService/ managedClusters/ managedNamespaces |
+| [Managed Kubernetes Namespace](svg/Microsoft_Azure_ContainerService/ManagedNamespaces.svg) | Microsoft.ContainerService/ managedClusters/ managedNamespaces |
 | [Kubernetes service](svg/Microsoft_Azure_ContainerService/ManagedClusters.svg) | Microsoft.ContainerService/ managedClusters |
 | [Kubernetes service extension](svg/Microsoft_Azure_ContainerService/KubernetesClusterExtensionsChild.svg) | microsoft.containerservice/ managedclusters/ microsoft.kubernetesconfiguration/ extensions |
 | [Kubernetes service extension](svg/Microsoft_Azure_ContainerService/KubernetesClusterExtensions.svg) | microsoft.kubernetesconfiguration/ extensions |
@@ -638,7 +638,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Key vault](svg/Microsoft_Azure_KeyVault/KeyVault.svg) | Microsoft.KeyVault/ vaults |
 | [Key](svg/Microsoft_Azure_KeyVault/Key.svg) |  |
 | [Certificate](svg/Microsoft_Azure_KeyVault/Certificate.svg) |  |
-| [Kubernetes center](svg/Microsoft_Azure_KubernetesFleet/KubernetesHub.svg) |  |
+| [Kubernetes center (preview)](svg/Microsoft_Azure_KubernetesFleet/KubernetesHub.svg) |  |
 | [Managed Fleet Namespace](svg/Microsoft_Azure_KubernetesFleet/ManagedFleetNamespaces.svg) | microsoft.containerservice/ fleets/ managednamespaces |
 | [Kubernetes fleet manager](svg/Microsoft_Azure_KubernetesFleet/Fleets.svg) | microsoft.containerservice/ fleets |
 | [Data Explorer Database](svg/Microsoft_Azure_Kusto/kustoSynapsePoolDatabase.svg) | Microsoft.Synapse/ workspaces/ kustopools/ databases |
