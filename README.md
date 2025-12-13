@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.192.0.1 on 2025-12-12.
+Extracted from Azure Portal version 16.192.0.1 on 2025-12-13.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -648,7 +648,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Maps Account](svg/Microsoft_Azure_LocationServices/Maps.svg) | Microsoft.Maps/ accounts |
 | [Azure Maps Creator Resource](svg/Microsoft_Azure_LocationServices/Creator.svg) | Microsoft.Maps/ accounts/ creators |
 | [Customer Lockbox for Microsoft Azure](svg/Microsoft_Azure_Lockbox/AzureLockbox.svg) |  |
-| [Scheduled Action](svg/Microsoft_Azure_Maintenance/ScheduledAction.svg) | Microsoft.ComputeSchedule/ scheduledActions |
+| [Scheduled Action (Preview)](svg/Microsoft_Azure_Maintenance/ScheduledAction.svg) | Microsoft.ComputeSchedule/ scheduledActions |
 | [Maintenance Configuration](svg/Microsoft_Azure_Maintenance/MaintenanceConfiguration.svg) | Microsoft.Maintenance/ maintenanceConfigurations |
 | [Azure Key Vault Managed HSM](svg/Microsoft_Azure_ManagedHSM/ManagedHSM.svg) | Microsoft.KeyVault/ managedHSMs |
 | [Lab](svg/Microsoft_Azure_ManagedLab/LegacyLab.svg) | Microsoft.LabServices/ labAccounts/ labs |
@@ -844,7 +844,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Ground Station](svg/Microsoft_Azure_Orbital/GroundStations.svg) | Microsoft.Orbital/ GroundStations |
 | [GeoCatalog](svg/Microsoft_Azure_Orbital/geoCatalogs.svg) | Microsoft.Orbital/ geoCatalogs |
 | [Edge Site](svg/Microsoft_Azure_Orbital/EdgeSites.svg) | Microsoft.Orbital/ EdgeSites |
-| [Azure HorizonDB for PostgreSQL (Preview)](svg/Microsoft_Azure_OSSDatabases/PostgreSqlOrionDB.svg) | Microsoft.OrionDB/ clusters |
+| [Azure HorizonDB for PostgreSQL (Preview)](svg/Microsoft_Azure_OSSDatabases/PostgreSqlHorizonDB.svg) | Microsoft.OrionDB/ clusters |
 | [Azure Database for PostgreSQL flexible server](svg/Microsoft_Azure_OSSDatabases/PostgreSqlFlexibleServer.svg) | Microsoft.DBforPostgreSQL/ flexibleServers |
 | [Azure Database for MySQL flexible server](svg/Microsoft_Azure_OSSDatabases/MySqlFlexibleServer.svg) | Microsoft.DBforMySQL/ flexibleServers |
 | [Task Hub](svg/Microsoft_Azure_PaasServerless/TaskHub.svg) | Microsoft.DurableTask/ Schedulers/ TaskHubs |
