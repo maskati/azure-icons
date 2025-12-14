@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.192.0.1 on 2025-12-13.
+Extracted from Azure Portal version 16.192.0.1 on 2025-12-14.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -780,6 +780,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Network Rack (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/NetworkRacksResource.svg) | Microsoft.ManagedNetworkFabric/ NetworkRacks |
 | [Network Packet Broker (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/NetworkPacketBrokersResource.svg) | Microsoft.ManagedNetworkFabric/ NetworkPacketBrokers |
 | [Network Packet Broker (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/FabricNetworkPacketBrokersResource.svg) | Microsoft.ManagedNetworkFabric/ fabricNetworkPacketBrokers |
+| [Network Monitor (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/NetworkMonitorsResource.svg) | Microsoft.ManagedNetworkFabric/ NetworkMonitors |
 | [Network Interface (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/NetworkInterfaceResource.svg) | Microsoft.ManagedNetworkFabric/ NetworkDevices/ networkInterfaces |
 | [Network Fabric Controller (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/NetworkFabricControllersResource.svg) | Microsoft.ManagedNetworkFabric/ networkFabricControllers |
 | [Network Fabric (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/NetworkFabricResource.svg) | Microsoft.ManagedNetworkFabric/ NetworkFabrics |
