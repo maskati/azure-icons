@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.192.0.1 on 2025-12-16.
+Extracted from Azure Portal version 16.192.4.1 on 2025-12-17.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -242,18 +242,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Analysis Services](svg/Microsoft_Azure_AnalysisServices/AnalysisServices.svg) | Microsoft.AnalysisServices/ servers |
 | [Fabric Capacity](svg/Microsoft_Azure_Analytics/REDIDCILDCBJNGCP.svg) | Microsoft.Fabric/ capacities |
 | [Verifier Workspace](svg/Microsoft_Azure_ANMVerifier/verifierWorkspace.svg) | Microsoft.Network/ networkManagers/ verifierWorkspaces |
-| [Attached Data Network](svg/Microsoft_Azure_AP5GC/MobileNetworkPacketCoreControlPlanesPacketCoreDataPlanesAttachedDataNetworks.svg) | Microsoft.MobileNetwork/ packetCoreControlPlanes/ packetCoreDataPlanes/ attachedDataNetworks |
-| [Packet Core Control Plane](svg/Microsoft_Azure_AP5GC/MobileNetworkPacketCoreControlPlanes.svg) | Microsoft.MobileNetwork/ packetCoreControlPlanes |
-| [Data Network](svg/Microsoft_Azure_AP5GC/MobileNetworkMobileNetworkDataNetworks.svg) | Microsoft.MobileNetwork/ mobileNetworks/ dataNetworks |
-| [Packet Core Data Plane](svg/Microsoft_Azure_AP5GC/MobileNetworkPacketCoreControlPlanesPacketCoreDataPlanes.svg) | Microsoft.MobileNetwork/ packetCoreControlPlanes/ packetCoreDataPlanes |
-| [Mobile Network](svg/Microsoft_Azure_AP5GC/MobileNetworkMobileNetworks.svg) | Microsoft.MobileNetwork/ mobileNetworks |
-| [Radio Access Network Insights](svg/Microsoft_Azure_AP5GC/MobileNetworkSiteRadioAccessNetworks.svg) | Microsoft.MobileNetwork/ radioAccessNetworks |
-| [Service](svg/Microsoft_Azure_AP5GC/MobileNetworkMobileNetworkServices.svg) | Microsoft.MobileNetwork/ mobileNetworks/ services |
-| [SIM](svg/Microsoft_Azure_AP5GC/MobileNetworkSims.svg) | Microsoft.MobileNetwork/ simGroups/ sims |
-| [SIM Group](svg/Microsoft_Azure_AP5GC/MobileNetworkSimGroups.svg) | Microsoft.MobileNetwork/ simGroups |
-| [SIM Policy](svg/Microsoft_Azure_AP5GC/MobileNetworkMobileNetworkSimPolicies.svg) | Microsoft.MobileNetwork/ mobileNetworks/ simPolicies |
-| [Mobile Network Site](svg/Microsoft_Azure_AP5GC/MobileNetworkMobileNetworkSites.svg) | Microsoft.MobileNetwork/ mobileNetworks/ sites |
-| [Slice](svg/Microsoft_Azure_AP5GC/MobileNetworkMobileNetworkSlices.svg) | Microsoft.MobileNetwork/ mobileNetworks/ slices |
 | [Workspace](svg/Microsoft_Azure_ApiManagement/WorkspaceCatalog.svg) | Microsoft.ApiCenter/ services/ workspaces |
 | [API Management service](svg/Microsoft_Azure_ApiManagement/Service.svg) | Microsoft.ApiManagement/ service |
 | [Gateway](svg/Microsoft_Azure_ApiManagement/Gateway.svg) | Microsoft.ApiManagement/ gateways |
