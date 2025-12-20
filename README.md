@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.211.0.1 on 2025-12-19.
+Extracted from Azure Portal version 16.211.0.1 on 2025-12-20.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -910,6 +910,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Incentive Schedule](svg/Microsoft_Azure_Reservations/ContingencyServiceAdminAsset.svg) | Microsoft.BillingBenefits/ incentiveSchedules |
 | [Incentive Schedule](svg/Microsoft_Azure_Reservations/ContingencyBrowseAsset.svg) |  |
 | [Incentive Schedule](svg/Microsoft_Azure_Reservations/ContingencyBillingAdminAsset.svg) | Microsoft.Billing/ billingAccounts/ incentiveSchedules |
+| [Conditional Credit](svg/Microsoft_Azure_Reservations/ConditionalCreditBrowseAsset.svg) | Microsoft.BillingBenefits/ conditionalCredits |
 | [Savings plan](svg/Microsoft_Azure_Reservations/SavingsPlanBrowseAsset.svg) |  |
 | [Reservation](svg/Microsoft_Azure_Reservations/ReservationsBrowseAsset.svg) |  |
 | [ContosoTaskApp](svg/Microsoft_Azure_ResiliencyHub/ResiliencyHub.svg) |  |
@@ -1078,6 +1079,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [MCC CacheNode for Enterprise](svg/Microsoft_ConnectedCache_Enterprise/MccEnterpriseCacheNodeResource.svg) | Microsoft.ConnectedCache/ enterpriseMccCustomers/ enterpriseMccCacheNodes |
 | [Connected Cache for ISP](svg/Microsoft_ConnectedCache_ISP/MCCIspResource.svg) | Microsoft.ConnectedCache/ ispCustomers |
 | [Managed Desktop](svg/Microsoft_EMM_ModernWorkplace/MWaaS.svg) |  |
+| [Copilot](svg/Microsoft_Entra_Copilot/SidecarChatAsset.svg) |  |
 | [My Resource](svg/Microsoft_Entra_GSA_Connect/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [My Resource](svg/Microsoft_Entra_IDX/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [FHIR service](svg/Microsoft_Healthcare_APIs/JupiterFhirService.svg) | Microsoft.HealthcareApis/ workspaces/ fhirservices |
