@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.211.0.1 on 2026-01-08.
+Extracted from Azure Portal version 16.214.0.1 on 2026-01-09.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -315,7 +315,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [1ES Build Cache](svg/Microsoft_Azure_CloudTest/CloudTestBuildCache.svg) | Microsoft.CloudTest/ buildcaches |
 | [CloudTest Account](svg/Microsoft_Azure_CloudTest/CloudTestAccounts.svg) | Microsoft.CloudTest/ accounts |
 | [Code Optimizations](svg/Microsoft_Azure_CodeOptimizations/CodeOptimizations.svg) |  |
-| [Trusted Signing Account](svg/Microsoft_Azure_CodeSigning/CodeSigningAccounts.svg) | Microsoft.CodeSigning/ codesigningaccounts |
+| [Artifact Signing Account](svg/Microsoft_Azure_CodeSigning/CodeSigningAccounts.svg) | Microsoft.CodeSigning/ codesigningaccounts |
 | [Communication Service](svg/Microsoft_Azure_CommunicationServices/Communication.svg) | Microsoft.Communication/ CommunicationServices |
 | [Communications Gateway Test Line](svg/Microsoft_Azure_CommunicationsGatewayExtension/TestLines.svg) | Microsoft.VoiceServices/ CommunicationsGateways/ TestLines |
 | [Communications Gateway](svg/Microsoft_Azure_CommunicationsGatewayExtension/CommunicationsGateways.svg) | Microsoft.VoiceServices/ CommunicationsGateways |
@@ -663,7 +663,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Professional Service](svg/Microsoft_Azure_MarketplaceTransact/ProfessionalService.svg) | Microsoft.ProfessionalService/ resources |
 | [Migration project](svg/Microsoft_Azure_Migrate/MigrationProject.svg) | Microsoft.Migrate/ projects |
 | [Azure Migrate](svg/Microsoft_Azure_Migrate/AzureMigrationHub.svg) |  |
-| [My Resource](svg/Microsoft_Azure_MigrateAIAssistant/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Migrate Assessment](svg/Microsoft_Azure_MigrateAssessment/MigrateAssessmentResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Nixtla](svg/Microsoft_Azure_MLTeamAccounts/Nixtla.svg) |  |
 | [Model Provider](svg/Microsoft_Azure_MLTeamAccounts/ModelProvider.svg) |  |
@@ -1074,7 +1073,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Private Segmentation Manager](svg/Microsoft_Azure_ZeroTrustSegmentation/PrivateSegmentationManagers.svg) | Private.ZeroTrustSegmentation/ segmentationManagers |
 | [Bing Resource](svg/Microsoft_Bing_Api/BingAPIAccount.svg) | Microsoft.Bing/ accounts |
 | [Health Model](svg/Microsoft_CloudHealth_HealthModels/AzureHealthModel.svg) | Microsoft.CloudHealth/ healthmodels |
-| [Remote Rendering Account](svg/Microsoft_Cognition_MixedReality/RemoteRenderingAccount.svg) | Microsoft.MixedReality/ remoteRenderingAccounts |
 | [Connected Cache for Enterprise & Education](svg/Microsoft_ConnectedCache_Enterprise/MccEnterpriseResource.svg) | Microsoft.ConnectedCache/ enterpriseMccCustomers |
 | [MCC CacheNode for Enterprise](svg/Microsoft_ConnectedCache_Enterprise/MccEnterpriseCacheNodeResource.svg) | Microsoft.ConnectedCache/ enterpriseMccCustomers/ enterpriseMccCacheNodes |
 | [Connected Cache for ISP](svg/Microsoft_ConnectedCache_ISP/MCCIspResource.svg) | Microsoft.ConnectedCache/ ispCustomers |
