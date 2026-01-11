@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.214.0.1 on 2026-01-10.
+Extracted from Azure Portal version 16.214.0.1 on 2026-01-11.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -423,7 +423,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Microsoft Code Studio](svg/Microsoft_Azure_DevCenter/CodeStudioService.svg) |  |
 | [ADR Asset](svg/Microsoft_Azure_DeviceRegistry/convergedAssets.svg) | microsoft.deviceregistry/ convergedAssets |
 | [ADR Schema Registry](svg/Microsoft_Azure_DeviceRegistry/schemaRegistries.svg) | microsoft.deviceregistry/ schemaRegistries |
-| [IoT Credential Policy](svg/Microsoft_Azure_DeviceRegistry/namespacePolicies.svg) | microsoft.deviceregistry/ namespaces/ credentials/ policies |
 | [ADR Asset](svg/Microsoft_Azure_DeviceRegistry/namespaceAssets.svg) | microsoft.deviceregistry/ namespaces/ assets |
 | [ADR Namespace](svg/Microsoft_Azure_DeviceRegistry/namespaces.svg) | microsoft.deviceregistry/ namespaces |
 | [Azure Device Registry](svg/Microsoft_Azure_DeviceRegistry/DeviceRegistry.svg) |  |
