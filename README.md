@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 17.43.0.1 on 2026-01-12.
+Extracted from Azure Portal version 16.214.0.1 on 2026-01-13.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -373,6 +373,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Red Hat OpenShift cluster](svg/Microsoft_Azure_ContainerService/AroClusters.svg) | Microsoft.RedHatOpenShift/ OpenShiftClusters |
 | [Container storage](svg/Microsoft_Azure_ContainerStorage/ContainerStorage.svg) | Microsoft.ContainerStorage/ pools |
 | [Azure Copilot admin center](svg/Microsoft_Azure_Copilot/CopilotSettingsAsset.svg) |  |
+| [Copilot](svg/Microsoft_Azure_Copilot/Copilot.svg) | Microsoft.PortalServices/ copilots |
 | [Cost exports](svg/Microsoft_Azure_CostManagement/Exports.svg) |  |
 | [Cost Management](svg/Microsoft_Azure_CostManagement/CostManagement.svg) |  |
 | [Cost analysis](svg/Microsoft_Azure_CostManagement/CostAnalysis.svg) |  |
