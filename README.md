@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.214.0.1 on 2026-01-15.
+Extracted from Azure Portal version 17.43.0.1 on 2026-01-16.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -1143,7 +1143,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Oracle Exadata Infrastructure](svg/Oracle_Databases_At_Azure/oracle_exadata_infrastructure.svg) | oracle.database/ cloudexadatainfrastructures |
 | [OracleSubscription](svg/Oracle_Databases_At_Azure/oracleSubscription.svg) | Oracle.Database/ oracleSubscriptions |
 | [Base Database](svg/Oracle_Databases_At_Azure/oracle_basedb.svg) | oracle.database/ dbsystems |
-| [Autonomous Database](svg/Oracle_Databases_At_Azure/oracle_adbs.svg) | oracle.database/ autonomousdatabases |
+| [Autonomous AI Database](svg/Oracle_Databases_At_Azure/oracle_adbs.svg) | oracle.database/ autonomousdatabases |
 | [ESRP Scan](svg/ScanX_Management/ScanXMeter.svg) | Microsoft.AzureScan/ scanningAccounts |
 | [ScanX Management](svg/ScanX_Management/ScanXManagement.svg) |  |
 | [Service Linker](svg/ServiceLinkerExtension/ServiceLinkerGlobal.svg) |  |
