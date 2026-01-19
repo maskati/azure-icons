@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 17.43.0.1 on 2026-01-18.
+Extracted from Azure Portal version 16.214.0.1 on 2026-01-19.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -627,7 +627,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Key](svg/Microsoft_Azure_KeyVault/Key.svg) |  |
 | [Certificate](svg/Microsoft_Azure_KeyVault/Certificate.svg) |  |
 | [Kubernetes center (preview)](svg/Microsoft_Azure_KubernetesFleet/KubernetesHub.svg) |  |
-| [Managed Fleet Namespace](svg/Microsoft_Azure_KubernetesFleet/ManagedFleetNamespaces.svg) | microsoft.containerservice/ fleets/ managednamespaces |
+| [Managed Fleet Namespace (preview)](svg/Microsoft_Azure_KubernetesFleet/ManagedFleetNamespaces.svg) | microsoft.containerservice/ fleets/ managednamespaces |
 | [Kubernetes fleet manager](svg/Microsoft_Azure_KubernetesFleet/Fleets.svg) | microsoft.containerservice/ fleets |
 | [Data Explorer Database](svg/Microsoft_Azure_Kusto/kustoSynapsePoolDatabase.svg) | Microsoft.Synapse/ workspaces/ kustopools/ databases |
 | [Data Explorer pool (preview)](svg/Microsoft_Azure_Kusto/kustoSynapsePool.svg) | Microsoft.Synapse/ workspaces/ kustopools |
@@ -937,6 +937,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Stage map](svg/Microsoft_Azure_Resources/changesafety_stagemaps.svg) | microsoft.changesafety/ stagemaps |
 | [Change record](svg/Microsoft_Azure_Resources/changesafety_changestates.svg) | microsoft.changesafety/ changestates |
 | [Stage progression](svg/Microsoft_Azure_Resources/changesafety_changestates_stageprogressions.svg) | microsoft.changesafety/ changestates/ stageprogressions |
+| [Azure DevOps organization](svg/Microsoft_Azure_Resources/AzureDevOps.svg) |  |
 | [Deployment stack](svg/Microsoft_Azure_Resources/StackManagementGroup.svg) | Microsoft.Management/ managementGroups/ Microsoft.Resources/ deploymentStacks |
 | [Deployment stack](svg/Microsoft_Azure_Resources/Stack.svg) | Microsoft.Resources/ deploymentStacks |
 | [Rollout](svg/Microsoft_Azure_Resources/Rollout.svg) | Microsoft.DeploymentManager/ Rollouts |
