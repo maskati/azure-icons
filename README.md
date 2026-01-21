@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.214.0.1 on 2026-01-20.
+Extracted from Azure Portal version 16.214.0.1 on 2026-01-21.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -818,6 +818,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Global Secure Access](svg/Microsoft_Azure_Network_Access/NetworkAccess.svg) |  |
 | [Notification Hub](svg/Microsoft_Azure_NotificationHubs/NotificationHub.svg) | Microsoft.NotificationHubs/ namespaces/ notificationHubs |
 | [Notification Hub Namespace](svg/Microsoft_Azure_NotificationHubs/Namespace.svg) | Microsoft.NotificationHubs/ namespaces |
+| [My Resource](svg/Microsoft_Azure_OneHome/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Resource Graph Visualizer](svg/Microsoft_Azure_OneInventory/ResourceGraphVisualizer.svg) | Microsoft.Resources/ resourceGraphVisualizer |
 | [Change Analysis](svg/Microsoft_Azure_OneInventory/ResourceChange.svg) | Microsoft.Resources/ resourceChange |
 | [My Resource](svg/Microsoft_Azure_OneInventory/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
