@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.214.0.1 on 2026-01-21.
+Extracted from Azure Portal version 17.43.0.1 on 2026-01-22.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -1120,7 +1120,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Endpoint security](svg/Microsoft_Intune_Workflows/SecurityManagementAsset.svg) |  |
 | [Security Baselines](svg/Microsoft_Intune_Workflows/SecurityBaselineAsset.svg) |  |
 | [Explorer](svg/Microsoft_Intune_Workflows/CustomQueryResultAsset.svg) |  |
-| [My Resource](svg/Microsoft_Marketplace_SolutionFinder/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Skylarc](svg/Microsoft_OneFleet_DataHub/Skylark.svg) |  |
 | [Grip](svg/Microsoft_OneFleet_DataHub/Grip.svg) |  |
 | [AzPubSub](svg/Microsoft_OneFleet_DataHub/AzPubSub.svg) |  |
