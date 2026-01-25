@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 17.43.3.1 on 2026-01-24.
+Extracted from Azure Portal version 17.43.3.1 on 2026-01-25.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -247,10 +247,10 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Gateway](svg/Microsoft_Azure_ApiManagement/Gateway.svg) | Microsoft.ApiManagement/ gateways |
 | [API Center](svg/Microsoft_Azure_ApiManagement/Center.svg) | Microsoft.ApiCenter/ services |
 | [App Compliance Automation Tool for Microsoft 365](svg/Microsoft_Azure_AppComplianceAutomation/AppComplianceAutomation.svg) |  |
-| [Service catalog managed application definition](svg/Microsoft_Azure_Appliance/ApplianceDefinition.svg) | Microsoft.Solutions/ applicationDefinitions |
-| [Managed applications center](svg/Microsoft_Azure_Appliance/ApplicationsHub.svg) |  |
-| [Managed application](svg/Microsoft_Azure_Appliance/ArmAppliance.svg) | Microsoft.Solutions/ applications |
 | [Visual Studio Online Plan](svg/Microsoft_Azure_Appliance/MicrosoftVSOnlinePlans.svg) | Microsoft.VSOnline/ Plans |
+| [Managed application](svg/Microsoft_Azure_Appliance/ArmAppliance.svg) | Microsoft.Solutions/ applications |
+| [Managed applications center](svg/Microsoft_Azure_Appliance/ApplicationsHub.svg) |  |
+| [Service catalog managed application definition](svg/Microsoft_Azure_Appliance/ApplianceDefinition.svg) | Microsoft.Solutions/ applicationDefinitions |
 | [Azure Arc](svg/Microsoft_Azure_ArcCenterUX/AzureArcCenter.svg) |  |
 | [Azure Arc enabled resource](svg/Microsoft_Azure_ArcCenterUX/AllArcResourcesFairfax.svg) | Microsoft.Arc/ allFairfax |
 | [Azure Arc enabled resource](svg/Microsoft_Azure_ArcCenterUX/AllArcResources.svg) | Microsoft.Arc/ all |
@@ -258,6 +258,14 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Kubernetes - Azure Arc](svg/Microsoft_Azure_ArcClusterUX/ConnectedClusters.svg) | Microsoft.Kubernetes/ connectedClusters |
 | [Kubernetes - Azure Arc extension](svg/Microsoft_Azure_ArcClusterUX/ConnectedClusterExtension.svg) | Microsoft.Kubernetes/ connectedClusters/ Microsoft.KubernetesConfiguration/ extensions |
 | [Arc Load Balancer](svg/Microsoft_Azure_ArcNetworking/ArcNetworking.svg) | microsoft.kubernetesruntime/ loadbalancers |
+| [VMware vCenter inventory item](svg/Microsoft_Azure_ArcPrivateCloudUX/VCenterInventoryItems.svg) | Microsoft.connectedvmwarevsphere/ vcenters/ inventoryitems |
+| [VMware virtual machine](svg/Microsoft_Azure_ArcPrivateCloudUX/VCenterVirtualMachines.svg) | Microsoft.connectedvmwarevsphere/ vcenters/ inventoryitems_virtualmachines |
+| [VMware virtual machine template](svg/Microsoft_Azure_ArcPrivateCloudUX/VCenterTemplates.svg) | microsoft.connectedvmwarevsphere/ virtualmachinetemplates |
+| [VMware resource pool](svg/Microsoft_Azure_ArcPrivateCloudUX/VCenterResourcepools.svg) | microsoft.connectedvmwarevsphere/ resourcepools |
+| [VMware host](svg/Microsoft_Azure_ArcPrivateCloudUX/VCenterHosts.svg) | microsoft.connectedvmwarevsphere/ hosts |
+| [VMware cluster](svg/Microsoft_Azure_ArcPrivateCloudUX/VCenterClusters.svg) | microsoft.connectedvmwarevsphere/ clusters |
+| [VMware virtual network](svg/Microsoft_Azure_ArcPrivateCloudUX/VCenterNetworks.svg) | Microsoft.connectedvmwarevsphere/ virtualnetworks |
+| [VMware datastore](svg/Microsoft_Azure_ArcPrivateCloudUX/VCenterDatastores.svg) | Microsoft.connectedvmwarevsphere/ datastores |
 | [Attestation provider](svg/Microsoft_Azure_Attestation/AttestResource.svg) | Microsoft.Attestation/ attestationProviders |
 | [Automanage](svg/Microsoft_Azure_AutoManagedVirtualMachines/AutoManagedVirtualMachines.svg) |  |
 | [Automation Account](svg/Microsoft_Azure_Automation/Account.svg) | Microsoft.Automation/ AutomationAccounts |
@@ -627,6 +635,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Key](svg/Microsoft_Azure_KeyVault/Key.svg) |  |
 | [Certificate](svg/Microsoft_Azure_KeyVault/Certificate.svg) |  |
 | [Kubernetes center (preview)](svg/Microsoft_Azure_KubernetesFleet/KubernetesHub.svg) |  |
+| [Standby Pool](svg/Microsoft_Azure_KubernetesFleet/StandbyContainerGroupPools.svg) | Microsoft.StandbyPool/ standbyContainerGroupPools |
+| [Container Instances Center](svg/Microsoft_Azure_KubernetesFleet/ContainerInstancesCenter.svg) |  |
+| [Container group profile](svg/Microsoft_Azure_KubernetesFleet/ContainerGroupProfiles.svg) | Microsoft.ContainerInstance/ containerGroupProfiles |
 | [Managed Fleet Namespace (preview)](svg/Microsoft_Azure_KubernetesFleet/ManagedFleetNamespaces.svg) | microsoft.containerservice/ fleets/ managednamespaces |
 | [Kubernetes fleet manager](svg/Microsoft_Azure_KubernetesFleet/Fleets.svg) | microsoft.containerservice/ fleets |
 | [Data Explorer Database](svg/Microsoft_Azure_Kusto/kustoSynapsePoolDatabase.svg) | Microsoft.Synapse/ workspaces/ kustopools/ databases |
