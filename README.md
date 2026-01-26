@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 17.43.3.1 on 2026-01-25.
+Extracted from Azure Portal version 17.43.3.1 on 2026-01-26.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -1169,10 +1169,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [SQL managed instance](svg/SqlAzureExtension/ManagedInstance.svg) | Microsoft.Sql/ managedInstances |
 | [Managed database](svg/SqlAzureExtension/ManagedDatabase.svg) | Microsoft.Sql/ managedInstances/ databases |
 | [Instance pool](svg/SqlAzureExtension/InstancePool.svg) | Microsoft.Sql/ instancePools |
-| [tier](svg/SqlAzureExtension/Tiers.svg) | Microsoft.DatabaseFleetManager/ fleets/ tiers |
-| [Fleetspaces](svg/SqlAzureExtension/Fleetspace.svg) | Microsoft.DatabaseFleetManager/ fleets/ fleetspaces |
-| [Fleet managed database](svg/SqlAzureExtension/FleetDatabase.svg) | Microsoft.DatabaseFleetManager/ fleets/ fleetspaces/ databases |
-| [Database fleet manager](svg/SqlAzureExtension/DatabaseFleetManager.svg) | Microsoft.DatabaseFleetManager/ fleets |
 | [SQL elastic pool](svg/SqlAzureExtension/ElasticPool.svg) | Microsoft.Sql/ servers/ elasticpools |
 | [Elastic Job agent](svg/SqlAzureExtension/JobAgent.svg) | Microsoft.Sql/ servers/ jobAgents |
 | [Database service](svg/SqlAzureExtension/SqlService.svg) |  |
