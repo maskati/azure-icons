@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 17.49.0.1 on 2026-01-29.
+Extracted from Azure Portal version 17.49.0.1 on 2026-01-30.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -231,9 +231,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Local](svg/Microsoft_AzureStackHCI_PortalExtension/AszBrowseUpdates.svg) | microsoft.azurestackhci/ clusters/ updateSummaries |
 | [Azure Local](svg/Microsoft_AzureStackHCI_PortalExtension/AszBrowseHistory.svg) | microsoft.azurestackhci/ clusters/ updates/ updateRuns |
 | [Azure Stack  Preview](svg/Microsoft_AzureStackHCI_PortalExtension/AzureEdgeNodePool.svg) | Microsoft.AzureStackHCI/ devicePools |
-| [AszLabHardware Server](svg/Microsoft_AzureStack_LabHardware/Servers.svg) | private.aszlabhardware/ servers |
-| [AszLabHardware Reservation](svg/Microsoft_AzureStack_LabHardware/Reservations.svg) | private.aszlabhardware/ reservations |
-| [AszLabHardware Lab Server](svg/Microsoft_AzureStack_LabHardware/LabServers.svg) | private.aszlabhardware/ labservers |
+| [AszLabHardware Server](svg/Microsoft_AzureStack_LabHardware/Servers.svg) | microsoft.aszlabhardware/ servers |
+| [AszLabHardware Reservation](svg/Microsoft_AzureStack_LabHardware/Reservations.svg) | microsoft.aszlabhardware/ reservations |
+| [AszLabHardware Lab Server](svg/Microsoft_AzureStack_LabHardware/LabServers.svg) | microsoft.aszlabhardware/ labservers |
 | [Activity log](svg/Microsoft_Azure_ActivityLog/ActivityLogAsset.svg) |  |
 | [Microsoft Entra Connect Health](svg/Microsoft_Azure_ADHybridHealth/RootAsset.svg) |  |
 | [Device Update for IoT Hub](svg/Microsoft_Azure_ADU/IotDUResource.svg) | Microsoft.DeviceUpdate/ accounts |
@@ -422,12 +422,14 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Security Detonation Chamber](svg/Microsoft_Azure_DetonationService/DetonationChamber.svg) | Microsoft.SecurityDetonation/ chambers |
 | [Project](svg/Microsoft_Azure_DevCenter/Project.svg) | Microsoft.DevCenter/ projects |
 | [Pool](svg/Microsoft_Azure_DevCenter/Pools.svg) | Microsoft.DevCenter/ projects/ pools |
+| [Dev center plan](svg/Microsoft_Azure_DevCenter/Plan.svg) | Microsoft.DevCenter/ plans |
 | [Network connection](svg/Microsoft_Azure_DevCenter/NetworkConnection.svg) | Microsoft.DevCenter/ networkconnections |
 | [Project Harstine](svg/Microsoft_Azure_DevCenter/HarstineService.svg) |  |
 | [Azure Deployment Environment](svg/Microsoft_Azure_DevCenter/EnvironmentsService.svg) |  |
 | [Microsoft Dev Box](svg/Microsoft_Azure_DevCenter/DevCenterService.svg) |  |
 | [Dev center](svg/Microsoft_Azure_DevCenter/DevCenter.svg) | Microsoft.DevCenter/ devcenters |
 | [Dev Box definition](svg/Microsoft_Azure_DevCenter/DevBoxDefinitions.svg) | Microsoft.DevCenter/ devcenters/ devboxdefinitions |
+| [Microsoft Code Studio](svg/Microsoft_Azure_DevCenter/CodeStudioService.svg) |  |
 | [ADR Asset](svg/Microsoft_Azure_DeviceRegistry/convergedAssets.svg) | microsoft.deviceregistry/ convergedAssets |
 | [ADR Schema Registry](svg/Microsoft_Azure_DeviceRegistry/schemaRegistries.svg) | microsoft.deviceregistry/ schemaRegistries |
 | [ADR Asset](svg/Microsoft_Azure_DeviceRegistry/namespaceAssets.svg) | microsoft.deviceregistry/ namespaces/ assets |
@@ -763,7 +765,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Guest Assignment](svg/Microsoft_Azure_Network/GuestAssignment.svg) | Microsoft.Compute/ virtualMachines/ providers/ guestConfigurationAssignments |
 | [DNS zone](svg/Microsoft_Azure_Network/DnsZone.svg) | Microsoft.Network/ dnsZones |
 | [DDoS protection plan](svg/Microsoft_Azure_Network/DdosProtectionPlan.svg) | Microsoft.Network/ ddosProtectionPlans |
-| [DDoS custom policy](svg/Microsoft_Azure_Network/DdosCustomPolicy.svg) | Microsoft.Network/ ddosCustomPolicies |
 | [Custom IP Prefix](svg/Microsoft_Azure_Network/CustomIpPrefix.svg) | Microsoft.Network/ customIpPrefixes |
 | [Virtual network (classic)](svg/Microsoft_Azure_Network/ClassicVirtualNetwork.svg) | Microsoft.ClassicNetwork/ virtualNetworks |
 | [Network security group (classic)](svg/Microsoft_Azure_Network/ClassicNetworkSecurityGroup.svg) | Microsoft.ClassicNetwork/ networkSecurityGroups |
