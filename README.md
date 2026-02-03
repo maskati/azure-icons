@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 17.49.0.1 on 2026-02-02.
+Extracted from Azure Portal version 17.49.0.1 on 2026-02-03.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -271,6 +271,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Automation Account](svg/Microsoft_Azure_Automation/Account.svg) | Microsoft.Automation/ AutomationAccounts |
 | [](svg/Microsoft_Azure_Automation/Variable.svg) |  |
 | [Change Tracking and Inventory](svg/Microsoft_Azure_Automation/ChangeTrackingCenter.svg) |  |
+| [Change Tracking and Inventory](svg/Microsoft_Azure_Automation/DcrCTIasset.svg) | microsoft.insights/ DcrCTIBladeResource |
 | [Guest Assignment](svg/Microsoft_Azure_Automation/GuestAssignment.svg) | Microsoft.Compute/ virtualMachines/ providers/ guestConfigurationAssignments |
 | [Guest Assignment](svg/Microsoft_Azure_Automation/NonAzureGuestAssignment.svg) | Microsoft.HybridCompute/ machines/ providers/ guestConfigurationAssignments |
 | [Maintenance configuration](svg/Microsoft_Azure_Automation/MaintenanceConfigurationAUMasset.svg) | microsoft.maintenance/ maintenanceconfigurationsAUMBladeResource |
@@ -633,9 +634,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Key](svg/Microsoft_Azure_KeyVault/Key.svg) |  |
 | [Certificate](svg/Microsoft_Azure_KeyVault/Certificate.svg) |  |
 | [Kubernetes center (preview)](svg/Microsoft_Azure_KubernetesFleet/KubernetesHub.svg) |  |
-| [Standby Pool](svg/Microsoft_Azure_KubernetesFleet/StandbyContainerGroupPools.svg) | Microsoft.StandbyPool/ standbyContainerGroupPools |
-| [Container Instances Center](svg/Microsoft_Azure_KubernetesFleet/ContainerInstancesCenter.svg) |  |
-| [Container group profile](svg/Microsoft_Azure_KubernetesFleet/ContainerGroupProfiles.svg) | Microsoft.ContainerInstance/ containerGroupProfiles |
 | [Managed Fleet Namespace (preview)](svg/Microsoft_Azure_KubernetesFleet/ManagedFleetNamespaces.svg) | microsoft.containerservice/ fleets/ managednamespaces |
 | [Kubernetes fleet manager](svg/Microsoft_Azure_KubernetesFleet/Fleets.svg) | microsoft.containerservice/ fleets |
 | [Data Explorer Database](svg/Microsoft_Azure_Kusto/kustoSynapsePoolDatabase.svg) | Microsoft.Synapse/ workspaces/ kustopools/ databases |
@@ -763,7 +761,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Guest Assignment](svg/Microsoft_Azure_Network/GuestAssignment.svg) | Microsoft.Compute/ virtualMachines/ providers/ guestConfigurationAssignments |
 | [DNS zone](svg/Microsoft_Azure_Network/DnsZone.svg) | Microsoft.Network/ dnsZones |
 | [DDoS protection plan](svg/Microsoft_Azure_Network/DdosProtectionPlan.svg) | Microsoft.Network/ ddosProtectionPlans |
-| [DDoS custom policy](svg/Microsoft_Azure_Network/DdosCustomPolicy.svg) | Microsoft.Network/ ddosCustomPolicies |
 | [Custom IP Prefix](svg/Microsoft_Azure_Network/CustomIpPrefix.svg) | Microsoft.Network/ customIpPrefixes |
 | [Virtual network (classic)](svg/Microsoft_Azure_Network/ClassicVirtualNetwork.svg) | Microsoft.ClassicNetwork/ virtualNetworks |
 | [Network security group (classic)](svg/Microsoft_Azure_Network/ClassicNetworkSecurityGroup.svg) | Microsoft.ClassicNetwork/ networkSecurityGroups |
