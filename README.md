@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 17.49.0.1 on 2026-02-03.
+Extracted from Azure Portal version 17.49.0.1 on 2026-02-04.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -560,6 +560,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure HDInsight on AKS cluster](svg/Microsoft_Azure_HDInsight/HDInsightClusterGen2.svg) |  |
 | [HDInsight cluster](svg/Microsoft_Azure_HDInsight/HDInsightCluster.svg) | Microsoft.HDInsight/ clusters |
 | [Service Health](svg/Microsoft_Azure_Health/AzureHealth.svg) |  |
+| [Private Healthcare agent services](svg/Microsoft_Azure_HealthBot/PrivateHealthBot.svg) | Private.HealthBotTest/ healthBots |
 | [Healthcare agent service](svg/Microsoft_Azure_HealthBot/HealthBot.svg) | Microsoft.HealthBot/ healthBots |
 | [De-identification Service](svg/Microsoft_Azure_HealthDataDeidentification/DeidService.svg) | Microsoft.HealthDataAIServices/ DeidServices |
 | [Health Model (preview)](svg/Microsoft_Azure_HealthModels/AzureHealthModel.svg) | Microsoft.HealthModel/ healthmodels |
@@ -634,6 +635,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Key](svg/Microsoft_Azure_KeyVault/Key.svg) |  |
 | [Certificate](svg/Microsoft_Azure_KeyVault/Certificate.svg) |  |
 | [Kubernetes center (preview)](svg/Microsoft_Azure_KubernetesFleet/KubernetesHub.svg) |  |
+| [Standby Pool](svg/Microsoft_Azure_KubernetesFleet/StandbyContainerGroupPools.svg) | Microsoft.StandbyPool/ standbyContainerGroupPools |
+| [Container Instances Center](svg/Microsoft_Azure_KubernetesFleet/ContainerInstancesCenter.svg) |  |
+| [Container group profile](svg/Microsoft_Azure_KubernetesFleet/ContainerGroupProfiles.svg) | Microsoft.ContainerInstance/ containerGroupProfiles |
 | [Managed Fleet Namespace (preview)](svg/Microsoft_Azure_KubernetesFleet/ManagedFleetNamespaces.svg) | microsoft.containerservice/ fleets/ managednamespaces |
 | [Kubernetes fleet manager](svg/Microsoft_Azure_KubernetesFleet/Fleets.svg) | microsoft.containerservice/ fleets |
 | [Data Explorer Database](svg/Microsoft_Azure_Kusto/kustoSynapsePoolDatabase.svg) | Microsoft.Synapse/ workspaces/ kustopools/ databases |
@@ -761,6 +765,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Guest Assignment](svg/Microsoft_Azure_Network/GuestAssignment.svg) | Microsoft.Compute/ virtualMachines/ providers/ guestConfigurationAssignments |
 | [DNS zone](svg/Microsoft_Azure_Network/DnsZone.svg) | Microsoft.Network/ dnsZones |
 | [DDoS protection plan](svg/Microsoft_Azure_Network/DdosProtectionPlan.svg) | Microsoft.Network/ ddosProtectionPlans |
+| [DDoS custom policy](svg/Microsoft_Azure_Network/DdosCustomPolicy.svg) | Microsoft.Network/ ddosCustomPolicies |
 | [Custom IP Prefix](svg/Microsoft_Azure_Network/CustomIpPrefix.svg) | Microsoft.Network/ customIpPrefixes |
 | [Virtual network (classic)](svg/Microsoft_Azure_Network/ClassicVirtualNetwork.svg) | Microsoft.ClassicNetwork/ virtualNetworks |
 | [Network security group (classic)](svg/Microsoft_Azure_Network/ClassicNetworkSecurityGroup.svg) | Microsoft.ClassicNetwork/ networkSecurityGroups |
