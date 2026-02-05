@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 17.49.0.1 on 2026-02-04.
+Extracted from Azure Portal version 17.49.0.1 on 2026-02-05.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -271,7 +271,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Automation Account](svg/Microsoft_Azure_Automation/Account.svg) | Microsoft.Automation/ AutomationAccounts |
 | [](svg/Microsoft_Azure_Automation/Variable.svg) |  |
 | [Change Tracking and Inventory](svg/Microsoft_Azure_Automation/ChangeTrackingCenter.svg) |  |
-| [Change Tracking and Inventory](svg/Microsoft_Azure_Automation/DcrCTIasset.svg) | microsoft.insights/ DcrCTIBladeResource |
 | [Guest Assignment](svg/Microsoft_Azure_Automation/GuestAssignment.svg) | Microsoft.Compute/ virtualMachines/ providers/ guestConfigurationAssignments |
 | [Guest Assignment](svg/Microsoft_Azure_Automation/NonAzureGuestAssignment.svg) | Microsoft.HybridCompute/ machines/ providers/ guestConfigurationAssignments |
 | [Maintenance configuration](svg/Microsoft_Azure_Automation/MaintenanceConfigurationAUMasset.svg) | microsoft.maintenance/ maintenanceconfigurationsAUMBladeResource |
