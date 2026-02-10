@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 17.49.0.1 on 2026-02-09.
+Extracted from Azure Portal version 17.49.0.1 on 2026-02-10.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -103,6 +103,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Feature Preview](svg/Microsoft_AAD_IAM/PreviewHub.svg) |  |
 | [Policies Overview](svg/Microsoft_AAD_IAM/PolicyOverview.svg) |  |
 | [Policy](svg/Microsoft_AAD_IAM/PoliciesList.svg) |  |
+| [Welcome to Permissions Management](svg/Microsoft_AAD_IAM/PMDashboard.svg) |  |
 | [Phone Call Setting](svg/Microsoft_AAD_IAM/PhoneCallSettingsBlade.svg) |  |
 | [Users Registration](svg/Microsoft_AAD_IAM/PasswordResetPolicyDetailRegistrationBlade.svg) |  |
 | [Password Resets Notification](svg/Microsoft_AAD_IAM/PasswordResetPolicyDetailNotificationsBlade.svg) |  |
