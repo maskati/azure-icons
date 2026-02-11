@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 17.49.0.1 on 2026-02-10.
+Extracted from Azure Portal version 17.49.0.1 on 2026-02-11.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -103,7 +103,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Feature Preview](svg/Microsoft_AAD_IAM/PreviewHub.svg) |  |
 | [Policies Overview](svg/Microsoft_AAD_IAM/PolicyOverview.svg) |  |
 | [Policy](svg/Microsoft_AAD_IAM/PoliciesList.svg) |  |
-| [Welcome to Permissions Management](svg/Microsoft_AAD_IAM/PMDashboard.svg) |  |
 | [Phone Call Setting](svg/Microsoft_AAD_IAM/PhoneCallSettingsBlade.svg) |  |
 | [Users Registration](svg/Microsoft_AAD_IAM/PasswordResetPolicyDetailRegistrationBlade.svg) |  |
 | [Password Resets Notification](svg/Microsoft_AAD_IAM/PasswordResetPolicyDetailNotificationsBlade.svg) |  |
@@ -635,9 +634,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Key](svg/Microsoft_Azure_KeyVault/Key.svg) |  |
 | [Certificate](svg/Microsoft_Azure_KeyVault/Certificate.svg) |  |
 | [Kubernetes center (preview)](svg/Microsoft_Azure_KubernetesFleet/KubernetesHub.svg) |  |
-| [Standby Pool](svg/Microsoft_Azure_KubernetesFleet/StandbyContainerGroupPools.svg) | Microsoft.StandbyPool/ standbyContainerGroupPools |
-| [Container Instances Center](svg/Microsoft_Azure_KubernetesFleet/ContainerInstancesCenter.svg) |  |
-| [Container group profile](svg/Microsoft_Azure_KubernetesFleet/ContainerGroupProfiles.svg) | Microsoft.ContainerInstance/ containerGroupProfiles |
 | [Managed Fleet Namespace (preview)](svg/Microsoft_Azure_KubernetesFleet/ManagedFleetNamespaces.svg) | microsoft.containerservice/ fleets/ managednamespaces |
 | [Kubernetes fleet manager](svg/Microsoft_Azure_KubernetesFleet/Fleets.svg) | microsoft.containerservice/ fleets |
 | [Data Explorer Database](svg/Microsoft_Azure_Kusto/kustoSynapsePoolDatabase.svg) | Microsoft.Synapse/ workspaces/ kustopools/ databases |
@@ -765,7 +761,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Guest Assignment](svg/Microsoft_Azure_Network/GuestAssignment.svg) | Microsoft.Compute/ virtualMachines/ providers/ guestConfigurationAssignments |
 | [DNS zone](svg/Microsoft_Azure_Network/DnsZone.svg) | Microsoft.Network/ dnsZones |
 | [DDoS protection plan](svg/Microsoft_Azure_Network/DdosProtectionPlan.svg) | Microsoft.Network/ ddosProtectionPlans |
-| [DDoS custom policy](svg/Microsoft_Azure_Network/DdosCustomPolicy.svg) | Microsoft.Network/ ddosCustomPolicies |
 | [Custom IP Prefix](svg/Microsoft_Azure_Network/CustomIpPrefix.svg) | Microsoft.Network/ customIpPrefixes |
 | [Virtual network (classic)](svg/Microsoft_Azure_Network/ClassicVirtualNetwork.svg) | Microsoft.ClassicNetwork/ virtualNetworks |
 | [Network security group (classic)](svg/Microsoft_Azure_Network/ClassicNetworkSecurityGroup.svg) | Microsoft.ClassicNetwork/ networkSecurityGroups |
@@ -1065,14 +1060,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Configuration Group Schema](svg/Microsoft_Azure_VnfManager/AosmConfigSchema.svg) | Microsoft.HybridNetwork/ publishers/ configurationGroupSchemas |
 | [Configuration Group Value](svg/Microsoft_Azure_VnfManager/AosmCgv.svg) | Microsoft.HybridNetwork/ configurationGroupValues |
 | [Wave Migration](svg/Microsoft_Azure_WaveMigration/WaveMigrationResource.svg) | Providers.Test/ statefulIbizaEngines |
-| [Workloads Hub](svg/Microsoft_Azure_WorkloadHub/WorkloadResource.svg) |  |
-| [Workload Component](svg/Microsoft_Azure_WorkloadHub/WorkloadComponentAsset.svg) | Microsoft.Workloads/ virtualInstances/ components |
-| [Workload Virtual Instance](svg/Microsoft_Azure_WorkloadHub/VirtualInstanceAsset.svg) | Microsoft.Workloads/ virtualInstances |
-| [Workloads Hub](svg/Microsoft_Azure_WorkloadHub/VICheckResultsAsset.svg) | microsoft.workloads/ configurationvalidationresults/ checkname |
-| [Workload Virtual Instance](svg/Microsoft_Azure_WorkloadHub/RelatedVIAsset.svg) | Microsoft.Workloads/ virtualInstancess |
-| [Workloads Hub](svg/Microsoft_Azure_WorkloadHub/CheckResultAsset.svg) | microsoft.workloads/ configurationvalidationresults |
-| [Configuration Template](svg/Microsoft_Azure_WorkloadHub/VIConfigurationChecksTemplates.svg) | Microsoft.Workloads/ virtualInstances/ Microsoft.Workloads/ configurationChecksTemplates |
-| [Configuration Template](svg/Microsoft_Azure_WorkloadHub/configurationChecksTemplates.svg) | Microsoft.Workloads/ configurationChecksTemplates |
+| [My Resource](svg/Microsoft_Azure_WorkloadHub/WorkloadResource.svg) | Microsoft.Workloads/ WorkloadInstance |
 | [Microsoft.Workloads insight](svg/Microsoft_Azure_WorkloadInsight/microsoft_workloads_insights_2022_10_15_preview.svg) | microsoft.workloads/ insights |
 | [MARIO](svg/Microsoft_Azure_WorkloadInsight/mario.svg) |  |
 | [Azure Monitor for SAP solutions](svg/Microsoft_Azure_WorkloadMonitor/SapMonitorV2.svg) | Microsoft.Workloads/ monitors |
@@ -1142,7 +1130,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Sample](svg/Microsoft_Premonition/Sample.svg) | Microsoft.Premonition/ Libraries/ Samples |
 | [Library](svg/Microsoft_Premonition/Library.svg) | Microsoft.Premonition/ Libraries |
 | [Analysis](svg/Microsoft_Premonition/Analysis.svg) | Microsoft.Premonition/ Libraries/ Analyses |
-| [SafeFly V2](svg/Microsoft_SafeflyV2/SafeFlyV2.svg) |  |
+| [SafeFly](svg/Microsoft_SafeflyV2/SafeFlyV2.svg) |  |
 | [Microsoft Security compute capacity](svg/Microsoft_Security_Copilot/SecurityCopilotResource.svg) | Microsoft.SecurityCopilot/ capacities |
 | [Private Engage Center Connector](svg/Microsoft_ServicesHub_Extension/PrivateConnector.svg) | Private.ServicesHubDev/ connectors |
 | [Services Hub Connector](svg/Microsoft_ServicesHub_Extension/Connector.svg) | Microsoft.ServicesHub/ connectors |
