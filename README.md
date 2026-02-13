@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 17.49.0.1 on 2026-02-12.
+Extracted from Azure Portal version 17.49.0.1 on 2026-02-13.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -1065,14 +1065,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Configuration Group Schema](svg/Microsoft_Azure_VnfManager/AosmConfigSchema.svg) | Microsoft.HybridNetwork/ publishers/ configurationGroupSchemas |
 | [Configuration Group Value](svg/Microsoft_Azure_VnfManager/AosmCgv.svg) | Microsoft.HybridNetwork/ configurationGroupValues |
 | [Wave Migration](svg/Microsoft_Azure_WaveMigration/WaveMigrationResource.svg) | Providers.Test/ statefulIbizaEngines |
-| [Workloads Hub](svg/Microsoft_Azure_WorkloadHub/WorkloadResource.svg) |  |
-| [Workload Component](svg/Microsoft_Azure_WorkloadHub/WorkloadComponentAsset.svg) | Microsoft.Workloads/ virtualInstances/ components |
-| [Workload Virtual Instance](svg/Microsoft_Azure_WorkloadHub/VirtualInstanceAsset.svg) | Microsoft.Workloads/ virtualInstances |
-| [Workloads Hub](svg/Microsoft_Azure_WorkloadHub/VICheckResultsAsset.svg) | microsoft.workloads/ configurationvalidationresults/ checkname |
-| [Workload Virtual Instance](svg/Microsoft_Azure_WorkloadHub/RelatedVIAsset.svg) | Microsoft.Workloads/ virtualInstancess |
-| [Workloads Hub](svg/Microsoft_Azure_WorkloadHub/CheckResultAsset.svg) | microsoft.workloads/ configurationvalidationresults |
-| [Configuration Template](svg/Microsoft_Azure_WorkloadHub/VIConfigurationChecksTemplates.svg) | Microsoft.Workloads/ virtualInstances/ Microsoft.Workloads/ configurationChecksTemplates |
-| [Configuration Template](svg/Microsoft_Azure_WorkloadHub/configurationChecksTemplates.svg) | Microsoft.Workloads/ configurationChecksTemplates |
+| [My Resource](svg/Microsoft_Azure_WorkloadHub/WorkloadResource.svg) | Microsoft.Workloads/ WorkloadInstance |
 | [Microsoft.Workloads insight](svg/Microsoft_Azure_WorkloadInsight/microsoft_workloads_insights_2022_10_15_preview.svg) | microsoft.workloads/ insights |
 | [MARIO](svg/Microsoft_Azure_WorkloadInsight/mario.svg) |  |
 | [Azure Monitor for SAP solutions](svg/Microsoft_Azure_WorkloadMonitor/SapMonitorV2.svg) | Microsoft.Workloads/ monitors |
