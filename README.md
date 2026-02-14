@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 17.49.0.1 on 2026-02-13.
+Extracted from Azure Portal version 17.49.0.1 on 2026-02-14.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -1047,7 +1047,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Virtual Enclaves](svg/Microsoft_Azure_VirtualEnclaves/AzureVirtualEnclave.svg) |  |
 | [Approval](svg/Microsoft_Azure_VirtualEnclaves/Approvals.svg) | Microsoft.Mission/ approvals |
 | [Virtual machine scale set](svg/Microsoft_Azure_VirtualMachineScaleSets/VirtualMachineScaleSets.svg) | Microsoft.Compute/ virtualMachineScaleSets |
-| [Virtual network appliance](svg/Microsoft_Azure_VirtualNetworkAppliance/VirtualNetworkAppliance.svg) | Microsoft.Network/ virtualNetworkAppliances |
+| [Azure Virtual Network routing appliance](svg/Microsoft_Azure_VirtualNetworkAppliance/VirtualNetworkAppliance.svg) | Microsoft.Network/ virtualNetworkAppliances |
 | [Virtual Appointments Builder](svg/Microsoft_Azure_VirtualVisitsBuilder/vvbuilder.svg) |  |
 | [Azure Network Function Manager – Network Function](svg/Microsoft_Azure_VnfManager/VnfManagerVnfs.svg) | Microsoft.HybridNetwork/ networkFunctions |
 | [Azure Network Function Manager – vendor](svg/Microsoft_Azure_VnfManager/VnfManagerVendors.svg) | Microsoft.HybridNetwork/ vendors |
