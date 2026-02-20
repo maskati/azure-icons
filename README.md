@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 17.49.0.1 on 2026-02-19.
+Extracted from Azure Portal version 17.49.0.1 on 2026-02-20.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -379,6 +379,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Kubernetes service extension](svg/Microsoft_Azure_ContainerService/KubernetesClusterExtensionsChild.svg) | microsoft.containerservice/ managedclusters/ microsoft.kubernetesconfiguration/ extensions |
 | [Kubernetes service extension](svg/Microsoft_Azure_ContainerService/KubernetesClusterExtensions.svg) | microsoft.kubernetesconfiguration/ extensions |
 | [Azure Red Hat OpenShift cluster](svg/Microsoft_Azure_ContainerService/AroClusters.svg) | Microsoft.RedHatOpenShift/ OpenShiftClusters |
+| [Anyscale cloud resource](svg/Microsoft_Azure_ContainerService/AnyscaleCloudResources.svg) | Anyscale.Platform/ clouds/ cloudResources |
+| [Anyscale cloud](svg/Microsoft_Azure_ContainerService/AnyscaleClouds.svg) | Anyscale.Platform/ clouds |
 | [Container storage](svg/Microsoft_Azure_ContainerStorage/ContainerStorage.svg) | Microsoft.ContainerStorage/ pools |
 | [Azure Copilot admin center](svg/Microsoft_Azure_Copilot/CopilotSettingsAsset.svg) |  |
 | [Copilot](svg/Microsoft_Azure_Copilot/Copilot.svg) | Microsoft.PortalServices/ copilots |
@@ -552,6 +554,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Firmware analysis workspace](svg/Microsoft_Azure_FIST/FirmwareAnalysisWorkspace.svg) | microsoft.iotfirmwaredefense/ workspaces |
 | [Fluid Relay](svg/Microsoft_Azure_FluidRelay/FrsResource.svg) | Microsoft.FluidRelay/ fluidRelayServers |
 | [Front Door](svg/Microsoft_Azure_Frontdoor/AzureFrontdoor.svg) | Microsoft.Network/ frontdoors |
+| [My Resource](svg/Microsoft_Azure_Genome/GenomeAccount.svg) | Microsoft.Genome/ accounts |
 | [Microsoft Graph Data Connect](svg/Microsoft_Azure_GraphDataConnect/Microsoft_Graph_Data_Connect.svg) |  |
 | [Cost Management + Billing](svg/Microsoft_Azure_GTM/Billing.svg) |  |
 | [Invoice](svg/Microsoft_Azure_GTM/Invoice.svg) |  |
@@ -753,6 +756,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Network Watcher](svg/Microsoft_Azure_Network/NetworkWatcherResource.svg) | microsoft.network/ networkwatchers |
 | [Network Watcher](svg/Microsoft_Azure_Network/NetworkWatcher.svg) |  |
 | [Network security group](svg/Microsoft_Azure_Network/NetworkSecurityGroup.svg) | Microsoft.Network/ NetworkSecurityGroups |
+| [Networking monitoring & management](svg/Microsoft_Azure_Network/NetworkMonitoringHub.svg) |  |
 | [Network interface](svg/Microsoft_Azure_Network/NetworkInterface.svg) | Microsoft.Network/ networkinterfaces |
 | [Network foundation](svg/Microsoft_Azure_Network/NetworkFoundation.svg) |  |
 | [NAT gateway](svg/Microsoft_Azure_Network/NatGateway.svg) | Microsoft.Network/ natGateways |
@@ -974,9 +978,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Microsoft Defender for Cloud](svg/Microsoft_Azure_Security/SecurityDashboard.svg) |  |
 | [Security Alert](svg/Microsoft_Azure_Security/SecurityAlerts.svg) | microsoft.security/ locations/ alerts |
 | [Security Private Link](svg/Microsoft_Azure_Security_CloudNativeCompute/PrivateLinkResource.svg) | Microsoft.Security/ privatelinks |
-| [Microsoft Sentinel](svg/Microsoft_Azure_Security_Insights/Entity.svg) |  |
-| [Microsoft Sentinel incident](svg/Microsoft_Azure_Security_Insights/Incident.svg) |  |
 | [Microsoft Sentinel](svg/Microsoft_Azure_Security_Insights/SecurityInsightsDashboard.svg) | microsoft.securityinsightsarg/ sentinel |
+| [Microsoft Sentinel incident](svg/Microsoft_Azure_Security_Insights/Incident.svg) |  |
+| [Microsoft Sentinel](svg/Microsoft_Azure_Security_Insights/Entity.svg) |  |
 | [Azure Iot Hub Security](svg/Microsoft_Azure_Security_IoT/AzureIoTSecurity.svg) |  |
 | [Service Bus Topic](svg/Microsoft_Azure_ServiceBus/ServiceBusTopic.svg) | Microsoft.ServiceBus/ namespaces/ topics |
 | [Service Bus Subscription](svg/Microsoft_Azure_ServiceBus/ServiceBusSubscription.svg) | Microsoft.ServiceBus/ namespaces/ topics/ subscriptions |
