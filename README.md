@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 17.49.0.1 on 2026-02-21.
+Extracted from Azure Portal version 17.49.0.1 on 2026-02-22.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -1140,6 +1140,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Sample](svg/Microsoft_Premonition/Sample.svg) | Microsoft.Premonition/ Libraries/ Samples |
 | [Library](svg/Microsoft_Premonition/Library.svg) | Microsoft.Premonition/ Libraries |
 | [Analysis](svg/Microsoft_Premonition/Analysis.svg) | Microsoft.Premonition/ Libraries/ Analyses |
+| [My Resource](svg/Microsoft_Programs/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [SafeFly](svg/Microsoft_SafeflyV2/SafeFlyV2.svg) |  |
 | [Microsoft Security compute capacity](svg/Microsoft_Security_Copilot/SecurityCopilotResource.svg) | Microsoft.SecurityCopilot/ capacities |
 | [Private Engage Center Connector](svg/Microsoft_ServicesHub_Extension/PrivateConnector.svg) | Private.ServicesHubDev/ connectors |
