@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 17.49.0.1 on 2026-02-23.
+Extracted from Azure Portal version 17.49.0.1 on 2026-02-24.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -757,7 +757,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Network Watcher](svg/Microsoft_Azure_Network/NetworkWatcherResource.svg) | microsoft.network/ networkwatchers |
 | [Network Watcher](svg/Microsoft_Azure_Network/NetworkWatcher.svg) |  |
 | [Network security group](svg/Microsoft_Azure_Network/NetworkSecurityGroup.svg) | Microsoft.Network/ NetworkSecurityGroups |
-| [Networking monitoring & management](svg/Microsoft_Azure_Network/NetworkMonitoringHub.svg) |  |
 | [Network interface](svg/Microsoft_Azure_Network/NetworkInterface.svg) | Microsoft.Network/ networkinterfaces |
 | [Network foundation](svg/Microsoft_Azure_Network/NetworkFoundation.svg) |  |
 | [NAT gateway](svg/Microsoft_Azure_Network/NatGateway.svg) | Microsoft.Network/ natGateways |
