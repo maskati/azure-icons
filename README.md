@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 17.49.0.1 on 2026-02-24.
+Extracted from Azure Portal version 17.49.0.1 on 2026-02-25.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -236,7 +236,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Activity log](svg/Microsoft_Azure_ActivityLog/ActivityLogAsset.svg) |  |
 | [Microsoft Entra Connect Health](svg/Microsoft_Azure_ADHybridHealth/RootAsset.svg) |  |
 | [Device Update for IoT Hub](svg/Microsoft_Azure_ADU/IotDUResource.svg) | Microsoft.DeviceUpdate/ accounts |
-| [My Resource](svg/Microsoft_Azure_AfdAgenticWebGW/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Front Door](svg/Microsoft_Azure_AFDX/FrontdoorProfile.svg) | microsoft.cdn/ profiles |
 | [Analysis Services](svg/Microsoft_Azure_AnalysisServices/AnalysisServices.svg) | Microsoft.AnalysisServices/ servers |
 | [Fabric Capacity](svg/Microsoft_Azure_Analytics/REDIDCILDCBJNGCP.svg) | Microsoft.Fabric/ capacities |
@@ -506,7 +505,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [My Resource](svg/Microsoft_Azure_EdgeAIExtension/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Azure Stack Edge / Data Box Gateway](svg/Microsoft_Azure_EdgeGateway/EdgeGateway.svg) | Microsoft.DataBoxEdge/ dataBoxEdgeDevices |
 | [My Resource](svg/Microsoft_Azure_EdgeManagementCopilot/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
-| [Edge Machine](svg/Microsoft_Azure_EdgeOrder/EdgeMachine.svg) | Microsoft.AzureStackHCI/ edgeMachines |
+| [Provisioned Machine](svg/Microsoft_Azure_EdgeOrder/EdgeMachine.svg) | Microsoft.AzureStackHCI/ edgeMachines |
 | [Azure Edge Hardware Center](svg/Microsoft_Azure_EdgeOrder/AzureEdgeDevice.svg) |  |
 | [Device](svg/Microsoft_Azure_EdgeOrder/AllZtpOrderItemResources.svg) | Microsoft.EdgeOrder/ virtual_orderItems |
 | [Azure Edge Hardware Center](svg/Microsoft_Azure_EdgeOrder/AllOrderResources.svg) | Microsoft.EdgeOrder/ orderItems |
@@ -757,6 +756,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Network Watcher](svg/Microsoft_Azure_Network/NetworkWatcherResource.svg) | microsoft.network/ networkwatchers |
 | [Network Watcher](svg/Microsoft_Azure_Network/NetworkWatcher.svg) |  |
 | [Network security group](svg/Microsoft_Azure_Network/NetworkSecurityGroup.svg) | Microsoft.Network/ NetworkSecurityGroups |
+| [Networking monitoring & management](svg/Microsoft_Azure_Network/NetworkMonitoringHub.svg) |  |
 | [Network interface](svg/Microsoft_Azure_Network/NetworkInterface.svg) | Microsoft.Network/ networkinterfaces |
 | [Network foundation](svg/Microsoft_Azure_Network/NetworkFoundation.svg) |  |
 | [NAT gateway](svg/Microsoft_Azure_Network/NatGateway.svg) | Microsoft.Network/ natGateways |
