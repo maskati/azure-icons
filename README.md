@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 17.49.0.1 on 2026-02-25.
+Extracted from Azure Portal version 17.49.0.1 on 2026-02-26.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -1047,6 +1047,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Transit hub](svg/Microsoft_Azure_VirtualEnclaves/TransitHub.svg) | Microsoft.Mission/ communities/ transitHubs |
 | [Enclave endpoint](svg/Microsoft_Azure_VirtualEnclaves/EnclaveEndpoint.svg) | Microsoft.Mission/ virtualEnclaves/ enclaveEndpoints |
 | [Enclave connection](svg/Microsoft_Azure_VirtualEnclaves/EnclaveConnection.svg) | Microsoft.Mission/ EnclaveConnections |
+| [Dedicated hub](svg/Microsoft_Azure_VirtualEnclaves/DedicatedHub.svg) | Microsoft.Mission/ communities/ dedicatedhubs |
 | [Community endpoint](svg/Microsoft_Azure_VirtualEnclaves/CommunityEndpoint.svg) | Microsoft.Mission/ communities/ communityEndpoints |
 | [Community](svg/Microsoft_Azure_VirtualEnclaves/Community.svg) | Microsoft.Mission/ communities |
 | [Catalog](svg/Microsoft_Azure_VirtualEnclaves/Catalog.svg) | Microsoft.Mission/ catalogs |
