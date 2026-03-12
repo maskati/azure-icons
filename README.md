@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 17.155.1.1 on 2026-03-11.
+Extracted from Azure Portal version 17.49.0.1 on 2026-03-12.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -215,6 +215,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Enterprise application](svg/Microsoft_AAD_IAM/Application.svg) |  |
 | [App proxy](svg/Microsoft_AAD_IAM/AppProxyOverview.svg) |  |
 | [App registration](svg/Microsoft_AAD_RegisteredApps/RegisteredApps.svg) |  |
+| [Agent ID](svg/Microsoft_AAD_RegisteredApps/AgentIdentity.svg) |  |
 | [EngageHub Portal](svg/Microsoft_AzureCXP_EngageHub/EngageHubPortalMenu.svg) |  |
 | [Azure Local - disconnected operations](svg/Microsoft_AzureStackHCI_PortalExtension/Winfields.svg) | Microsoft.Edge/ disconnectedoperations |
 | [Edge Center](svg/Microsoft_AzureStackHCI_PortalExtension/EdgeCenter.svg) |  |
