@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 17.155.1.1 on 2026-03-13.
+Extracted from Azure Portal version 17.155.4.1 on 2026-03-14.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -215,6 +215,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Enterprise application](svg/Microsoft_AAD_IAM/Application.svg) |  |
 | [App proxy](svg/Microsoft_AAD_IAM/AppProxyOverview.svg) |  |
 | [App registration](svg/Microsoft_AAD_RegisteredApps/RegisteredApps.svg) |  |
+| [Agent ID](svg/Microsoft_AAD_RegisteredApps/AgentIdentity.svg) |  |
 | [EngageHub Portal](svg/Microsoft_AzureCXP_EngageHub/EngageHubPortalMenu.svg) |  |
 | [Azure Local - disconnected operations](svg/Microsoft_AzureStackHCI_PortalExtension/Winfields.svg) | Microsoft.Edge/ disconnectedoperations |
 | [Edge Center](svg/Microsoft_AzureStackHCI_PortalExtension/EdgeCenter.svg) |  |
@@ -291,6 +292,10 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Custom domain](svg/Microsoft_Azure_Cdn/CustomDomain.svg) | microsoft.cdn/ profiles/ endpoints/ customdomains |
 | [Front Door and CDN profiles](svg/Microsoft_Azure_Cdn/CdnProfile.svg) | microsoft.cdn/ profiles |
 | [Change Analysis (classic)](svg/Microsoft_Azure_ChangeAnalysis/AzureChangeAnalysis.svg) |  |
+| [Validation](svg/Microsoft_Azure_ChangeSafety/changesafety_validations.svg) | microsoft.changesafety/ validations |
+| [Stage map](svg/Microsoft_Azure_ChangeSafety/changesafety_stagemaps.svg) | microsoft.changesafety/ stagemaps |
+| [Change record](svg/Microsoft_Azure_ChangeSafety/changesafety_changestates.svg) | microsoft.changesafety/ changestates |
+| [Stage progression](svg/Microsoft_Azure_ChangeSafety/changesafety_changestates_stageprogressions.svg) | microsoft.changesafety/ changestates/ stageprogressions |
 | [Workspace](svg/Microsoft_Azure_Chaos/workspace.svg) | microsoft.chaos/ workspaces |
 | [Agent Private Access](svg/Microsoft_Azure_Chaos/privateAccess.svg) | microsoft.chaos/ privateaccesses |
 | [Chaos Studio](svg/Microsoft_Azure_Chaos/chaosStudio.svg) |  |
