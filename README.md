@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 17.155.4.1 on 2026-03-14.
+Extracted from Azure Portal version 17.155.4.1 on 2026-03-15.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -461,12 +461,15 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Microsoft Discovery Workflow](svg/Microsoft_Azure_Discovery/WorkflowResource.svg) | Microsoft.Discovery/ workflows |
 | [Microsoft Discovery Tool](svg/Microsoft_Azure_Discovery/ToolResource.svg) | Microsoft.Discovery/ tools |
 | [Microsoft Discovery Supercomputer](svg/Microsoft_Azure_Discovery/SupercomputerResource.svg) | Microsoft.Discovery/ supercomputers |
+| [Microsoft Discovery Storage Container](svg/Microsoft_Azure_Discovery/StorageContainerResource.svg) | Microsoft.Discovery/ storageContainers |
+| [Storage asset](svg/Microsoft_Azure_Discovery/StorageAssetResource.svg) | Microsoft.Discovery/ storageContainers/ storageAssets |
 | [Microsoft Discovery Storage](svg/Microsoft_Azure_Discovery/StorageResource.svg) | Microsoft.Discovery/ storages |
 | [Microsoft Discovery Project](svg/Microsoft_Azure_Discovery/ProjectResource.svg) | Microsoft.Discovery/ workspaces/ projects |
 | [Nodepool](svg/Microsoft_Azure_Discovery/NodepoolResource.svg) | Microsoft.Discovery/ supercomputers/ nodepools |
 | [Microsoft Discovery Model](svg/Microsoft_Azure_Discovery/ModelResource.svg) | Microsoft.Discovery/ models |
 | [Microsoft Discovery Data Container](svg/Microsoft_Azure_Discovery/DataContainerResource.svg) | Microsoft.Discovery/ dataContainers |
 | [Data asset](svg/Microsoft_Azure_Discovery/DataAssetResource.svg) | Microsoft.Discovery/ dataContainers/ dataAssets |
+| [Chat Model Deployment](svg/Microsoft_Azure_Discovery/ChatModelResource.svg) | Microsoft.Discovery/ workspaces/ chatModelDeployments |
 | [Microsoft Discovery Bookshelf](svg/Microsoft_Azure_Discovery/BookshelfResource.svg) | Microsoft.Discovery/ bookshelves |
 | [Microsoft Discovery Agent](svg/Microsoft_Azure_Discovery/AgentResource.svg) | Microsoft.Discovery/ agents |
 | [Snapshot](svg/Microsoft_Azure_DiskMgmt/Snapshot.svg) | Microsoft.Compute/ snapshots |
