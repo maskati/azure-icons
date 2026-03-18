@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 17.155.4.1 on 2026-03-17.
+Extracted from Azure Portal version 17.155.1.1 on 2026-03-18.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -581,11 +581,11 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/PayGoEligible.svg) | Microsoft.HybridCompute/ machinesPayGo |
 | [Extended Security Updates - Windows Server 2012/R2](svg/Microsoft_Azure_HybridCompute/EsuLicense.svg) | Microsoft.HybridCompute/ licenses |
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/HybridComputeEsu.svg) | Microsoft.HybridCompute/ machinesEsu |
-| [Azure Arc gateway](svg/Microsoft_Azure_HybridCompute/ArcGateway.svg) | Microsoft.HybridCompute/ gateways |
+| [Arc gateway](svg/Microsoft_Azure_HybridCompute/ArcGateway.svg) | Microsoft.HybridCompute/ gateways |
 | [Arc gateway associated resource](svg/Microsoft_Azure_HybridCompute/ArcGatewayAssociatedResources.svg) | Microsoft.HybridCompute/ ArcGatewayAssociatedResources |
 | [SCVMM management server](svg/Microsoft_Azure_HybridCompute/ScVmmManagementServer.svg) | Microsoft.ScVmm/ vmmServers |
 | [SCVMM virtual machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/ArcVmScVmm.svg) | Microsoft.scvmm/ virtualMachines |
-| [Azure Arc private link scope](svg/Microsoft_Azure_HybridCompute/AzureArcPrivateLinkScope.svg) | Microsoft.HybridCompute/ privateLinkScopes |
+| [Azure Arc Private Link Scope](svg/Microsoft_Azure_HybridCompute/AzureArcPrivateLinkScope.svg) | Microsoft.HybridCompute/ privateLinkScopes |
 | [Multicloud connector](svg/Microsoft_Azure_HybridCompute/MultiCloudConnector.svg) | Microsoft.HybridConnectivity/ publicCloudConnectors |
 | [Multicloud synced resource](svg/Microsoft_Azure_HybridCompute/GcpSyncedResources.svg) | Microsoft.HybridConnectivity/ publicCloudConnectors/ gcpsyncedresources |
 | [Multicloud synced resource](svg/Microsoft_Azure_HybridCompute/AwsSyncedResources.svg) | Microsoft.HybridConnectivity/ publicCloudConnectors/ awssyncedresources |
@@ -910,6 +910,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure AI services](svg/Microsoft_Azure_ProjectOxford/AIServices.svg) | Microsoft.CognitiveServices/ BrowseAIServices |
 | [Microsoft Foundry](svg/Microsoft_Azure_ProjectOxford/AIFoundry.svg) | Microsoft.CognitiveServices/ BrowseAIFoundry |
 | [Quantum Workspace](svg/Microsoft_Azure_Quantum/QuantumWorkspace.svg) | Microsoft.Quantum/ Workspaces |
+| [Quantum Provider Account](svg/Microsoft_Azure_Quantum/QuantumProviderAccount.svg) | microsoft.quantum/ provideraccounts |
 | [Azure Quantum](svg/Microsoft_Azure_Quantum/AzureQuantum.svg) |  |
 | [My Resource](svg/Microsoft_Azure_ReactPlayground/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Intelligent Recommendations Account](svg/Microsoft_Azure_RecommendationsService/Account.svg) | Microsoft.RecommendationsService/ accounts |
