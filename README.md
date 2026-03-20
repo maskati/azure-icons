@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 17.155.4.1 on 2026-03-19.
+Extracted from Azure Portal version 17.155.4.1 on 2026-03-20.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -581,11 +581,11 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/PayGoEligible.svg) | Microsoft.HybridCompute/ machinesPayGo |
 | [Extended Security Updates - Windows Server 2012/R2](svg/Microsoft_Azure_HybridCompute/EsuLicense.svg) | Microsoft.HybridCompute/ licenses |
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/HybridComputeEsu.svg) | Microsoft.HybridCompute/ machinesEsu |
-| [Arc gateway](svg/Microsoft_Azure_HybridCompute/ArcGateway.svg) | Microsoft.HybridCompute/ gateways |
+| [Azure Arc gateway](svg/Microsoft_Azure_HybridCompute/ArcGateway.svg) | Microsoft.HybridCompute/ gateways |
 | [Arc gateway associated resource](svg/Microsoft_Azure_HybridCompute/ArcGatewayAssociatedResources.svg) | Microsoft.HybridCompute/ ArcGatewayAssociatedResources |
 | [SCVMM management server](svg/Microsoft_Azure_HybridCompute/ScVmmManagementServer.svg) | Microsoft.ScVmm/ vmmServers |
 | [SCVMM virtual machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/ArcVmScVmm.svg) | Microsoft.scvmm/ virtualMachines |
-| [Azure Arc Private Link Scope](svg/Microsoft_Azure_HybridCompute/AzureArcPrivateLinkScope.svg) | Microsoft.HybridCompute/ privateLinkScopes |
+| [Azure Arc private link scope](svg/Microsoft_Azure_HybridCompute/AzureArcPrivateLinkScope.svg) | Microsoft.HybridCompute/ privateLinkScopes |
 | [Multicloud connector](svg/Microsoft_Azure_HybridCompute/MultiCloudConnector.svg) | Microsoft.HybridConnectivity/ publicCloudConnectors |
 | [Multicloud synced resource](svg/Microsoft_Azure_HybridCompute/GcpSyncedResources.svg) | Microsoft.HybridConnectivity/ publicCloudConnectors/ gcpsyncedresources |
 | [Multicloud synced resource](svg/Microsoft_Azure_HybridCompute/AwsSyncedResources.svg) | Microsoft.HybridConnectivity/ publicCloudConnectors/ awssyncedresources |
@@ -877,9 +877,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Playwright Testing (Classic)](svg/Microsoft_Azure_PlaywrightService/PlaywrightService.svg) | Microsoft.AzurePlaywrightService/ accounts |
 | [Policy](svg/Microsoft_Azure_Policy/PolicyHub.svg) |  |
 | [Blueprint](svg/Microsoft_Azure_Policy/ArmBlueprintHub.svg) |  |
-| [Shared dashboard (preview)](svg/Microsoft_Azure_PortalDashboard/DashboardsV2.svg) | Microsoft.Portalservices/ dashboards |
 | [Shared dashboard](svg/Microsoft_Azure_PortalDashboard/Dashboards.svg) | Microsoft.Portal/ dashboards |
-| [Dashboard hub](svg/Microsoft_Azure_PortalDashboard/DashboardHub.svg) |  |
 | [Power BI Embedded](svg/Microsoft_Azure_PowerBIDedicated/PowerBIDedicated.svg) | Microsoft.PowerBIDedicated/ capacities |
 | [Power Platform](svg/Microsoft_Azure_PowerPlatform/PowerPlatform.svg) |  |
 | [Private DNS zone](svg/Microsoft_Azure_PrivateDNS/PrivateDnsZone.svg) | Microsoft.Network/ privateDnsZones |
@@ -1022,8 +1020,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Policy compliance](svg/Microsoft_Azure_StorageHub/PolicyComplianceResources.svg) | Microsoft.StorageHub/ PolicyComplianceResources |
 | [All resources](svg/Microsoft_Azure_StorageHub/AllResources.svg) | Microsoft.StorageHub/ all |
 | [Storage mover](svg/Microsoft_Azure_StorageMover/StorageMover.svg) | Microsoft.StorageMover/ storageMovers |
-| [Storage task - Azure Storage Actions](svg/Microsoft_Azure_StorageTasks/StorageTasks.svg) | Microsoft.StorageActions/ storageTasks |
-| [Azure Storage Action](svg/Microsoft_Azure_StorageTasks/AzureStorageActions.svg) |  |
+| [Azure Storage Actions](svg/Microsoft_Azure_StorageTasks/StorageTasks.svg) | Microsoft.StorageActions/ storageTasks |
 | [Stream Analytics job](svg/Microsoft_Azure_StreamAnalytics/StreamAnalyticsJob.svg) | Microsoft.StreamAnalytics/ StreamingJobs |
 | [Stream Analytics cluster](svg/Microsoft_Azure_StreamAnalytics/StreamAnalyticsCluster.svg) | Microsoft.StreamAnalytics/ clusters |
 | [Support Request](svg/Microsoft_Azure_Support/SupportRequest.svg) | microsoft.support/ supporttickets |
