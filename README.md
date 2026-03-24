@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 17.155.1.1 on 2026-03-23.
+Extracted from Azure Portal version 17.155.4.1 on 2026-03-24.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -1020,8 +1020,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Policy compliance](svg/Microsoft_Azure_StorageHub/PolicyComplianceResources.svg) | Microsoft.StorageHub/ PolicyComplianceResources |
 | [All resources](svg/Microsoft_Azure_StorageHub/AllResources.svg) | Microsoft.StorageHub/ all |
 | [Storage mover](svg/Microsoft_Azure_StorageMover/StorageMover.svg) | Microsoft.StorageMover/ storageMovers |
-| [Storage task - Azure Storage Actions](svg/Microsoft_Azure_StorageTasks/StorageTasks.svg) | Microsoft.StorageActions/ storageTasks |
-| [Azure Storage Action](svg/Microsoft_Azure_StorageTasks/AzureStorageActions.svg) |  |
+| [Azure Storage Actions](svg/Microsoft_Azure_StorageTasks/StorageTasks.svg) | Microsoft.StorageActions/ storageTasks |
 | [Stream Analytics job](svg/Microsoft_Azure_StreamAnalytics/StreamAnalyticsJob.svg) | Microsoft.StreamAnalytics/ StreamingJobs |
 | [Stream Analytics cluster](svg/Microsoft_Azure_StreamAnalytics/StreamAnalyticsCluster.svg) | Microsoft.StreamAnalytics/ clusters |
 | [Support Request](svg/Microsoft_Azure_Support/SupportRequest.svg) | microsoft.support/ supporttickets |
