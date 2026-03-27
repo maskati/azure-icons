@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 17.179.1.1 on 2026-03-26.
+Extracted from Azure Portal version 17.179.2.1 on 2026-03-27.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -37,6 +37,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Native LambdaTest - HyperExecute Cloud Service](svg/Azure_MarketPlace_NativeISVService/LambdaTest.svg) | lambdatest.hyperexecute/ organizations |
 | [Commvault Cloud](svg/Azure_MarketPlace_NativeISVService/CommvaultOverview.svg) |  |
 | [Commvault Cloud Account](svg/Azure_MarketPlace_NativeISVService/CommvaultCloudAccounts.svg) | Commvault.ContentStore/ cloudAccounts |
+| [Astro Organization](svg/Azure_MarketPlace_NativeISVService/Astronomer.svg) | astronomer.astro/ organizations |
 | [Azure Native Arize AI Cloud Service](svg/Azure_MarketPlace_NativeISVService/ArizeAi.svg) | arizeai.observabilityeval/ organizations |
 | [Neon Serverless Postgres Organization](svg/Azure_Marketplace_Neon/NeonResource.svg) | Neon.Postgres/ organizations |
 | [NGINXaaS](svg/Azure_Marketplace_NGINX/Nginx.svg) | NGINX.NGINXPLUS/ nginxDeployments |
@@ -355,6 +356,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Outages](svg/Microsoft_Azure_ComputeHub/Outages.svg) | Microsoft.ComputeHub/ Outages |
 | [Microsoft defender](svg/Microsoft_Azure_ComputeHub/MicrosoftDefenderStandardSubscription.svg) | Microsoft.ComputeHub/ MicrosoftDefenderStandardSubscription |
 | [Microsoft defender](svg/Microsoft_Azure_ComputeHub/MicrosoftDefenderFreeTrialSubscription.svg) | Microsoft.ComputeHub/ MicrosoftDefenderFreeTrialSubscription |
+| [Managed subscriptions](svg/Microsoft_Azure_ComputeHub/ManagedOps.svg) | Microsoft.ManagedOps/ ManagedOps |
 | [Linux OS](svg/Microsoft_Azure_ComputeHub/LinuxOSType.svg) | Microsoft.ComputeHub/ LinuxOSType |
 | [Health events](svg/Microsoft_Azure_ComputeHub/HealthEvents.svg) | Microsoft.ComputeHub/ HealthEvents |
 | [Compute infrastructure](svg/Microsoft_Azure_ComputeHub/ComputeHub.svg) | Microsoft.ComputeHub/ ComputeHubMain |
