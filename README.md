@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 17.179.2.1 on 2026-03-27.
+Extracted from Azure Portal version 17.179.2.1 on 2026-03-28.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -37,7 +37,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Native LambdaTest - HyperExecute Cloud Service](svg/Azure_MarketPlace_NativeISVService/LambdaTest.svg) | lambdatest.hyperexecute/ organizations |
 | [Commvault Cloud](svg/Azure_MarketPlace_NativeISVService/CommvaultOverview.svg) |  |
 | [Commvault Cloud Account](svg/Azure_MarketPlace_NativeISVService/CommvaultCloudAccounts.svg) | Commvault.ContentStore/ cloudAccounts |
-| [Astro Organization](svg/Azure_MarketPlace_NativeISVService/Astronomer.svg) | astronomer.astro/ organizations |
 | [Azure Native Arize AI Cloud Service](svg/Azure_MarketPlace_NativeISVService/ArizeAi.svg) | arizeai.observabilityeval/ organizations |
 | [Neon Serverless Postgres Organization](svg/Azure_Marketplace_Neon/NeonResource.svg) | Neon.Postgres/ organizations |
 | [NGINXaaS](svg/Azure_Marketplace_NGINX/Nginx.svg) | NGINX.NGINXPLUS/ nginxDeployments |
