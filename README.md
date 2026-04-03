@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 17.213.0.1 on 2026-04-02.
+Extracted from Azure Portal version 17.213.0.1 on 2026-04-03.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -396,12 +396,12 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Cost alerts](svg/Microsoft_Azure_CostManagement/CostAlerts.svg) |  |
 | [Cost Management for AWS](svg/Microsoft_Azure_CostManagement/Connectors.svg) |  |
 | [Budgets](svg/Microsoft_Azure_CostManagement/Budgets.svg) |  |
-| [Deploy a custom template](svg/Microsoft_Azure_CreateUIDef/CustomTemplate.svg) |  |
 | [Deployment Stack](svg/Microsoft_Azure_CreateUIDef/DeploymentStack.svg) |  |
-| [Extension Deployment](svg/Microsoft_Azure_CreateUIDef/PortalExtensionDeployments.svg) | Microsoft.PortalServices/ Extensions/ Deployments |
-| [Portal Extension](svg/Microsoft_Azure_CreateUIDef/PortalExtensions.svg) | Microsoft.PortalServices/ Extensions |
-| [Extension Slot](svg/Microsoft_Azure_CreateUIDef/PortalExtensionSlots.svg) | Microsoft.PortalServices/ Extensions/ Slots |
+| [Deploy a custom template](svg/Microsoft_Azure_CreateUIDef/CustomTemplate.svg) |  |
 | [Extension Version](svg/Microsoft_Azure_CreateUIDef/PortalExtensionVersions.svg) | Microsoft.PortalServices/ Extensions/ Versions |
+| [Extension Slot](svg/Microsoft_Azure_CreateUIDef/PortalExtensionSlots.svg) | Microsoft.PortalServices/ Extensions/ Slots |
+| [Portal Extension](svg/Microsoft_Azure_CreateUIDef/PortalExtensions.svg) | Microsoft.PortalServices/ Extensions |
+| [Extension Deployment](svg/Microsoft_Azure_CreateUIDef/PortalExtensionDeployments.svg) | Microsoft.PortalServices/ Extensions/ Deployments |
 | [Pipeline](svg/Microsoft_Azure_CtsExtension/CloudTransferPipeline.svg) | Microsoft.AzureDataTransfer/ Pipelines |
 | [Flow Profile](svg/Microsoft_Azure_CtsExtension/CloudTransferFlowProfile.svg) | Microsoft.AzureDataTransfer/ pipelines/ flowprofiles |
 | [Flow](svg/Microsoft_Azure_CtsExtension/CloudTransferFlow.svg) | Microsoft.AzureDataTransfer/ Connections/ Flows |
