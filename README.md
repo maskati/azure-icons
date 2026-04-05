@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 17.213.0.1 on 2026-04-04.
+Extracted from Azure Portal version 17.213.0.1 on 2026-04-05.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -396,12 +396,12 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Cost alerts](svg/Microsoft_Azure_CostManagement/CostAlerts.svg) |  |
 | [Cost Management for AWS](svg/Microsoft_Azure_CostManagement/Connectors.svg) |  |
 | [Budgets](svg/Microsoft_Azure_CostManagement/Budgets.svg) |  |
-| [Deploy a custom template](svg/Microsoft_Azure_CreateUIDef/CustomTemplate.svg) |  |
 | [Deployment Stack](svg/Microsoft_Azure_CreateUIDef/DeploymentStack.svg) |  |
-| [Extension Deployment](svg/Microsoft_Azure_CreateUIDef/PortalExtensionDeployments.svg) | Microsoft.PortalServices/ Extensions/ Deployments |
-| [Portal Extension](svg/Microsoft_Azure_CreateUIDef/PortalExtensions.svg) | Microsoft.PortalServices/ Extensions |
-| [Extension Slot](svg/Microsoft_Azure_CreateUIDef/PortalExtensionSlots.svg) | Microsoft.PortalServices/ Extensions/ Slots |
+| [Deploy a custom template](svg/Microsoft_Azure_CreateUIDef/CustomTemplate.svg) |  |
 | [Extension Version](svg/Microsoft_Azure_CreateUIDef/PortalExtensionVersions.svg) | Microsoft.PortalServices/ Extensions/ Versions |
+| [Extension Slot](svg/Microsoft_Azure_CreateUIDef/PortalExtensionSlots.svg) | Microsoft.PortalServices/ Extensions/ Slots |
+| [Portal Extension](svg/Microsoft_Azure_CreateUIDef/PortalExtensions.svg) | Microsoft.PortalServices/ Extensions |
+| [Extension Deployment](svg/Microsoft_Azure_CreateUIDef/PortalExtensionDeployments.svg) | Microsoft.PortalServices/ Extensions/ Deployments |
 | [Pipeline](svg/Microsoft_Azure_CtsExtension/CloudTransferPipeline.svg) | Microsoft.AzureDataTransfer/ Pipelines |
 | [Flow Profile](svg/Microsoft_Azure_CtsExtension/CloudTransferFlowProfile.svg) | Microsoft.AzureDataTransfer/ pipelines/ flowprofiles |
 | [Flow](svg/Microsoft_Azure_CtsExtension/CloudTransferFlow.svg) | Microsoft.AzureDataTransfer/ Connections/ Flows |
@@ -863,9 +863,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Database for PostgreSQL flexible server](svg/Microsoft_Azure_OSSDatabases/PostgreSqlFlexibleServer.svg) | Microsoft.DBforPostgreSQL/ flexibleServers |
 | [Azure Database for MySQL flexible server](svg/Microsoft_Azure_OSSDatabases/MySqlFlexibleServer.svg) | Microsoft.DBforMySQL/ flexibleServers |
 | [Task Hub](svg/Microsoft_Azure_PaasServerless/TaskHub.svg) | Microsoft.DurableTask/ Schedulers/ TaskHubs |
-| [SRE Agent Space](svg/Microsoft_Azure_PaasServerless/SreAgentSpace.svg) | Microsoft.App/ agentSpaces |
-| [Azure SRE Agent](svg/Microsoft_Azure_PaasServerless/SreAgentResources.svg) | Microsoft.App/ agents |
-| [Azure SRE Agent](svg/Microsoft_Azure_PaasServerless/SreAgentCustomMenu.svg) |  |
+| [SRE Agent Space (Preview)](svg/Microsoft_Azure_PaasServerless/SreAgentSpace.svg) | Microsoft.App/ agentSpaces |
+| [Azure SRE Agent (Preview)](svg/Microsoft_Azure_PaasServerless/SreAgentResources.svg) | Microsoft.App/ agents |
+| [Azure SRE Agent (Preview)](svg/Microsoft_Azure_PaasServerless/SreAgentCustomMenu.svg) |  |
 | [Integration Environment](svg/Microsoft_Azure_PaasServerless/IntegrationSpace.svg) | Microsoft.IntegrationSpaces/ spaces |
 | [Durable Task Scheduler](svg/Microsoft_Azure_PaasServerless/DurableTaskScheduler.svg) | Microsoft.DurableTask/ Schedulers |
 | [Business Process](svg/Microsoft_Azure_PaasServerless/BusinessProcessTracking.svg) | Microsoft.Logic/ businessprocesses |
