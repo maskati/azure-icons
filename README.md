@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 17.213.0.1 on 2026-04-07.
+Extracted from Azure Portal version 17.213.0.1 on 2026-04-08.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -438,8 +438,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Dev Box definition](svg/Microsoft_Azure_DevCenter/DevBoxDefinitions.svg) | Microsoft.DevCenter/ devcenters/ devboxdefinitions |
 | [ADR Asset](svg/Microsoft_Azure_DeviceRegistry/convergedAssets.svg) | microsoft.deviceregistry/ convergedAssets |
 | [ADR Schema Registry](svg/Microsoft_Azure_DeviceRegistry/schemaRegistries.svg) | microsoft.deviceregistry/ schemaRegistries |
-| [IoT Credential Policy](svg/Microsoft_Azure_DeviceRegistry/namespacePolicies.svg) | microsoft.deviceregistry/ namespaces/ credentials/ policies |
+| [ADR Credential Policy](svg/Microsoft_Azure_DeviceRegistry/namespacePolicies.svg) | Microsoft.DeviceRegistry/ namespaces/ credentials/ policies |
 | [ADR Device](svg/Microsoft_Azure_DeviceRegistry/namespaceDevices.svg) | microsoft.deviceregistry/ namespaces/ devices |
+| [ADR Credential Resource](svg/Microsoft_Azure_DeviceRegistry/namespaceCredentialResources.svg) | Microsoft.DeviceRegistry/ namespaces/ credentials |
 | [ADR Asset](svg/Microsoft_Azure_DeviceRegistry/namespaceAssets.svg) | microsoft.deviceregistry/ namespaces/ assets |
 | [ADR Namespace](svg/Microsoft_Azure_DeviceRegistry/namespaces.svg) | microsoft.deviceregistry/ namespaces |
 | [Azure Device Registry](svg/Microsoft_Azure_DeviceRegistry/DeviceRegistry.svg) |  |
@@ -582,11 +583,11 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/PayGoEligible.svg) | Microsoft.HybridCompute/ machinesPayGo |
 | [Extended Security Updates - Windows Server 2012/R2](svg/Microsoft_Azure_HybridCompute/EsuLicense.svg) | Microsoft.HybridCompute/ licenses |
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/HybridComputeEsu.svg) | Microsoft.HybridCompute/ machinesEsu |
-| [Arc gateway](svg/Microsoft_Azure_HybridCompute/ArcGateway.svg) | Microsoft.HybridCompute/ gateways |
+| [Azure Arc gateway](svg/Microsoft_Azure_HybridCompute/ArcGateway.svg) | Microsoft.HybridCompute/ gateways |
 | [Arc gateway associated resource](svg/Microsoft_Azure_HybridCompute/ArcGatewayAssociatedResources.svg) | Microsoft.HybridCompute/ ArcGatewayAssociatedResources |
 | [SCVMM management server](svg/Microsoft_Azure_HybridCompute/ScVmmManagementServer.svg) | Microsoft.ScVmm/ vmmServers |
 | [SCVMM virtual machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/ArcVmScVmm.svg) | Microsoft.scvmm/ virtualMachines |
-| [Azure Arc Private Link Scope](svg/Microsoft_Azure_HybridCompute/AzureArcPrivateLinkScope.svg) | Microsoft.HybridCompute/ privateLinkScopes |
+| [Azure Arc private link scope](svg/Microsoft_Azure_HybridCompute/AzureArcPrivateLinkScope.svg) | Microsoft.HybridCompute/ privateLinkScopes |
 | [Multicloud connector](svg/Microsoft_Azure_HybridCompute/MultiCloudConnector.svg) | Microsoft.HybridConnectivity/ publicCloudConnectors |
 | [Multicloud synced resource](svg/Microsoft_Azure_HybridCompute/GcpSyncedResources.svg) | Microsoft.HybridConnectivity/ publicCloudConnectors/ gcpsyncedresources |
 | [Multicloud synced resource](svg/Microsoft_Azure_HybridCompute/AwsSyncedResources.svg) | Microsoft.HybridConnectivity/ publicCloudConnectors/ awssyncedresources |
@@ -594,6 +595,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/HybridCompute.svg) | Microsoft.HybridCompute/ machines |
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/ArcServerWithWac.svg) | Microsoft.HybridCompute/ arcServerWithWac |
 | [Baseline settings assignment](svg/Microsoft_Azure_HybridCompute/BaselineSettingsAssignments.svg) | Microsoft.MachineConfiguration/ baselineSettingsAssignments |
+| [List of deployed resources on the custom location](svg/Microsoft_Azure_HybridCompute/CustomLocationDeployedResources.svg) | Microsoft.HybridCompute/ CustomLocationDeployedResources |
 | [Custom location](svg/Microsoft_Azure_HybridCompute/CustomLocation.svg) | Microsoft.ExtendedLocation/ CustomLocations |
 | [Azure Local virtual machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/AzureStackHci.svg) | Microsoft.AzureStackHci/ virtualMachines |
 | [Virtual machine](svg/Microsoft_Azure_HybridCompute/VirtualMachines.svg) | Microsoft.All/ virtualMachines |
@@ -863,9 +865,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Database for PostgreSQL flexible server](svg/Microsoft_Azure_OSSDatabases/PostgreSqlFlexibleServer.svg) | Microsoft.DBforPostgreSQL/ flexibleServers |
 | [Azure Database for MySQL flexible server](svg/Microsoft_Azure_OSSDatabases/MySqlFlexibleServer.svg) | Microsoft.DBforMySQL/ flexibleServers |
 | [Task Hub](svg/Microsoft_Azure_PaasServerless/TaskHub.svg) | Microsoft.DurableTask/ Schedulers/ TaskHubs |
-| [SRE Agent Space (Preview)](svg/Microsoft_Azure_PaasServerless/SreAgentSpace.svg) | Microsoft.App/ agentSpaces |
-| [Azure SRE Agent (Preview)](svg/Microsoft_Azure_PaasServerless/SreAgentResources.svg) | Microsoft.App/ agents |
-| [Azure SRE Agent (Preview)](svg/Microsoft_Azure_PaasServerless/SreAgentCustomMenu.svg) |  |
+| [SRE Agent Space](svg/Microsoft_Azure_PaasServerless/SreAgentSpace.svg) | Microsoft.App/ agentSpaces |
+| [Azure SRE Agent](svg/Microsoft_Azure_PaasServerless/SreAgentResources.svg) | Microsoft.App/ agents |
+| [Azure SRE Agent](svg/Microsoft_Azure_PaasServerless/SreAgentCustomMenu.svg) |  |
 | [Integration Environment](svg/Microsoft_Azure_PaasServerless/IntegrationSpace.svg) | Microsoft.IntegrationSpaces/ spaces |
 | [Durable Task Scheduler](svg/Microsoft_Azure_PaasServerless/DurableTaskScheduler.svg) | Microsoft.DurableTask/ Schedulers |
 | [Business Process](svg/Microsoft_Azure_PaasServerless/BusinessProcessTracking.svg) | Microsoft.Logic/ businessprocesses |
@@ -1157,7 +1159,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Private Engage Center Connector](svg/Microsoft_ServicesHub_Extension/PrivateConnector.svg) | Private.ServicesHubDev/ connectors |
 | [Engage Center Connector](svg/Microsoft_ServicesHub_Extension/Connector.svg) | Microsoft.ServicesHub/ connectors |
 | [Azure AI Video Indexer](svg/Microsoft_VideoIndexer/VideoIndexerAccount.svg) | Microsoft.VideoIndexer/ accounts |
-| [Oracle Database@Azure](svg/Oracle_Databases_At_Azure/oracledatabaseservice.svg) |  |
+| [Oracle AI Database@Azure](svg/Oracle_Databases_At_Azure/oracledatabaseservice.svg) |  |
 | [Resource Anchor](svg/Oracle_Databases_At_Azure/oracle_resource_anchor.svg) | Oracle.Database/ resourceanchors |
 | [Network Anchor](svg/Oracle_Databases_At_Azure/oracle_network_anchor.svg) | Oracle.Database/ networkanchors |
 | [Oracle Exascale VM Cluster](svg/Oracle_Databases_At_Azure/oracle_exascale_vmcluster.svg) | Oracle.Database/ exadbVmClusters |
