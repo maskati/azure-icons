@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 17.213.0.1 on 2026-04-08.
+Extracted from Azure Portal version 17.213.0.1 on 2026-04-09.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -237,6 +237,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Activity log](svg/Microsoft_Azure_ActivityLog/ActivityLogAsset.svg) |  |
 | [Microsoft Entra Connect Health](svg/Microsoft_Azure_ADHybridHealth/RootAsset.svg) |  |
 | [Device Update for IoT Hub](svg/Microsoft_Azure_ADU/IotDUResource.svg) | Microsoft.DeviceUpdate/ accounts |
+| [Web Agent](svg/Microsoft_Azure_AfdAgenticWebApp/AfdAgenticWebApp.svg) | Microsoft.Cdn/ webAgents |
 | [Front Door](svg/Microsoft_Azure_AFDX/FrontdoorProfile.svg) | microsoft.cdn/ profiles |
 | [Analysis Services](svg/Microsoft_Azure_AnalysisServices/AnalysisServices.svg) | Microsoft.AnalysisServices/ servers |
 | [Fabric Capacity](svg/Microsoft_Azure_Analytics/REDIDCILDCBJNGCP.svg) | Microsoft.Fabric/ capacities |
@@ -583,11 +584,11 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/PayGoEligible.svg) | Microsoft.HybridCompute/ machinesPayGo |
 | [Extended Security Updates - Windows Server 2012/R2](svg/Microsoft_Azure_HybridCompute/EsuLicense.svg) | Microsoft.HybridCompute/ licenses |
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/HybridComputeEsu.svg) | Microsoft.HybridCompute/ machinesEsu |
-| [Azure Arc gateway](svg/Microsoft_Azure_HybridCompute/ArcGateway.svg) | Microsoft.HybridCompute/ gateways |
+| [Arc gateway](svg/Microsoft_Azure_HybridCompute/ArcGateway.svg) | Microsoft.HybridCompute/ gateways |
 | [Arc gateway associated resource](svg/Microsoft_Azure_HybridCompute/ArcGatewayAssociatedResources.svg) | Microsoft.HybridCompute/ ArcGatewayAssociatedResources |
 | [SCVMM management server](svg/Microsoft_Azure_HybridCompute/ScVmmManagementServer.svg) | Microsoft.ScVmm/ vmmServers |
 | [SCVMM virtual machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/ArcVmScVmm.svg) | Microsoft.scvmm/ virtualMachines |
-| [Azure Arc private link scope](svg/Microsoft_Azure_HybridCompute/AzureArcPrivateLinkScope.svg) | Microsoft.HybridCompute/ privateLinkScopes |
+| [Azure Arc Private Link Scope](svg/Microsoft_Azure_HybridCompute/AzureArcPrivateLinkScope.svg) | Microsoft.HybridCompute/ privateLinkScopes |
 | [Multicloud connector](svg/Microsoft_Azure_HybridCompute/MultiCloudConnector.svg) | Microsoft.HybridConnectivity/ publicCloudConnectors |
 | [Multicloud synced resource](svg/Microsoft_Azure_HybridCompute/GcpSyncedResources.svg) | Microsoft.HybridConnectivity/ publicCloudConnectors/ gcpsyncedresources |
 | [Multicloud synced resource](svg/Microsoft_Azure_HybridCompute/AwsSyncedResources.svg) | Microsoft.HybridConnectivity/ publicCloudConnectors/ awssyncedresources |
@@ -595,7 +596,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/HybridCompute.svg) | Microsoft.HybridCompute/ machines |
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/ArcServerWithWac.svg) | Microsoft.HybridCompute/ arcServerWithWac |
 | [Baseline settings assignment](svg/Microsoft_Azure_HybridCompute/BaselineSettingsAssignments.svg) | Microsoft.MachineConfiguration/ baselineSettingsAssignments |
-| [List of deployed resources on the custom location](svg/Microsoft_Azure_HybridCompute/CustomLocationDeployedResources.svg) | Microsoft.HybridCompute/ CustomLocationDeployedResources |
 | [Custom location](svg/Microsoft_Azure_HybridCompute/CustomLocation.svg) | Microsoft.ExtendedLocation/ CustomLocations |
 | [Azure Local virtual machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/AzureStackHci.svg) | Microsoft.AzureStackHci/ virtualMachines |
 | [Virtual machine](svg/Microsoft_Azure_HybridCompute/VirtualMachines.svg) | Microsoft.All/ virtualMachines |
@@ -1099,6 +1099,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Connected Cache for Enterprise & Education](svg/Microsoft_ConnectedCache_Enterprise/MccEnterpriseResource.svg) | Microsoft.ConnectedCache/ enterpriseMccCustomers |
 | [MCC CacheNode for Enterprise](svg/Microsoft_ConnectedCache_Enterprise/MccEnterpriseCacheNodeResource.svg) | Microsoft.ConnectedCache/ enterpriseMccCustomers/ enterpriseMccCacheNodes |
 | [Connected Cache for ISP](svg/Microsoft_ConnectedCache_ISP/MCCIspResource.svg) | Microsoft.ConnectedCache/ ispCustomers |
+| [Managed Desktop](svg/Microsoft_EMM_ModernWorkplace/MWaaSFF.svg) |  |
 | [Managed Desktop](svg/Microsoft_EMM_ModernWorkplace/MWaaS.svg) |  |
 | [My Resource](svg/Microsoft_EngOps_EscalationManager/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Copilot](svg/Microsoft_Entra_Copilot/SidecarChatAsset.svg) |  |
