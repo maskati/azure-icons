@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 17.263.0.1 on 2026-04-19.
+Extracted from Azure Portal version 17.263.0.1 on 2026-04-20.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -292,7 +292,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Endpoint](svg/Microsoft_Azure_Cdn/Endpoint.svg) | microsoft.cdn/ profiles/ endpoints |
 | [Custom domain](svg/Microsoft_Azure_Cdn/CustomDomain.svg) | microsoft.cdn/ profiles/ endpoints/ customdomains |
 | [Front Door and CDN profiles](svg/Microsoft_Azure_Cdn/CdnProfile.svg) | microsoft.cdn/ profiles |
-| [Change Analysis (classic)](svg/Microsoft_Azure_ChangeAnalysis/AzureChangeAnalysis.svg) |  |
 | [Validation](svg/Microsoft_Azure_ChangeSafety/changesafety_validations.svg) | microsoft.changesafety/ validations |
 | [Stage map](svg/Microsoft_Azure_ChangeSafety/changesafety_stagemaps.svg) | microsoft.changesafety/ stagemaps |
 | [Change record](svg/Microsoft_Azure_ChangeSafety/changesafety_changestates.svg) | microsoft.changesafety/ changestates |
