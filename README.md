@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 17.263.0.1 on 2026-04-22.
+Extracted from Azure Portal version 17.263.0.1 on 2026-04-23.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -218,6 +218,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Agent ID](svg/Microsoft_AAD_RegisteredApps/AgentIdentity.svg) |  |
 | [EngageHub Portal](svg/Microsoft_AzureCXP_EngageHub/EngageHubPortalMenu.svg) |  |
 | [Azure Local - disconnected operations](svg/Microsoft_AzureStackHCI_PortalExtension/Winfields.svg) | Microsoft.Edge/ disconnectedoperations |
+| [Azure Local Disk - Azure Arc](svg/Microsoft_AzureStackHCI_PortalExtension/AzureLocalDisk.svg) | Microsoft.AzureStackHCI/ virtualHardDisks |
 | [Edge Center](svg/Microsoft_AzureStackHCI_PortalExtension/EdgeCenter.svg) |  |
 | [Azure Local Virtual Machine - Azure Arc](svg/Microsoft_AzureStackHCI_PortalExtension/HCIVirtualMachines.svg) | Microsoft.All/ hciVirtualMachines |
 | [Azure Local Storage path](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCIStoragePath.svg) | Microsoft.AzureStackHCI/ storagecontainers |
@@ -626,6 +627,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Firewall Manager](svg/Microsoft_Azure_HybridNetworking/FirewallManager.svg) |  |
 | [ExpressRoute traffic collector](svg/Microsoft_Azure_HybridNetworking/ExpressRouteTrafficCollector.svg) | Microsoft.NetworkFunction/ azureTrafficCollectors |
 | [ExpressRoute provider](svg/Microsoft_Azure_HybridNetworking/ExpressRouteProvider.svg) |  |
+| [ExpressRoute Link Group](svg/Microsoft_Azure_HybridNetworking/ExpressRouteLag.svg) | Microsoft.Network/ expressRouteLags |
 | [Microsoft.Network express route gateways express route connection](svg/Microsoft_Azure_HybridNetworking/Microsoft_Network_expressRouteGateways_expressRouteConnections_2022_01_01.svg) | Microsoft.Network/ expressRouteGateways/ expressRouteConnections |
 | [ExpressRoute Direct](svg/Microsoft_Azure_HybridNetworking/ExpressRouteDirect.svg) | Microsoft.Network/ expressRoutePorts |
 | [ExpressRoute circuit](svg/Microsoft_Azure_HybridNetworking/ExpressRoute.svg) | Microsoft.Network/ expressRouteCircuits |
@@ -1078,14 +1080,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Configuration Group Schema](svg/Microsoft_Azure_VnfManager/AosmConfigSchema.svg) | Microsoft.HybridNetwork/ publishers/ configurationGroupSchemas |
 | [Configuration Group Value](svg/Microsoft_Azure_VnfManager/AosmCgv.svg) | Microsoft.HybridNetwork/ configurationGroupValues |
 | [Wave Migration](svg/Microsoft_Azure_WaveMigration/WaveMigrationResource.svg) | Providers.Test/ statefulIbizaEngines |
-| [Workloads Hub](svg/Microsoft_Azure_WorkloadHub/WorkloadResource.svg) |  |
-| [Workload Component](svg/Microsoft_Azure_WorkloadHub/WorkloadComponentAsset.svg) | Microsoft.Workloads/ virtualInstances/ components |
-| [Workload Virtual Instance](svg/Microsoft_Azure_WorkloadHub/VirtualInstanceAsset.svg) | Microsoft.Workloads/ virtualInstances |
-| [Workloads Hub](svg/Microsoft_Azure_WorkloadHub/VICheckResultsAsset.svg) | microsoft.workloads/ configurationvalidationresults/ checkname |
-| [Workload Virtual Instance](svg/Microsoft_Azure_WorkloadHub/RelatedVIAsset.svg) | Microsoft.Workloads/ virtualInstancess |
-| [Workloads Hub](svg/Microsoft_Azure_WorkloadHub/CheckResultAsset.svg) | microsoft.workloads/ configurationvalidationresults |
-| [Configuration Template](svg/Microsoft_Azure_WorkloadHub/VIConfigurationChecksTemplates.svg) | Microsoft.Workloads/ virtualInstances/ Microsoft.Workloads/ configurationChecksTemplates |
-| [Configuration Template](svg/Microsoft_Azure_WorkloadHub/configurationChecksTemplates.svg) | Microsoft.Workloads/ configurationChecksTemplates |
+| [My Resource](svg/Microsoft_Azure_WorkloadHub/WorkloadResource.svg) | Microsoft.Workloads/ WorkloadInstance |
 | [Microsoft.Workloads insight](svg/Microsoft_Azure_WorkloadInsight/microsoft_workloads_insights_2022_10_15_preview.svg) | microsoft.workloads/ insights |
 | [MARIO](svg/Microsoft_Azure_WorkloadInsight/mario.svg) |  |
 | [Azure Monitor for SAP solutions](svg/Microsoft_Azure_WorkloadMonitor/SapMonitorV2.svg) | Microsoft.Workloads/ monitors |
