@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 17.292.0.1 on 2026-04-25.
+Extracted from Azure Portal version 17.288.0.1 on 2026-04-26.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -627,6 +627,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Firewall Manager](svg/Microsoft_Azure_HybridNetworking/FirewallManager.svg) |  |
 | [ExpressRoute traffic collector](svg/Microsoft_Azure_HybridNetworking/ExpressRouteTrafficCollector.svg) | Microsoft.NetworkFunction/ azureTrafficCollectors |
 | [ExpressRoute provider](svg/Microsoft_Azure_HybridNetworking/ExpressRouteProvider.svg) |  |
+| [ExpressRoute Link Group](svg/Microsoft_Azure_HybridNetworking/ExpressRouteLag.svg) | Microsoft.Network/ expressRouteLags |
 | [Microsoft.Network express route gateways express route connection](svg/Microsoft_Azure_HybridNetworking/Microsoft_Network_expressRouteGateways_expressRouteConnections_2022_01_01.svg) | Microsoft.Network/ expressRouteGateways/ expressRouteConnections |
 | [ExpressRoute Direct](svg/Microsoft_Azure_HybridNetworking/ExpressRouteDirect.svg) | Microsoft.Network/ expressRoutePorts |
 | [ExpressRoute circuit](svg/Microsoft_Azure_HybridNetworking/ExpressRoute.svg) | Microsoft.Network/ expressRouteCircuits |
