@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 17.308.0.1 on 2026-05-01.
+Extracted from Azure Portal version 17.308.0.1 on 2026-05-02.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -863,6 +863,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [GeoCatalog](svg/Microsoft_Azure_Orbital/geoCatalogs.svg) | Microsoft.Orbital/ geoCatalogs |
 | [Edge Site](svg/Microsoft_Azure_Orbital/EdgeSites.svg) | Microsoft.Orbital/ EdgeSites |
 | [Azure HorizonDB for PostgreSQL (Preview)](svg/Microsoft_Azure_OSSDatabases/PostgreSqlOrionDB.svg) | Microsoft.OrionDB/ clusters |
+| [Azure HorizonDB Parameter Group (Preview)](svg/Microsoft_Azure_OSSDatabases/PostgreSqlHorizonDBParameterGroups.svg) | Microsoft.HorizonDB/ parameterGroups |
 | [Azure HorizonDB for PostgreSQL (Preview)](svg/Microsoft_Azure_OSSDatabases/PostgreSqlHorizonDB.svg) | Microsoft.HorizonDB/ clusters |
 | [Azure Database for PostgreSQL flexible server](svg/Microsoft_Azure_OSSDatabases/PostgreSqlFlexibleServer.svg) | Microsoft.DBforPostgreSQL/ flexibleServers |
 | [Azure Database for MySQL flexible server](svg/Microsoft_Azure_OSSDatabases/MySqlFlexibleServer.svg) | Microsoft.DBforMySQL/ flexibleServers |
@@ -1120,6 +1121,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Apps](svg/Microsoft_Intune_DeviceSettings/AppsAsset.svg) |  |
 | [Agents](svg/Microsoft_Intune_DeviceSettings/AgentsAsset.svg) |  |
 | [Intune for Education](svg/Microsoft_Intune_DeviceSettings/IntuneEduAsset.svg) |  |
+| [Microsoft Entra](svg/Microsoft_Intune_DeviceSettings/AADAssetMC.svg) |  |
+| [Microsoft Entra](svg/Microsoft_Intune_DeviceSettings/AADAssetFF.svg) |  |
 | [Microsoft Entra](svg/Microsoft_Intune_DeviceSettings/AADAsset.svg) |  |
 | [Express configuration](svg/Microsoft_Intune_Edu/ExpressSetup.svg) |  |
 | [Users](svg/Microsoft_Intune_Edu/UserSearch.svg) |  |
