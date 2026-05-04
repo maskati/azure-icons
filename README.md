@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 17.306.0.1 on 2026-05-03.
+Extracted from Azure Portal version 17.308.0.1 on 2026-05-04.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -30,6 +30,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Informatica Organization](svg/Azure_Marketplace_Informatica/Informatica.svg) | Informatica.DataManagement/ organizations |
 | [New Relic](svg/Azure_Marketplace_Liftr_NewRelic/NewRelic.svg) | NewRelic.Observability/ monitors |
 | [Azure Native Pinecone Cloud Service](svg/Azure_MarketPlace_NativeISVService/Pinecone.svg) | pinecone.vectordb/ organizations |
+| [Azure Native Napster Companion API - An Azure Native ISV Service Cloud Service](svg/Azure_MarketPlace_NativeISVService/Napster.svg) | napster.companionapi/ organizations |
 | [MongoDB Atlas Organization](svg/Azure_MarketPlace_NativeISVService/MongoDB.svg) | mongodb.atlas/ organizations |
 | [MongoDB Atlas Organization](svg/Azure_MarketPlace_NativeISVService/MongoDB_V1.svg) | MongoDB.Atlas/ organizations_V1 |
 | [Azure Native Weights & Biases Cloud Service](svg/Azure_MarketPlace_NativeISVService/WeightsAndBiases.svg) | microsoft.weightsandbiases/ instances |
