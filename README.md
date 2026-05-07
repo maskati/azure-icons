@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 17.306.0.1 on 2026-05-06.
+Extracted from Azure Portal version 17.308.0.1 on 2026-05-07.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -332,6 +332,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Code Optimizations](svg/Microsoft_Azure_CodeOptimizations/CodeOptimizations.svg) |  |
 | [Artifact Signing Account](svg/Microsoft_Azure_CodeSigning/CodeSigningAccounts.svg) | Microsoft.CodeSigning/ codesigningaccounts |
 | [Communication Service](svg/Microsoft_Azure_CommunicationServices/Communication.svg) | Microsoft.Communication/ CommunicationServices |
+| [Communications Gateway Test Line](svg/Microsoft_Azure_CommunicationsGatewayExtension/TestLines.svg) | Microsoft.VoiceServices/ CommunicationsGateways/ TestLines |
+| [Communications Gateway](svg/Microsoft_Azure_CommunicationsGatewayExtension/CommunicationsGateways.svg) | Microsoft.VoiceServices/ CommunicationsGateways |
 | [Community Training](svg/Microsoft_Azure_CommunityTraining/CommunityTraining.svg) | Microsoft.Community/ communityTrainings |
 | [Virtual machine scale set](svg/Microsoft_Azure_Compute/VirtualMachineScaleSet.svg) | Microsoft.Compute/ virtualMachineScaleSets |
 | [Virtual machine](svg/Microsoft_Azure_Compute/VirtualMachine.svg) | Microsoft.Compute/ VirtualMachines |
@@ -1063,6 +1065,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Approval](svg/Microsoft_Azure_VirtualEnclaves/Approvals.svg) | Microsoft.Mission/ approvals |
 | [Virtual machine scale set](svg/Microsoft_Azure_VirtualMachineScaleSets/VirtualMachineScaleSets.svg) | Microsoft.Compute/ virtualMachineScaleSets |
 | [Azure Virtual Network routing appliance](svg/Microsoft_Azure_VirtualNetworkAppliance/VirtualNetworkAppliance.svg) | Microsoft.Network/ virtualNetworkAppliances |
+| [Virtual Appointments Builder](svg/Microsoft_Azure_VirtualVisitsBuilder/vvbuilder.svg) |  |
 | [Azure Network Function Manager – Network Function](svg/Microsoft_Azure_VnfManager/VnfManagerVnfs.svg) | Microsoft.HybridNetwork/ networkFunctions |
 | [Azure Network Function Manager – vendor](svg/Microsoft_Azure_VnfManager/VnfManagerVendors.svg) | Microsoft.HybridNetwork/ vendors |
 | [Azure Network Function Manager – Device](svg/Microsoft_Azure_VnfManager/VnfManagerDevices.svg) | Microsoft.HybridNetwork/ devices |
@@ -1079,7 +1082,14 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Configuration Group Schema](svg/Microsoft_Azure_VnfManager/AosmConfigSchema.svg) | Microsoft.HybridNetwork/ publishers/ configurationGroupSchemas |
 | [Configuration Group Value](svg/Microsoft_Azure_VnfManager/AosmCgv.svg) | Microsoft.HybridNetwork/ configurationGroupValues |
 | [Wave Migration](svg/Microsoft_Azure_WaveMigration/WaveMigrationResource.svg) | Providers.Test/ statefulIbizaEngines |
-| [My Resource](svg/Microsoft_Azure_WorkloadHub/WorkloadResource.svg) | Microsoft.Workloads/ WorkloadInstance |
+| [Workloads Hub](svg/Microsoft_Azure_WorkloadHub/WorkloadResource.svg) |  |
+| [Workload Component](svg/Microsoft_Azure_WorkloadHub/WorkloadComponentAsset.svg) | Microsoft.Workloads/ virtualInstances/ components |
+| [Workload Virtual Instance](svg/Microsoft_Azure_WorkloadHub/VirtualInstanceAsset.svg) | Microsoft.Workloads/ virtualInstances |
+| [Workloads Hub](svg/Microsoft_Azure_WorkloadHub/VICheckResultsAsset.svg) | microsoft.workloads/ configurationvalidationresults/ checkname |
+| [Workload Virtual Instance](svg/Microsoft_Azure_WorkloadHub/RelatedVIAsset.svg) | Microsoft.Workloads/ virtualInstancess |
+| [Workloads Hub](svg/Microsoft_Azure_WorkloadHub/CheckResultAsset.svg) | microsoft.workloads/ configurationvalidationresults |
+| [Configuration Template](svg/Microsoft_Azure_WorkloadHub/VIConfigurationChecksTemplates.svg) | Microsoft.Workloads/ virtualInstances/ Microsoft.Workloads/ configurationChecksTemplates |
+| [Configuration Template](svg/Microsoft_Azure_WorkloadHub/configurationChecksTemplates.svg) | Microsoft.Workloads/ configurationChecksTemplates |
 | [Microsoft.Workloads insight](svg/Microsoft_Azure_WorkloadInsight/microsoft_workloads_insights_2022_10_15_preview.svg) | microsoft.workloads/ insights |
 | [MARIO](svg/Microsoft_Azure_WorkloadInsight/mario.svg) |  |
 | [Azure Monitor for SAP solutions](svg/Microsoft_Azure_WorkloadMonitor/SapMonitorV2.svg) | Microsoft.Workloads/ monitors |
@@ -1194,7 +1204,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [My Resource](svg/VLCentral_Amendments/VLCentral_Amendments.svg) |  |
 | [Approvals](svg/VLCentral_Approval/VLCentral_Approval.svg) |  |
 | [My Cases & Support](svg/VLCentral_CaseManagement/VLCentralCaseManagement.svg) |  |
-| [VLCentral Deal Modeler](svg/VLCentral_DealModeler/VLCentralDealModeler.svg) |  |
 | [VLCentral Help](svg/VLCentral_HelpAndSupport/VLCentralHelp.svg) |  |
 | [VLCentral Home](svg/VLCentral_Home/VLCentralHome.svg) |  |
 | [My Resource](svg/VLCentral_OrderCredits/MyResource.svg) |  |
@@ -1202,7 +1211,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [My Resource](svg/VLCentral_OrganizationManagementService/MyResource.svg) |  |
 | [Deals](svg/VLCentral_Quote/VLCentralQuote.svg) |  |
 | [Reporting & Analytics](svg/VLCentral_ReportingNAnalytics/VLCentralReporting.svg) |  |
-| [VLCentral Seller Home](svg/VLCentral_SellerHome/VLCentralSellerHome.svg) |  |
 | [User Management](svg/VLCentral_UUM/VLCentralUUM.svg) |  |
 | [Azure VMware Solution private cloud](svg/VMCP/PrivateCloud.svg) | Microsoft.AVS/ privateClouds |
 | [App Service (Slot)](svg/WebsitesExtension/WebsiteSlot.svg) | Microsoft.Web/ sites/ slots |
