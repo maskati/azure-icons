@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 17.308.0.1 on 2026-05-08.
+Extracted from Azure Portal version 17.308.0.1 on 2026-05-09.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -268,6 +268,11 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [VMware cluster](svg/Microsoft_Azure_ArcPrivateCloudUX/VCenterClusters.svg) | microsoft.connectedvmwarevsphere/ clusters |
 | [VMware virtual network](svg/Microsoft_Azure_ArcPrivateCloudUX/VCenterNetworks.svg) | Microsoft.connectedvmwarevsphere/ virtualnetworks |
 | [VMware datastore](svg/Microsoft_Azure_ArcPrivateCloudUX/VCenterDatastores.svg) | Microsoft.connectedvmwarevsphere/ datastores |
+| [SCVMM management server inventory item](svg/Microsoft_Azure_ArcPrivateCloudUX/ScVmmInventoryItems.svg) | microsoft.scvmm/ vmmservers/ inventoryitems |
+| [SCVMM virtual machine](svg/Microsoft_Azure_ArcPrivateCloudUX/ScVmmVirtualMachines.svg) | microsoft.scvmm/ vmmservers/ inventoryitems_virtualmachines |
+| [SCVMM virtual machine template](svg/Microsoft_Azure_ArcPrivateCloudUX/ScVmmTemplates.svg) | microsoft.scvmm/ virtualmachinetemplates |
+| [SCVMM virtual network](svg/Microsoft_Azure_ArcPrivateCloudUX/ScVmmNetworks.svg) | microsoft.scvmm/ virtualnetworks |
+| [SCVMM cloud](svg/Microsoft_Azure_ArcPrivateCloudUX/ScVmmClouds.svg) | microsoft.scvmm/ clouds |
 | [Attestation provider](svg/Microsoft_Azure_Attestation/AttestResource.svg) | Microsoft.Attestation/ attestationProviders |
 | [Automanage](svg/Microsoft_Azure_AutoManagedVirtualMachines/AutoManagedVirtualMachines.svg) |  |
 | [Automation Account](svg/Microsoft_Azure_Automation/Account.svg) | Microsoft.Automation/ AutomationAccounts |
@@ -332,8 +337,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Code Optimizations](svg/Microsoft_Azure_CodeOptimizations/CodeOptimizations.svg) |  |
 | [Artifact Signing Account](svg/Microsoft_Azure_CodeSigning/CodeSigningAccounts.svg) | Microsoft.CodeSigning/ codesigningaccounts |
 | [Communication Service](svg/Microsoft_Azure_CommunicationServices/Communication.svg) | Microsoft.Communication/ CommunicationServices |
-| [Communications Gateway Test Line](svg/Microsoft_Azure_CommunicationsGatewayExtension/TestLines.svg) | Microsoft.VoiceServices/ CommunicationsGateways/ TestLines |
-| [Communications Gateway](svg/Microsoft_Azure_CommunicationsGatewayExtension/CommunicationsGateways.svg) | Microsoft.VoiceServices/ CommunicationsGateways |
 | [Community Training](svg/Microsoft_Azure_CommunityTraining/CommunityTraining.svg) | Microsoft.Community/ communityTrainings |
 | [Virtual machine scale set](svg/Microsoft_Azure_Compute/VirtualMachineScaleSet.svg) | Microsoft.Compute/ virtualMachineScaleSets |
 | [Virtual machine](svg/Microsoft_Azure_Compute/VirtualMachine.svg) | Microsoft.Compute/ VirtualMachines |
@@ -651,10 +654,11 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Key](svg/Microsoft_Azure_KeyVault/Key.svg) |  |
 | [Certificate](svg/Microsoft_Azure_KeyVault/Certificate.svg) |  |
 | [Kubernetes center (preview)](svg/Microsoft_Azure_KubernetesFleet/KubernetesHub.svg) |  |
-| [Standby Pool](svg/Microsoft_Azure_KubernetesFleet/StandbyContainerGroupPools.svg) | Microsoft.StandbyPool/ standbyContainerGroupPools |
+| [Container Instances Standby Pool](svg/Microsoft_Azure_KubernetesFleet/StandbyContainerGroupPools.svg) | Microsoft.StandbyPool/ standbyContainerGroupPools |
 | [Container Instances Center](svg/Microsoft_Azure_KubernetesFleet/ContainerInstancesCenter.svg) |  |
 | [Container group profile](svg/Microsoft_Azure_KubernetesFleet/ContainerGroupProfiles.svg) | Microsoft.ContainerInstance/ containerGroupProfiles |
 | [Managed Fleet Namespace (preview)](svg/Microsoft_Azure_KubernetesFleet/ManagedFleetNamespaces.svg) | microsoft.containerservice/ fleets/ managednamespaces |
+| [enableLTS on out-of-support cluster](svg/Microsoft_Azure_KubernetesFleet/managedClustersUpgradeEnableLts.svg) | Microsoft.ContainerService/ managedClustersUpgradeEnableLts |
 | [Kubernetes fleet manager](svg/Microsoft_Azure_KubernetesFleet/Fleets.svg) | microsoft.containerservice/ fleets |
 | [Data Explorer Database](svg/Microsoft_Azure_Kusto/kustoSynapsePoolDatabase.svg) | Microsoft.Synapse/ workspaces/ kustopools/ databases |
 | [Data Explorer pool (preview)](svg/Microsoft_Azure_Kusto/kustoSynapsePool.svg) | Microsoft.Synapse/ workspaces/ kustopools |
@@ -881,6 +885,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Peering Service](svg/Microsoft_Azure_Peering/MicrosoftPeeringService.svg) | Microsoft.Peering/ peeringServices |
 | [Peering](svg/Microsoft_Azure_Peering/AzurePeering.svg) | Microsoft.Peering/ peerings |
 | [Microsoft Entra Privileged Identity Management](svg/Microsoft_Azure_PIMCommon/BrowsePIM.svg) |  |
+| [My Resource](svg/Microsoft_Azure_Platform_Resiliency/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Playwright Testing (Classic)](svg/Microsoft_Azure_PlaywrightService/PlaywrightService.svg) | Microsoft.AzurePlaywrightService/ accounts |
 | [Policy](svg/Microsoft_Azure_Policy/PolicyHub.svg) |  |
 | [Blueprint](svg/Microsoft_Azure_Policy/ArmBlueprintHub.svg) |  |
@@ -1065,7 +1070,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Approval](svg/Microsoft_Azure_VirtualEnclaves/Approvals.svg) | Microsoft.Mission/ approvals |
 | [Virtual machine scale set](svg/Microsoft_Azure_VirtualMachineScaleSets/VirtualMachineScaleSets.svg) | Microsoft.Compute/ virtualMachineScaleSets |
 | [Azure Virtual Network routing appliance](svg/Microsoft_Azure_VirtualNetworkAppliance/VirtualNetworkAppliance.svg) | Microsoft.Network/ virtualNetworkAppliances |
-| [Virtual Appointments Builder](svg/Microsoft_Azure_VirtualVisitsBuilder/vvbuilder.svg) |  |
 | [Azure Network Function Manager – Network Function](svg/Microsoft_Azure_VnfManager/VnfManagerVnfs.svg) | Microsoft.HybridNetwork/ networkFunctions |
 | [Azure Network Function Manager – vendor](svg/Microsoft_Azure_VnfManager/VnfManagerVendors.svg) | Microsoft.HybridNetwork/ vendors |
 | [Azure Network Function Manager – Device](svg/Microsoft_Azure_VnfManager/VnfManagerDevices.svg) | Microsoft.HybridNetwork/ devices |
@@ -1204,6 +1208,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [My Resource](svg/VLCentral_Amendments/VLCentral_Amendments.svg) |  |
 | [Approvals](svg/VLCentral_Approval/VLCentral_Approval.svg) |  |
 | [My Cases & Support](svg/VLCentral_CaseManagement/VLCentralCaseManagement.svg) |  |
+| [VLCentral Deal Modeler](svg/VLCentral_DealModeler/VLCentralDealModeler.svg) |  |
 | [VLCentral Help](svg/VLCentral_HelpAndSupport/VLCentralHelp.svg) |  |
 | [VLCentral Home](svg/VLCentral_Home/VLCentralHome.svg) |  |
 | [My Resource](svg/VLCentral_OrderCredits/MyResource.svg) |  |
@@ -1211,6 +1216,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [My Resource](svg/VLCentral_OrganizationManagementService/MyResource.svg) |  |
 | [Deals](svg/VLCentral_Quote/VLCentralQuote.svg) |  |
 | [Reporting & Analytics](svg/VLCentral_ReportingNAnalytics/VLCentralReporting.svg) |  |
+| [VLCentral Seller Home](svg/VLCentral_SellerHome/VLCentralSellerHome.svg) |  |
 | [User Management](svg/VLCentral_UUM/VLCentralUUM.svg) |  |
 | [Azure VMware Solution private cloud](svg/VMCP/PrivateCloud.svg) | Microsoft.AVS/ privateClouds |
 | [App Service (Slot)](svg/WebsitesExtension/WebsiteSlot.svg) | Microsoft.Web/ sites/ slots |
