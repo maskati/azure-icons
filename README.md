@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 17.308.0.1 on 2026-05-09.
+Extracted from Azure Portal version 17.308.0.1 on 2026-05-10.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -268,11 +268,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [VMware cluster](svg/Microsoft_Azure_ArcPrivateCloudUX/VCenterClusters.svg) | microsoft.connectedvmwarevsphere/ clusters |
 | [VMware virtual network](svg/Microsoft_Azure_ArcPrivateCloudUX/VCenterNetworks.svg) | Microsoft.connectedvmwarevsphere/ virtualnetworks |
 | [VMware datastore](svg/Microsoft_Azure_ArcPrivateCloudUX/VCenterDatastores.svg) | Microsoft.connectedvmwarevsphere/ datastores |
-| [SCVMM management server inventory item](svg/Microsoft_Azure_ArcPrivateCloudUX/ScVmmInventoryItems.svg) | microsoft.scvmm/ vmmservers/ inventoryitems |
-| [SCVMM virtual machine](svg/Microsoft_Azure_ArcPrivateCloudUX/ScVmmVirtualMachines.svg) | microsoft.scvmm/ vmmservers/ inventoryitems_virtualmachines |
-| [SCVMM virtual machine template](svg/Microsoft_Azure_ArcPrivateCloudUX/ScVmmTemplates.svg) | microsoft.scvmm/ virtualmachinetemplates |
-| [SCVMM virtual network](svg/Microsoft_Azure_ArcPrivateCloudUX/ScVmmNetworks.svg) | microsoft.scvmm/ virtualnetworks |
-| [SCVMM cloud](svg/Microsoft_Azure_ArcPrivateCloudUX/ScVmmClouds.svg) | microsoft.scvmm/ clouds |
 | [Attestation provider](svg/Microsoft_Azure_Attestation/AttestResource.svg) | Microsoft.Attestation/ attestationProviders |
 | [Automanage](svg/Microsoft_Azure_AutoManagedVirtualMachines/AutoManagedVirtualMachines.svg) |  |
 | [Automation Account](svg/Microsoft_Azure_Automation/Account.svg) | Microsoft.Automation/ AutomationAccounts |
