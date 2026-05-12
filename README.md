@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 17.308.0.1 on 2026-05-11.
+Extracted from Azure Portal version 17.327.0.1 on 2026-05-12.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -268,6 +268,11 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [VMware cluster](svg/Microsoft_Azure_ArcPrivateCloudUX/VCenterClusters.svg) | microsoft.connectedvmwarevsphere/ clusters |
 | [VMware virtual network](svg/Microsoft_Azure_ArcPrivateCloudUX/VCenterNetworks.svg) | Microsoft.connectedvmwarevsphere/ virtualnetworks |
 | [VMware datastore](svg/Microsoft_Azure_ArcPrivateCloudUX/VCenterDatastores.svg) | Microsoft.connectedvmwarevsphere/ datastores |
+| [SCVMM management server inventory item](svg/Microsoft_Azure_ArcPrivateCloudUX/ScVmmInventoryItems.svg) | microsoft.scvmm/ vmmservers/ inventoryitems |
+| [SCVMM virtual machine](svg/Microsoft_Azure_ArcPrivateCloudUX/ScVmmVirtualMachines.svg) | microsoft.scvmm/ vmmservers/ inventoryitems_virtualmachines |
+| [SCVMM virtual machine template](svg/Microsoft_Azure_ArcPrivateCloudUX/ScVmmTemplates.svg) | microsoft.scvmm/ virtualmachinetemplates |
+| [SCVMM virtual network](svg/Microsoft_Azure_ArcPrivateCloudUX/ScVmmNetworks.svg) | microsoft.scvmm/ virtualnetworks |
+| [SCVMM cloud](svg/Microsoft_Azure_ArcPrivateCloudUX/ScVmmClouds.svg) | microsoft.scvmm/ clouds |
 | [Attestation provider](svg/Microsoft_Azure_Attestation/AttestResource.svg) | Microsoft.Attestation/ attestationProviders |
 | [Automanage](svg/Microsoft_Azure_AutoManagedVirtualMachines/AutoManagedVirtualMachines.svg) |  |
 | [Automation Account](svg/Microsoft_Azure_Automation/Account.svg) | Microsoft.Automation/ AutomationAccounts |
@@ -757,7 +762,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Service endpoint policy](svg/Microsoft_Azure_Network/ServiceEndpointPolicy.svg) | Microsoft.Network/ serviceEndpointPolicies |
 | [Route table](svg/Microsoft_Azure_Network/RouteTable.svg) | Microsoft.Network/ routeTables |
 | [Resource management private link](svg/Microsoft_Azure_Network/ResourceManagementPrivateLink.svg) | Microsoft.Authorization/ resourceManagementPrivateLinks |
-| [Reserved IP address (classic)](svg/Microsoft_Azure_Network/ReservedIpAddress.svg) | Microsoft.ClassicNetwork/ reservedIps |
 | [Public IP Prefix](svg/Microsoft_Azure_Network/PublicIpPrefix.svg) | Microsoft.Network/ publicIpPrefixes |
 | [Public IP address](svg/Microsoft_Azure_Network/PublicIpAddress.svg) | Microsoft.Network/ PublicIpAddresses |
 | [Private link service](svg/Microsoft_Azure_Network/PrivateLinkService.svg) | Microsoft.Network/ privateLinkServices |
@@ -784,8 +788,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [DDoS protection plan](svg/Microsoft_Azure_Network/DdosProtectionPlan.svg) | Microsoft.Network/ ddosProtectionPlans |
 | [DDoS custom policy](svg/Microsoft_Azure_Network/DdosCustomPolicy.svg) | Microsoft.Network/ ddosCustomPolicies |
 | [Custom IP Prefix](svg/Microsoft_Azure_Network/CustomIpPrefix.svg) | Microsoft.Network/ customIpPrefixes |
-| [Virtual network (classic)](svg/Microsoft_Azure_Network/ClassicVirtualNetwork.svg) | Microsoft.ClassicNetwork/ virtualNetworks |
-| [Network security group (classic)](svg/Microsoft_Azure_Network/ClassicNetworkSecurityGroup.svg) | Microsoft.ClassicNetwork/ networkSecurityGroups |
 | [Application security group](svg/Microsoft_Azure_Network/ApplicationSecurityGroup.svg) | Microsoft.Network/ applicationSecurityGroups |
 | [Operator Nexus](svg/Microsoft_Azure_NetworkCloud/OperatorNexusHub.svg) |  |
 | [Route Policy (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/RoutePoliciesResource.svg) | Microsoft.ManagedNetworkFabric/ RoutePolicies |
