@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 17.327.0.1 on 2026-05-12.
+Extracted from Azure Portal version 17.308.0.1 on 2026-05-13.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -337,6 +337,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Code Optimizations](svg/Microsoft_Azure_CodeOptimizations/CodeOptimizations.svg) |  |
 | [Artifact Signing Account](svg/Microsoft_Azure_CodeSigning/CodeSigningAccounts.svg) | Microsoft.CodeSigning/ codesigningaccounts |
 | [Communication Service](svg/Microsoft_Azure_CommunicationServices/Communication.svg) | Microsoft.Communication/ CommunicationServices |
+| [Communications Gateway Test Line](svg/Microsoft_Azure_CommunicationsGatewayExtension/TestLines.svg) | Microsoft.VoiceServices/ CommunicationsGateways/ TestLines |
+| [Communications Gateway](svg/Microsoft_Azure_CommunicationsGatewayExtension/CommunicationsGateways.svg) | Microsoft.VoiceServices/ CommunicationsGateways |
 | [Community Training](svg/Microsoft_Azure_CommunityTraining/CommunityTraining.svg) | Microsoft.Community/ communityTrainings |
 | [Virtual machine scale set](svg/Microsoft_Azure_Compute/VirtualMachineScaleSet.svg) | Microsoft.Compute/ virtualMachineScaleSets |
 | [Virtual machine](svg/Microsoft_Azure_Compute/VirtualMachine.svg) | Microsoft.Compute/ VirtualMachines |
@@ -654,11 +656,10 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Key](svg/Microsoft_Azure_KeyVault/Key.svg) |  |
 | [Certificate](svg/Microsoft_Azure_KeyVault/Certificate.svg) |  |
 | [Kubernetes center (preview)](svg/Microsoft_Azure_KubernetesFleet/KubernetesHub.svg) |  |
-| [Container Instances Standby Pool](svg/Microsoft_Azure_KubernetesFleet/StandbyContainerGroupPools.svg) | Microsoft.StandbyPool/ standbyContainerGroupPools |
+| [Standby Pool](svg/Microsoft_Azure_KubernetesFleet/StandbyContainerGroupPools.svg) | Microsoft.StandbyPool/ standbyContainerGroupPools |
 | [Container Instances Center](svg/Microsoft_Azure_KubernetesFleet/ContainerInstancesCenter.svg) |  |
 | [Container group profile](svg/Microsoft_Azure_KubernetesFleet/ContainerGroupProfiles.svg) | Microsoft.ContainerInstance/ containerGroupProfiles |
 | [Managed Fleet Namespace (preview)](svg/Microsoft_Azure_KubernetesFleet/ManagedFleetNamespaces.svg) | microsoft.containerservice/ fleets/ managednamespaces |
-| [enableLTS on out-of-support cluster](svg/Microsoft_Azure_KubernetesFleet/managedClustersUpgradeEnableLts.svg) | Microsoft.ContainerService/ managedClustersUpgradeEnableLts |
 | [Kubernetes fleet manager](svg/Microsoft_Azure_KubernetesFleet/Fleets.svg) | microsoft.containerservice/ fleets |
 | [Data Explorer Database](svg/Microsoft_Azure_Kusto/kustoSynapsePoolDatabase.svg) | Microsoft.Synapse/ workspaces/ kustopools/ databases |
 | [Data Explorer pool (preview)](svg/Microsoft_Azure_Kusto/kustoSynapsePool.svg) | Microsoft.Synapse/ workspaces/ kustopools |
@@ -762,6 +763,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Service endpoint policy](svg/Microsoft_Azure_Network/ServiceEndpointPolicy.svg) | Microsoft.Network/ serviceEndpointPolicies |
 | [Route table](svg/Microsoft_Azure_Network/RouteTable.svg) | Microsoft.Network/ routeTables |
 | [Resource management private link](svg/Microsoft_Azure_Network/ResourceManagementPrivateLink.svg) | Microsoft.Authorization/ resourceManagementPrivateLinks |
+| [Reserved IP address (classic)](svg/Microsoft_Azure_Network/ReservedIpAddress.svg) | Microsoft.ClassicNetwork/ reservedIps |
 | [Public IP Prefix](svg/Microsoft_Azure_Network/PublicIpPrefix.svg) | Microsoft.Network/ publicIpPrefixes |
 | [Public IP address](svg/Microsoft_Azure_Network/PublicIpAddress.svg) | Microsoft.Network/ PublicIpAddresses |
 | [Private link service](svg/Microsoft_Azure_Network/PrivateLinkService.svg) | Microsoft.Network/ privateLinkServices |
@@ -788,6 +790,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [DDoS protection plan](svg/Microsoft_Azure_Network/DdosProtectionPlan.svg) | Microsoft.Network/ ddosProtectionPlans |
 | [DDoS custom policy](svg/Microsoft_Azure_Network/DdosCustomPolicy.svg) | Microsoft.Network/ ddosCustomPolicies |
 | [Custom IP Prefix](svg/Microsoft_Azure_Network/CustomIpPrefix.svg) | Microsoft.Network/ customIpPrefixes |
+| [Virtual network (classic)](svg/Microsoft_Azure_Network/ClassicVirtualNetwork.svg) | Microsoft.ClassicNetwork/ virtualNetworks |
+| [Network security group (classic)](svg/Microsoft_Azure_Network/ClassicNetworkSecurityGroup.svg) | Microsoft.ClassicNetwork/ networkSecurityGroups |
 | [Application security group](svg/Microsoft_Azure_Network/ApplicationSecurityGroup.svg) | Microsoft.Network/ applicationSecurityGroups |
 | [Operator Nexus](svg/Microsoft_Azure_NetworkCloud/OperatorNexusHub.svg) |  |
 | [Route Policy (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/RoutePoliciesResource.svg) | Microsoft.ManagedNetworkFabric/ RoutePolicies |
@@ -882,7 +886,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Peering Service](svg/Microsoft_Azure_Peering/MicrosoftPeeringService.svg) | Microsoft.Peering/ peeringServices |
 | [Peering](svg/Microsoft_Azure_Peering/AzurePeering.svg) | Microsoft.Peering/ peerings |
 | [Microsoft Entra Privileged Identity Management](svg/Microsoft_Azure_PIMCommon/BrowsePIM.svg) |  |
-| [My Resource](svg/Microsoft_Azure_Platform_Resiliency/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Playwright Testing (Classic)](svg/Microsoft_Azure_PlaywrightService/PlaywrightService.svg) | Microsoft.AzurePlaywrightService/ accounts |
 | [Policy](svg/Microsoft_Azure_Policy/PolicyHub.svg) |  |
 | [Blueprint](svg/Microsoft_Azure_Policy/ArmBlueprintHub.svg) |  |
@@ -1067,6 +1070,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Approval](svg/Microsoft_Azure_VirtualEnclaves/Approvals.svg) | Microsoft.Mission/ approvals |
 | [Virtual machine scale set](svg/Microsoft_Azure_VirtualMachineScaleSets/VirtualMachineScaleSets.svg) | Microsoft.Compute/ virtualMachineScaleSets |
 | [Azure Virtual Network routing appliance](svg/Microsoft_Azure_VirtualNetworkAppliance/VirtualNetworkAppliance.svg) | Microsoft.Network/ virtualNetworkAppliances |
+| [Virtual Appointments Builder](svg/Microsoft_Azure_VirtualVisitsBuilder/vvbuilder.svg) |  |
 | [Azure Network Function Manager – Network Function](svg/Microsoft_Azure_VnfManager/VnfManagerVnfs.svg) | Microsoft.HybridNetwork/ networkFunctions |
 | [Azure Network Function Manager – vendor](svg/Microsoft_Azure_VnfManager/VnfManagerVendors.svg) | Microsoft.HybridNetwork/ vendors |
 | [Azure Network Function Manager – Device](svg/Microsoft_Azure_VnfManager/VnfManagerDevices.svg) | Microsoft.HybridNetwork/ devices |
@@ -1205,7 +1209,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [My Resource](svg/VLCentral_Amendments/VLCentral_Amendments.svg) |  |
 | [Approvals](svg/VLCentral_Approval/VLCentral_Approval.svg) |  |
 | [My Cases & Support](svg/VLCentral_CaseManagement/VLCentralCaseManagement.svg) |  |
-| [VLCentral Deal Modeler](svg/VLCentral_DealModeler/VLCentralDealModeler.svg) |  |
 | [VLCentral Help](svg/VLCentral_HelpAndSupport/VLCentralHelp.svg) |  |
 | [VLCentral Home](svg/VLCentral_Home/VLCentralHome.svg) |  |
 | [My Resource](svg/VLCentral_OrderCredits/MyResource.svg) |  |
@@ -1213,7 +1216,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [My Resource](svg/VLCentral_OrganizationManagementService/MyResource.svg) |  |
 | [Deals](svg/VLCentral_Quote/VLCentralQuote.svg) |  |
 | [Reporting & Analytics](svg/VLCentral_ReportingNAnalytics/VLCentralReporting.svg) |  |
-| [VLCentral Seller Home](svg/VLCentral_SellerHome/VLCentralSellerHome.svg) |  |
 | [User Management](svg/VLCentral_UUM/VLCentralUUM.svg) |  |
 | [Azure VMware Solution private cloud](svg/VMCP/PrivateCloud.svg) | Microsoft.AVS/ privateClouds |
 | [App Service (Slot)](svg/WebsitesExtension/WebsiteSlot.svg) | Microsoft.Web/ sites/ slots |
