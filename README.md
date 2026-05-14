@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 17.308.0.1 on 2026-05-13.
+Extracted from Azure Portal version 17.308.0.1 on 2026-05-14.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -656,10 +656,11 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Key](svg/Microsoft_Azure_KeyVault/Key.svg) |  |
 | [Certificate](svg/Microsoft_Azure_KeyVault/Certificate.svg) |  |
 | [Kubernetes center (preview)](svg/Microsoft_Azure_KubernetesFleet/KubernetesHub.svg) |  |
-| [Standby Pool](svg/Microsoft_Azure_KubernetesFleet/StandbyContainerGroupPools.svg) | Microsoft.StandbyPool/ standbyContainerGroupPools |
+| [Container Instances Standby Pool](svg/Microsoft_Azure_KubernetesFleet/StandbyContainerGroupPools.svg) | Microsoft.StandbyPool/ standbyContainerGroupPools |
 | [Container Instances Center](svg/Microsoft_Azure_KubernetesFleet/ContainerInstancesCenter.svg) |  |
 | [Container group profile](svg/Microsoft_Azure_KubernetesFleet/ContainerGroupProfiles.svg) | Microsoft.ContainerInstance/ containerGroupProfiles |
 | [Managed Fleet Namespace (preview)](svg/Microsoft_Azure_KubernetesFleet/ManagedFleetNamespaces.svg) | microsoft.containerservice/ fleets/ managednamespaces |
+| [enableLTS on out-of-support cluster](svg/Microsoft_Azure_KubernetesFleet/managedClustersUpgradeEnableLts.svg) | Microsoft.ContainerService/ managedClustersUpgradeEnableLts |
 | [Kubernetes fleet manager](svg/Microsoft_Azure_KubernetesFleet/Fleets.svg) | microsoft.containerservice/ fleets |
 | [Data Explorer Database](svg/Microsoft_Azure_Kusto/kustoSynapsePoolDatabase.svg) | Microsoft.Synapse/ workspaces/ kustopools/ databases |
 | [Data Explorer pool (preview)](svg/Microsoft_Azure_Kusto/kustoSynapsePool.svg) | Microsoft.Synapse/ workspaces/ kustopools |
