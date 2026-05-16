@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 17.327.0.1 on 2026-05-15.
+Extracted from Azure Portal version 17.308.0.1 on 2026-05-16.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -847,6 +847,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Network Security Perimeter](svg/Microsoft_Azure_NetworkSecurityPerimeter/NetworkSecurityPerimeter.svg) | Microsoft.Network/ networkSecurityPerimeters |
 | [Profile](svg/Microsoft_Azure_NetworkSecurityPerimeter/Profile.svg) | Microsoft.Network/ networkSecurityPerimeters/ profiles |
 | [Global Secure Access](svg/Microsoft_Azure_Network_Access/NetworkAccess.svg) |  |
+| [Neuro Shield](svg/Microsoft_Azure_NeuroShield/NeuroShield.svg) | Microsoft.Network/ neuroShields |
 | [Notification Hub](svg/Microsoft_Azure_NotificationHubs/NotificationHub.svg) | Microsoft.NotificationHubs/ namespaces/ notificationHubs |
 | [Notification Hub Namespace](svg/Microsoft_Azure_NotificationHubs/Namespace.svg) | Microsoft.NotificationHubs/ namespaces |
 | [My Resource](svg/Microsoft_Azure_OneHome/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
@@ -864,9 +865,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Ground Station](svg/Microsoft_Azure_Orbital/GroundStations.svg) | Microsoft.Orbital/ GroundStations |
 | [GeoCatalog](svg/Microsoft_Azure_Orbital/geoCatalogs.svg) | Microsoft.Orbital/ geoCatalogs |
 | [Edge Site](svg/Microsoft_Azure_Orbital/EdgeSites.svg) | Microsoft.Orbital/ EdgeSites |
-| [Azure HorizonDB for PostgreSQL (Preview)](svg/Microsoft_Azure_OSSDatabases/PostgreSqlOrionDB.svg) | Microsoft.OrionDB/ clusters |
-| [Azure HorizonDB Parameter Group (Preview)](svg/Microsoft_Azure_OSSDatabases/PostgreSqlHorizonDBParameterGroups.svg) | Microsoft.HorizonDB/ parameterGroups |
-| [Azure HorizonDB for PostgreSQL (Preview)](svg/Microsoft_Azure_OSSDatabases/PostgreSqlHorizonDB.svg) | Microsoft.HorizonDB/ clusters |
+| [Azure HorizonDB (Preview)](svg/Microsoft_Azure_OSSDatabases/PostgreSqlOrionDB.svg) | Microsoft.OrionDB/ clusters |
+| [Azure HorizonDB (Preview) parameter group](svg/Microsoft_Azure_OSSDatabases/PostgreSqlHorizonDBParameterGroups.svg) | Microsoft.HorizonDB/ parameterGroups |
+| [Azure HorizonDB (Preview)](svg/Microsoft_Azure_OSSDatabases/PostgreSqlHorizonDB.svg) | Microsoft.HorizonDB/ clusters |
 | [Azure Database for PostgreSQL flexible server](svg/Microsoft_Azure_OSSDatabases/PostgreSqlFlexibleServer.svg) | Microsoft.DBforPostgreSQL/ flexibleServers |
 | [Azure Database for MySQL flexible server](svg/Microsoft_Azure_OSSDatabases/MySqlFlexibleServer.svg) | Microsoft.DBforMySQL/ flexibleServers |
 | [Task Hub](svg/Microsoft_Azure_PaasServerless/TaskHub.svg) | Microsoft.DurableTask/ Schedulers/ TaskHubs |
@@ -1104,7 +1105,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Private Segmentation Manager](svg/Microsoft_Azure_ZeroTrustSegmentation/PrivateSegmentationManagers.svg) | Private.ZeroTrustSegmentation/ segmentationManagers |
 | [Segmentation Manager](svg/Microsoft_Azure_ZeroTrustSegmentation/PrivatePreviewSegmentationManagers.svg) | Microsoft.ZeroTrustSegmentation/ segmentationManagers |
 | [Bing Resource](svg/Microsoft_Bing_Api/BingAPIAccount.svg) | Microsoft.Bing/ accounts |
-| [Health Model](svg/Microsoft_CloudHealth_HealthModels/AzureHealthModel.svg) | Microsoft.CloudHealth/ healthmodels |
+| [Health model](svg/Microsoft_CloudHealth_HealthModels/AzureHealthModel.svg) | Microsoft.CloudHealth/ healthmodels |
 | [Connected Cache for Enterprise & Education](svg/Microsoft_ConnectedCache_Enterprise/MccEnterpriseResource.svg) | Microsoft.ConnectedCache/ enterpriseMccCustomers |
 | [MCC CacheNode for Enterprise](svg/Microsoft_ConnectedCache_Enterprise/MccEnterpriseCacheNodeResource.svg) | Microsoft.ConnectedCache/ enterpriseMccCustomers/ enterpriseMccCacheNodes |
 | [Connected Cache for ISP](svg/Microsoft_ConnectedCache_ISP/MCCIspResource.svg) | Microsoft.ConnectedCache/ ispCustomers |
