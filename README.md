@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 17.308.0.1 on 2026-05-19.
+Extracted from Azure Portal version 17.327.0.1 on 2026-05-20.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -239,7 +239,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Activity log](svg/Microsoft_Azure_ActivityLog/ActivityLogAsset.svg) |  |
 | [Microsoft Entra Connect Health](svg/Microsoft_Azure_ADHybridHealth/RootAsset.svg) |  |
 | [Device Update for IoT Hub](svg/Microsoft_Azure_ADU/IotDUResource.svg) | Microsoft.DeviceUpdate/ accounts |
-| [Agentic Web App](svg/Microsoft_Azure_AfdAgenticWebApp/AfdAgenticWebApp.svg) | Microsoft.Cdn/ webAgents |
+| [Web Agent](svg/Microsoft_Azure_AfdAgenticWebApp/AfdAgenticWebApp.svg) | Microsoft.Cdn/ webAgents |
 | [Front Door](svg/Microsoft_Azure_AFDX/FrontdoorProfile.svg) | microsoft.cdn/ profiles |
 | [Analysis Services](svg/Microsoft_Azure_AnalysisServices/AnalysisServices.svg) | Microsoft.AnalysisServices/ servers |
 | [Fabric Capacity](svg/Microsoft_Azure_Analytics/REDIDCILDCBJNGCP.svg) | Microsoft.Fabric/ capacities |
@@ -390,30 +390,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Kubernetes service extension](svg/Microsoft_Azure_ContainerService/KubernetesClusterExtensionsChild.svg) | microsoft.containerservice/ managedclusters/ microsoft.kubernetesconfiguration/ extensions |
 | [Kubernetes service extension](svg/Microsoft_Azure_ContainerService/KubernetesClusterExtensions.svg) | microsoft.kubernetesconfiguration/ extensions |
 | [Azure Red Hat OpenShift cluster](svg/Microsoft_Azure_ContainerService/AroClusters.svg) | Microsoft.RedHatOpenShift/ OpenShiftClusters |
-| [Anyscale Workspace](svg/Microsoft_Azure_ContainerService/AnyscaleWorkspaces.svg) | Anyscale.Platform/ clouds/ projects/ workspaces |
-| [Anyscale Service](svg/Microsoft_Azure_ContainerService/AnyscaleServices.svg) | Anyscale.Platform/ clouds/ projects/ services |
-| [Anyscale Project](svg/Microsoft_Azure_ContainerService/AnyscaleProjects.svg) | Anyscale.Platform/ clouds/ projects |
-| [Anyscale Job](svg/Microsoft_Azure_ContainerService/AnyscaleJobs.svg) | Anyscale.Platform/ clouds/ projects/ jobs |
-| [Anyscale Container Image](svg/Microsoft_Azure_ContainerService/AnyscaleContainerImages.svg) | Anyscale.Platform/ clouds/ containerImages |
-| [Anyscale Compute Config](svg/Microsoft_Azure_ContainerService/AnyscaleComputeConfigs.svg) | Anyscale.Platform/ clouds/ computeConfigs |
-| [Anyscale Cloud Resource](svg/Microsoft_Azure_ContainerService/AnyscaleCloudResources.svg) | Anyscale.Platform/ clouds/ cloudResources |
-| [Anyscale Cloud](svg/Microsoft_Azure_ContainerService/AnyscaleClouds.svg) | Anyscale.Platform/ clouds |
-| [Anyscale Workspace](svg/Microsoft_Azure_ContainerService/AnyscaleWorkspacesStaging.svg) | Private.AnyscaleStaging/ clouds/ projects/ workspaces |
-| [Anyscale Service](svg/Microsoft_Azure_ContainerService/AnyscaleServicesStaging.svg) | Private.AnyscaleStaging/ clouds/ projects/ services |
-| [Anyscale Project](svg/Microsoft_Azure_ContainerService/AnyscaleProjectsStaging.svg) | Private.AnyscaleStaging/ clouds/ projects |
-| [Anyscale Job](svg/Microsoft_Azure_ContainerService/AnyscaleJobsStaging.svg) | Private.AnyscaleStaging/ clouds/ projects/ jobs |
-| [Anyscale Container Image](svg/Microsoft_Azure_ContainerService/AnyscaleContainerImagesStaging.svg) | Private.AnyscaleStaging/ clouds/ containerImages |
-| [Anyscale Compute Config](svg/Microsoft_Azure_ContainerService/AnyscaleComputeConfigsStaging.svg) | Private.AnyscaleStaging/ clouds/ computeConfigs |
-| [Anyscale Cloud](svg/Microsoft_Azure_ContainerService/AnyscaleCloudsStaging.svg) | Private.AnyscaleStaging/ clouds |
-| [Anyscale Cloud Resource](svg/Microsoft_Azure_ContainerService/AnyscaleCloudResourcesStaging.svg) | Private.AnyscaleStaging/ clouds/ cloudResources |
-| [Anyscale Workspace](svg/Microsoft_Azure_ContainerService/AnyscaleWorkspacesDev.svg) | Private.AnyscaleDev/ clouds/ projects/ workspaces |
-| [Anyscale Service](svg/Microsoft_Azure_ContainerService/AnyscaleServicesDev.svg) | Private.AnyscaleDev/ clouds/ projects/ services |
-| [Anyscale Project](svg/Microsoft_Azure_ContainerService/AnyscaleProjectsDev.svg) | Private.AnyscaleDev/ clouds/ projects |
-| [Anyscale Job](svg/Microsoft_Azure_ContainerService/AnyscaleJobsDev.svg) | Private.AnyscaleDev/ clouds/ projects/ jobs |
-| [Anyscale Container Image](svg/Microsoft_Azure_ContainerService/AnyscaleContainerImagesDev.svg) | Private.AnyscaleDev/ clouds/ containerImages |
-| [Anyscale Compute Config](svg/Microsoft_Azure_ContainerService/AnyscaleComputeConfigsDev.svg) | Private.AnyscaleDev/ clouds/ computeConfigs |
-| [Anyscale Cloud Resource](svg/Microsoft_Azure_ContainerService/AnyscaleCloudResourcesDev.svg) | Private.AnyscaleDev/ clouds/ cloudResources |
-| [Anyscale Cloud](svg/Microsoft_Azure_ContainerService/AnyscaleCloudsDev.svg) | Private.AnyscaleDev/ clouds |
+| [Anyscale cloud resource](svg/Microsoft_Azure_ContainerService/AnyscaleCloudResources.svg) | Anyscale.Platform/ clouds/ cloudResources |
+| [Anyscale cloud](svg/Microsoft_Azure_ContainerService/AnyscaleClouds.svg) | Anyscale.Platform/ clouds |
 | [Container storage](svg/Microsoft_Azure_ContainerStorage/ContainerStorage.svg) | Microsoft.ContainerStorage/ pools |
 | [Azure Copilot admin center](svg/Microsoft_Azure_Copilot/CopilotSettingsAsset.svg) |  |
 | [Copilot](svg/Microsoft_Azure_Copilot/Copilot.svg) | Microsoft.PortalServices/ copilots |
