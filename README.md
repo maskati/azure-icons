@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 17.308.0.1 on 2026-05-24.
+Extracted from Azure Portal version 17.308.0.1 on 2026-05-25.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -390,8 +390,30 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Kubernetes service extension](svg/Microsoft_Azure_ContainerService/KubernetesClusterExtensionsChild.svg) | microsoft.containerservice/ managedclusters/ microsoft.kubernetesconfiguration/ extensions |
 | [Kubernetes service extension](svg/Microsoft_Azure_ContainerService/KubernetesClusterExtensions.svg) | microsoft.kubernetesconfiguration/ extensions |
 | [Azure Red Hat OpenShift cluster](svg/Microsoft_Azure_ContainerService/AroClusters.svg) | Microsoft.RedHatOpenShift/ OpenShiftClusters |
-| [Anyscale cloud resource](svg/Microsoft_Azure_ContainerService/AnyscaleCloudResources.svg) | Anyscale.Platform/ clouds/ cloudResources |
-| [Anyscale cloud](svg/Microsoft_Azure_ContainerService/AnyscaleClouds.svg) | Anyscale.Platform/ clouds |
+| [Anyscale Workspace](svg/Microsoft_Azure_ContainerService/AnyscaleWorkspaces.svg) | Anyscale.Platform/ clouds/ projects/ workspaces |
+| [Anyscale Service](svg/Microsoft_Azure_ContainerService/AnyscaleServices.svg) | Anyscale.Platform/ clouds/ projects/ services |
+| [Anyscale Project](svg/Microsoft_Azure_ContainerService/AnyscaleProjects.svg) | Anyscale.Platform/ clouds/ projects |
+| [Anyscale Job](svg/Microsoft_Azure_ContainerService/AnyscaleJobs.svg) | Anyscale.Platform/ clouds/ projects/ jobs |
+| [Anyscale Container Image](svg/Microsoft_Azure_ContainerService/AnyscaleContainerImages.svg) | Anyscale.Platform/ clouds/ containerImages |
+| [Anyscale Compute Config](svg/Microsoft_Azure_ContainerService/AnyscaleComputeConfigs.svg) | Anyscale.Platform/ clouds/ computeConfigs |
+| [Anyscale Cloud Resource](svg/Microsoft_Azure_ContainerService/AnyscaleCloudResources.svg) | Anyscale.Platform/ clouds/ cloudResources |
+| [Anyscale Cloud](svg/Microsoft_Azure_ContainerService/AnyscaleClouds.svg) | Anyscale.Platform/ clouds |
+| [Anyscale Workspace](svg/Microsoft_Azure_ContainerService/AnyscaleWorkspacesStaging.svg) | Private.AnyscaleStaging/ clouds/ projects/ workspaces |
+| [Anyscale Service](svg/Microsoft_Azure_ContainerService/AnyscaleServicesStaging.svg) | Private.AnyscaleStaging/ clouds/ projects/ services |
+| [Anyscale Project](svg/Microsoft_Azure_ContainerService/AnyscaleProjectsStaging.svg) | Private.AnyscaleStaging/ clouds/ projects |
+| [Anyscale Job](svg/Microsoft_Azure_ContainerService/AnyscaleJobsStaging.svg) | Private.AnyscaleStaging/ clouds/ projects/ jobs |
+| [Anyscale Container Image](svg/Microsoft_Azure_ContainerService/AnyscaleContainerImagesStaging.svg) | Private.AnyscaleStaging/ clouds/ containerImages |
+| [Anyscale Compute Config](svg/Microsoft_Azure_ContainerService/AnyscaleComputeConfigsStaging.svg) | Private.AnyscaleStaging/ clouds/ computeConfigs |
+| [Anyscale Cloud](svg/Microsoft_Azure_ContainerService/AnyscaleCloudsStaging.svg) | Private.AnyscaleStaging/ clouds |
+| [Anyscale Cloud Resource](svg/Microsoft_Azure_ContainerService/AnyscaleCloudResourcesStaging.svg) | Private.AnyscaleStaging/ clouds/ cloudResources |
+| [Anyscale Workspace](svg/Microsoft_Azure_ContainerService/AnyscaleWorkspacesDev.svg) | Private.AnyscaleDev/ clouds/ projects/ workspaces |
+| [Anyscale Service](svg/Microsoft_Azure_ContainerService/AnyscaleServicesDev.svg) | Private.AnyscaleDev/ clouds/ projects/ services |
+| [Anyscale Project](svg/Microsoft_Azure_ContainerService/AnyscaleProjectsDev.svg) | Private.AnyscaleDev/ clouds/ projects |
+| [Anyscale Job](svg/Microsoft_Azure_ContainerService/AnyscaleJobsDev.svg) | Private.AnyscaleDev/ clouds/ projects/ jobs |
+| [Anyscale Container Image](svg/Microsoft_Azure_ContainerService/AnyscaleContainerImagesDev.svg) | Private.AnyscaleDev/ clouds/ containerImages |
+| [Anyscale Compute Config](svg/Microsoft_Azure_ContainerService/AnyscaleComputeConfigsDev.svg) | Private.AnyscaleDev/ clouds/ computeConfigs |
+| [Anyscale Cloud Resource](svg/Microsoft_Azure_ContainerService/AnyscaleCloudResourcesDev.svg) | Private.AnyscaleDev/ clouds/ cloudResources |
+| [Anyscale Cloud](svg/Microsoft_Azure_ContainerService/AnyscaleCloudsDev.svg) | Private.AnyscaleDev/ clouds |
 | [Container storage](svg/Microsoft_Azure_ContainerStorage/ContainerStorage.svg) | Microsoft.ContainerStorage/ pools |
 | [Azure Copilot admin center](svg/Microsoft_Azure_Copilot/CopilotSettingsAsset.svg) |  |
 | [Copilot](svg/Microsoft_Azure_Copilot/Copilot.svg) | Microsoft.PortalServices/ copilots |
@@ -585,6 +607,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [VMware + AVS virtual machine](svg/Microsoft_Azure_HybridCompute/VMwareVm.svg) | Microsoft.ConnectedVMwarevSphere/ VirtualMachines |
 | [VMware vCenter](svg/Microsoft_Azure_HybridCompute/VMwarevCenter.svg) | Microsoft.connectedVMwareVSphere/ vCenters |
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/SoftwareAssurance.svg) | Microsoft.HybridCompute/ machinesSoftwareAssurance |
+| [Service principal](svg/Microsoft_Azure_HybridCompute/ServicePrincipalBrowse.svg) | Microsoft.HybridCompute/ ServicePrincipals |
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/PayGoEligible.svg) | Microsoft.HybridCompute/ machinesPayGo |
 | [Extended Security Updates - Windows Server 2012/R2](svg/Microsoft_Azure_HybridCompute/EsuLicense.svg) | Microsoft.HybridCompute/ licenses |
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/HybridComputeEsu.svg) | Microsoft.HybridCompute/ machinesEsu |
@@ -927,6 +950,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [WCF Relay](svg/Microsoft_Azure_Relay/WcfRelay.svg) | Microsoft.Relay/ namespaces/ WcfRelays |
 | [Relay](svg/Microsoft_Azure_Relay/Relay.svg) | Microsoft.Relay/ namespaces |
 | [Hybrid Connection](svg/Microsoft_Azure_Relay/HybridConnection.svg) | Microsoft.Relay/ namespaces/ HybridConnections |
+| [Billing Benefits Resource](svg/Microsoft_Azure_Reservations/BillingBenefitsAllResources.svg) | Microsoft.BillingBenefits/ allResources |
 | [Savings plan order](svg/Microsoft_Azure_Reservations/SavingsPlanOrderServiceAdminAsset.svg) | Microsoft.BillingBenefits/ savingsPlanOrders |
 | [Savings plan order](svg/Microsoft_Azure_Reservations/SavingsPlanOrderAsset.svg) | Microsoft.Billing/ billingAccounts/ savingsPlanOrders |
 | [Reservation order](svg/Microsoft_Azure_Reservations/ReservationOrderAsset.svg) | Microsoft.Capacity/ reservationorders |
@@ -1046,15 +1070,16 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Built-in template spec](svg/Microsoft_Azure_TemplateSpecs/ArmBuiltInTemplateSpec.svg) | Microsoft.Resources/ builtInTemplateSpecs |
 | [Azure Toolbox](svg/Microsoft_Azure_Toolbox/Overview.svg) |  |
 | [Azure Toolbox](svg/Microsoft_Azure_Toolbox/Gallery.svg) |  |
-| [Microsoft.UsageBilling accounts validation workspaces sign off](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_validationworkspaces_signoffs_2025_01_01_preview.svg) | microsoft.usagebilling/ accounts/ validationworkspaces/ signoffs |
-| [Microsoft.UsageBilling accounts validation workspace](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_validationworkspaces_2025_01_01_preview.svg) | microsoft.usagebilling/ accounts/ validationworkspaces |
-| [Microsoft.UsageBilling accounts pipelines output selector](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_pipelines_outputselectors_2025_01_01_preview.svg) | microsoft.usagebilling/ accounts/ pipelines/ outputselectors |
-| [Microsoft.UsageBilling accounts pipeline](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_pipelines_2025_01_01_preview.svg) | microsoft.usagebilling/ accounts/ pipelines |
-| [Microsoft.UsageBilling accounts pav2output](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_pav2outputs_2025_01_01_preview.svg) | microsoft.usagebilling/ accounts/ pav2outputs |
-| [Microsoft.UsageBilling accounts metric export](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_metricexports_2025_01_01_preview.svg) | microsoft.usagebilling/ accounts/ metricexports |
-| [Microsoft.UsageBilling accounts input](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_inputs_2025_01_01_preview.svg) | microsoft.usagebilling/ accounts/ inputs |
-| [Microsoft.UsageBilling accounts data export](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_dataexports_2025_01_01_preview.svg) | microsoft.usagebilling/ accounts/ dataexports |
-| [Microsoft.UsageBilling account](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_2025_01_01_preview.svg) | microsoft.usagebilling/ accounts |
+| [Microsoft.UsageBilling accounts validation workspaces sign off](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_validationworkspaces_signoffs_2025_12_01_preview.svg) | microsoft.usagebilling/ accounts/ validationworkspaces/ signoffs |
+| [Microsoft.UsageBilling accounts validation workspace](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_validationworkspaces_2025_12_01_preview.svg) | microsoft.usagebilling/ accounts/ validationworkspaces |
+| [Microsoft.UsageBilling accounts stream output](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_streamoutputs_2025_12_01_preview.svg) | microsoft.usagebilling/ accounts/ streamoutputs |
+| [Microsoft.UsageBilling accounts pipelines output selector](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_pipelines_outputselectors_2025_12_01_preview.svg) | microsoft.usagebilling/ accounts/ pipelines/ outputselectors |
+| [Microsoft.UsageBilling accounts pipeline](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_pipelines_2025_12_01_preview.svg) | microsoft.usagebilling/ accounts/ pipelines |
+| [Microsoft.UsageBilling accounts pav2output](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_pav2outputs_2025_12_01_preview.svg) | microsoft.usagebilling/ accounts/ pav2outputs |
+| [Microsoft.UsageBilling accounts metric export](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_metricexports_2025_12_01_preview.svg) | microsoft.usagebilling/ accounts/ metricexports |
+| [Microsoft.UsageBilling accounts input](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_inputs_2025_12_01_preview.svg) | microsoft.usagebilling/ accounts/ inputs |
+| [Microsoft.UsageBilling accounts data export](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_dataexports_2025_12_01_preview.svg) | microsoft.usagebilling/ accounts/ dataexports |
+| [Microsoft.UsageBilling account](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_2025_12_01_preview.svg) | microsoft.usagebilling/ accounts |
 | [Workload](svg/Microsoft_Azure_VirtualEnclaves/Workload.svg) | Microsoft.Mission/ virtualEnclaves/ workloads |
 | [Enclave](svg/Microsoft_Azure_VirtualEnclaves/Enclave.svg) | Microsoft.Mission/ virtualenclaves |
 | [Transit hub](svg/Microsoft_Azure_VirtualEnclaves/TransitHub.svg) | Microsoft.Mission/ communities/ transitHubs |
