@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 17.327.1.1 on 2026-05-27.
+Extracted from Azure Portal version 17.327.2.1 on 2026-05-28.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -30,7 +30,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Informatica Organization](svg/Azure_Marketplace_Informatica/Informatica.svg) | Informatica.DataManagement/ organizations |
 | [New Relic](svg/Azure_Marketplace_Liftr_NewRelic/NewRelic.svg) | NewRelic.Observability/ monitors |
 | [Azure Native Pinecone Cloud Service](svg/Azure_MarketPlace_NativeISVService/Pinecone.svg) | pinecone.vectordb/ organizations |
-| [Azure Native Napster Companion API - An Azure Native ISV Service Cloud Service](svg/Azure_MarketPlace_NativeISVService/Napster.svg) | napster.companionapi/ organizations |
+| [Napster Companion API - An Azure Native ISV Service](svg/Azure_MarketPlace_NativeISVService/Napster.svg) | napster.companionapi/ organizations |
 | [MongoDB Atlas Organization](svg/Azure_MarketPlace_NativeISVService/MongoDB.svg) | mongodb.atlas/ organizations |
 | [MongoDB Atlas Organization](svg/Azure_MarketPlace_NativeISVService/MongoDB_V1.svg) | MongoDB.Atlas/ organizations_V1 |
 | [Azure Native Weights & Biases Cloud Service](svg/Azure_MarketPlace_NativeISVService/WeightsAndBiases.svg) | microsoft.weightsandbiases/ instances |
@@ -1115,6 +1115,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Workloads Hub](svg/Microsoft_Azure_WorkloadHub/VICheckResultsAsset.svg) | microsoft.workloads/ configurationvalidationresults/ checkname |
 | [Workload Virtual Instance](svg/Microsoft_Azure_WorkloadHub/RelatedVIAsset.svg) | Microsoft.Workloads/ virtualInstancess |
 | [Workloads Hub](svg/Microsoft_Azure_WorkloadHub/CheckResultAsset.svg) | microsoft.workloads/ configurationvalidationresults |
+| [Workloads Hub](svg/Microsoft_Azure_WorkloadHub/SAPWorkloadResource.svg) |  |
+| [Azure Workload Center for Oracle](svg/Microsoft_Azure_WorkloadHub/OracleWorkloadResource.svg) |  |
+| [Azure Workload Center for EHR](svg/Microsoft_Azure_WorkloadHub/EPICWorkloadResource.svg) |  |
 | [Configuration Template](svg/Microsoft_Azure_WorkloadHub/VIConfigurationChecksTemplates.svg) | Microsoft.Workloads/ virtualInstances/ Microsoft.Workloads/ configurationChecksTemplates |
 | [Configuration Template](svg/Microsoft_Azure_WorkloadHub/configurationChecksTemplates.svg) | Microsoft.Workloads/ configurationChecksTemplates |
 | [Microsoft.Workloads insight](svg/Microsoft_Azure_WorkloadInsight/microsoft_workloads_insights_2022_10_15_preview.svg) | microsoft.workloads/ insights |
