@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 17.327.2.1 on 2026-05-28.
+Extracted from Azure Portal version 17.327.2.1 on 2026-05-29.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -1115,9 +1115,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Workloads Hub](svg/Microsoft_Azure_WorkloadHub/VICheckResultsAsset.svg) | microsoft.workloads/ configurationvalidationresults/ checkname |
 | [Workload Virtual Instance](svg/Microsoft_Azure_WorkloadHub/RelatedVIAsset.svg) | Microsoft.Workloads/ virtualInstancess |
 | [Workloads Hub](svg/Microsoft_Azure_WorkloadHub/CheckResultAsset.svg) | microsoft.workloads/ configurationvalidationresults |
-| [Workloads Hub](svg/Microsoft_Azure_WorkloadHub/SAPWorkloadResource.svg) |  |
-| [Azure Workload Center for Oracle](svg/Microsoft_Azure_WorkloadHub/OracleWorkloadResource.svg) |  |
-| [Azure Workload Center for EHR](svg/Microsoft_Azure_WorkloadHub/EPICWorkloadResource.svg) |  |
 | [Configuration Template](svg/Microsoft_Azure_WorkloadHub/VIConfigurationChecksTemplates.svg) | Microsoft.Workloads/ virtualInstances/ Microsoft.Workloads/ configurationChecksTemplates |
 | [Configuration Template](svg/Microsoft_Azure_WorkloadHub/configurationChecksTemplates.svg) | Microsoft.Workloads/ configurationChecksTemplates |
 | [Microsoft.Workloads insight](svg/Microsoft_Azure_WorkloadInsight/microsoft_workloads_insights_2022_10_15_preview.svg) | microsoft.workloads/ insights |
