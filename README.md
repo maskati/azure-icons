@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 17.327.2.1 on 2026-05-29.
+Extracted from Azure Portal version 17.327.2.1 on 2026-05-30.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -313,6 +313,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Disk (classic)](svg/Microsoft_Azure_Classic_Compute/Disks.svg) | Microsoft.ClassicStorage/ storageAccounts/ disks |
 | [Domain Name](svg/Microsoft_Azure_Classic_Compute/DomainName.svg) |  |
 | [Transparency log](svg/Microsoft_Azure_CloudforSovereignty/TransparencyLogsAsset.svg) | microsoft.sovereign/ transparencylogs |
+| [Sovereign view](svg/Microsoft_Azure_CloudforSovereignty/SovereignView.svg) | microsoft.sovereign/ sovereignViews |
 | [Regulated Environment Management](svg/Microsoft_Azure_CloudforSovereignty/SovereigntyAsset.svg) |  |
 | [Landing Zone Registration](svg/Microsoft_Azure_CloudforSovereignty/LZRegistrationsAsset.svg) | microsoft.sovereign/ landingzoneaccounts/ landingzoneregistrations |
 | [Landing zone account](svg/Microsoft_Azure_CloudforSovereignty/LandingZoneAccountsAsset.svg) | microsoft.sovereign/ landingzoneaccounts |
@@ -487,20 +488,14 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Dev Tunnels Domain](svg/Microsoft_Azure_DevTunnels/devtunnels.svg) | microsoft.devtunnels/ tunnelplans |
 | [Azure Digital Twins](svg/Microsoft_Azure_DigitalTwins/digitaltwinsInstances.svg) | Microsoft.DigitalTwins/ digitalTwinsInstances |
 | [Microsoft Discovery Workspace](svg/Microsoft_Azure_Discovery/WorkspaceResource.svg) | Microsoft.Discovery/ workspaces |
-| [Microsoft Discovery Workflow](svg/Microsoft_Azure_Discovery/WorkflowResource.svg) | Microsoft.Discovery/ workflows |
 | [Microsoft Discovery Tool](svg/Microsoft_Azure_Discovery/ToolResource.svg) | Microsoft.Discovery/ tools |
 | [Microsoft Discovery Supercomputer](svg/Microsoft_Azure_Discovery/SupercomputerResource.svg) | Microsoft.Discovery/ supercomputers |
 | [Microsoft Discovery Storage Container](svg/Microsoft_Azure_Discovery/StorageContainerResource.svg) | Microsoft.Discovery/ storageContainers |
 | [Storage asset](svg/Microsoft_Azure_Discovery/StorageAssetResource.svg) | Microsoft.Discovery/ storageContainers/ storageAssets |
-| [Microsoft Discovery Storage](svg/Microsoft_Azure_Discovery/StorageResource.svg) | Microsoft.Discovery/ storages |
 | [Microsoft Discovery Project](svg/Microsoft_Azure_Discovery/ProjectResource.svg) | Microsoft.Discovery/ workspaces/ projects |
 | [Nodepool](svg/Microsoft_Azure_Discovery/NodepoolResource.svg) | Microsoft.Discovery/ supercomputers/ nodepools |
-| [Microsoft Discovery Model](svg/Microsoft_Azure_Discovery/ModelResource.svg) | Microsoft.Discovery/ models |
-| [Microsoft Discovery Data Container](svg/Microsoft_Azure_Discovery/DataContainerResource.svg) | Microsoft.Discovery/ dataContainers |
-| [Data asset](svg/Microsoft_Azure_Discovery/DataAssetResource.svg) | Microsoft.Discovery/ dataContainers/ dataAssets |
 | [Chat Model Deployment](svg/Microsoft_Azure_Discovery/ChatModelResource.svg) | Microsoft.Discovery/ workspaces/ chatModelDeployments |
 | [Microsoft Discovery Bookshelf](svg/Microsoft_Azure_Discovery/BookshelfResource.svg) | Microsoft.Discovery/ bookshelves |
-| [Microsoft Discovery Agent](svg/Microsoft_Azure_Discovery/AgentResource.svg) | Microsoft.Discovery/ agents |
 | [Snapshot](svg/Microsoft_Azure_DiskMgmt/Snapshot.svg) | Microsoft.Compute/ snapshots |
 | [Azure compute gallery](svg/Microsoft_Azure_DiskMgmt/SharedImageGallery.svg) | Microsoft.Compute/ galleries |
 | [Restore Point Collection](svg/Microsoft_Azure_DiskMgmt/RestorePointCollection.svg) | Microsoft.Compute/ restorePointCollections |
@@ -551,11 +546,14 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Education](svg/Microsoft_Azure_Education/Education.svg) |  |
 | [Elastic SAN](svg/Microsoft_Azure_ElasticSan/ElasticSan.svg) | Microsoft.ElasticSan/ elasticsans |
 | [Logic app](svg/Microsoft_Azure_EMA/Workflow.svg) | Microsoft.Logic/ workflows |
+| [Connector Namespace (preview)](svg/Microsoft_Azure_EMA/ConnectorGatewayResources.svg) | Microsoft.Web/ connectorGateways |
+| [Connector Namespace (preview)](svg/Microsoft_Azure_EMA/ConnectorGateway.svg) |  |
 | [Managed Connector](svg/Microsoft_Azure_EMA/ManagedConnector.svg) | Microsoft.Logic/ integrationServiceEnvironments/ managedApis |
 | [Logic Apps Template](svg/Microsoft_Azure_EMA/LogicAppsTemplate.svg) | Microsoft.Logic/ templates |
 | [Integration account](svg/Microsoft_Azure_EMA/IntegrationAccount.svg) | Microsoft.Logic/ integrationAccounts |
 | [On-premises data gateway](svg/Microsoft_Azure_EMA/Gateway.svg) | Microsoft.Web/ connectionGateways |
 | [Logic apps custom connector](svg/Microsoft_Azure_EMA/CustomConnector.svg) | Microsoft.Web/ customApis |
+| [Automation Project](svg/Microsoft_Azure_EMA/AutomationProject.svg) | Microsoft.Logic/ automationProjects |
 | [API Connection](svg/Microsoft_Azure_EMA/ApiConnection.svg) | Microsoft.Web/ connections |
 | [Email Communication Service](svg/Microsoft_Azure_EmailCommunicationServices/EmailCommunicationService.svg) | Microsoft.Communication/ EmailServices |
 | [Email Communication Services Domain](svg/Microsoft_Azure_EmailCommunicationServices/EmailCommunicationServicesDomain.svg) | Microsoft.Communication/ EmailServices/ Domains |
@@ -1012,7 +1010,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Database for SAP solutions](svg/Microsoft_Azure_SAPManagement/SAP_DB_Server_instance.svg) | Microsoft.Workloads/ sapVirtualInstances/ databaseInstances |
 | [Central service instance for SAP solutions](svg/Microsoft_Azure_SAPManagement/SAP_Central_Server_instance.svg) | Microsoft.Workloads/ sapVirtualInstances/ centralInstances |
 | [App server instance for SAP solutions](svg/Microsoft_Azure_SAPManagement/SAP_App_Server_instance.svg) | Microsoft.Workloads/ sapVirtualInstances/ applicationInstances |
-| [Search service](svg/Microsoft_Azure_Search/SearchService.svg) | Microsoft.Search/ searchServices |
+| [Search service (Foundry IQ)](svg/Microsoft_Azure_Search/SearchService.svg) | Microsoft.Search/ searchServices |
 | [Microsoft Defender for Cloud](svg/Microsoft_Azure_Security/SecurityDashboard.svg) |  |
 | [Security Alert](svg/Microsoft_Azure_Security/SecurityAlerts.svg) | microsoft.security/ locations/ alerts |
 | [Security Private Link](svg/Microsoft_Azure_Security_CloudNativeCompute/PrivateLinkResource.svg) | Microsoft.Security/ privatelinks |
@@ -1115,6 +1113,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Workloads Hub](svg/Microsoft_Azure_WorkloadHub/VICheckResultsAsset.svg) | microsoft.workloads/ configurationvalidationresults/ checkname |
 | [Workload Virtual Instance](svg/Microsoft_Azure_WorkloadHub/RelatedVIAsset.svg) | Microsoft.Workloads/ virtualInstancess |
 | [Workloads Hub](svg/Microsoft_Azure_WorkloadHub/CheckResultAsset.svg) | microsoft.workloads/ configurationvalidationresults |
+| [Workloads Hub](svg/Microsoft_Azure_WorkloadHub/SAPWorkloadResource.svg) |  |
+| [Azure Workload Center for Oracle](svg/Microsoft_Azure_WorkloadHub/OracleWorkloadResource.svg) |  |
+| [Azure Workload Center for EHR](svg/Microsoft_Azure_WorkloadHub/EPICWorkloadResource.svg) |  |
 | [Configuration Template](svg/Microsoft_Azure_WorkloadHub/VIConfigurationChecksTemplates.svg) | Microsoft.Workloads/ virtualInstances/ Microsoft.Workloads/ configurationChecksTemplates |
 | [Configuration Template](svg/Microsoft_Azure_WorkloadHub/configurationChecksTemplates.svg) | Microsoft.Workloads/ configurationChecksTemplates |
 | [Microsoft.Workloads insight](svg/Microsoft_Azure_WorkloadInsight/microsoft_workloads_insights_2022_10_15_preview.svg) | microsoft.workloads/ insights |
@@ -1191,7 +1192,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Sample](svg/Microsoft_Premonition/Sample.svg) | Microsoft.Premonition/ Libraries/ Samples |
 | [Library](svg/Microsoft_Premonition/Library.svg) | Microsoft.Premonition/ Libraries |
 | [Analysis](svg/Microsoft_Premonition/Analysis.svg) | Microsoft.Premonition/ Libraries/ Analyses |
-| [My Resource](svg/Microsoft_Programs/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
+| [My Resource](svg/Microsoft_Programs/MicrosoftPrograms.svg) | Providers.Test/ statefulIbizaEngines |
 | [SafeFly](svg/Microsoft_SafeflyV2/SafeFlyV2.svg) |  |
 | [Microsoft Security compute capacity](svg/Microsoft_Security_Copilot/SecurityCopilotResource.svg) | Microsoft.SecurityCopilot/ capacities |
 | [Private Engage Center Connector](svg/Microsoft_ServicesHub_Extension/PrivateConnector.svg) | Private.ServicesHubDev/ connectors |
