@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 17.327.2.1 on 2026-05-31.
+Extracted from Azure Portal version 17.327.2.1 on 2026-06-01.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -545,11 +545,14 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Education](svg/Microsoft_Azure_Education/Education.svg) |  |
 | [Elastic SAN](svg/Microsoft_Azure_ElasticSan/ElasticSan.svg) | Microsoft.ElasticSan/ elasticsans |
 | [Logic app](svg/Microsoft_Azure_EMA/Workflow.svg) | Microsoft.Logic/ workflows |
+| [Connector Namespace (preview)](svg/Microsoft_Azure_EMA/ConnectorGatewayResources.svg) | Microsoft.Web/ connectorGateways |
+| [Connector Namespace (preview)](svg/Microsoft_Azure_EMA/ConnectorGateway.svg) |  |
 | [Managed Connector](svg/Microsoft_Azure_EMA/ManagedConnector.svg) | Microsoft.Logic/ integrationServiceEnvironments/ managedApis |
 | [Logic Apps Template](svg/Microsoft_Azure_EMA/LogicAppsTemplate.svg) | Microsoft.Logic/ templates |
 | [Integration account](svg/Microsoft_Azure_EMA/IntegrationAccount.svg) | Microsoft.Logic/ integrationAccounts |
 | [On-premises data gateway](svg/Microsoft_Azure_EMA/Gateway.svg) | Microsoft.Web/ connectionGateways |
 | [Logic apps custom connector](svg/Microsoft_Azure_EMA/CustomConnector.svg) | Microsoft.Web/ customApis |
+| [Automation Project](svg/Microsoft_Azure_EMA/AutomationProject.svg) | Microsoft.Logic/ automationProjects |
 | [API Connection](svg/Microsoft_Azure_EMA/ApiConnection.svg) | Microsoft.Web/ connections |
 | [Email Communication Service](svg/Microsoft_Azure_EmailCommunicationServices/EmailCommunicationService.svg) | Microsoft.Communication/ EmailServices |
 | [Email Communication Services Domain](svg/Microsoft_Azure_EmailCommunicationServices/EmailCommunicationServicesDomain.svg) | Microsoft.Communication/ EmailServices/ Domains |
@@ -962,7 +965,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Conditional Credit](svg/Microsoft_Azure_Reservations/ConditionalCreditBrowseAsset.svg) | Microsoft.BillingBenefits/ conditionalCredits |
 | [Savings plan](svg/Microsoft_Azure_Reservations/SavingsPlanBrowseAsset.svg) |  |
 | [Reservation](svg/Microsoft_Azure_Reservations/ReservationsBrowseAsset.svg) |  |
-| [ContosoTaskApp](svg/Microsoft_Azure_ResiliencyHub/ResiliencyHub.svg) |  |
+| [Resiliency](svg/Microsoft_Azure_ResiliencyHub/ResiliencyHub.svg) |  |
 | [Azure Resource Mover](svg/Microsoft_Azure_ResourceMove/AzureResourceMoveHub.svg) |  |
 | [My Resource](svg/Microsoft_Azure_ResourceMoveV2/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [What's new](svg/Microsoft_Azure_Resources/WhatsNew.svg) |  |
