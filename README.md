@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 17.385.0.1 on 2026-06-05.
+Extracted from Azure Portal version 17.385.0.1 on 2026-06-06.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -338,7 +338,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Code Optimizations](svg/Microsoft_Azure_CodeOptimizations/CodeOptimizations.svg) |  |
 | [Artifact Signing Account](svg/Microsoft_Azure_CodeSigning/CodeSigningAccounts.svg) | Microsoft.CodeSigning/ codesigningaccounts |
 | [Communication Service](svg/Microsoft_Azure_CommunicationServices/Communication.svg) | Microsoft.Communication/ CommunicationServices |
-| [Community Training](svg/Microsoft_Azure_CommunityTraining/CommunityTraining.svg) | Microsoft.Community/ communityTrainings |
 | [Virtual machine scale set](svg/Microsoft_Azure_Compute/VirtualMachineScaleSet.svg) | Microsoft.Compute/ virtualMachineScaleSets |
 | [Virtual machine](svg/Microsoft_Azure_Compute/VirtualMachine.svg) | Microsoft.Compute/ VirtualMachines |
 | [Virtual machine](svg/Microsoft_Azure_Compute/AllVirtualMachine.svg) | Microsoft.All/ virtualMachines |
@@ -968,7 +967,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Reservation](svg/Microsoft_Azure_Reservations/ReservationsBrowseAsset.svg) |  |
 | [Resiliency](svg/Microsoft_Azure_ResiliencyHub/ResiliencyHub.svg) |  |
 | [Azure Resource Mover](svg/Microsoft_Azure_ResourceMove/AzureResourceMoveHub.svg) |  |
-| [My Resource](svg/Microsoft_Azure_ResourceMoveV2/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
+| [Move Project](svg/Microsoft_Azure_ResourceMoveV2/MoveProject.svg) | Microsoft.ResourceMover/ moveProjects |
 | [What's new](svg/Microsoft_Azure_Resources/WhatsNew.svg) |  |
 | [User privacy](svg/Microsoft_Azure_Resources/UserPrivacy.svg) |  |
 | [Service group](svg/Microsoft_Azure_Resources/ServiceGroups.svg) | microsoft.management/ serviceGroups |
