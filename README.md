@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 17.385.0.1 on 2026-06-08.
+Extracted from Azure Portal version 17.385.0.1 on 2026-06-09.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -606,7 +606,10 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/SoftwareAssurance.svg) | Microsoft.HybridCompute/ machinesSoftwareAssurance |
 | [Service principal](svg/Microsoft_Azure_HybridCompute/ServicePrincipalBrowse.svg) | Microsoft.HybridCompute/ ServicePrincipals |
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/PayGoEligible.svg) | Microsoft.HybridCompute/ machinesPayGo |
-| [Extended Security Updates - Windows Server 2012/R2](svg/Microsoft_Azure_HybridCompute/EsuLicense.svg) | Microsoft.HybridCompute/ licenses |
+| [Extended Security Updates - Windows Server 2016](svg/Microsoft_Azure_HybridCompute/EsuLicense2016LinkedResources.svg) | Microsoft.HybridCompute/ EsuLicense2016LinkedResources |
+| [Extended Security Updates - Windows Server 2016](svg/Microsoft_Azure_HybridCompute/EsuLicense2016.svg) | Microsoft.HybridCompute/ licenses2016 |
+| [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/HybridComputeEsu2016.svg) | Microsoft.HybridCompute/ machinesEsu2016 |
+| [Extended Security Updates](svg/Microsoft_Azure_HybridCompute/EsuLicense.svg) | Microsoft.HybridCompute/ licenses |
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/HybridComputeEsu.svg) | Microsoft.HybridCompute/ machinesEsu |
 | [Azure Arc gateway](svg/Microsoft_Azure_HybridCompute/ArcGateway.svg) | Microsoft.HybridCompute/ gateways |
 | [Arc gateway associated resource](svg/Microsoft_Azure_HybridCompute/ArcGatewayAssociatedResources.svg) | Microsoft.HybridCompute/ ArcGatewayAssociatedResources |
