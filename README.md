@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 17.385.0.1 on 2026-06-09.
+Extracted from Azure Portal version 17.385.0.1 on 2026-06-10.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -676,7 +676,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Key vault](svg/Microsoft_Azure_KeyVault/KeyVault.svg) | Microsoft.KeyVault/ vaults |
 | [Key](svg/Microsoft_Azure_KeyVault/Key.svg) |  |
 | [Certificate](svg/Microsoft_Azure_KeyVault/Certificate.svg) |  |
-| [Kubernetes center (preview)](svg/Microsoft_Azure_KubernetesFleet/KubernetesHub.svg) |  |
+| [Kubernetes center](svg/Microsoft_Azure_KubernetesFleet/KubernetesHub.svg) |  |
 | [Container Instances Standby Pool](svg/Microsoft_Azure_KubernetesFleet/StandbyContainerGroupPools.svg) | Microsoft.StandbyPool/ standbyContainerGroupPools |
 | [Container Instances Center](svg/Microsoft_Azure_KubernetesFleet/ContainerInstancesCenter.svg) |  |
 | [Container group profile](svg/Microsoft_Azure_KubernetesFleet/ContainerGroupProfiles.svg) | Microsoft.ContainerInstance/ containerGroupProfiles |
@@ -795,7 +795,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Network Watcher](svg/Microsoft_Azure_Network/NetworkWatcherResource.svg) | microsoft.network/ networkwatchers |
 | [Network Watcher](svg/Microsoft_Azure_Network/NetworkWatcher.svg) |  |
 | [Network security group](svg/Microsoft_Azure_Network/NetworkSecurityGroup.svg) | Microsoft.Network/ NetworkSecurityGroups |
-| [Network watcher center](svg/Microsoft_Azure_Network/NetworkMonitoringHub.svg) |  |
+| [Network Watcher center](svg/Microsoft_Azure_Network/NetworkMonitoringHub.svg) |  |
 | [Network interface](svg/Microsoft_Azure_Network/NetworkInterface.svg) | Microsoft.Network/ networkinterfaces |
 | [Network foundation](svg/Microsoft_Azure_Network/NetworkFoundation.svg) |  |
 | [NAT gateway](svg/Microsoft_Azure_Network/NatGateway.svg) | Microsoft.Network/ natGateways |
