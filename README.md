@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 17.385.5.1 on 2026-06-16.
+Extracted from Azure Portal version 17.385.5.1 on 2026-06-17.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -1140,7 +1140,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Connected Cache for ISP](svg/Microsoft_ConnectedCache_ISP/MCCIspResource.svg) | Microsoft.ConnectedCache/ ispCustomers |
 | [Managed Desktop](svg/Microsoft_EMM_ModernWorkplace/MWaaSFF.svg) |  |
 | [Managed Desktop](svg/Microsoft_EMM_ModernWorkplace/MWaaS.svg) |  |
-| [My Resource](svg/Microsoft_EngOps_EscalationManager/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Copilot](svg/Microsoft_Entra_Copilot/SidecarChatAsset.svg) |  |
 | [My Resource](svg/Microsoft_Entra_GSA_Connect/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [My Resource](svg/Microsoft_Entra_IDX/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
@@ -1203,6 +1202,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Private Engage Center Connector](svg/Microsoft_ServicesHub_Extension/PrivateConnector.svg) | Private.ServicesHubDev/ connectors |
 | [Engage Center Connector](svg/Microsoft_ServicesHub_Extension/Connector.svg) | Microsoft.ServicesHub/ connectors |
 | [Azure AI Video Indexer](svg/Microsoft_VideoIndexer/VideoIndexerAccount.svg) | Microsoft.VideoIndexer/ accounts |
+| [Azure AI Video Indexer Arc extension](svg/Microsoft_VideoIndexer/ArcExtensionCreate.svg) |  |
 | [Oracle AI Database@Azure](svg/Oracle_Databases_At_Azure/oracledatabaseservice.svg) |  |
 | [Resource Anchor](svg/Oracle_Databases_At_Azure/oracle_resource_anchor.svg) | Oracle.Database/ resourceanchors |
 | [Network Anchor](svg/Oracle_Databases_At_Azure/oracle_network_anchor.svg) | Oracle.Database/ networkanchors |
