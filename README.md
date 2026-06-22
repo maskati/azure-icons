@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 17.385.5.1 on 2026-06-21.
+Extracted from Azure Portal version 17.385.5.1 on 2026-06-22.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -748,6 +748,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Autoscale](svg/Microsoft_Azure_Monitoring/Autoscale.svg) |  |
 | [Azure Monitor pipeline](svg/Microsoft_Azure_Monitoring/AzureEdgePipeline.svg) | Microsoft.monitor/ pipelineGroups |
 | [Smart detector alert rule](svg/Microsoft_Azure_Monitoring_Alerts/SmartDetectorAlertRule.svg) | microsoft.alertsmanagement/ smartdetectoralertrules |
+| [Observability agent](svg/Microsoft_Azure_Monitoring_Alerts/ObservabilityAgent.svg) | microsoft.monitor/ observabilityagents |
 | [Metric alert rule](svg/Microsoft_Azure_Monitoring_Alerts/MetricAlertRule.svg) | microsoft.insights/ metricalerts |
 | [Log search alert rule](svg/Microsoft_Azure_Monitoring_Alerts/LogSearchAlertRule.svg) | microsoft.insights/ scheduledqueryrules |
 | [Issue](svg/Microsoft_Azure_Monitoring_Alerts/Issue.svg) | microsoft.monitor/ accounts/ issues |
