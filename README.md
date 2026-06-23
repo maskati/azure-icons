@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 17.385.5.1 on 2026-06-22.
+Extracted from Azure Portal version 17.385.5.1 on 2026-06-23.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -34,6 +34,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Native Weights & Biases Cloud Service](svg/Azure_MarketPlace_NativeISVService/WeightsAndBiases.svg) | microsoft.weightsandbiases/ instances |
 | [Azure Native LiftrLite Sample RP - An Azure Native Sample RP Cloud Service](svg/Azure_MarketPlace_NativeISVService/Liftrbasic.svg) | liftrbasic.samplerp/ organizations |
 | [Azure Native LambdaTest - HyperExecute Cloud Service](svg/Azure_MarketPlace_NativeISVService/LambdaTest.svg) | lambdatest.hyperexecute/ organizations |
+| [Dell PowerScale](svg/Azure_MarketPlace_NativeISVService/DellStorage.svg) | dell.storage/ filesystems |
 | [Commvault Cloud](svg/Azure_MarketPlace_NativeISVService/CommvaultOverview.svg) |  |
 | [Commvault Cloud Account](svg/Azure_MarketPlace_NativeISVService/CommvaultCloudAccounts.svg) | Commvault.ContentStore/ cloudAccounts |
 | [Astro Organization](svg/Azure_MarketPlace_NativeISVService/Astronomer.svg) | astronomer.astro/ organizations |
@@ -633,7 +634,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [SQL Server ESU license](svg/Microsoft_Azure_HybridData_Platform/SqlServerEsuLicense.svg) | microsoft.azurearcdata/ sqlserveresulicenses |
 | [SQL managed instance - Azure Arc](svg/Microsoft_Azure_HybridData_Platform/SqlManagedInstance.svg) | Microsoft.AzureArcData/ sqlManagedInstances |
 | [PostgresSql Server - Azure Arc](svg/Microsoft_Azure_HybridData_Platform/PostgresSqlServer.svg) | Microsoft.AzureArcData/ PostgresSqlServer |
-| [PostgreSQL server – Azure Arc](svg/Microsoft_Azure_HybridData_Platform/PostgresInstance.svg) | Microsoft.AzureArcData/ postgresInstances |
+| [PostgreSQL Server – Azure Arc](svg/Microsoft_Azure_HybridData_Platform/PostgresInstance.svg) | Microsoft.AzureArcData/ postgresInstances |
 | [MySql Server - Azure Arc](svg/Microsoft_Azure_HybridData_Platform/MySqlServer.svg) | Microsoft.AzureArcData/ MySqlServer |
 | [Azure Arc data controller](svg/Microsoft_Azure_HybridData_Platform/DataController.svg) | Microsoft.AzureArcData/ dataControllers |
 | [Microsoft.Network network virtual appliance](svg/Microsoft_Azure_HybridNetworking/microsoft_network_networkvirtualappliances_2020_03_01.svg) | microsoft.network/ networkvirtualappliances |
