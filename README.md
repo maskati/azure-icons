@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 17.385.5.1 on 2026-06-24.
+Extracted from Azure Portal version 17.385.5.1 on 2026-06-25.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -313,7 +313,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Domain Name](svg/Microsoft_Azure_Classic_Compute/DomainName.svg) |  |
 | [Transparency log](svg/Microsoft_Azure_CloudforSovereignty/TransparencyLogsAsset.svg) | microsoft.sovereign/ transparencylogs |
 | [Sovereign view](svg/Microsoft_Azure_CloudforSovereignty/SovereignView.svg) | microsoft.sovereign/ sovereignViews |
-| [Regulated Environment Management](svg/Microsoft_Azure_CloudforSovereignty/SovereigntyAsset.svg) |  |
+| [Sovereign Control Panel](svg/Microsoft_Azure_CloudforSovereignty/SovereigntyAsset.svg) |  |
 | [Landing Zone Registration](svg/Microsoft_Azure_CloudforSovereignty/LZRegistrationsAsset.svg) | microsoft.sovereign/ landingzoneaccounts/ landingzoneregistrations |
 | [Landing zone account](svg/Microsoft_Azure_CloudforSovereignty/LandingZoneAccountsAsset.svg) | microsoft.sovereign/ landingzoneaccounts |
 | [Landing Zone Configuration](svg/Microsoft_Azure_CloudforSovereignty/LZConfigurationsAsset.svg) | microsoft.sovereign/ landingzoneaccounts/ landingzoneconfigurations |
@@ -1003,7 +1003,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Preview features](svg/Microsoft_Azure_Resources/PreviewFeaturesArg.svg) | microsoft.features/ featureprovidernamespaces/ featureconfigurations |
 | [Preview features](svg/Microsoft_Azure_Resources/PreviewFeatures.svg) |  |
 | [Azure Portal admin center](svg/Microsoft_Azure_Resources/AdminSettingsAsset.svg) |  |
-| [Microsoft SaaS (Preview)](svg/Microsoft_Azure_SaasHub/SaaSHub.svg) | Microsoft.SaaSHub/ cloudServices/ hidden |
+| [Microsoft SaaS (Preview)](svg/Microsoft_Azure_SaasHub/SaaSHub.svg) | Microsoft.SaaSHub/ cloudServices |
 | [SAP HANA on Azure](svg/Microsoft_Azure_SapHanaInstances/HanaInstance.svg) | Microsoft.HanaOnAzure/ hanaInstances |
 | [BareMetal Instance](svg/Microsoft_Azure_SapHanaInstances/BareMetalInstance.svg) | Microsoft.BareMetalInfrastructure/ bareMetalInstances |
 | [Azure Large Instance](svg/Microsoft_Azure_SapHanaInstances/AzureLargeInstance.svg) | Microsoft.AzureLargeInstance/ azureLargeInstances |
