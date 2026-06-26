@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 17.385.5.1 on 2026-06-25.
+Extracted from Azure Portal version 18.86.1.1 on 2026-06-26.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -780,6 +780,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Content Delivery Network WAF policy](svg/Microsoft_Azure_Network/ContentDeliveryNetworkWafPolicy.svg) | Microsoft.Cdn/ CdnWebApplicationFirewallPolicies |
 | [Application Gateway WAF policy](svg/Microsoft_Azure_Network/ApplicationGatewayWafPolicy.svg) | Microsoft.Network/ ApplicationGatewayWebApplicationFirewallPolicies |
 | [Virtual network terminal access point](svg/Microsoft_Azure_Network/VirtualNetworkTAP.svg) | microsoft.network/ virtualnetworktaps |
+| [Virtual network private endpoint](svg/Microsoft_Azure_Network/VirtualNetworkPrivateEndpoint.svg) | Microsoft.Network/ virtualNetworks/ privateEndpoints |
 | [Virtual network link](svg/Microsoft_Azure_Network/VirtualNetworkLink.svg) | Microsoft.Network/ privateDnsZones/ virtualNetworkLinks |
 | [Virtual network](svg/Microsoft_Azure_Network/VirtualNetwork.svg) | Microsoft.Network/ virtualNetworks |
 | [Service endpoint policy](svg/Microsoft_Azure_Network/ServiceEndpointPolicy.svg) | Microsoft.Network/ serviceEndpointPolicies |
