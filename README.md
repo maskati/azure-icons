@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.86.1.1 on 2026-06-26.
+Extracted from Azure Portal version 18.86.1.1 on 2026-06-27.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -1090,7 +1090,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Community endpoint](svg/Microsoft_Azure_VirtualEnclaves/CommunityEndpoint.svg) | Microsoft.Mission/ communities/ communityEndpoints |
 | [Community](svg/Microsoft_Azure_VirtualEnclaves/Community.svg) | Microsoft.Mission/ communities |
 | [Catalog](svg/Microsoft_Azure_VirtualEnclaves/Catalog.svg) | Microsoft.Mission/ catalogs |
-| [Azure Virtual Enclaves](svg/Microsoft_Azure_VirtualEnclaves/AzureVirtualEnclave.svg) |  |
+| [Azure Enclave](svg/Microsoft_Azure_VirtualEnclaves/AzureVirtualEnclave.svg) |  |
 | [Approval](svg/Microsoft_Azure_VirtualEnclaves/Approvals.svg) | Microsoft.Mission/ approvals |
 | [Virtual machine scale set](svg/Microsoft_Azure_VirtualMachineScaleSets/VirtualMachineScaleSets.svg) | Microsoft.Compute/ virtualMachineScaleSets |
 | [Azure Virtual Network routing appliance](svg/Microsoft_Azure_VirtualNetworkAppliance/VirtualNetworkAppliance.svg) | Microsoft.Network/ virtualNetworkAppliances |
