@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.86.1.1 on 2026-06-30.
+Extracted from Azure Portal version 18.86.1.1 on 2026-07-01.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -372,7 +372,14 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Recommendations](svg/Microsoft_Azure_ComputeHub/AdvisorCost.svg) | Microsoft.ComputeHub/ AdvisorCost |
 | [Confidential Ledger](svg/Microsoft_Azure_ConfidentialLedger/ConfidentialLedger.svg) | Microsoft.ConfidentialLedger/ ledgers |
 | [Managed CCF App](svg/Microsoft_Azure_ConfidentialLedger/ManagedCCF.svg) | Microsoft.ConfidentialLedger/ ManagedCCFs |
-| [Solution Manager](svg/Microsoft_Azure_ConfigManager/ConfigManager.svg) |  |
+| [Target](svg/Microsoft_Azure_ConfigManager/TargetDetailsMenu.svg) | Microsoft.Edge/ targets |
+| [Solution template](svg/Microsoft_Azure_ConfigManager/SolutionTemplateMenu.svg) | Microsoft.Edge/ solutiontemplates |
+| [Solution Details](svg/Microsoft_Azure_ConfigManager/SolutionDetailsMenu.svg) | Microsoft.Edge/ solutiontemplates/ versions |
+| [Schema](svg/Microsoft_Azure_ConfigManager/SchemaTemplateMenu.svg) | Microsoft.Edge/ schemas |
+| [Schema](svg/Microsoft_Azure_ConfigManager/SchemaMenu.svg) | Microsoft.Edge/ schemas/ versions |
+| [Context](svg/Microsoft_Azure_ConfigManager/OrganisationalHierarchyMenu.svg) | Microsoft.Edge/ contexts |
+| [Hierarchy Configuration](svg/Microsoft_Azure_ConfigManager/HierarchyConfigurationMenu.svg) | Microsoft.Edge/ configTemplates/ versions |
+| [Hierarchy Configuration Template](svg/Microsoft_Azure_ConfigManager/ConfigTemplateMenu.svg) | Microsoft.Edge/ configTemplates |
 | [Container registry webhook](svg/Microsoft_Azure_ContainerRegistries/WebhookResource.svg) | Microsoft.ContainerRegistry/ registries/ webhooks |
 | [Container registry token](svg/Microsoft_Azure_ContainerRegistries/TokenResource.svg) | Microsoft.ContainerRegistry/ registries/ tokens |
 | [Container registry scope map](svg/Microsoft_Azure_ContainerRegistries/ScopeMapResource.svg) | Microsoft.ContainerRegistry/ registries/ scopeMaps |
@@ -1146,7 +1153,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [COSMIC Namespace](svg/Microsoft_Exchange_Cosmic/CosmicNamespace.svg) | Microsoft.Cosmic/ namespaces |
 | [COSMIC Environment](svg/Microsoft_Exchange_Cosmic/CosmicEnvironment.svg) | Microsoft.Cosmic/ namespaces/ environments |
 | [FHIR service](svg/Microsoft_Healthcare_APIs/JupiterFhirService.svg) | Microsoft.HealthcareApis/ workspaces/ fhirservices |
-| [MedTech service](svg/Microsoft_Healthcare_APIs/IotConnector.svg) | Microsoft.HealthcareApis/ workspaces/ iotconnectors |
 | [Azure Health Data and AI Services](svg/Microsoft_Healthcare_APIs/HealthDataAIServices.svg) | Microsoft.Test/ healthDataAIServices |
 | [Health Data Services workspace](svg/Microsoft_Healthcare_APIs/HealthcareApisService.svg) | Microsoft.HealthcareApis/ workspaces |
 | [Azure API for FHIR](svg/Microsoft_Healthcare_APIs/FhirService.svg) | Microsoft.HealthcareApis/ services |
