@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.86.1.1 on 2026-07-01.
+Extracted from Azure Portal version 18.113.0.1 on 2026-07-02.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -301,7 +301,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Validation](svg/Microsoft_Azure_ChangeSafety/changesafety_validations.svg) | microsoft.changesafety/ validations |
 | [Stage map](svg/Microsoft_Azure_ChangeSafety/changesafety_stagemaps.svg) | microsoft.changesafety/ stagemaps |
 | [Change record](svg/Microsoft_Azure_ChangeSafety/changesafety_changestates.svg) | microsoft.changesafety/ changestates |
+| [Change record](svg/Microsoft_Azure_ChangeSafety/changesafety_changerecords.svg) | microsoft.changesafety/ changerecords |
 | [Stage progression](svg/Microsoft_Azure_ChangeSafety/changesafety_changestates_stageprogressions.svg) | microsoft.changesafety/ changestates/ stageprogressions |
+| [Stage progression](svg/Microsoft_Azure_ChangeSafety/changesafety_changerecords_stageprogressions.svg) | microsoft.changesafety/ changerecords/ stageprogressions |
 | [Workspace](svg/Microsoft_Azure_Chaos/workspace.svg) | microsoft.chaos/ workspaces |
 | [Agent Private Access](svg/Microsoft_Azure_Chaos/privateAccess.svg) | microsoft.chaos/ privateaccesses |
 | [Chaos Studio](svg/Microsoft_Azure_Chaos/chaosStudio.svg) |  |
