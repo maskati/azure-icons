@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.111.0.1 on 2026-07-03.
+Extracted from Azure Portal version 18.117.0.1 on 2026-07-04.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -313,6 +313,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [OS image (classic)](svg/Microsoft_Azure_Classic_Compute/OsUserImages.svg) | Microsoft.ClassicStorage/ storageAccounts/ osimages |
 | [Disk (classic)](svg/Microsoft_Azure_Classic_Compute/Disks.svg) | Microsoft.ClassicStorage/ storageAccounts/ disks |
 | [Domain Name](svg/Microsoft_Azure_Classic_Compute/DomainName.svg) |  |
+| [Clean room](svg/Microsoft_Azure_CleanRooms/CleanRoom.svg) | Microsoft.Confidential/ cleanrooms |
 | [Transparency log](svg/Microsoft_Azure_CloudforSovereignty/TransparencyLogsAsset.svg) | microsoft.sovereign/ transparencylogs |
 | [Sovereign view](svg/Microsoft_Azure_CloudforSovereignty/SovereignView.svg) | microsoft.sovereign/ sovereignViews |
 | [Sovereign Control Panel](svg/Microsoft_Azure_CloudforSovereignty/SovereigntyAsset.svg) |  |
@@ -924,6 +925,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Power BI Embedded](svg/Microsoft_Azure_PowerBIDedicated/PowerBIDedicated.svg) | Microsoft.PowerBIDedicated/ capacities |
 | [Power Platform](svg/Microsoft_Azure_PowerPlatform/PowerPlatform.svg) |  |
 | [Private DNS zone](svg/Microsoft_Azure_PrivateDNS/PrivateDnsZone.svg) | Microsoft.Network/ privateDnsZones |
+| [Private Traffic Manager Profile](svg/Microsoft_Azure_PrivateTrafficManager/PrivateTrafficManagerProfile.svg) | Microsoft.Network/ privateTrafficManagerProfiles |
 | [Microsoft Purview account](svg/Microsoft_Azure_ProjectBabylon/PurviewAccountResource.svg) | Microsoft.Purview/ Accounts |
 | [Translator](svg/Microsoft_Azure_ProjectOxford/TextTranslation.svg) | Microsoft.CognitiveServices/ BrowseTextTranslation |
 | [Language](svg/Microsoft_Azure_ProjectOxford/TextAnalyticsWithConfiguration.svg) |  |
