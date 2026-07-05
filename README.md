@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.117.0.1 on 2026-07-04.
+Extracted from Azure Portal version 18.113.0.1 on 2026-07-05.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -499,7 +499,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Microsoft Discovery Tool](svg/Microsoft_Azure_Discovery/ToolResource.svg) | Microsoft.Discovery/ tools |
 | [Microsoft Discovery Supercomputer](svg/Microsoft_Azure_Discovery/SupercomputerResource.svg) | Microsoft.Discovery/ supercomputers |
 | [Microsoft Discovery Storage Container](svg/Microsoft_Azure_Discovery/StorageContainerResource.svg) | Microsoft.Discovery/ storageContainers |
-| [Storage asset](svg/Microsoft_Azure_Discovery/StorageAssetResource.svg) | Microsoft.Discovery/ storageContainers/ storageAssets |
+| [Storage Asset](svg/Microsoft_Azure_Discovery/StorageAssetResource.svg) | Microsoft.Discovery/ storageContainers/ storageAssets |
 | [Microsoft Discovery Project](svg/Microsoft_Azure_Discovery/ProjectResource.svg) | Microsoft.Discovery/ workspaces/ projects |
 | [Nodepool](svg/Microsoft_Azure_Discovery/NodepoolResource.svg) | Microsoft.Discovery/ supercomputers/ nodepools |
 | [Chat Model Deployment](svg/Microsoft_Azure_Discovery/ChatModelResource.svg) | Microsoft.Discovery/ workspaces/ chatModelDeployments |
