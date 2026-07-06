@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.113.0.1 on 2026-07-05.
+Extracted from Azure Portal version 18.113.0.1 on 2026-07-06.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -433,7 +433,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Cost Management for AWS](svg/Microsoft_Azure_CostManagement/Connectors.svg) |  |
 | [Budgets](svg/Microsoft_Azure_CostManagement/Budgets.svg) |  |
 | [Deployment Stack](svg/Microsoft_Azure_CreateUIDef/DeploymentStack.svg) |  |
-| [Deploy a custom template](svg/Microsoft_Azure_CreateUIDef/CustomTemplate.svg) |  |
+| [Deploy a custom template](svg/Microsoft_Azure_CreateUIDef/CustomTemplate.svg) | Microsoft.Templates/ UIDefinitions/ FormBlade |
 | [Extension Version](svg/Microsoft_Azure_CreateUIDef/PortalExtensionVersions.svg) | Microsoft.PortalServices/ Extensions/ Versions |
 | [Extension Slot](svg/Microsoft_Azure_CreateUIDef/PortalExtensionSlots.svg) | Microsoft.PortalServices/ Extensions/ Slots |
 | [Portal Extension](svg/Microsoft_Azure_CreateUIDef/PortalExtensions.svg) | Microsoft.PortalServices/ Extensions |
