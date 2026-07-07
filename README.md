@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.113.0.1 on 2026-07-06.
+Extracted from Azure Portal version 18.113.0.1 on 2026-07-07.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -565,6 +565,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [API Connection](svg/Microsoft_Azure_EMA/ApiConnection.svg) | Microsoft.Web/ connections |
 | [Email Communication Service](svg/Microsoft_Azure_EmailCommunicationServices/EmailCommunicationService.svg) | Microsoft.Communication/ EmailServices |
 | [Email Communication Services Domain](svg/Microsoft_Azure_EmailCommunicationServices/EmailCommunicationServicesDomain.svg) | Microsoft.Communication/ EmailServices/ Domains |
+| [My Resource](svg/Microsoft_Azure_ESI/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Event Grid Topic Space](svg/Microsoft_Azure_EventGrid/TopicSpace.svg) | Microsoft.EventGrid/ namespaces/ topicSpaces |
 | [Event Grid Topic](svg/Microsoft_Azure_EventGrid/Topic.svg) | Microsoft.EventGrid/ topics |
 | [Event Grid Subscriptions](svg/Microsoft_Azure_EventGrid/SystemTopicEventSubscription.svg) | Microsoft.EventGrid/ systemTopics/ eventSubscriptions |
