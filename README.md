@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.118.0.1 on 2026-07-11.
+Extracted from Azure Portal version 18.118.0.1 on 2026-07-12.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -313,7 +313,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [OS image (classic)](svg/Microsoft_Azure_Classic_Compute/OsUserImages.svg) | Microsoft.ClassicStorage/ storageAccounts/ osimages |
 | [Disk (classic)](svg/Microsoft_Azure_Classic_Compute/Disks.svg) | Microsoft.ClassicStorage/ storageAccounts/ disks |
 | [Domain Name](svg/Microsoft_Azure_Classic_Compute/DomainName.svg) |  |
-| [Clean room](svg/Microsoft_Azure_CleanRooms/CleanRoom.svg) | Microsoft.Confidential/ cleanrooms |
+| [Clean room](svg/Microsoft_Azure_CleanRooms/CleanRoom.svg) | Microsoft.CleanRoom/ Collaborations |
 | [Transparency log](svg/Microsoft_Azure_CloudforSovereignty/TransparencyLogsAsset.svg) | microsoft.sovereign/ transparencylogs |
 | [Sovereign view](svg/Microsoft_Azure_CloudforSovereignty/SovereignView.svg) | microsoft.sovereign/ sovereignViews |
 | [Sovereign Control Panel](svg/Microsoft_Azure_CloudforSovereignty/SovereigntyAsset.svg) |  |
