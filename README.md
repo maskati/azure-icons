@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.118.0.1 on 2026-07-13.
+Extracted from Azure Portal version 18.118.0.1 on 2026-07-14.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -214,6 +214,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Administrative units](svg/Microsoft_AAD_IAM/AdminUnitManagementBlade.svg) |  |
 | [Enterprise application](svg/Microsoft_AAD_IAM/Application.svg) |  |
 | [App proxy](svg/Microsoft_AAD_IAM/AppProxyOverview.svg) |  |
+| [My Resource](svg/Microsoft_AAD_IdentityNotifications/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [App registration](svg/Microsoft_AAD_RegisteredApps/RegisteredApps.svg) |  |
 | [Agent ID](svg/Microsoft_AAD_RegisteredApps/AgentIdentity.svg) |  |
 | [EngageHub Portal](svg/Microsoft_AzureCXP_EngageHub/EngageHubPortalMenu.svg) |  |
@@ -232,9 +233,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Local](svg/Microsoft_AzureStackHCI_PortalExtension/AszBrowseUpdates.svg) | microsoft.azurestackhci/ clusters/ updateSummaries |
 | [Azure Local](svg/Microsoft_AzureStackHCI_PortalExtension/AszBrowseHistory.svg) | microsoft.azurestackhci/ clusters/ updates/ updateRuns |
 | [Azure Stack  Preview](svg/Microsoft_AzureStackHCI_PortalExtension/AzureEdgeNodePool.svg) | Microsoft.AzureStackHCI/ devicePools |
-| [AszLabHardware Server](svg/Microsoft_AzureStack_LabHardware/Servers.svg) | microsoft.aszlabhardware/ servers |
-| [AszLabHardware Reservation](svg/Microsoft_AzureStack_LabHardware/Reservations.svg) | microsoft.aszlabhardware/ reservations |
-| [AszLabHardware Lab Server](svg/Microsoft_AzureStack_LabHardware/LabServers.svg) | microsoft.aszlabhardware/ labservers |
 | [Activity log](svg/Microsoft_Azure_ActivityLog/ActivityLogAsset.svg) |  |
 | [Microsoft Entra Connect Health](svg/Microsoft_Azure_ADHybridHealth/RootAsset.svg) |  |
 | [Device Update for IoT Hub](svg/Microsoft_Azure_ADU/IotDUResource.svg) | Microsoft.DeviceUpdate/ accounts |
@@ -606,7 +604,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure HDInsight on AKS cluster](svg/Microsoft_Azure_HDInsight/HDInsightClusterGen2.svg) |  |
 | [HDInsight cluster](svg/Microsoft_Azure_HDInsight/HDInsightCluster.svg) | Microsoft.HDInsight/ clusters |
 | [Service Health](svg/Microsoft_Azure_Health/AzureHealth.svg) |  |
-| [Private Healthcare agent services](svg/Microsoft_Azure_HealthBot/PrivateHealthBot.svg) | Private.HealthBotTest/ healthBots |
+| [Healthcare Agent Services (Private Dev)](svg/Microsoft_Azure_HealthBot/PrivateHealthBotDev.svg) | Private.HealthBotDev/ healthBots |
+| [Healthcare Agent Services (Private Test)](svg/Microsoft_Azure_HealthBot/PrivateHealthBot.svg) | Private.HealthBotTest/ healthBots |
 | [Healthcare agent service](svg/Microsoft_Azure_HealthBot/HealthBot.svg) | Microsoft.HealthBot/ healthBots |
 | [De-identification Service](svg/Microsoft_Azure_HealthDataDeidentification/DeidService.svg) | Microsoft.HealthDataAIServices/ DeidServices |
 | [Health Model (preview)](svg/Microsoft_Azure_HealthModels/AzureHealthModel.svg) | Microsoft.HealthModel/ healthmodels |
