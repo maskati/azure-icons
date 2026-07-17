@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.118.0.1 on 2026-07-16.
+Extracted from Azure Portal version 18.118.0.1 on 2026-07-17.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -516,6 +516,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Disk Access](svg/Microsoft_Azure_DiskMgmt/DiskAccess.svg) | Microsoft.Compute/ diskAccesses |
 | [Disk](svg/Microsoft_Azure_DiskMgmt/Disk.svg) | Microsoft.Compute/ disks |
 | [Community image](svg/Microsoft_Azure_DiskMgmt/CommunityImage.svg) | Microsoft.Compute/ locations/ communityGalleries/ images |
+| [Azure Database Migration Service](svg/Microsoft_Azure_DMS/DmsV3.svg) | Microsoft.DataMigration/ postgresqlMigrationServices |
 | [Azure Database Migration Service](svg/Microsoft_Azure_DMS/DmsV2.svg) | Microsoft.DataMigration/ sqlmigrationservices |
 | [Azure Database Migration Service](svg/Microsoft_Azure_DMS/DmsCenter.svg) | Microsoft.DataMigration/ dmscentermain |
 | [Azure Database Migration Service resource](svg/Microsoft_Azure_DMS/AllDmsResources.svg) | Microsoft.DataMigration/ all |
