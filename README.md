@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.118.0.1 on 2026-07-20.
+Extracted from Azure Portal version 18.118.0.1 on 2026-07-21.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -540,7 +540,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Microsoft Defender EASM (Preview)](svg/Microsoft_Azure_EASM/PrivateEasmWorkspace.svg) | Private.Easm/ workspaces |
 | [Impact Reporting Connector](svg/Microsoft_Azure_ECE/microsoft_impact_connectors_2025_01_01_preview.svg) | microsoft.impact/ connectors |
 | [Impact Reporting](svg/Microsoft_Azure_ECE/ImpactRP.svg) |  |
-| [Edge Action](svg/Microsoft_Azure_EdgeAction/EdgeAction.svg) | Microsoft.Cdn/ EdgeActions |
+| [Edge Action (Preview)](svg/Microsoft_Azure_EdgeAction/EdgeAction.svg) | Microsoft.Cdn/ EdgeActions |
 | [My Resource](svg/Microsoft_Azure_EdgeAIExtension/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Azure Stack Edge / Data Box Gateway](svg/Microsoft_Azure_EdgeGateway/EdgeGateway.svg) | Microsoft.DataBoxEdge/ dataBoxEdgeDevices |
 | [My Resource](svg/Microsoft_Azure_EdgeManagementCopilot/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
