@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.118.0.1 on 2026-07-24.
+Extracted from Azure Portal version 18.118.0.1 on 2026-07-25.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -992,6 +992,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Service group member relationship](svg/Microsoft_Azure_Resources/ServiceGroupMembersRelationships.svg) | microsoft.relationships/ servicegroupmember |
 | [Dependency Relationship](svg/Microsoft_Azure_Resources/DependencyRelationships.svg) | microsoft.relationships/ dependencyOf |
 | [Subscription](svg/Microsoft_Azure_Resources/ResExtVirtualSubscriptions.svg) | microsoft.resources/ virtualsubscriptionsforresourcepicker |
+| [Resource or container](svg/Microsoft_Azure_Resources/AllResourcesAndContainers.svg) | microsoft.resources/ allresourcesandcontainersforresourcepicker |
 | [Resource Manager](svg/Microsoft_Azure_Resources/ResourceManager.svg) |  |
 | [Resource change](svg/Microsoft_Azure_Resources/ResourceChanges.svg) | Microsoft.Resources/ resourceChanges |
 | [Recycle bin](svg/Microsoft_Azure_Resources/DeletedResources.svg) | Microsoft.Resources/ deletedResources |
@@ -1142,9 +1143,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Host pool](svg/Microsoft_Azure_WVD/Hostpool.svg) | Microsoft.DesktopVirtualization/ HostPools |
 | [Application group](svg/Microsoft_Azure_WVD/ApplicationGroup.svg) | Microsoft.DesktopVirtualization/ ApplicationGroups |
 | [App attach package](svg/Microsoft_Azure_WVD/AppAttach.svg) | Microsoft.DesktopVirtualization/ appAttachPackages |
-| [Segmentation Manager](svg/Microsoft_Azure_ZeroTrustSegmentation/SegmentationManagers.svg) | Microsoft.Network/ segmentationManagers |
+| [Segmentation Manager](svg/Microsoft_Azure_ZeroTrustSegmentation/SegmentationManagers.svg) | Microsoft.ZeroTrustSegmentation/ segmentationManagers |
 | [Private Segmentation Manager](svg/Microsoft_Azure_ZeroTrustSegmentation/PrivateSegmentationManagers.svg) | Private.ZeroTrustSegmentation/ segmentationManagers |
-| [Segmentation Manager](svg/Microsoft_Azure_ZeroTrustSegmentation/PrivatePreviewSegmentationManagers.svg) | Microsoft.ZeroTrustSegmentation/ segmentationManagers |
 | [Bing Resource](svg/Microsoft_Bing_Api/BingAPIAccount.svg) | Microsoft.Bing/ accounts |
 | [Health model](svg/Microsoft_CloudHealth_HealthModels/AzureHealthModel.svg) | Microsoft.CloudHealth/ healthmodels |
 | [Connected Cache for Enterprise & Education](svg/Microsoft_ConnectedCache_Enterprise/MccEnterpriseResource.svg) | Microsoft.ConnectedCache/ enterpriseMccCustomers |
