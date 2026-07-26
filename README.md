@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.118.0.1 on 2026-07-25.
+Extracted from Azure Portal version 18.118.0.1 on 2026-07-26.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -851,6 +851,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Internal Network (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/InternalNetworkResource.svg) | Microsoft.ManagedNetworkFabric/ l3IsolationDomains/ internalNetworks |
 | [Network Fabric Resource (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/FabricResources.svg) | Microsoft.ManagedNetworkFabric/ fabricResources |
 | [External Network (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/ExternalNetworkResource.svg) | Microsoft.ManagedNetworkFabric/ l3IsolationDomains/ externalNetworks |
+| [Network Bootstrap Interface (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/NetworkBootstrapInterfacesResource.svg) | Microsoft.ManagedNetworkFabric/ networkBootstrapDevices/ networkBootstrapInterfaces |
+| [Network Bootstrap Device (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/NetworkBootstrapDevicesResource.svg) | Microsoft.ManagedNetworkFabric/ networkBootstrapDevices |
 | [Access Control List (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/AccessControlListsResource.svg) | Microsoft.ManagedNetworkFabric/ accessControlLists |
 | [Volume (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/VolumeResource.svg) | Microsoft.NetworkCloud/ volumes |
 | [Volume (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/ClusterVolumeResource.svg) | Microsoft.NetworkCloud/ clusterVolumes |
