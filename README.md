@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.118.0.1 on 2026-07-30.
+Extracted from Azure Portal version 18.118.0.1 on 2026-07-31.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -526,7 +526,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [DNS zone](svg/Microsoft_Azure_DNS/DnsZone.svg) | Microsoft.Network/ dnsZones |
 | [DNS private resolver](svg/Microsoft_Azure_DNSManagedResolver/DnsManagedResolver.svg) | Microsoft.Network/ dnsResolvers |
 | [DNS forwarding ruleset](svg/Microsoft_Azure_DNSManagedResolver/DnsForwardingRulesets.svg) | Microsoft.Network/ dnsForwardingRulesets |
-| [DNS Security Policy](svg/Microsoft_Azure_DnsSecurityPolicy/DnsSecurityPolicy.svg) | Microsoft.Network/ dnsResolverPolicies |
+| [DNS Resolver Policy](svg/Microsoft_Azure_DnsSecurityPolicy/DnsSecurityPolicy.svg) | Microsoft.Network/ dnsResolverPolicies |
 | [DNS Domain List](svg/Microsoft_Azure_DnsSecurityPolicy/DnsDomainList.svg) | Microsoft.Network/ dnsResolverDomainLists |
 | [Azure DocumentDB (with MongoDB compatibility)](svg/Microsoft_Azure_DocumentDB/MongoCluster.svg) | Microsoft.DocumentDB/ mongoClusters |
 | [Azure Cosmos DB for PostgreSQL Cluster](svg/Microsoft_Azure_DocumentDB/PostgreSqlServerGroupV2.svg) | Microsoft.DBforPostgreSQL/ serverGroupsv2 |
