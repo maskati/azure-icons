@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.179.0.1 on 2026-08-03.
+Extracted from Azure Portal version 18.179.0.1 on 2026-08-04.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -970,17 +970,13 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Savings plan order](svg/Microsoft_Azure_Reservations/SavingsPlanOrderServiceAdminAsset.svg) | Microsoft.BillingBenefits/ savingsPlanOrders |
 | [Savings plan order](svg/Microsoft_Azure_Reservations/SavingsPlanOrderAsset.svg) | Microsoft.Billing/ billingAccounts/ savingsPlanOrders |
 | [Reservation order](svg/Microsoft_Azure_Reservations/ReservationOrderAsset.svg) | Microsoft.Capacity/ reservationorders |
-| [Milestone](svg/Microsoft_Azure_Reservations/MilestoneServiceAdminAsset.svg) | Microsoft.BillingBenefits/ incentiveSchedules/ milestones |
-| [Milestone](svg/Microsoft_Azure_Reservations/MilestoneBillingAdminAsset.svg) | Microsoft.Billing/ billingAccounts/ incentiveSchedules/ milestones |
 | [Microsoft Azure Consumption Commitment](svg/Microsoft_Azure_Reservations/MaccBrowseAsset.svg) | Microsoft.BillingBenefits/ maccs |
 | [Discount](svg/Microsoft_Azure_Reservations/DiscountBrowseAsset.svg) | Microsoft.BillingBenefits/ discounts |
 | [Savings plan](svg/Microsoft_Azure_Reservations/SavingsPlanItemServiceAdminAsset.svg) | Microsoft.BillingBenefits/ savingsPlanOrders/ savingsPlans |
 | [Savings plan](svg/Microsoft_Azure_Reservations/SavingsPlanItemAsset.svg) | Microsoft.Billing/ billingAccounts/ savingsPlanOrders/ savingsPlans |
 | [Reservation](svg/Microsoft_Azure_Reservations/ReservationAsset.svg) | Microsoft.Capacity/ reservationorders/ reservations |
+| [Credit Transaction](svg/Microsoft_Azure_Reservations/CreditTransactionScopedBrowseAsset.svg) | Microsoft.BillingBenefits/ credits/ transactions |
 | [Credit](svg/Microsoft_Azure_Reservations/CreditBrowseAsset.svg) | Microsoft.BillingBenefits/ credits |
-| [Incentive Schedule](svg/Microsoft_Azure_Reservations/ContingencyServiceAdminAsset.svg) | Microsoft.BillingBenefits/ incentiveSchedules |
-| [Incentive Schedule](svg/Microsoft_Azure_Reservations/ContingencyBrowseAsset.svg) |  |
-| [Incentive Schedule](svg/Microsoft_Azure_Reservations/ContingencyBillingAdminAsset.svg) | Microsoft.Billing/ billingAccounts/ incentiveSchedules |
 | [Conditional Credit](svg/Microsoft_Azure_Reservations/ConditionalCreditBrowseAsset.svg) | Microsoft.BillingBenefits/ conditionalCredits |
 | [Savings plan](svg/Microsoft_Azure_Reservations/SavingsPlanBrowseAsset.svg) |  |
 | [Reservation](svg/Microsoft_Azure_Reservations/ReservationsBrowseAsset.svg) |  |
