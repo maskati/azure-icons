@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.179.0.1 on 2026-08-04.
+Extracted from Azure Portal version 18.184.0.1 on 2026-08-05.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -312,12 +312,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Disk (classic)](svg/Microsoft_Azure_Classic_Compute/Disks.svg) | Microsoft.ClassicStorage/ storageAccounts/ disks |
 | [Domain Name](svg/Microsoft_Azure_Classic_Compute/DomainName.svg) |  |
 | [Clean room](svg/Microsoft_Azure_CleanRooms/CleanRoom.svg) | Microsoft.CleanRoom/ Collaborations |
-| [Transparency log](svg/Microsoft_Azure_CloudforSovereignty/TransparencyLogsAsset.svg) | microsoft.sovereign/ transparencylogs |
 | [Sovereign view](svg/Microsoft_Azure_CloudforSovereignty/SovereignView.svg) | microsoft.sovereign/ sovereignViews |
 | [Sovereign Control Panel](svg/Microsoft_Azure_CloudforSovereignty/SovereigntyAsset.svg) |  |
-| [Landing Zone Registration](svg/Microsoft_Azure_CloudforSovereignty/LZRegistrationsAsset.svg) | microsoft.sovereign/ landingzoneaccounts/ landingzoneregistrations |
-| [Landing zone account](svg/Microsoft_Azure_CloudforSovereignty/LandingZoneAccountsAsset.svg) | microsoft.sovereign/ landingzoneaccounts |
-| [Landing Zone Configuration](svg/Microsoft_Azure_CloudforSovereignty/LZConfigurationsAsset.svg) | microsoft.sovereign/ landingzoneaccounts/ landingzoneconfigurations |
 | [Azure Cloud HSM](svg/Microsoft_Azure_CloudHSM/CloudHSM.svg) | Microsoft.HardwareSecurityModules/ cloudHsmClusters |
 | [Application Template](svg/Microsoft_Azure_CloudNative/ApplicationTemplates.svg) |  |
 | [Resource](svg/Microsoft_Azure_CloudNativeTesting/AppComponentsSupportedResources.svg) | Microsoft.LoadTestService/ supportedResourceTypes |
