@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.184.0.1 on 2026-08-05.
+Extracted from Azure Portal version 18.179.0.1 on 2026-08-06.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -27,8 +27,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Elastic Cloud Resource](svg/Azure_Marketplace_Elastic/Elastic.svg) | Microsoft.Elastic/ monitors |
 | [Informatica Organization](svg/Azure_Marketplace_Informatica/Informatica.svg) | Informatica.DataManagement/ organizations |
 | [New Relic](svg/Azure_Marketplace_Liftr_NewRelic/NewRelic.svg) | NewRelic.Observability/ monitors |
-| [Azure Native Pinecone Cloud Service](svg/Azure_MarketPlace_NativeISVService/Pinecone.svg) | pinecone.vectordb/ organizations |
-| [Napster Companion API - An Azure Native ISV Service](svg/Azure_MarketPlace_NativeISVService/Napster.svg) | napster.companionapi/ organizations |
+| [Napster API - An Azure Native ISV Service](svg/Azure_MarketPlace_NativeISVService/Napster.svg) | napster.companionapi/ organizations |
 | [MongoDB Atlas Organization](svg/Azure_MarketPlace_NativeISVService/MongoDB.svg) | mongodb.atlas/ organizations |
 | [MongoDB Atlas Organization](svg/Azure_MarketPlace_NativeISVService/MongoDB_V1.svg) | MongoDB.Atlas/ organizations_V1 |
 | [Azure Native LiftrLite Sample RP - An Azure Native Sample RP Cloud Service](svg/Azure_MarketPlace_NativeISVService/Liftrbasic.svg) | liftrbasic.samplerp/ organizations |
@@ -966,6 +965,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Savings plan order](svg/Microsoft_Azure_Reservations/SavingsPlanOrderServiceAdminAsset.svg) | Microsoft.BillingBenefits/ savingsPlanOrders |
 | [Savings plan order](svg/Microsoft_Azure_Reservations/SavingsPlanOrderAsset.svg) | Microsoft.Billing/ billingAccounts/ savingsPlanOrders |
 | [Reservation order](svg/Microsoft_Azure_Reservations/ReservationOrderAsset.svg) | Microsoft.Capacity/ reservationorders |
+| [Milestone](svg/Microsoft_Azure_Reservations/MilestoneServiceAdminAsset.svg) | Microsoft.BillingBenefits/ incentiveSchedules/ milestones |
+| [Milestone](svg/Microsoft_Azure_Reservations/MilestoneBillingAdminAsset.svg) | Microsoft.Billing/ billingAccounts/ incentiveSchedules/ milestones |
 | [Microsoft Azure Consumption Commitment](svg/Microsoft_Azure_Reservations/MaccBrowseAsset.svg) | Microsoft.BillingBenefits/ maccs |
 | [Discount](svg/Microsoft_Azure_Reservations/DiscountBrowseAsset.svg) | Microsoft.BillingBenefits/ discounts |
 | [Savings plan](svg/Microsoft_Azure_Reservations/SavingsPlanItemServiceAdminAsset.svg) | Microsoft.BillingBenefits/ savingsPlanOrders/ savingsPlans |
@@ -973,6 +974,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Reservation](svg/Microsoft_Azure_Reservations/ReservationAsset.svg) | Microsoft.Capacity/ reservationorders/ reservations |
 | [Credit Transaction](svg/Microsoft_Azure_Reservations/CreditTransactionScopedBrowseAsset.svg) | Microsoft.BillingBenefits/ credits/ transactions |
 | [Credit](svg/Microsoft_Azure_Reservations/CreditBrowseAsset.svg) | Microsoft.BillingBenefits/ credits |
+| [Incentive Schedule](svg/Microsoft_Azure_Reservations/ContingencyServiceAdminAsset.svg) | Microsoft.BillingBenefits/ incentiveSchedules |
+| [Incentive Schedule](svg/Microsoft_Azure_Reservations/ContingencyBrowseAsset.svg) |  |
+| [Incentive Schedule](svg/Microsoft_Azure_Reservations/ContingencyBillingAdminAsset.svg) | Microsoft.Billing/ billingAccounts/ incentiveSchedules |
 | [Conditional Credit](svg/Microsoft_Azure_Reservations/ConditionalCreditBrowseAsset.svg) | Microsoft.BillingBenefits/ conditionalCredits |
 | [Savings plan](svg/Microsoft_Azure_Reservations/SavingsPlanBrowseAsset.svg) |  |
 | [Reservation](svg/Microsoft_Azure_Reservations/ReservationsBrowseAsset.svg) |  |
