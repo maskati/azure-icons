@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.179.0.1 on 2026-08-06.
+Extracted from Azure Portal version 18.184.0.1 on 2026-08-07.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -27,7 +27,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Elastic Cloud Resource](svg/Azure_Marketplace_Elastic/Elastic.svg) | Microsoft.Elastic/ monitors |
 | [Informatica Organization](svg/Azure_Marketplace_Informatica/Informatica.svg) | Informatica.DataManagement/ organizations |
 | [New Relic](svg/Azure_Marketplace_Liftr_NewRelic/NewRelic.svg) | NewRelic.Observability/ monitors |
-| [Napster API - An Azure Native ISV Service](svg/Azure_MarketPlace_NativeISVService/Napster.svg) | napster.companionapi/ organizations |
+| [Azure Native Pinecone Cloud Service](svg/Azure_MarketPlace_NativeISVService/Pinecone.svg) | pinecone.vectordb/ organizations |
+| [Napster Companion API - An Azure Native ISV Service](svg/Azure_MarketPlace_NativeISVService/Napster.svg) | napster.companionapi/ organizations |
 | [MongoDB Atlas Organization](svg/Azure_MarketPlace_NativeISVService/MongoDB.svg) | mongodb.atlas/ organizations |
 | [MongoDB Atlas Organization](svg/Azure_MarketPlace_NativeISVService/MongoDB_V1.svg) | MongoDB.Atlas/ organizations_V1 |
 | [Azure Native LiftrLite Sample RP - An Azure Native Sample RP Cloud Service](svg/Azure_MarketPlace_NativeISVService/Liftrbasic.svg) | liftrbasic.samplerp/ organizations |
@@ -1122,6 +1123,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Configuration Group Schema](svg/Microsoft_Azure_VnfManager/AosmConfigSchema.svg) | Microsoft.HybridNetwork/ publishers/ configurationGroupSchemas |
 | [Configuration Group Value](svg/Microsoft_Azure_VnfManager/AosmCgv.svg) | Microsoft.HybridNetwork/ configurationGroupValues |
 | [Wave Migration](svg/Microsoft_Azure_WaveMigration/WaveMigrationResource.svg) | Providers.Test/ statefulIbizaEngines |
+| [Microsoft Web IQ resource](svg/Microsoft_Azure_WebIQ/MicrosoftWebIQAccount.svg) | Microsoft.WebIQ/ accounts |
 | [Workloads Hub](svg/Microsoft_Azure_WorkloadHub/WorkloadResource.svg) |  |
 | [Workload Component](svg/Microsoft_Azure_WorkloadHub/WorkloadComponentAsset.svg) | Microsoft.Workloads/ virtualInstances/ components |
 | [Workload Virtual Instance](svg/Microsoft_Azure_WorkloadHub/VirtualInstanceAsset.svg) | Microsoft.Workloads/ virtualInstances |
