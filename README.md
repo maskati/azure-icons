@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.184.0.1 on 2026-08-07.
+Extracted from Azure Portal version 18.184.0.1 on 2026-08-08.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -27,8 +27,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Elastic Cloud Resource](svg/Azure_Marketplace_Elastic/Elastic.svg) | Microsoft.Elastic/ monitors |
 | [Informatica Organization](svg/Azure_Marketplace_Informatica/Informatica.svg) | Informatica.DataManagement/ organizations |
 | [New Relic](svg/Azure_Marketplace_Liftr_NewRelic/NewRelic.svg) | NewRelic.Observability/ monitors |
-| [Azure Native Pinecone Cloud Service](svg/Azure_MarketPlace_NativeISVService/Pinecone.svg) | pinecone.vectordb/ organizations |
-| [Napster Companion API - An Azure Native ISV Service](svg/Azure_MarketPlace_NativeISVService/Napster.svg) | napster.companionapi/ organizations |
+| [Napster API - An Azure Native ISV Service](svg/Azure_MarketPlace_NativeISVService/Napster.svg) | napster.companionapi/ organizations |
 | [MongoDB Atlas Organization](svg/Azure_MarketPlace_NativeISVService/MongoDB.svg) | mongodb.atlas/ organizations |
 | [MongoDB Atlas Organization](svg/Azure_MarketPlace_NativeISVService/MongoDB_V1.svg) | MongoDB.Atlas/ organizations_V1 |
 | [Azure Native LiftrLite Sample RP - An Azure Native Sample RP Cloud Service](svg/Azure_MarketPlace_NativeISVService/Liftrbasic.svg) | liftrbasic.samplerp/ organizations |
@@ -540,6 +539,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [My Resource](svg/Microsoft_Azure_EdgeAIExtension/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Azure Stack Edge / Data Box Gateway](svg/Microsoft_Azure_EdgeGateway/EdgeGateway.svg) | Microsoft.DataBoxEdge/ dataBoxEdgeDevices |
 | [My Resource](svg/Microsoft_Azure_EdgeManagementCopilot/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
+| [Network Interface](svg/Microsoft_Azure_EdgeOrder/NetworkInterface.svg) | Microsoft.AzureStackHCI/ edgeMachines/ networkAdapters |
 | [Provisioned Machine](svg/Microsoft_Azure_EdgeOrder/EdgeMachine.svg) | Microsoft.AzureStackHCI/ edgeMachines |
 | [Azure Edge Hardware Center](svg/Microsoft_Azure_EdgeOrder/AzureEdgeDevice.svg) |  |
 | [Device](svg/Microsoft_Azure_EdgeOrder/AllZtpOrderItemResources.svg) | Microsoft.EdgeOrder/ virtual_orderItems |
