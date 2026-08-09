@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.184.0.1 on 2026-08-08.
+Extracted from Azure Portal version 18.184.0.1 on 2026-08-09.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -539,7 +539,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [My Resource](svg/Microsoft_Azure_EdgeAIExtension/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Azure Stack Edge / Data Box Gateway](svg/Microsoft_Azure_EdgeGateway/EdgeGateway.svg) | Microsoft.DataBoxEdge/ dataBoxEdgeDevices |
 | [My Resource](svg/Microsoft_Azure_EdgeManagementCopilot/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
-| [Network Interface](svg/Microsoft_Azure_EdgeOrder/NetworkInterface.svg) | Microsoft.AzureStackHCI/ edgeMachines/ networkAdapters |
 | [Provisioned Machine](svg/Microsoft_Azure_EdgeOrder/EdgeMachine.svg) | Microsoft.AzureStackHCI/ edgeMachines |
 | [Azure Edge Hardware Center](svg/Microsoft_Azure_EdgeOrder/AzureEdgeDevice.svg) |  |
 | [Device](svg/Microsoft_Azure_EdgeOrder/AllZtpOrderItemResources.svg) | Microsoft.EdgeOrder/ virtual_orderItems |
@@ -1123,7 +1122,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Configuration Group Schema](svg/Microsoft_Azure_VnfManager/AosmConfigSchema.svg) | Microsoft.HybridNetwork/ publishers/ configurationGroupSchemas |
 | [Configuration Group Value](svg/Microsoft_Azure_VnfManager/AosmCgv.svg) | Microsoft.HybridNetwork/ configurationGroupValues |
 | [Wave Migration](svg/Microsoft_Azure_WaveMigration/WaveMigrationResource.svg) | Providers.Test/ statefulIbizaEngines |
-| [Microsoft Web IQ resource](svg/Microsoft_Azure_WebIQ/MicrosoftWebIQAccount.svg) | Microsoft.WebIQ/ accounts |
 | [Workloads Hub](svg/Microsoft_Azure_WorkloadHub/WorkloadResource.svg) |  |
 | [Workload Component](svg/Microsoft_Azure_WorkloadHub/WorkloadComponentAsset.svg) | Microsoft.Workloads/ virtualInstances/ components |
 | [Workload Virtual Instance](svg/Microsoft_Azure_WorkloadHub/VirtualInstanceAsset.svg) | Microsoft.Workloads/ virtualInstances |
