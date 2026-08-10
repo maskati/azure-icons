@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.184.0.1 on 2026-08-09.
+Extracted from Azure Portal version 18.187.0.1 on 2026-08-10.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -1122,6 +1122,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Configuration Group Schema](svg/Microsoft_Azure_VnfManager/AosmConfigSchema.svg) | Microsoft.HybridNetwork/ publishers/ configurationGroupSchemas |
 | [Configuration Group Value](svg/Microsoft_Azure_VnfManager/AosmCgv.svg) | Microsoft.HybridNetwork/ configurationGroupValues |
 | [Wave Migration](svg/Microsoft_Azure_WaveMigration/WaveMigrationResource.svg) | Providers.Test/ statefulIbizaEngines |
+| [Microsoft Web IQ resource](svg/Microsoft_Azure_WebIQ/MicrosoftWebIQAccount.svg) | Microsoft.WebIQ/ accounts |
 | [Workloads Hub](svg/Microsoft_Azure_WorkloadHub/WorkloadResource.svg) |  |
 | [Workload Component](svg/Microsoft_Azure_WorkloadHub/WorkloadComponentAsset.svg) | Microsoft.Workloads/ virtualInstances/ components |
 | [Workload Virtual Instance](svg/Microsoft_Azure_WorkloadHub/VirtualInstanceAsset.svg) | Microsoft.Workloads/ virtualInstances |
