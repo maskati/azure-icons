@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.187.3.1 on 2026-08-14.
+Extracted from Azure Portal version 18.187.3.1 on 2026-08-15.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -215,6 +215,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [My Resource](svg/Microsoft_AAD_IdentityNotifications/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [App registration](svg/Microsoft_AAD_RegisteredApps/RegisteredApps.svg) |  |
 | [Agent ID](svg/Microsoft_AAD_RegisteredApps/AgentIdentity.svg) |  |
+| [Entra Resilience Service](svg/Microsoft_AAD_ResilienceServices/ResilienceService.svg) | microsoft.aad/ resilienceservices |
+| [Entra Resilience Host](svg/Microsoft_AAD_ResilienceServices/ResilienceHost.svg) | microsoft.aad/ resilienceservices/ hosts |
 | [EngageHub Portal](svg/Microsoft_AzureCXP_EngageHub/EngageHubPortalMenu.svg) |  |
 | [Azure Local - disconnected operations](svg/Microsoft_AzureStackHCI_PortalExtension/Winfields.svg) | Microsoft.Edge/ disconnectedoperations |
 | [Azure Local Disk - Azure Arc](svg/Microsoft_AzureStackHCI_PortalExtension/AzureLocalDisk.svg) | Microsoft.AzureStackHCI/ virtualHardDisks |
@@ -418,6 +420,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Anyscale Cloud](svg/Microsoft_Azure_ContainerService/AnyscaleCloudsDev.svg) | Private.AnyscaleDev/ clouds |
 | [Container storage](svg/Microsoft_Azure_ContainerStorage/ContainerStorage.svg) | Microsoft.ContainerStorage/ pools |
 | [Azure Copilot admin center](svg/Microsoft_Azure_Copilot/CopilotSettingsAsset.svg) |  |
+| [Chat agent](svg/Microsoft_Azure_Copilot/ChatAgent.svg) | Microsoft.Copilot/ chatAgents |
 | [Copilot](svg/Microsoft_Azure_Copilot/Copilot.svg) | Microsoft.PortalServices/ copilots |
 | [Cost exports](svg/Microsoft_Azure_CostManagement/Exports.svg) |  |
 | [Cost Management](svg/Microsoft_Azure_CostManagement/CostManagement.svg) |  |
