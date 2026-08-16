@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.187.3.1 on 2026-08-15.
+Extracted from Azure Portal version 18.187.3.1 on 2026-08-16.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -369,7 +369,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Recommendations](svg/Microsoft_Azure_ComputeHub/AdvisorOperationalExcellence.svg) | Microsoft.ComputeHub/ AdvisorOperationalExcellence |
 | [Recommendations](svg/Microsoft_Azure_ComputeHub/AdvisorCost.svg) | Microsoft.ComputeHub/ AdvisorCost |
 | [Confidential Ledger](svg/Microsoft_Azure_ConfidentialLedger/ConfidentialLedger.svg) | Microsoft.ConfidentialLedger/ ledgers |
-| [Managed CCF App](svg/Microsoft_Azure_ConfidentialLedger/ManagedCCF.svg) | Microsoft.ConfidentialLedger/ ManagedCCFs |
 | [Target](svg/Microsoft_Azure_ConfigManager/TargetDetailsMenu.svg) | Microsoft.Edge/ targets |
 | [Solution template](svg/Microsoft_Azure_ConfigManager/SolutionTemplateMenu.svg) | Microsoft.Edge/ solutiontemplates |
 | [Solution Details](svg/Microsoft_Azure_ConfigManager/SolutionDetailsMenu.svg) | Microsoft.Edge/ solutiontemplates/ versions |
