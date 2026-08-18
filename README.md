@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.187.2.1 on 2026-08-17.
+Extracted from Azure Portal version 18.187.3.1 on 2026-08-18.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -541,6 +541,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [My Resource](svg/Microsoft_Azure_EdgeAIExtension/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Azure Stack Edge / Data Box Gateway](svg/Microsoft_Azure_EdgeGateway/EdgeGateway.svg) | Microsoft.DataBoxEdge/ dataBoxEdgeDevices |
 | [My Resource](svg/Microsoft_Azure_EdgeManagementCopilot/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
+| [Network Interface](svg/Microsoft_Azure_EdgeOrder/NetworkInterface.svg) | Microsoft.AzureStackHCI/ edgeMachines/ networkAdapters |
 | [Provisioned Machine](svg/Microsoft_Azure_EdgeOrder/EdgeMachine.svg) | Microsoft.AzureStackHCI/ edgeMachines |
 | [Azure Edge Hardware Center](svg/Microsoft_Azure_EdgeOrder/AzureEdgeDevice.svg) |  |
 | [Device](svg/Microsoft_Azure_EdgeOrder/AllZtpOrderItemResources.svg) | Microsoft.EdgeOrder/ virtual_orderItems |
@@ -687,7 +688,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Container Instances Standby Pool](svg/Microsoft_Azure_KubernetesFleet/StandbyContainerGroupPools.svg) | Microsoft.StandbyPool/ standbyContainerGroupPools |
 | [Container Instances Center](svg/Microsoft_Azure_KubernetesFleet/ContainerInstancesCenter.svg) |  |
 | [Container group profile](svg/Microsoft_Azure_KubernetesFleet/ContainerGroupProfiles.svg) | Microsoft.ContainerInstance/ containerGroupProfiles |
-| [Managed Fleet Namespace (preview)](svg/Microsoft_Azure_KubernetesFleet/ManagedFleetNamespaces.svg) | microsoft.containerservice/ fleets/ managednamespaces |
+| [Managed Fleet Namespace](svg/Microsoft_Azure_KubernetesFleet/ManagedFleetNamespaces.svg) | microsoft.containerservice/ fleets/ managednamespaces |
 | [enableLTS on out-of-support cluster](svg/Microsoft_Azure_KubernetesFleet/managedClustersUpgradeEnableLts.svg) | Microsoft.ContainerService/ managedClustersUpgradeEnableLts |
 | [Kubernetes fleet manager](svg/Microsoft_Azure_KubernetesFleet/Fleets.svg) | microsoft.containerservice/ fleets |
 | [Data Explorer Database](svg/Microsoft_Azure_Kusto/kustoSynapsePoolDatabase.svg) | Microsoft.Synapse/ workspaces/ kustopools/ databases |
