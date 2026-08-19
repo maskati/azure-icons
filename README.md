@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.187.3.1 on 2026-08-18.
+Extracted from Azure Portal version 18.187.2.1 on 2026-08-19.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -230,7 +230,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Local Logical network](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCILogicalNetwork.svg) | Microsoft.AzureStackHCI/ logicalnetworks |
 | [Azure Local Gallery image](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCIGalleryImage.svg) | Microsoft.AzureStackHCI/ galleryImages |
 | [Azure Local](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCI.svg) |  |
-| [Azure local machine](svg/Microsoft_AzureStackHCI_PortalExtension/AzureLocalMachines.svg) | Microsoft.All/ AzureLocalMachines |
+| [Azure Local Machine](svg/Microsoft_AzureStackHCI_PortalExtension/AzureLocalMachines.svg) | Microsoft.All/ AzureLocalMachines |
 | [Azure Local](svg/Microsoft_AzureStackHCI_PortalExtension/AszBrowseUpdates.svg) | microsoft.azurestackhci/ clusters/ updateSummaries |
 | [Azure Local](svg/Microsoft_AzureStackHCI_PortalExtension/AszBrowseHistory.svg) | microsoft.azurestackhci/ clusters/ updates/ updateRuns |
 | [Azure Stack  Preview](svg/Microsoft_AzureStackHCI_PortalExtension/AzureEdgeNodePool.svg) | Microsoft.AzureStackHCI/ devicePools |
@@ -688,7 +688,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Container Instances Standby Pool](svg/Microsoft_Azure_KubernetesFleet/StandbyContainerGroupPools.svg) | Microsoft.StandbyPool/ standbyContainerGroupPools |
 | [Container Instances Center](svg/Microsoft_Azure_KubernetesFleet/ContainerInstancesCenter.svg) |  |
 | [Container group profile](svg/Microsoft_Azure_KubernetesFleet/ContainerGroupProfiles.svg) | Microsoft.ContainerInstance/ containerGroupProfiles |
-| [Managed Fleet Namespace](svg/Microsoft_Azure_KubernetesFleet/ManagedFleetNamespaces.svg) | microsoft.containerservice/ fleets/ managednamespaces |
+| [Managed Fleet Namespace (preview)](svg/Microsoft_Azure_KubernetesFleet/ManagedFleetNamespaces.svg) | microsoft.containerservice/ fleets/ managednamespaces |
 | [enableLTS on out-of-support cluster](svg/Microsoft_Azure_KubernetesFleet/managedClustersUpgradeEnableLts.svg) | Microsoft.ContainerService/ managedClustersUpgradeEnableLts |
 | [Kubernetes fleet manager](svg/Microsoft_Azure_KubernetesFleet/Fleets.svg) | microsoft.containerservice/ fleets |
 | [Data Explorer Database](svg/Microsoft_Azure_Kusto/kustoSynapsePoolDatabase.svg) | Microsoft.Synapse/ workspaces/ kustopools/ databases |
@@ -1122,6 +1122,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Wave Migration](svg/Microsoft_Azure_WaveMigration/WaveMigrationResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Microsoft Web IQ resource](svg/Microsoft_Azure_WebIQ/MicrosoftWebIQAccount.svg) | Microsoft.WebIQ/ accounts |
 | [Workloads Hub](svg/Microsoft_Azure_WorkloadHub/WorkloadResource.svg) |  |
+| [Workload Component Mapped Type](svg/Microsoft_Azure_WorkloadHub/WorkloadComponentMappedTypesAsset.svg) | Microsoft.Workloads/ virtualInstances/ componentResources |
 | [Workload Component](svg/Microsoft_Azure_WorkloadHub/WorkloadComponentAsset.svg) | Microsoft.Workloads/ virtualInstances/ components |
 | [Workload Virtual Instance](svg/Microsoft_Azure_WorkloadHub/VirtualInstanceAsset.svg) | Microsoft.Workloads/ virtualInstances |
 | [Workloads Hub](svg/Microsoft_Azure_WorkloadHub/VICheckResultsAsset.svg) | microsoft.workloads/ configurationvalidationresults/ checkname |
