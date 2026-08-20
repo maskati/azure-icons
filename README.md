@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.187.2.1 on 2026-08-19.
+Extracted from Azure Portal version 18.210.0.1 on 2026-08-20.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -333,6 +333,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [1ES Build Cache](svg/Microsoft_Azure_CloudTest/CloudTestBuildCache.svg) | Microsoft.CloudTest/ buildcaches |
 | [CloudTest Account](svg/Microsoft_Azure_CloudTest/CloudTestAccounts.svg) | Microsoft.CloudTest/ accounts |
 | [Code Optimizations](svg/Microsoft_Azure_CodeOptimizations/CodeOptimizations.svg) |  |
+| [Artifact Signing Account (Private)](svg/Microsoft_Azure_CodeSigning/PrivateCodeSigningAccounts.svg) | Private.CodeSigning/ codesigningaccounts |
 | [Artifact Signing Account](svg/Microsoft_Azure_CodeSigning/CodeSigningAccounts.svg) | Microsoft.CodeSigning/ codesigningaccounts |
 | [Communication Service](svg/Microsoft_Azure_CommunicationServices/Communication.svg) | Microsoft.Communication/ CommunicationServices |
 | [Virtual machine scale set](svg/Microsoft_Azure_Compute/VirtualMachineScaleSet.svg) | Microsoft.Compute/ virtualMachineScaleSets |
