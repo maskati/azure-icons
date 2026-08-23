@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.210.0.1 on 2026-08-22.
+Extracted from Azure Portal version 18.210.0.1 on 2026-08-23.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -475,7 +475,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [ADR Device](svg/Microsoft_Azure_DeviceRegistry/namespaceDevices.svg) | microsoft.deviceregistry/ namespaces/ devices |
 | [ADR Credential Resource](svg/Microsoft_Azure_DeviceRegistry/namespaceCredentialResources.svg) | Microsoft.DeviceRegistry/ namespaces/ credentials |
 | [ADR Asset](svg/Microsoft_Azure_DeviceRegistry/namespaceAssets.svg) | microsoft.deviceregistry/ namespaces/ assets |
-| [ADR Namespace](svg/Microsoft_Azure_DeviceRegistry/namespaces.svg) | microsoft.deviceregistry/ namespaces |
+| [Device Registry Namespace](svg/Microsoft_Azure_DeviceRegistry/namespaces.svg) | microsoft.deviceregistry/ namespaces |
 | [Azure Device Registry](svg/Microsoft_Azure_DeviceRegistry/DeviceRegistry.svg) |  |
 | [ADR Device](svg/Microsoft_Azure_DeviceRegistry/devices.svg) | microsoft.deviceregistry/ devices |
 | [ADR Asset Endpoint Profile](svg/Microsoft_Azure_DeviceRegistry/assetEndpointProfiles.svg) | microsoft.deviceregistry/ assetEndpointProfiles |
@@ -555,13 +555,13 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Logic app](svg/Microsoft_Azure_EMA/Workflow.svg) | Microsoft.Logic/ workflows |
 | [Connector Namespace (preview)](svg/Microsoft_Azure_EMA/ConnectorGatewayResources.svg) | Microsoft.Web/ connectorGateways |
 | [Connector Namespace (preview)](svg/Microsoft_Azure_EMA/ConnectorGateway.svg) |  |
-| [Managed Connector](svg/Microsoft_Azure_EMA/ManagedConnector.svg) | Microsoft.Logic/ integrationServiceEnvironments/ managedApis |
-| [Logic Apps Template](svg/Microsoft_Azure_EMA/LogicAppsTemplate.svg) | Microsoft.Logic/ templates |
+| [Managed connector](svg/Microsoft_Azure_EMA/ManagedConnector.svg) | Microsoft.Logic/ integrationServiceEnvironments/ managedApis |
+| [Logic app template](svg/Microsoft_Azure_EMA/LogicAppsTemplate.svg) | Microsoft.Logic/ templates |
 | [Integration account](svg/Microsoft_Azure_EMA/IntegrationAccount.svg) | Microsoft.Logic/ integrationAccounts |
 | [On-premises data gateway](svg/Microsoft_Azure_EMA/Gateway.svg) | Microsoft.Web/ connectionGateways |
-| [Logic apps custom connector](svg/Microsoft_Azure_EMA/CustomConnector.svg) | Microsoft.Web/ customApis |
-| [Automation Project](svg/Microsoft_Azure_EMA/AutomationProject.svg) | Microsoft.Logic/ automationProjects |
-| [API Connection](svg/Microsoft_Azure_EMA/ApiConnection.svg) | Microsoft.Web/ connections |
+| [Logic Apps Custom Connector](svg/Microsoft_Azure_EMA/CustomConnector.svg) | Microsoft.Web/ customApis |
+| [Automation Environment](svg/Microsoft_Azure_EMA/AutomationProject.svg) | Microsoft.Logic/ automationProjects |
+| [API connection](svg/Microsoft_Azure_EMA/ApiConnection.svg) | Microsoft.Web/ connections |
 | [Email Communication Service](svg/Microsoft_Azure_EmailCommunicationServices/EmailCommunicationService.svg) | Microsoft.Communication/ EmailServices |
 | [Email Communication Services Domain](svg/Microsoft_Azure_EmailCommunicationServices/EmailCommunicationServicesDomain.svg) | Microsoft.Communication/ EmailServices/ Domains |
 | [My Resource](svg/Microsoft_Azure_ESI/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
@@ -616,6 +616,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/SoftwareAssurance.svg) | Microsoft.HybridCompute/ machinesSoftwareAssurance |
 | [Service principal](svg/Microsoft_Azure_HybridCompute/ServicePrincipalBrowse.svg) | Microsoft.HybridCompute/ ServicePrincipals |
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/PayGoEligible.svg) | Microsoft.HybridCompute/ machinesPayGo |
+| [Extended Security Updates - Windows Server 2016](svg/Microsoft_Azure_HybridCompute/EsuLicense2016Usage.svg) | Microsoft.HybridCompute/ licenses2016Usage |
 | [Extended Security Updates - Windows Server 2016](svg/Microsoft_Azure_HybridCompute/EsuLicense2016LinkedResources.svg) | Microsoft.HybridCompute/ EsuLicense2016LinkedResources |
 | [Extended Security Updates - Windows Server 2016](svg/Microsoft_Azure_HybridCompute/EsuLicense2016.svg) | Microsoft.HybridCompute/ licenses2016 |
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/HybridComputeEsu2016.svg) | Microsoft.HybridCompute/ machinesEsu2016 |
@@ -690,7 +691,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Container Instances Standby Pool](svg/Microsoft_Azure_KubernetesFleet/StandbyContainerGroupPools.svg) | Microsoft.StandbyPool/ standbyContainerGroupPools |
 | [Container Instances Center](svg/Microsoft_Azure_KubernetesFleet/ContainerInstancesCenter.svg) |  |
 | [Container group profile](svg/Microsoft_Azure_KubernetesFleet/ContainerGroupProfiles.svg) | Microsoft.ContainerInstance/ containerGroupProfiles |
-| [Managed Fleet Namespace (preview)](svg/Microsoft_Azure_KubernetesFleet/ManagedFleetNamespaces.svg) | microsoft.containerservice/ fleets/ managednamespaces |
+| [Managed Fleet Namespace](svg/Microsoft_Azure_KubernetesFleet/ManagedFleetNamespaces.svg) | microsoft.containerservice/ fleets/ managednamespaces |
 | [enableLTS on out-of-support cluster](svg/Microsoft_Azure_KubernetesFleet/managedClustersUpgradeEnableLts.svg) | Microsoft.ContainerService/ managedClustersUpgradeEnableLts |
 | [Kubernetes fleet manager](svg/Microsoft_Azure_KubernetesFleet/Fleets.svg) | microsoft.containerservice/ fleets |
 | [Data Explorer Database](svg/Microsoft_Azure_Kusto/kustoSynapsePoolDatabase.svg) | Microsoft.Synapse/ workspaces/ kustopools/ databases |
@@ -915,6 +916,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Integration Environment](svg/Microsoft_Azure_PaasServerless/IntegrationSpace.svg) | Microsoft.IntegrationSpaces/ spaces |
 | [Durable Task Scheduler](svg/Microsoft_Azure_PaasServerless/DurableTaskScheduler.svg) | Microsoft.DurableTask/ Schedulers |
 | [Business Process](svg/Microsoft_Azure_PaasServerless/BusinessProcessTracking.svg) | Microsoft.Logic/ businessprocesses |
+| [Azure Payments HSM v2](svg/Microsoft_Azure_PaymentHSM/PaymentHSM.svg) | Microsoft.HardwareSecurityModules/ paymentHsmClusters |
 | [Registered prefix](svg/Microsoft_Azure_Peering/RegisteredPrefix.svg) | Microsoft.Peering/ peerings/ registeredPrefixes |
 | [Registered ASN](svg/Microsoft_Azure_Peering/RegisteredAsn.svg) | Microsoft.Peering/ peerings/ registeredAsns |
 | [Peering Service Prefix](svg/Microsoft_Azure_Peering/MicrosoftPeeringServicePrefix.svg) | Microsoft.Peering/ peeringServices/ prefixes |
