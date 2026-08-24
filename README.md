@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.210.0.1 on 2026-08-23.
+Extracted from Azure Portal version 18.221.0.1 on 2026-08-24.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -475,7 +475,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [ADR Device](svg/Microsoft_Azure_DeviceRegistry/namespaceDevices.svg) | microsoft.deviceregistry/ namespaces/ devices |
 | [ADR Credential Resource](svg/Microsoft_Azure_DeviceRegistry/namespaceCredentialResources.svg) | Microsoft.DeviceRegistry/ namespaces/ credentials |
 | [ADR Asset](svg/Microsoft_Azure_DeviceRegistry/namespaceAssets.svg) | microsoft.deviceregistry/ namespaces/ assets |
-| [Device Registry Namespace](svg/Microsoft_Azure_DeviceRegistry/namespaces.svg) | microsoft.deviceregistry/ namespaces |
+| [ADR Namespace](svg/Microsoft_Azure_DeviceRegistry/namespaces.svg) | microsoft.deviceregistry/ namespaces |
 | [Azure Device Registry](svg/Microsoft_Azure_DeviceRegistry/DeviceRegistry.svg) |  |
 | [ADR Device](svg/Microsoft_Azure_DeviceRegistry/devices.svg) | microsoft.deviceregistry/ devices |
 | [ADR Asset Endpoint Profile](svg/Microsoft_Azure_DeviceRegistry/assetEndpointProfiles.svg) | microsoft.deviceregistry/ assetEndpointProfiles |
@@ -616,7 +616,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/SoftwareAssurance.svg) | Microsoft.HybridCompute/ machinesSoftwareAssurance |
 | [Service principal](svg/Microsoft_Azure_HybridCompute/ServicePrincipalBrowse.svg) | Microsoft.HybridCompute/ ServicePrincipals |
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/PayGoEligible.svg) | Microsoft.HybridCompute/ machinesPayGo |
-| [Extended Security Updates - Windows Server 2016](svg/Microsoft_Azure_HybridCompute/EsuLicense2016Usage.svg) | Microsoft.HybridCompute/ licenses2016Usage |
 | [Extended Security Updates - Windows Server 2016](svg/Microsoft_Azure_HybridCompute/EsuLicense2016LinkedResources.svg) | Microsoft.HybridCompute/ EsuLicense2016LinkedResources |
 | [Extended Security Updates - Windows Server 2016](svg/Microsoft_Azure_HybridCompute/EsuLicense2016.svg) | Microsoft.HybridCompute/ licenses2016 |
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/HybridComputeEsu2016.svg) | Microsoft.HybridCompute/ machinesEsu2016 |
@@ -691,7 +690,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Container Instances Standby Pool](svg/Microsoft_Azure_KubernetesFleet/StandbyContainerGroupPools.svg) | Microsoft.StandbyPool/ standbyContainerGroupPools |
 | [Container Instances Center](svg/Microsoft_Azure_KubernetesFleet/ContainerInstancesCenter.svg) |  |
 | [Container group profile](svg/Microsoft_Azure_KubernetesFleet/ContainerGroupProfiles.svg) | Microsoft.ContainerInstance/ containerGroupProfiles |
-| [Managed Fleet Namespace](svg/Microsoft_Azure_KubernetesFleet/ManagedFleetNamespaces.svg) | microsoft.containerservice/ fleets/ managednamespaces |
+| [Managed Fleet Namespace (preview)](svg/Microsoft_Azure_KubernetesFleet/ManagedFleetNamespaces.svg) | microsoft.containerservice/ fleets/ managednamespaces |
 | [enableLTS on out-of-support cluster](svg/Microsoft_Azure_KubernetesFleet/managedClustersUpgradeEnableLts.svg) | Microsoft.ContainerService/ managedClustersUpgradeEnableLts |
 | [Kubernetes fleet manager](svg/Microsoft_Azure_KubernetesFleet/Fleets.svg) | microsoft.containerservice/ fleets |
 | [Data Explorer Database](svg/Microsoft_Azure_Kusto/kustoSynapsePoolDatabase.svg) | Microsoft.Synapse/ workspaces/ kustopools/ databases |
