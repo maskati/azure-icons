@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.221.0.1 on 2026-08-29.
+Extracted from Azure Portal version 18.221.0.1 on 2026-08-30.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -393,7 +393,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Kubernetes service](svg/Microsoft_Azure_ContainerService/ManagedClusters.svg) | Microsoft.ContainerService/ managedClusters |
 | [Kubernetes service extension](svg/Microsoft_Azure_ContainerService/KubernetesClusterExtensionsChild.svg) | microsoft.containerservice/ managedclusters/ microsoft.kubernetesconfiguration/ extensions |
 | [Kubernetes service extension](svg/Microsoft_Azure_ContainerService/KubernetesClusterExtensions.svg) | microsoft.kubernetesconfiguration/ extensions |
-| [Azure Red Hat OpenShift with Hosted Control Planes cluster](svg/Microsoft_Azure_ContainerService/AroHcpClusters.svg) | Microsoft.RedHatOpenShift/ HCPOpenShiftClusters |
 | [Azure Red Hat OpenShift cluster](svg/Microsoft_Azure_ContainerService/AroClusters.svg) | Microsoft.RedHatOpenShift/ OpenShiftClusters |
 | [Anyscale Workspace](svg/Microsoft_Azure_ContainerService/AnyscaleWorkspaces.svg) | Anyscale.Platform/ clouds/ projects/ workspaces |
 | [Anyscale Service](svg/Microsoft_Azure_ContainerService/AnyscaleServices.svg) | Anyscale.Platform/ clouds/ projects/ services |
@@ -1005,7 +1004,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [GitHub](svg/Microsoft_Azure_Resources/GitHub.svg) |  |
 | [Feedback Policy Controls](svg/Microsoft_Azure_Resources/FeedbackPolicyControls.svg) |  |
 | [Azure Data Boundaries](svg/Microsoft_Azure_Resources/AzureDataBoundary.svg) |  |
-| [Deployment](svg/Microsoft_Azure_Resources/Deployment.svg) |  |
+| [Deployment](svg/Microsoft_Azure_Resources/Deployment.svg) | Microsoft.Resources/ deployments |
 | [Validation](svg/Microsoft_Azure_Resources/changesafety_validations.svg) | microsoft.changesafety/ validations |
 | [Stage map](svg/Microsoft_Azure_Resources/changesafety_stagemaps.svg) | microsoft.changesafety/ stagemaps |
 | [Change record](svg/Microsoft_Azure_Resources/changesafety_changestates.svg) | microsoft.changesafety/ changestates |
