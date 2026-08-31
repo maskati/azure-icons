@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.221.0.1 on 2026-08-30.
+Extracted from Azure Portal version 18.221.0.1 on 2026-08-31.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -303,7 +303,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Change record](svg/Microsoft_Azure_ChangeSafety/changesafety_changerecords.svg) | microsoft.changesafety/ changerecords |
 | [Stage progression](svg/Microsoft_Azure_ChangeSafety/changesafety_changestates_stageprogressions.svg) | microsoft.changesafety/ changestates/ stageprogressions |
 | [Stage progression](svg/Microsoft_Azure_ChangeSafety/changesafety_changerecords_stageprogressions.svg) | microsoft.changesafety/ changerecords/ stageprogressions |
-| [Workspace](svg/Microsoft_Azure_Chaos/workspace.svg) | microsoft.chaos/ workspaces |
+| [Chaos Studio Workspace](svg/Microsoft_Azure_Chaos/workspaces.svg) |  |
+| [Chaos Studio Workspace](svg/Microsoft_Azure_Chaos/workspace.svg) | microsoft.chaos/ workspaces |
 | [Agent Private Access](svg/Microsoft_Azure_Chaos/privateAccess.svg) | microsoft.chaos/ privateaccesses |
 | [Chaos Studio](svg/Microsoft_Azure_Chaos/chaosStudio.svg) |  |
 | [Chaos Experiment](svg/Microsoft_Azure_Chaos/chaosExperimentResource.svg) | microsoft.chaos/ experiments |
@@ -393,6 +394,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Kubernetes service](svg/Microsoft_Azure_ContainerService/ManagedClusters.svg) | Microsoft.ContainerService/ managedClusters |
 | [Kubernetes service extension](svg/Microsoft_Azure_ContainerService/KubernetesClusterExtensionsChild.svg) | microsoft.containerservice/ managedclusters/ microsoft.kubernetesconfiguration/ extensions |
 | [Kubernetes service extension](svg/Microsoft_Azure_ContainerService/KubernetesClusterExtensions.svg) | microsoft.kubernetesconfiguration/ extensions |
+| [Azure Red Hat OpenShift with Hosted Control Planes cluster](svg/Microsoft_Azure_ContainerService/AroHcpClusters.svg) | Microsoft.RedHatOpenShift/ HCPOpenShiftClusters |
 | [Azure Red Hat OpenShift cluster](svg/Microsoft_Azure_ContainerService/AroClusters.svg) | Microsoft.RedHatOpenShift/ OpenShiftClusters |
 | [Anyscale Workspace](svg/Microsoft_Azure_ContainerService/AnyscaleWorkspaces.svg) | Anyscale.Platform/ clouds/ projects/ workspaces |
 | [Anyscale Service](svg/Microsoft_Azure_ContainerService/AnyscaleServices.svg) | Anyscale.Platform/ clouds/ projects/ services |
