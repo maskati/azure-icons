@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.221.0.1 on 2026-08-31.
+Extracted from Azure Portal version 18.210.0.1 on 2026-09-01.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -32,6 +32,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [MongoDB Atlas Organization](svg/Azure_MarketPlace_NativeISVService/MongoDB_V1.svg) | MongoDB.Atlas/ organizations_V1 |
 | [Azure Native LiftrLite Sample RP - An Azure Native Sample RP Cloud Service](svg/Azure_MarketPlace_NativeISVService/Liftrbasic.svg) | liftrbasic.samplerp/ organizations |
 | [Azure Native LambdaTest - HyperExecute Cloud Service](svg/Azure_MarketPlace_NativeISVService/LambdaTest.svg) | lambdatest.hyperexecute/ organizations |
+| [Kore.ai Organization](svg/Azure_MarketPlace_NativeISVService/Kore.svg) | kore.agentplatform/ organizations |
 | [Dell PowerScale](svg/Azure_MarketPlace_NativeISVService/DellStorage.svg) | dell.storage/ filesystems |
 | [Commvault Cloud](svg/Azure_MarketPlace_NativeISVService/CommvaultOverview.svg) |  |
 | [Commvault Cloud Account](svg/Azure_MarketPlace_NativeISVService/CommvaultCloudAccounts.svg) | Commvault.ContentStore/ cloudAccounts |
@@ -422,8 +423,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Anyscale Cloud](svg/Microsoft_Azure_ContainerService/AnyscaleCloudsDev.svg) | Private.AnyscaleDev/ clouds |
 | [Container storage](svg/Microsoft_Azure_ContainerStorage/ContainerStorage.svg) | Microsoft.ContainerStorage/ pools |
 | [Azure Copilot admin center](svg/Microsoft_Azure_Copilot/CopilotSettingsAsset.svg) |  |
-| [Chat agent](svg/Microsoft_Azure_Copilot/ChatAgent.svg) | Microsoft.Copilot/ chatAgents |
 | [Copilot](svg/Microsoft_Azure_Copilot/Copilot.svg) | Microsoft.PortalServices/ copilots |
+| [Chat agent](svg/Microsoft_Azure_Copilot/ChatAgent.svg) | Microsoft.Copilot/ chatAgents |
 | [Cost exports](svg/Microsoft_Azure_CostManagement/Exports.svg) |  |
 | [Cost Management](svg/Microsoft_Azure_CostManagement/CostManagement.svg) |  |
 | [Cost analysis](svg/Microsoft_Azure_CostManagement/CostAnalysis.svg) |  |
@@ -1224,6 +1225,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Oracle AI Database@Azure](svg/Oracle_Databases_At_Azure/oracledatabaseservice.svg) |  |
 | [Resource Anchor](svg/Oracle_Databases_At_Azure/oracle_resource_anchor.svg) | Oracle.Database/ resourceanchors |
 | [Network Anchor](svg/Oracle_Databases_At_Azure/oracle_network_anchor.svg) | Oracle.Database/ networkanchors |
+| [GoldenGate Deployment](svg/Oracle_Databases_At_Azure/oracle_goldengate_deployment.svg) | Oracle.Database/ goldenGateDeployments |
+| [GoldenGate Connection](svg/Oracle_Databases_At_Azure/oracle_goldengate_connection.svg) | Oracle.Database/ goldenGateConnections |
 | [Oracle Exascale VM Cluster](svg/Oracle_Databases_At_Azure/oracle_exascale_vmcluster.svg) | Oracle.Database/ exadbVmClusters |
 | [Oracle Exascale DB Storage Vault](svg/Oracle_Databases_At_Azure/oracle_exascale_storage_vaults.svg) | oracle.database/ exascaledbstoragevaults |
 | [Oracle Exadata VM Cluster](svg/Oracle_Databases_At_Azure/oracle_exadata_vmcluster.svg) | oracle.database/ cloudvmclusters |
