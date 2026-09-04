@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.221.0.1 on 2026-09-03.
+Extracted from Azure Portal version 18.221.0.1 on 2026-09-04.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -930,7 +930,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Playwright Testing (Classic)](svg/Microsoft_Azure_PlaywrightService/PlaywrightService.svg) | Microsoft.AzurePlaywrightService/ accounts |
 | [Policy](svg/Microsoft_Azure_Policy/PolicyHub.svg) |  |
 | [Blueprint](svg/Microsoft_Azure_Policy/ArmBlueprintHub.svg) |  |
-| [Shared dashboard](svg/Microsoft_Azure_PortalDashboard/Dashboards.svg) | Microsoft.Portal/ dashboards |
 | [Power BI Embedded](svg/Microsoft_Azure_PowerBIDedicated/PowerBIDedicated.svg) | Microsoft.PowerBIDedicated/ capacities |
 | [Power Platform](svg/Microsoft_Azure_PowerPlatform/PowerPlatform.svg) |  |
 | [Private DNS zone](svg/Microsoft_Azure_PrivateDNS/PrivateDnsZone.svg) | Microsoft.Network/ privateDnsZones |
@@ -1159,6 +1158,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Connected Cache for ISP](svg/Microsoft_ConnectedCache_ISP/MCCIspResource.svg) | Microsoft.ConnectedCache/ ispCustomers |
 | [Managed Desktop](svg/Microsoft_EMM_ModernWorkplace/MWaaSFF.svg) |  |
 | [Managed Desktop](svg/Microsoft_EMM_ModernWorkplace/MWaaS.svg) |  |
+| [Product Overview](svg/Microsoft_EngOps_Product/ProductOverview.svg) |  |
 | [My Resource](svg/Microsoft_EngOps_Service360/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Copilot](svg/Microsoft_Entra_Copilot/SidecarChatAsset.svg) |  |
 | [My Resource](svg/Microsoft_Entra_GSA_Connect/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
