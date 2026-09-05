@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.221.0.1 on 2026-09-04.
+Extracted from Azure Portal version 18.221.0.1 on 2026-09-05.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -32,7 +32,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [MongoDB Atlas Organization](svg/Azure_MarketPlace_NativeISVService/MongoDB_V1.svg) | MongoDB.Atlas/ organizations_V1 |
 | [Azure Native LiftrLite Sample RP - An Azure Native Sample RP Cloud Service](svg/Azure_MarketPlace_NativeISVService/Liftrbasic.svg) | liftrbasic.samplerp/ organizations |
 | [Azure Native LambdaTest - HyperExecute Cloud Service](svg/Azure_MarketPlace_NativeISVService/LambdaTest.svg) | lambdatest.hyperexecute/ organizations |
-| [Kore.ai Organization](svg/Azure_MarketPlace_NativeISVService/Kore.svg) | kore.agentplatform/ organizations |
+| [Kore.ai Artemis Organization](svg/Azure_MarketPlace_NativeISVService/Kore.svg) | kore.agentplatform/ organizations |
 | [Dell PowerScale](svg/Azure_MarketPlace_NativeISVService/DellStorage.svg) | dell.storage/ filesystems |
 | [Commvault Cloud](svg/Azure_MarketPlace_NativeISVService/CommvaultOverview.svg) |  |
 | [Commvault Cloud Account](svg/Azure_MarketPlace_NativeISVService/CommvaultCloudAccounts.svg) | Commvault.ContentStore/ cloudAccounts |
@@ -632,6 +632,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Multicloud connector](svg/Microsoft_Azure_HybridCompute/MultiCloudConnector.svg) | Microsoft.HybridConnectivity/ publicCloudConnectors |
 | [Multicloud synced resource](svg/Microsoft_Azure_HybridCompute/GcpSyncedResources.svg) | Microsoft.HybridConnectivity/ publicCloudConnectors/ gcpsyncedresources |
 | [Multicloud synced resource](svg/Microsoft_Azure_HybridCompute/AwsSyncedResources.svg) | Microsoft.HybridConnectivity/ publicCloudConnectors/ awssyncedresources |
+| [User](svg/Microsoft_Azure_HybridCompute/MachineInventoryUsers.svg) | Microsoft.GuestConfiguration/ users |
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/HybridComputeSovereign.svg) | Microsoft.HybridCompute/ machinesSovereign |
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/HybridCompute.svg) | Microsoft.HybridCompute/ machines |
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/ArcServerWithWac.svg) | Microsoft.HybridCompute/ arcServerWithWac |
@@ -775,22 +776,13 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [User and group quota](svg/Microsoft_Azure_NetApp/NfsVolumeQuotaRule.svg) | Microsoft.NetApp/ netAppAccounts/ capacityPools/ volumes/ volumeQuotaRules |
 | [VolumeGroup](svg/Microsoft_Azure_NetApp/NfsVolumeGroup.svg) | Microsoft.NetApp/ netAppAccounts/ volumeGroups |
 | [Volume](svg/Microsoft_Azure_NetApp/NfsVolume.svg) | Microsoft.NetApp/ netAppAccounts/ capacityPools/ Volumes |
-| [Elastic volume](svg/Microsoft_Azure_NetApp/ElasticVolume.svg) | Microsoft.NetApp/ elasticAccounts/ elasticCapacityPools/ elasticVolumes |
 | [Snapshot policy](svg/Microsoft_Azure_NetApp/NfsSnapshotPolicy.svg) | Microsoft.NetApp/ netAppAccounts/ snapshotPolicies |
-| [Elastic snapshot policy](svg/Microsoft_Azure_NetApp/ElasticSnapshotPolicy.svg) | Microsoft.NetApp/ elasticAccounts/ elasticSnapshotPolicies |
 | [Snapshot](svg/Microsoft_Azure_NetApp/NfsSnapshot.svg) | Microsoft.NetApp/ netAppAccounts/ capacityPools/ volumes/ snapshots |
-| [Elastic snapshot](svg/Microsoft_Azure_NetApp/ElasticSnapshot.svg) | Microsoft.NetApp/ elasticAccounts/ elasticCapacityPools/ elasticVolumes/ elasticSnapshots |
 | [Capacity pool](svg/Microsoft_Azure_NetApp/NfsPool.svg) | Microsoft.NetApp/ netAppAccounts/ capacityPools |
-| [Elastic capacity pool](svg/Microsoft_Azure_NetApp/ElasticCapacityPool.svg) | Microsoft.NetApp/ elasticAccounts/ elasticCapacityPools |
 | [Backup vault](svg/Microsoft_Azure_NetApp/NfsBackupVault.svg) | Microsoft.NetApp/ netAppAccounts/ backupVaults |
-| [Elastic backup vault](svg/Microsoft_Azure_NetApp/ElasticBackupVault.svg) | Microsoft.NetApp/ elasticAccounts/ elasticBackupVaults |
 | [Backup](svg/Microsoft_Azure_NetApp/NfsBackups.svg) | Microsoft.NetApp/ netAppAccounts/ backupVaults/ backups |
-| [Elastic Backup](svg/Microsoft_Azure_NetApp/ElasticBackups.svg) | Microsoft.NetApp/ elasticAccounts/ elasticCapacityPools/ elasticVolumes/ elasticBackups |
 | [Backup Policy](svg/Microsoft_Azure_NetApp/NfsBackupPolicy.svg) | Microsoft.NetApp/ netAppAccounts/ backupPolicies |
-| [Elastic backup policy](svg/Microsoft_Azure_NetApp/ElasticBackupPolicy.svg) | Microsoft.NetApp/ elasticAccounts/ elasticBackupPolicies |
-| [Active directory config](svg/Microsoft_Azure_NetApp/ActiveDirectoryConfig.svg) | Microsoft.NetApp/ activeDirectoryConfigs |
 | [NetApp account](svg/Microsoft_Azure_NetApp/NetAppAccount.svg) | Microsoft.NetApp/ netAppAccounts |
-| [NetApp elastic account](svg/Microsoft_Azure_NetApp/ElasticAccount.svg) | Microsoft.NetApp/ elasticAccounts |
 | [Front Door WAF policy](svg/Microsoft_Azure_Network/FrontdoorWafPolicy.svg) | Microsoft.Network/ FrontDoorWebApplicationFirewallPolicies |
 | [Content Delivery Network WAF policy](svg/Microsoft_Azure_Network/ContentDeliveryNetworkWafPolicy.svg) | Microsoft.Cdn/ CdnWebApplicationFirewallPolicies |
 | [Application Gateway WAF policy](svg/Microsoft_Azure_Network/ApplicationGatewayWafPolicy.svg) | Microsoft.Network/ ApplicationGatewayWebApplicationFirewallPolicies |
@@ -970,6 +962,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [WCF Relay](svg/Microsoft_Azure_Relay/WcfRelay.svg) | Microsoft.Relay/ namespaces/ WcfRelays |
 | [Relay](svg/Microsoft_Azure_Relay/Relay.svg) | Microsoft.Relay/ namespaces |
 | [Hybrid Connection](svg/Microsoft_Azure_Relay/HybridConnection.svg) | Microsoft.Relay/ namespaces/ HybridConnections |
+| [Flex Spend Plan term](svg/Microsoft_Azure_Reservations/SpendPlansTermsBrowseAsset.svg) | microsoft.billingbenefits/ spendplans/ terms |
+| [Flex Spend Plan](svg/Microsoft_Azure_Reservations/SpendPlansBrowseAsset.svg) | microsoft.billingbenefits/ spendplans |
 | [Billing Benefits Resource](svg/Microsoft_Azure_Reservations/BillingBenefitsAllResources.svg) | Microsoft.BillingBenefits/ allResources |
 | [Savings plan order](svg/Microsoft_Azure_Reservations/SavingsPlanOrderServiceAdminAsset.svg) | Microsoft.BillingBenefits/ savingsPlanOrders |
 | [Savings plan order](svg/Microsoft_Azure_Reservations/SavingsPlanOrderAsset.svg) | Microsoft.Billing/ billingAccounts/ savingsPlanOrders |
@@ -1020,7 +1014,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Preview features](svg/Microsoft_Azure_Resources/PreviewFeaturesArg.svg) | microsoft.features/ featureprovidernamespaces/ featureconfigurations |
 | [Preview features](svg/Microsoft_Azure_Resources/PreviewFeatures.svg) |  |
 | [Azure Portal admin center](svg/Microsoft_Azure_Resources/AdminSettingsAsset.svg) |  |
-| [Microsoft SaaS (Preview)](svg/Microsoft_Azure_SaasHub/SaaSHub.svg) | Microsoft.SaaSHub/ cloudServices/ hidden |
+| [Microsoft SaaS (Preview)](svg/Microsoft_Azure_SaasHub/SaaSHub.svg) | Microsoft.SaaSHub/ cloudServices |
 | [SAP HANA on Azure](svg/Microsoft_Azure_SapHanaInstances/HanaInstance.svg) | Microsoft.HanaOnAzure/ hanaInstances |
 | [BareMetal Instance](svg/Microsoft_Azure_SapHanaInstances/BareMetalInstance.svg) | Microsoft.BareMetalInfrastructure/ bareMetalInstances |
 | [Azure Large Instance](svg/Microsoft_Azure_SapHanaInstances/AzureLargeInstance.svg) | Microsoft.AzureLargeInstance/ azureLargeInstances |
