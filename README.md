@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.221.0.1 on 2026-09-06.
+Extracted from Azure Portal version 18.221.0.1 on 2026-09-07.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -961,6 +961,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [WCF Relay](svg/Microsoft_Azure_Relay/WcfRelay.svg) | Microsoft.Relay/ namespaces/ WcfRelays |
 | [Relay](svg/Microsoft_Azure_Relay/Relay.svg) | Microsoft.Relay/ namespaces |
 | [Hybrid Connection](svg/Microsoft_Azure_Relay/HybridConnection.svg) | Microsoft.Relay/ namespaces/ HybridConnections |
+| [Flex Spend Plan term](svg/Microsoft_Azure_Reservations/SpendPlansTermsBrowseAsset.svg) | microsoft.billingbenefits/ spendplans/ terms |
+| [Flex Spend Plan](svg/Microsoft_Azure_Reservations/SpendPlansBrowseAsset.svg) | microsoft.billingbenefits/ spendplans |
 | [Billing Benefits Resource](svg/Microsoft_Azure_Reservations/BillingBenefitsAllResources.svg) | Microsoft.BillingBenefits/ allResources |
 | [Savings plan order](svg/Microsoft_Azure_Reservations/SavingsPlanOrderServiceAdminAsset.svg) | Microsoft.BillingBenefits/ savingsPlanOrders |
 | [Savings plan order](svg/Microsoft_Azure_Reservations/SavingsPlanOrderAsset.svg) | Microsoft.Billing/ billingAccounts/ savingsPlanOrders |
