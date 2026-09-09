@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.221.0.1 on 2026-09-08.
+Extracted from Azure Portal version 18.221.0.1 on 2026-09-09.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -325,6 +325,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure App Testing](svg/Microsoft_Azure_CloudNativeTesting/AzureAppTesting.svg) |  |
 | [All Resources](svg/Microsoft_Azure_CloudNativeTesting/AllResourcesFairfax.svg) | Microsoft.LoadTestService/ allservicesfairfax |
 | [All Resources](svg/Microsoft_Azure_CloudNativeTesting/AllResources.svg) | Microsoft.LoadTestService/ allservices |
+| [Service Connector](svg/Microsoft_Azure_CloudPC/ServiceConnector.svg) | Microsoft.Windows365/ serviceConnectors |
 | [Cloud service role (classic)](svg/Microsoft_Azure_CloudServices/Role.svg) | microsoft.classiccompute/ domainnames/ slots/ roles |
 | [Cloud service (classic)](svg/Microsoft_Azure_CloudServices/CloudService.svg) | microsoft.classicCompute/ domainNames |
 | [Cloud service (extended support)](svg/Microsoft_Azure_CloudServices_Arm/CloudServicesArm.svg) | Microsoft.Compute/ cloudServices |
