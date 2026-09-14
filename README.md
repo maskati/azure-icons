@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.221.0.1 on 2026-09-13.
+Extracted from Azure Portal version 18.221.0.1 on 2026-09-14.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -919,7 +919,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Peering Service](svg/Microsoft_Azure_Peering/MicrosoftPeeringService.svg) | Microsoft.Peering/ peeringServices |
 | [Peering](svg/Microsoft_Azure_Peering/AzurePeering.svg) | Microsoft.Peering/ peerings |
 | [Microsoft Entra Privileged Identity Management](svg/Microsoft_Azure_PIMCommon/BrowsePIM.svg) |  |
-| [My Resource](svg/Microsoft_Azure_Platform_Resiliency/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Playwright Testing (Classic)](svg/Microsoft_Azure_PlaywrightService/PlaywrightService.svg) | Microsoft.AzurePlaywrightService/ accounts |
 | [Policy](svg/Microsoft_Azure_Policy/PolicyHub.svg) |  |
 | [Blueprint](svg/Microsoft_Azure_Policy/ArmBlueprintHub.svg) |  |
