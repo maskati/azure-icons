@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.221.0.1 on 2026-09-15.
+Extracted from Azure Portal version 18.221.0.1 on 2026-09-16.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -398,6 +398,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Kubernetes service extension](svg/Microsoft_Azure_ContainerService/KubernetesClusterExtensions.svg) | microsoft.kubernetesconfiguration/ extensions |
 | [Azure Red Hat OpenShift with Hosted Control Planes cluster](svg/Microsoft_Azure_ContainerService/AroHcpClusters.svg) | Microsoft.RedHatOpenShift/ HCPOpenShiftClusters |
 | [Azure Red Hat OpenShift cluster](svg/Microsoft_Azure_ContainerService/AroClusters.svg) | Microsoft.RedHatOpenShift/ OpenShiftClusters |
+| [Azure Red Hat OpenShift cluster](svg/Microsoft_Azure_ContainerService/AllAroClusters.svg) | Microsoft.RedHatOpenShift/ allOpenShiftClusters |
 | [Anyscale Workspace](svg/Microsoft_Azure_ContainerService/AnyscaleWorkspaces.svg) | Anyscale.Platform/ clouds/ projects/ workspaces |
 | [Anyscale Service](svg/Microsoft_Azure_ContainerService/AnyscaleServices.svg) | Anyscale.Platform/ clouds/ projects/ services |
 | [Anyscale Project](svg/Microsoft_Azure_ContainerService/AnyscaleProjects.svg) | Anyscale.Platform/ clouds/ projects |
@@ -660,6 +661,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Virtual network gateway](svg/Microsoft_Azure_HybridNetworking/VirtualNetworkGateway.svg) | Microsoft.Network/ virtualNetworkGateways |
 | [Route filter](svg/Microsoft_Azure_HybridNetworking/RouteFilter.svg) | Microsoft.Network/ routeFilters |
 | [Network security](svg/Microsoft_Azure_HybridNetworking/NetworkSecurity.svg) |  |
+| [Azure Multicloud Interconnect](svg/Microsoft_Azure_HybridNetworking/MulticloudInterconnect.svg) | Microsoft.Network/ virtual_multicloudInterconnects |
 | [Mesh VPN](svg/Microsoft_Azure_HybridNetworking/MeshVpn.svg) | Microsoft.NetworkFunction/ meshVpns |
 | [Local network gateway](svg/Microsoft_Azure_HybridNetworking/LocalNetworkGateway.svg) | Microsoft.Network/ localnetworkgateways |
 | [IP Group](svg/Microsoft_Azure_HybridNetworking/IpGroups.svg) | Microsoft.Network/ ipGroups |
