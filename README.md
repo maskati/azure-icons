@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.248.0.1 on 2026-09-18.
+Extracted from Azure Portal version 18.248.0.1 on 2026-09-19.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -398,6 +398,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Kubernetes service extension](svg/Microsoft_Azure_ContainerService/KubernetesClusterExtensions.svg) | microsoft.kubernetesconfiguration/ extensions |
 | [Azure Red Hat OpenShift with Hosted Control Planes cluster](svg/Microsoft_Azure_ContainerService/AroHcpClusters.svg) | Microsoft.RedHatOpenShift/ HCPOpenShiftClusters |
 | [Azure Red Hat OpenShift cluster](svg/Microsoft_Azure_ContainerService/AroClusters.svg) | Microsoft.RedHatOpenShift/ OpenShiftClusters |
+| [Azure Red Hat OpenShift cluster](svg/Microsoft_Azure_ContainerService/AllAroClusters.svg) | Microsoft.RedHatOpenShift/ allOpenShiftClusters |
 | [Anyscale Workspace](svg/Microsoft_Azure_ContainerService/AnyscaleWorkspaces.svg) | Anyscale.Platform/ clouds/ projects/ workspaces |
 | [Anyscale Service](svg/Microsoft_Azure_ContainerService/AnyscaleServices.svg) | Anyscale.Platform/ clouds/ projects/ services |
 | [Anyscale Project](svg/Microsoft_Azure_ContainerService/AnyscaleProjects.svg) | Anyscale.Platform/ clouds/ projects |
