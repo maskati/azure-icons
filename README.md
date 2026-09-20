@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.248.0.1 on 2026-09-19.
+Extracted from Azure Portal version 18.248.0.1 on 2026-09-20.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -219,6 +219,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Entra Resilience Host](svg/Microsoft_AAD_ResilienceServices/ResilienceHost.svg) | microsoft.aad/ resilienceservices/ hosts |
 | [EngageHub Portal](svg/Microsoft_AzureCXP_EngageHub/EngageHubPortalMenu.svg) |  |
 | [Azure Local - disconnected operations](svg/Microsoft_AzureStackHCI_PortalExtension/Winfields.svg) | Microsoft.Edge/ disconnectedoperations |
+| [Azure Local Disk - Azure Arc](svg/Microsoft_AzureStackHCI_PortalExtension/AzureLocalEdgeMachineDisk.svg) | Microsoft.AzureStackHCI/ edgeMachines/ disks |
 | [Azure Local Disk - Azure Arc](svg/Microsoft_AzureStackHCI_PortalExtension/AzureLocalDisk.svg) | Microsoft.AzureStackHCI/ virtualHardDisks |
 | [Edge Center](svg/Microsoft_AzureStackHCI_PortalExtension/EdgeCenter.svg) |  |
 | [Azure Local Virtual Machine - Azure Arc](svg/Microsoft_AzureStackHCI_PortalExtension/HCIVirtualMachines.svg) | Microsoft.All/ hciVirtualMachines |
@@ -482,12 +483,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [ADR Device](svg/Microsoft_Azure_DeviceRegistry/devices.svg) | microsoft.deviceregistry/ devices |
 | [ADR Asset Endpoint Profile](svg/Microsoft_Azure_DeviceRegistry/assetEndpointProfiles.svg) | microsoft.deviceregistry/ assetEndpointProfiles |
 | [ADR Asset (classic)](svg/Microsoft_Azure_DeviceRegistry/assets.svg) | microsoft.deviceregistry/ assets |
-| [Device Update Account](svg/Microsoft_Azure_DeviceUpdate/updateAccount.svg) | Microsoft.DeviceUpdate/ updateAccounts |
-| [Device Update](svg/Microsoft_Azure_DeviceUpdate/update.svg) | Microsoft.DeviceUpdate/ updateAccounts/ updates |
-| [Device Update Device Class](svg/Microsoft_Azure_DeviceUpdate/deviceClass.svg) | Microsoft.DeviceUpdate/ updateAccounts/ deviceClasses |
-| [Device Update Deployment](svg/Microsoft_Azure_DeviceUpdate/deployment.svg) | Microsoft.DeviceUpdate/ updateAccounts/ deployments |
-| [Device Update Agent](svg/Microsoft_Azure_DeviceUpdate/agent.svg) | Microsoft.DeviceUpdate/ updateAccounts/ agents |
-| [Device Update Active Deployment](svg/Microsoft_Azure_DeviceUpdate/activeDeployment.svg) | Microsoft.DeviceUpdate/ updateAccounts/ activeDeployments |
 | [Managed DevOps Pool](svg/Microsoft_Azure_DevOpsInfrastructure/ManagedDevOpsPools.svg) | Microsoft.DevOpsInfrastructure/ pools |
 | [DevTest Labs virtual machine](svg/Microsoft_Azure_DevTestLab/MyLabVms.svg) | Microsoft.DevTestLab/ labs/ virtualMachines |
 | [DevTest Lab](svg/Microsoft_Azure_DevTestLab/DevTestLab.svg) | Microsoft.DevTestLab/ labs |
@@ -632,8 +627,10 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Multicloud connector](svg/Microsoft_Azure_HybridCompute/MultiCloudConnector.svg) | Microsoft.HybridConnectivity/ publicCloudConnectors |
 | [Multicloud synced resource](svg/Microsoft_Azure_HybridCompute/GcpSyncedResources.svg) | Microsoft.HybridConnectivity/ publicCloudConnectors/ gcpsyncedresources |
 | [Multicloud synced resource](svg/Microsoft_Azure_HybridCompute/AwsSyncedResources.svg) | Microsoft.HybridConnectivity/ publicCloudConnectors/ awssyncedresources |
+| [Site server](svg/Microsoft_Azure_HybridCompute/MecmSiteServers.svg) | Microsoft.HybridCompute/ machinesMecmSiteServer |
 | [User](svg/Microsoft_Azure_HybridCompute/MachineInventoryUsers.svg) | Microsoft.GuestConfiguration/ users |
 | [Group](svg/Microsoft_Azure_HybridCompute/MachineInventoryGroups.svg) | Microsoft.GuestConfiguration/ groups |
+| [Certificate](svg/Microsoft_Azure_HybridCompute/MachineInventoryCertificates.svg) | Microsoft.GuestConfiguration/ certificates |
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/HybridComputeSovereign.svg) | Microsoft.HybridCompute/ machinesSovereign |
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/HybridCompute.svg) | Microsoft.HybridCompute/ machines |
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/ArcServerWithWac.svg) | Microsoft.HybridCompute/ arcServerWithWac |
@@ -780,6 +777,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Snapshot policy](svg/Microsoft_Azure_NetApp/NfsSnapshotPolicy.svg) | Microsoft.NetApp/ netAppAccounts/ snapshotPolicies |
 | [Snapshot](svg/Microsoft_Azure_NetApp/NfsSnapshot.svg) | Microsoft.NetApp/ netAppAccounts/ capacityPools/ volumes/ snapshots |
 | [Capacity pool](svg/Microsoft_Azure_NetApp/NfsPool.svg) | Microsoft.NetApp/ netAppAccounts/ capacityPools |
+| [Consistency group](svg/Microsoft_Azure_NetApp/NfsConsistencyGroup.svg) | Microsoft.NetApp/ netAppAccounts/ consistencyGroups |
 | [Backup vault](svg/Microsoft_Azure_NetApp/NfsBackupVault.svg) | Microsoft.NetApp/ netAppAccounts/ backupVaults |
 | [Backup](svg/Microsoft_Azure_NetApp/NfsBackups.svg) | Microsoft.NetApp/ netAppAccounts/ backupVaults/ backups |
 | [Backup Policy](svg/Microsoft_Azure_NetApp/NfsBackupPolicy.svg) | Microsoft.NetApp/ netAppAccounts/ backupPolicies |
