@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.248.0.1 on 2026-09-21.
+Extracted from Azure Portal version 18.248.0.1 on 2026-09-22.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -483,12 +483,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [ADR Device](svg/Microsoft_Azure_DeviceRegistry/devices.svg) | microsoft.deviceregistry/ devices |
 | [ADR Asset Endpoint Profile](svg/Microsoft_Azure_DeviceRegistry/assetEndpointProfiles.svg) | microsoft.deviceregistry/ assetEndpointProfiles |
 | [ADR Asset (classic)](svg/Microsoft_Azure_DeviceRegistry/assets.svg) | microsoft.deviceregistry/ assets |
-| [Device Update Account](svg/Microsoft_Azure_DeviceUpdate/updateAccount.svg) | Microsoft.DeviceUpdate/ updateAccounts |
-| [Device Update](svg/Microsoft_Azure_DeviceUpdate/update.svg) | Microsoft.DeviceUpdate/ updateAccounts/ updates |
-| [Device Update Device Class](svg/Microsoft_Azure_DeviceUpdate/deviceClass.svg) | Microsoft.DeviceUpdate/ updateAccounts/ deviceClasses |
-| [Device Update Deployment](svg/Microsoft_Azure_DeviceUpdate/deployment.svg) | Microsoft.DeviceUpdate/ updateAccounts/ deployments |
-| [Device Update Agent](svg/Microsoft_Azure_DeviceUpdate/agent.svg) | Microsoft.DeviceUpdate/ updateAccounts/ agents |
-| [Device Update Active Deployment](svg/Microsoft_Azure_DeviceUpdate/activeDeployment.svg) | Microsoft.DeviceUpdate/ updateAccounts/ activeDeployments |
 | [Managed DevOps Pool](svg/Microsoft_Azure_DevOpsInfrastructure/ManagedDevOpsPools.svg) | Microsoft.DevOpsInfrastructure/ pools |
 | [DevTest Labs virtual machine](svg/Microsoft_Azure_DevTestLab/MyLabVms.svg) | Microsoft.DevTestLab/ labs/ virtualMachines |
 | [DevTest Lab](svg/Microsoft_Azure_DevTestLab/DevTestLab.svg) | Microsoft.DevTestLab/ labs |
@@ -633,8 +627,10 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Multicloud connector](svg/Microsoft_Azure_HybridCompute/MultiCloudConnector.svg) | Microsoft.HybridConnectivity/ publicCloudConnectors |
 | [Multicloud synced resource](svg/Microsoft_Azure_HybridCompute/GcpSyncedResources.svg) | Microsoft.HybridConnectivity/ publicCloudConnectors/ gcpsyncedresources |
 | [Multicloud synced resource](svg/Microsoft_Azure_HybridCompute/AwsSyncedResources.svg) | Microsoft.HybridConnectivity/ publicCloudConnectors/ awssyncedresources |
+| [Site server](svg/Microsoft_Azure_HybridCompute/MecmSiteServers.svg) | Microsoft.HybridCompute/ machinesMecmSiteServer |
 | [User](svg/Microsoft_Azure_HybridCompute/MachineInventoryUsers.svg) | Microsoft.GuestConfiguration/ users |
 | [Group](svg/Microsoft_Azure_HybridCompute/MachineInventoryGroups.svg) | Microsoft.GuestConfiguration/ groups |
+| [Certificate](svg/Microsoft_Azure_HybridCompute/MachineInventoryCertificates.svg) | Microsoft.GuestConfiguration/ certificates |
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/HybridComputeSovereign.svg) | Microsoft.HybridCompute/ machinesSovereign |
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/HybridCompute.svg) | Microsoft.HybridCompute/ machines |
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/ArcServerWithWac.svg) | Microsoft.HybridCompute/ arcServerWithWac |
