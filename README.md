@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.248.0.1 on 2026-09-22.
+Extracted from Azure Portal version 18.248.0.1 on 2026-09-23.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -512,7 +512,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Disk Access](svg/Microsoft_Azure_DiskMgmt/DiskAccess.svg) | Microsoft.Compute/ diskAccesses |
 | [Disk](svg/Microsoft_Azure_DiskMgmt/Disk.svg) | Microsoft.Compute/ disks |
 | [Community image](svg/Microsoft_Azure_DiskMgmt/CommunityImage.svg) | Microsoft.Compute/ locations/ communityGalleries/ images |
-| [Azure Database Migration Service](svg/Microsoft_Azure_DMS/DmsV3.svg) | Microsoft.DataMigration/ postgresqlMigrationServices |
+| [Azure Database Migration Service](svg/Microsoft_Azure_DMS/PostgreSqlMigrationService.svg) | Microsoft.DataMigration/ databaseMigrationServices |
+| [Azure Database Migration Service](svg/Microsoft_Azure_DMS/PostgreSqlDatabaseMigration.svg) | Microsoft.DataMigration/ databaseMigrationServices/ migrations |
+| [Azure Database Migration Service](svg/Microsoft_Azure_DMS/DmsMigrationServices.svg) | Microsoft.DataMigration/ migrationServices |
 | [Azure Database Migration Service](svg/Microsoft_Azure_DMS/DmsV2.svg) | Microsoft.DataMigration/ sqlmigrationservices |
 | [Azure Database Migration Service](svg/Microsoft_Azure_DMS/DmsCenter.svg) | Microsoft.DataMigration/ dmscentermain |
 | [Azure Database Migration Service resource](svg/Microsoft_Azure_DMS/AllDmsResources.svg) | Microsoft.DataMigration/ all |
@@ -762,6 +764,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Monitor](svg/Microsoft_Azure_Monitoring/AzureMonitoring.svg) |  |
 | [Autoscale](svg/Microsoft_Azure_Monitoring/Autoscale.svg) |  |
 | [Azure Monitor pipeline](svg/Microsoft_Azure_Monitoring/AzureEdgePipeline.svg) | Microsoft.monitor/ pipelineGroups |
+| [Issue](svg/Microsoft_Azure_Monitoring_AIExperiences/Issue.svg) | microsoft.monitor/ accounts/ issues |
 | [Smart detector alert rule](svg/Microsoft_Azure_Monitoring_Alerts/SmartDetectorAlertRule.svg) | microsoft.alertsmanagement/ smartdetectoralertrules |
 | [Observability agent](svg/Microsoft_Azure_Monitoring_Alerts/ObservabilityAgent.svg) | microsoft.monitor/ observabilityagents |
 | [Metric alert rule](svg/Microsoft_Azure_Monitoring_Alerts/MetricAlertRule.svg) | microsoft.insights/ metricalerts |
@@ -777,6 +780,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Snapshot policy](svg/Microsoft_Azure_NetApp/NfsSnapshotPolicy.svg) | Microsoft.NetApp/ netAppAccounts/ snapshotPolicies |
 | [Snapshot](svg/Microsoft_Azure_NetApp/NfsSnapshot.svg) | Microsoft.NetApp/ netAppAccounts/ capacityPools/ volumes/ snapshots |
 | [Capacity pool](svg/Microsoft_Azure_NetApp/NfsPool.svg) | Microsoft.NetApp/ netAppAccounts/ capacityPools |
+| [Consistency group](svg/Microsoft_Azure_NetApp/NfsConsistencyGroup.svg) | Microsoft.NetApp/ netAppAccounts/ consistencyGroups |
 | [Backup vault](svg/Microsoft_Azure_NetApp/NfsBackupVault.svg) | Microsoft.NetApp/ netAppAccounts/ backupVaults |
 | [Backup](svg/Microsoft_Azure_NetApp/NfsBackups.svg) | Microsoft.NetApp/ netAppAccounts/ backupVaults/ backups |
 | [Backup Policy](svg/Microsoft_Azure_NetApp/NfsBackupPolicy.svg) | Microsoft.NetApp/ netAppAccounts/ backupPolicies |
