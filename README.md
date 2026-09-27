@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.306.0.1 on 2026-09-26.
+Extracted from Azure Portal version 18.248.0.1 on 2026-09-27.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -37,7 +37,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Commvault Cloud](svg/Azure_MarketPlace_NativeISVService/CommvaultOverview.svg) |  |
 | [Commvault Cloud Account](svg/Azure_MarketPlace_NativeISVService/CommvaultCloudAccounts.svg) | Commvault.ContentStore/ cloudAccounts |
 | [Astro Organization](svg/Azure_MarketPlace_NativeISVService/Astronomer.svg) | astronomer.astro/ organizations |
-| [Azure Native Arize AI Cloud Service](svg/Azure_MarketPlace_NativeISVService/ArizeAi.svg) | arizeai.observabilityeval/ organizations |
 | [NGINXaaS](svg/Azure_Marketplace_NGINX/Nginx.svg) | NGINX.NGINXPLUS/ nginxDeployments |
 | [Local Rulestack for Cloud NGFW by Palo Alto Networks](svg/Azure_Marketplace_PaloAltoNetworks_Cloudngfw/PaloAltoNetworksLocalRulestack.svg) | PaloAltoNetworks.Cloudngfw/ localRulestacks |
 | [Global Rulestack](svg/Azure_Marketplace_PaloAltoNetworks_Cloudngfw/PaloAltoNetworksGlobalRulestack.svg) | PaloAltoNetworks.Cloudngfw/ globalRulestacks |
