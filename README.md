@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.248.0.1 on 2026-10-01.
+Extracted from Azure Portal version 18.290.1.1 on 2026-10-02.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -19,7 +19,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Cache for Redis](svg/AzureCacheExtension/CacheAsset.svg) | Microsoft.Cache/ Redis |
 | [Redis Enterprise database](svg/AzureCacheExtension/RedisEnterpriseDatabaseAsset.svg) | Microsoft.Cache/ RedisEnterprise/ Databases |
 | [Azure Managed Redis](svg/AzureCacheExtension/RedisEnterpriseAsset.svg) | Microsoft.Cache/ RedisEnterprise |
-| [Astro Organization](svg/Azure_Marketplace_Astronomer/Astronomer.svg) | Astronomer.Astro/ organizations |
 | [Confluent organization](svg/Azure_Marketplace_Confluent/Confluent.svg) | Microsoft.Confluent/ organizations |
 | [Datadog](svg/Azure_Marketplace_Datadog/Datadog.svg) | Microsoft.Datadog/ monitors |
 | [Dell PowerScale](svg/Azure_Marketplace_Dell/Azure_Microsoft_Dell.svg) | Dell.Storage/ filesystems |
