@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.290.1.1 on 2026-10-03.
+Extracted from Azure Portal version 18.248.0.1 on 2026-10-04.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -31,7 +31,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [MongoDB Atlas Organization](svg/Azure_MarketPlace_NativeISVService/MongoDB_V1.svg) | MongoDB.Atlas/ organizations_V1 |
 | [Azure Native LiftrLite Sample RP - An Azure Native Sample RP Cloud Service](svg/Azure_MarketPlace_NativeISVService/Liftrbasic.svg) | liftrbasic.samplerp/ organizations |
 | [Azure Native LambdaTest - HyperExecute Cloud Service](svg/Azure_MarketPlace_NativeISVService/LambdaTest.svg) | lambdatest.hyperexecute/ organizations |
-| [Kore.ai Artemis Organization](svg/Azure_MarketPlace_NativeISVService/Kore.svg) | kore.agentplatform/ organizations |
+| [Kore.ai Artemis - An Azure Native ISV Service](svg/Azure_MarketPlace_NativeISVService/Kore.svg) | kore.agentplatform/ organizations |
 | [Dell PowerScale](svg/Azure_MarketPlace_NativeISVService/DellStorage.svg) | dell.storage/ filesystems |
 | [Commvault Cloud](svg/Azure_MarketPlace_NativeISVService/CommvaultOverview.svg) |  |
 | [Commvault Cloud Account](svg/Azure_MarketPlace_NativeISVService/CommvaultCloudAccounts.svg) | Commvault.ContentStore/ cloudAccounts |
@@ -473,10 +473,14 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Dev center](svg/Microsoft_Azure_DevCenter/DevCenter.svg) | Microsoft.DevCenter/ devcenters |
 | [Dev Box definition](svg/Microsoft_Azure_DevCenter/DevBoxDefinitions.svg) | Microsoft.DevCenter/ devcenters/ devboxdefinitions |
 | [ADR Asset](svg/Microsoft_Azure_DeviceRegistry/convergedAssets.svg) | microsoft.deviceregistry/ convergedAssets |
-| [ADR Schema Registry](svg/Microsoft_Azure_DeviceRegistry/schemaRegistries.svg) | microsoft.deviceregistry/ schemaRegistries |
+| [ADR schema registry](svg/Microsoft_Azure_DeviceRegistry/schemaRegistries.svg) | microsoft.deviceregistry/ schemaRegistries |
+| [Registry Device](svg/Microsoft_Azure_DeviceRegistry/registryDevices.svg) | microsoft.deviceregistry/ namespaces/ registryDevices |
+| [ADR group](svg/Microsoft_Azure_DeviceRegistry/namespaceGroups.svg) | microsoft.deviceregistry/ namespaces/ groups |
 | [ADR Device](svg/Microsoft_Azure_DeviceRegistry/namespaceDevices.svg) | microsoft.deviceregistry/ namespaces/ devices |
+| [Certificate Policy](svg/Microsoft_Azure_DeviceRegistry/certificatePolicies.svg) | Microsoft.DeviceRegistry/ namespaces/ certificateAuthorities/ certificatePolicies |
+| [Certificate Authority](svg/Microsoft_Azure_DeviceRegistry/namespaceCertificateAuthorities.svg) | Microsoft.DeviceRegistry/ namespaces/ certificateAuthorities |
 | [ADR Asset](svg/Microsoft_Azure_DeviceRegistry/namespaceAssets.svg) | microsoft.deviceregistry/ namespaces/ assets |
-| [Device Registry Namespace](svg/Microsoft_Azure_DeviceRegistry/namespaces.svg) | microsoft.deviceregistry/ namespaces |
+| [ADR Namespace](svg/Microsoft_Azure_DeviceRegistry/namespaces.svg) | microsoft.deviceregistry/ namespaces |
 | [Azure Device Registry](svg/Microsoft_Azure_DeviceRegistry/DeviceRegistry.svg) |  |
 | [ADR Device](svg/Microsoft_Azure_DeviceRegistry/devices.svg) | microsoft.deviceregistry/ devices |
 | [ADR Asset Endpoint Profile](svg/Microsoft_Azure_DeviceRegistry/assetEndpointProfiles.svg) | microsoft.deviceregistry/ assetEndpointProfiles |
