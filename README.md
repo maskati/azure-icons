@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.290.1.1 on 2026-10-05.
+Extracted from Azure Portal version 18.290.1.1 on 2026-10-06.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -473,10 +473,14 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Dev center](svg/Microsoft_Azure_DevCenter/DevCenter.svg) | Microsoft.DevCenter/ devcenters |
 | [Dev Box definition](svg/Microsoft_Azure_DevCenter/DevBoxDefinitions.svg) | Microsoft.DevCenter/ devcenters/ devboxdefinitions |
 | [ADR Asset](svg/Microsoft_Azure_DeviceRegistry/convergedAssets.svg) | microsoft.deviceregistry/ convergedAssets |
-| [ADR Schema Registry](svg/Microsoft_Azure_DeviceRegistry/schemaRegistries.svg) | microsoft.deviceregistry/ schemaRegistries |
+| [ADR schema registry](svg/Microsoft_Azure_DeviceRegistry/schemaRegistries.svg) | microsoft.deviceregistry/ schemaRegistries |
+| [Registry Device](svg/Microsoft_Azure_DeviceRegistry/registryDevices.svg) | microsoft.deviceregistry/ namespaces/ registryDevices |
+| [ADR group](svg/Microsoft_Azure_DeviceRegistry/namespaceGroups.svg) | microsoft.deviceregistry/ namespaces/ groups |
 | [ADR Device](svg/Microsoft_Azure_DeviceRegistry/namespaceDevices.svg) | microsoft.deviceregistry/ namespaces/ devices |
+| [Certificate Policy](svg/Microsoft_Azure_DeviceRegistry/certificatePolicies.svg) | Microsoft.DeviceRegistry/ namespaces/ certificateAuthorities/ certificatePolicies |
+| [Certificate Authority](svg/Microsoft_Azure_DeviceRegistry/namespaceCertificateAuthorities.svg) | Microsoft.DeviceRegistry/ namespaces/ certificateAuthorities |
 | [ADR Asset](svg/Microsoft_Azure_DeviceRegistry/namespaceAssets.svg) | microsoft.deviceregistry/ namespaces/ assets |
-| [Device Registry Namespace](svg/Microsoft_Azure_DeviceRegistry/namespaces.svg) | microsoft.deviceregistry/ namespaces |
+| [ADR Namespace](svg/Microsoft_Azure_DeviceRegistry/namespaces.svg) | microsoft.deviceregistry/ namespaces |
 | [Azure Device Registry](svg/Microsoft_Azure_DeviceRegistry/DeviceRegistry.svg) |  |
 | [ADR Device](svg/Microsoft_Azure_DeviceRegistry/devices.svg) | microsoft.deviceregistry/ devices |
 | [ADR Asset Endpoint Profile](svg/Microsoft_Azure_DeviceRegistry/assetEndpointProfiles.svg) | microsoft.deviceregistry/ assetEndpointProfiles |
@@ -538,6 +542,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Impact Reporting](svg/Microsoft_Azure_ECE/ImpactRP.svg) |  |
 | [Edge Action (Preview)](svg/Microsoft_Azure_EdgeAction/EdgeAction.svg) | Microsoft.Cdn/ EdgeActions |
 | [My Resource](svg/Microsoft_Azure_EdgeAIExtension/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
+| [Approval](svg/Microsoft_Azure_EdgeApprovalsPortal/Approvals.svg) |  |
 | [Azure Stack Edge / Data Box Gateway](svg/Microsoft_Azure_EdgeGateway/EdgeGateway.svg) | Microsoft.DataBoxEdge/ dataBoxEdgeDevices |
 | [My Resource](svg/Microsoft_Azure_EdgeManagementCopilot/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Network Interface](svg/Microsoft_Azure_EdgeOrder/NetworkInterface.svg) | Microsoft.AzureStackHCI/ edgeMachines/ networkAdapters |
@@ -891,7 +896,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Change Analysis](svg/Microsoft_Azure_OneInventory/ResourceChange.svg) | Microsoft.Resources/ resourceChange |
 | [My Resource](svg/Microsoft_Azure_OneInventory/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [OneMigrate](svg/Microsoft_Azure_OneMigrate/AzureOneMigrate.svg) |  |
-| [Online Experimentation Workspace](svg/Microsoft_Azure_OnlineExperimentation/OnlineExperimentationWorkspace.svg) | microsoft.onlineexperimentation/ workspaces |
 | [Azure Data Manager for Energy](svg/Microsoft_Azure_OpenEnergyPlatform/OpenEnergyResource.svg) | Microsoft.OpenEnergyPlatform/ energyServices |
 | [SCOM managed instance](svg/Microsoft_Azure_OperationsMgr/AquilaExtensionResource.svg) | Microsoft.Scom/ managedInstances |
 | [SCOM managed instance](svg/Microsoft_Azure_OperationsMgr/Aquila.svg) |  |
