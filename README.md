@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.290.1.1 on 2026-10-07.
+Extracted from Azure Portal version 18.290.1.1 on 2026-10-08.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -1153,7 +1153,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Bing Resource](svg/Microsoft_Bing_Api/BingAPIAccount.svg) | Microsoft.Bing/ accounts |
 | [Health model](svg/Microsoft_CloudHealth_HealthModels/AzureHealthModel.svg) | Microsoft.CloudHealth/ healthmodels |
 | [Connected Cache for Enterprise & Education](svg/Microsoft_ConnectedCache_Enterprise/MccEnterpriseResource.svg) | Microsoft.ConnectedCache/ enterpriseMccCustomers |
-| [MCC CacheNode for Enterprise](svg/Microsoft_ConnectedCache_Enterprise/MccEnterpriseCacheNodeResource.svg) | Microsoft.ConnectedCache/ enterpriseMccCustomers/ enterpriseMccCacheNodes |
 | [Connected Cache for ISP](svg/Microsoft_ConnectedCache_ISP/MCCIspResource.svg) | Microsoft.ConnectedCache/ ispCustomers |
 | [Managed Desktop](svg/Microsoft_EMM_ModernWorkplace/MWaaSFF.svg) |  |
 | [Managed Desktop](svg/Microsoft_EMM_ModernWorkplace/MWaaS.svg) |  |
