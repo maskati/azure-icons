@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.290.1.1 on 2026-10-08.
+Extracted from Azure Portal version 18.290.1.1 on 2026-10-09.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -58,6 +58,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Guest Usage](svg/Microsoft_AAD_B2CAdmin/GuestUsages.svg) | Microsoft.AzureActiveDirectory/ guestUsages |
 | [External Configuration Tenant](svg/Microsoft_AAD_B2CAdmin/CIAMTenant.svg) | Microsoft.AzureActiveDirectory/ ciamDirectories |
 | [B2C Tenant](svg/Microsoft_AAD_B2CAdmin/B2CTenant.svg) | Microsoft.AzureActiveDirectory/ b2cDirectories |
+| [Microsoft Entra Security Defaults](svg/Microsoft_AAD_ConditionalAccess/SecurityDefaultsRootAsset.svg) |  |
 | [Microsoft Entra Password protection](svg/Microsoft_AAD_ConditionalAccess/PasswordProtectionRootAsset.svg) |  |
 | [Microsoft Entra Named locations](svg/Microsoft_AAD_ConditionalAccess/NamedLocationsRootAsset.svg) |  |
 | [Microsoft Entra Authentication Strengths](svg/Microsoft_AAD_ConditionalAccess/AuthenticationStrengthsRootAsset.svg) |  |
