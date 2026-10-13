@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.290.1.1 on 2026-10-12.
+Extracted from Azure Portal version 18.306.2.1 on 2026-10-13.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -30,7 +30,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [MongoDB Atlas Organization](svg/Azure_MarketPlace_NativeISVService/MongoDB.svg) | mongodb.atlas/ organizations |
 | [MongoDB Atlas Organization](svg/Azure_MarketPlace_NativeISVService/MongoDB_V1.svg) | MongoDB.Atlas/ organizations_V1 |
 | [Azure Native LiftrLite Sample RP - An Azure Native Sample RP Cloud Service](svg/Azure_MarketPlace_NativeISVService/Liftrbasic.svg) | liftrbasic.samplerp/ organizations |
-| [Azure Native LambdaTest - HyperExecute Cloud Service](svg/Azure_MarketPlace_NativeISVService/LambdaTest.svg) | lambdatest.hyperexecute/ organizations |
 | [Kore.ai Artemis - An Azure Native ISV Service](svg/Azure_MarketPlace_NativeISVService/Kore.svg) | kore.agentplatform/ organizations |
 | [Dell PowerScale](svg/Azure_MarketPlace_NativeISVService/DellStorage.svg) | dell.storage/ filesystems |
 | [Commvault Cloud](svg/Azure_MarketPlace_NativeISVService/CommvaultOverview.svg) |  |
@@ -313,7 +312,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [OS image (classic)](svg/Microsoft_Azure_Classic_Compute/OsUserImages.svg) | Microsoft.ClassicStorage/ storageAccounts/ osimages |
 | [Disk (classic)](svg/Microsoft_Azure_Classic_Compute/Disks.svg) | Microsoft.ClassicStorage/ storageAccounts/ disks |
 | [Domain Name](svg/Microsoft_Azure_Classic_Compute/DomainName.svg) |  |
-| [Clean room](svg/Microsoft_Azure_CleanRooms/CleanRoom.svg) | Microsoft.CleanRoom/ Collaborations |
+| [Confidential clean room  PREVIEW](svg/Microsoft_Azure_CleanRooms/CleanRoom.svg) | Microsoft.CleanRoom/ Collaborations |
 | [Sovereign view](svg/Microsoft_Azure_CloudforSovereignty/SovereignView.svg) | microsoft.sovereign/ sovereignViews |
 | [Sovereign Control Panel](svg/Microsoft_Azure_CloudforSovereignty/SovereigntyAsset.svg) |  |
 | [Azure Cloud HSM](svg/Microsoft_Azure_CloudHSM/CloudHSM.svg) | Microsoft.HardwareSecurityModules/ cloudHsmClusters |
@@ -634,13 +633,17 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Multicloud synced resource](svg/Microsoft_Azure_HybridCompute/GcpSyncedResources.svg) | Microsoft.HybridConnectivity/ publicCloudConnectors/ gcpsyncedresources |
 | [Multicloud synced resource](svg/Microsoft_Azure_HybridCompute/AwsSyncedResources.svg) | Microsoft.HybridConnectivity/ publicCloudConnectors/ awssyncedresources |
 | [Site server](svg/Microsoft_Azure_HybridCompute/MecmSiteServers.svg) | Microsoft.HybridCompute/ machinesMecmSiteServer |
+| [Device](svg/Microsoft_Azure_HybridCompute/MecmDevices.svg) | Microsoft.HybridCompute/ machinesMecmDevice |
 | [User](svg/Microsoft_Azure_HybridCompute/MachineInventoryUsers.svg) | Microsoft.GuestConfiguration/ users |
+| [Service](svg/Microsoft_Azure_HybridCompute/MachineInventoryServices.svg) | Microsoft.GuestConfiguration/ services |
 | [Group](svg/Microsoft_Azure_HybridCompute/MachineInventoryGroups.svg) | Microsoft.GuestConfiguration/ groups |
 | [Certificate](svg/Microsoft_Azure_HybridCompute/MachineInventoryCertificates.svg) | Microsoft.GuestConfiguration/ certificates |
+| [Application](svg/Microsoft_Azure_HybridCompute/MachineInventoryApplications.svg) | Microsoft.GuestConfiguration/ applications |
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/HybridComputeSovereign.svg) | Microsoft.HybridCompute/ machinesSovereign |
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/HybridCompute.svg) | Microsoft.HybridCompute/ machines |
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/ArcServerWithWac.svg) | Microsoft.HybridCompute/ arcServerWithWac |
 | [Machine Configuration](svg/Microsoft_Azure_HybridCompute/MachineConfiguration.svg) |  |
+| [WinRe rule](svg/Microsoft_Azure_HybridCompute/MachineConfigurationWinRe.svg) | Microsoft.HybridCompute/ winReStatuses |
 | [Baseline settings assignment](svg/Microsoft_Azure_HybridCompute/BaselineSettingsAssignments.svg) | Microsoft.MachineConfiguration/ baselineSettingsAssignments |
 | [List of deployed resources on the custom location](svg/Microsoft_Azure_HybridCompute/CustomLocationDeployedResources.svg) | Microsoft.HybridCompute/ CustomLocationDeployedResources |
 | [Custom location](svg/Microsoft_Azure_HybridCompute/CustomLocation.svg) | Microsoft.ExtendedLocation/ CustomLocations |
@@ -697,6 +700,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Key](svg/Microsoft_Azure_KeyVault/Key.svg) |  |
 | [Certificate](svg/Microsoft_Azure_KeyVault/Certificate.svg) |  |
 | [Kubernetes center](svg/Microsoft_Azure_KubernetesFleet/KubernetesHub.svg) |  |
+| [Model deployment](svg/Microsoft_Azure_KubernetesFleet/AIManagerModelDeployments.svg) | Microsoft.ContainerService/ aiManagers/ namespaces/ modelDeployments |
+| [AI Manager](svg/Microsoft_Azure_KubernetesFleet/AIManagers.svg) | Microsoft.ContainerService/ aiManagers |
 | [Container Instances Standby Pool](svg/Microsoft_Azure_KubernetesFleet/StandbyContainerGroupPools.svg) | Microsoft.StandbyPool/ standbyContainerGroupPools |
 | [Container Instances Center](svg/Microsoft_Azure_KubernetesFleet/ContainerInstancesCenter.svg) |  |
 | [Container group profile](svg/Microsoft_Azure_KubernetesFleet/ContainerGroupProfiles.svg) | Microsoft.ContainerInstance/ containerGroupProfiles |
