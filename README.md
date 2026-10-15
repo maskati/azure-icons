@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.306.2.1 on 2026-10-14.
+Extracted from Azure Portal version 18.306.2.1 on 2026-10-15.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -313,7 +313,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [OS image (classic)](svg/Microsoft_Azure_Classic_Compute/OsUserImages.svg) | Microsoft.ClassicStorage/ storageAccounts/ osimages |
 | [Disk (classic)](svg/Microsoft_Azure_Classic_Compute/Disks.svg) | Microsoft.ClassicStorage/ storageAccounts/ disks |
 | [Domain Name](svg/Microsoft_Azure_Classic_Compute/DomainName.svg) |  |
-| [Confidential clean room  PREVIEW](svg/Microsoft_Azure_CleanRooms/CleanRoom.svg) | Microsoft.CleanRoom/ Collaborations |
+| [Clean room](svg/Microsoft_Azure_CleanRooms/CleanRoom.svg) | Microsoft.CleanRoom/ Collaborations |
 | [Sovereign view](svg/Microsoft_Azure_CloudforSovereignty/SovereignView.svg) | microsoft.sovereign/ sovereignViews |
 | [Sovereign Control Panel](svg/Microsoft_Azure_CloudforSovereignty/SovereigntyAsset.svg) |  |
 | [Azure Cloud HSM](svg/Microsoft_Azure_CloudHSM/CloudHSM.svg) | Microsoft.HardwareSecurityModules/ cloudHsmClusters |
@@ -372,6 +372,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Recommendations](svg/Microsoft_Azure_ComputeHub/AdvisorOperationalExcellence.svg) | Microsoft.ComputeHub/ AdvisorOperationalExcellence |
 | [Recommendations](svg/Microsoft_Azure_ComputeHub/AdvisorCost.svg) | Microsoft.ComputeHub/ AdvisorCost |
 | [Confidential Ledger](svg/Microsoft_Azure_ConfidentialLedger/ConfidentialLedger.svg) | Microsoft.ConfidentialLedger/ ledgers |
+| [Workload Orchestration](svg/Microsoft_Azure_ConfigManager/WorkloadOrchestration.svg) |  |
 | [Target](svg/Microsoft_Azure_ConfigManager/TargetDetailsMenu.svg) | Microsoft.Edge/ targets |
 | [Solution template](svg/Microsoft_Azure_ConfigManager/SolutionTemplateMenu.svg) | Microsoft.Edge/ solutiontemplates |
 | [Solution Details](svg/Microsoft_Azure_ConfigManager/SolutionDetailsMenu.svg) | Microsoft.Edge/ solutiontemplates/ versions |
@@ -701,8 +702,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Key](svg/Microsoft_Azure_KeyVault/Key.svg) |  |
 | [Certificate](svg/Microsoft_Azure_KeyVault/Certificate.svg) |  |
 | [Kubernetes center](svg/Microsoft_Azure_KubernetesFleet/KubernetesHub.svg) |  |
-| [Model deployment](svg/Microsoft_Azure_KubernetesFleet/AIManagerModelDeployments.svg) | Microsoft.ContainerService/ aiManagers/ namespaces/ modelDeployments |
-| [AI Manager](svg/Microsoft_Azure_KubernetesFleet/AIManagers.svg) | Microsoft.ContainerService/ aiManagers |
 | [Container Instances Standby Pool](svg/Microsoft_Azure_KubernetesFleet/StandbyContainerGroupPools.svg) | Microsoft.StandbyPool/ standbyContainerGroupPools |
 | [Container Instances Center](svg/Microsoft_Azure_KubernetesFleet/ContainerInstancesCenter.svg) |  |
 | [Container group profile](svg/Microsoft_Azure_KubernetesFleet/ContainerGroupProfiles.svg) | Microsoft.ContainerInstance/ containerGroupProfiles |
@@ -1168,6 +1167,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [My Resource](svg/Microsoft_Entra_GSA_Connect/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [My Resource](svg/Microsoft_Entra_IDX/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [COSMIC Namespace](svg/Microsoft_Exchange_Cosmic/CosmicNamespace.svg) | Microsoft.Cosmic/ namespaces |
+| [COSMIC Health Metadata](svg/Microsoft_Exchange_Cosmic/CosmicHealthMetadata.svg) | Microsoft.Cosmic/ namespaces/ healthMetadatas |
 | [COSMIC Environment](svg/Microsoft_Exchange_Cosmic/CosmicEnvironment.svg) | Microsoft.Cosmic/ namespaces/ environments |
 | [FHIR service](svg/Microsoft_Healthcare_APIs/JupiterFhirService.svg) | Microsoft.HealthcareApis/ workspaces/ fhirservices |
 | [Azure Health Data and AI Services](svg/Microsoft_Healthcare_APIs/HealthDataAIServices.svg) | Microsoft.Test/ healthDataAIServices |
