@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.306.2.1 on 2026-10-15.
+Extracted from Azure Portal version 18.357.0.1 on 2026-10-16.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -48,10 +48,10 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Deployment](svg/HubsExtension/Deployments.svg) |  |
 | [Private dashboard](svg/HubsExtension/PrivateDashboards.svg) | microsoft.portal/ virtual-privatedashboards |
 | [Shared dashboard](svg/HubsExtension/Dashboards.svg) | Microsoft.Portal/ dashboards |
-| [Resource Graph Explorer](svg/HubsExtension/ResourceGraphExplorer.svg) |  |
+| [Resource graph explorer](svg/HubsExtension/ResourceGraphExplorer.svg) |  |
 | [Recent](svg/HubsExtension/BrowseRecentResources.svg) |  |
 | [Resource](svg/HubsExtension/BrowseAllResources.svg) |  |
-| [Resource Graph query](svg/HubsExtension/ARGSharedQueries.svg) | Microsoft.resourcegraph/ queries |
+| [Resource graph query](svg/HubsExtension/ARGSharedQueries.svg) | Microsoft.resourcegraph/ queries |
 | [Resource Explorer](svg/HubsExtension/ArmExplorer.svg) |  |
 | [Azure AD B2C](svg/Microsoft_AAD_B2CAdmin/RootAsset.svg) |  |
 | [Guest Usage](svg/Microsoft_AAD_B2CAdmin/GuestUsages.svg) | Microsoft.AzureActiveDirectory/ guestUsages |
@@ -313,7 +313,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [OS image (classic)](svg/Microsoft_Azure_Classic_Compute/OsUserImages.svg) | Microsoft.ClassicStorage/ storageAccounts/ osimages |
 | [Disk (classic)](svg/Microsoft_Azure_Classic_Compute/Disks.svg) | Microsoft.ClassicStorage/ storageAccounts/ disks |
 | [Domain Name](svg/Microsoft_Azure_Classic_Compute/DomainName.svg) |  |
-| [Clean room](svg/Microsoft_Azure_CleanRooms/CleanRoom.svg) | Microsoft.CleanRoom/ Collaborations |
+| [Confidential clean room  PREVIEW](svg/Microsoft_Azure_CleanRooms/CleanRoom.svg) | Microsoft.CleanRoom/ Collaborations |
 | [Sovereign view](svg/Microsoft_Azure_CloudforSovereignty/SovereignView.svg) | microsoft.sovereign/ sovereignViews |
 | [Sovereign Control Panel](svg/Microsoft_Azure_CloudforSovereignty/SovereigntyAsset.svg) |  |
 | [Azure Cloud HSM](svg/Microsoft_Azure_CloudHSM/CloudHSM.svg) | Microsoft.HardwareSecurityModules/ cloudHsmClusters |
@@ -702,6 +702,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Key](svg/Microsoft_Azure_KeyVault/Key.svg) |  |
 | [Certificate](svg/Microsoft_Azure_KeyVault/Certificate.svg) |  |
 | [Kubernetes center](svg/Microsoft_Azure_KubernetesFleet/KubernetesHub.svg) |  |
+| [Model deployment](svg/Microsoft_Azure_KubernetesFleet/AIManagerModelDeployments.svg) | Microsoft.ContainerService/ aiManagers/ namespaces/ modelDeployments |
+| [AI Manager](svg/Microsoft_Azure_KubernetesFleet/AIManagers.svg) | Microsoft.ContainerService/ aiManagers |
 | [Container Instances Standby Pool](svg/Microsoft_Azure_KubernetesFleet/StandbyContainerGroupPools.svg) | Microsoft.StandbyPool/ standbyContainerGroupPools |
 | [Container Instances Center](svg/Microsoft_Azure_KubernetesFleet/ContainerInstancesCenter.svg) |  |
 | [Container group profile](svg/Microsoft_Azure_KubernetesFleet/ContainerGroupProfiles.svg) | Microsoft.ContainerInstance/ containerGroupProfiles |
@@ -1228,7 +1230,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure AI Video Indexer Arc extension](svg/Microsoft_VideoIndexer/ArcExtensionCreate.svg) |  |
 | [Oracle AI Database@Azure](svg/Oracle_Databases_At_Azure/oracledatabaseservice.svg) |  |
 | [Resource Anchor](svg/Oracle_Databases_At_Azure/oracle_resource_anchor.svg) | Oracle.Database/ resourceanchors |
-| [Network Anchor](svg/Oracle_Databases_At_Azure/oracle_network_anchor.svg) | Oracle.Database/ networkanchors |
+| [Network Anchor](svg/Oracle_Databases_At_Azure/oracle_network_anchor.svg) | oracle.database/ networkanchors |
 | [GoldenGate Deployment](svg/Oracle_Databases_At_Azure/oracle_goldengate_deployment.svg) | Oracle.Database/ goldenGateDeployments |
 | [GoldenGate Connection](svg/Oracle_Databases_At_Azure/oracle_goldengate_connection.svg) | Oracle.Database/ goldenGateConnections |
 | [Oracle Exascale VM Cluster](svg/Oracle_Databases_At_Azure/oracle_exascale_vmcluster.svg) | Oracle.Database/ exadbVmClusters |
