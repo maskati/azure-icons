@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.357.0.1 on 2026-10-16.
+Extracted from Azure Portal version 18.306.2.1 on 2026-10-17.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -48,10 +48,10 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Deployment](svg/HubsExtension/Deployments.svg) |  |
 | [Private dashboard](svg/HubsExtension/PrivateDashboards.svg) | microsoft.portal/ virtual-privatedashboards |
 | [Shared dashboard](svg/HubsExtension/Dashboards.svg) | Microsoft.Portal/ dashboards |
-| [Resource graph explorer](svg/HubsExtension/ResourceGraphExplorer.svg) |  |
+| [Resource Graph Explorer](svg/HubsExtension/ResourceGraphExplorer.svg) |  |
 | [Recent](svg/HubsExtension/BrowseRecentResources.svg) |  |
 | [Resource](svg/HubsExtension/BrowseAllResources.svg) |  |
-| [Resource graph query](svg/HubsExtension/ARGSharedQueries.svg) | Microsoft.resourcegraph/ queries |
+| [Resource Graph query](svg/HubsExtension/ARGSharedQueries.svg) | Microsoft.resourcegraph/ queries |
 | [Resource Explorer](svg/HubsExtension/ArmExplorer.svg) |  |
 | [Azure AD B2C](svg/Microsoft_AAD_B2CAdmin/RootAsset.svg) |  |
 | [Guest Usage](svg/Microsoft_AAD_B2CAdmin/GuestUsages.svg) | Microsoft.AzureActiveDirectory/ guestUsages |
@@ -313,7 +313,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [OS image (classic)](svg/Microsoft_Azure_Classic_Compute/OsUserImages.svg) | Microsoft.ClassicStorage/ storageAccounts/ osimages |
 | [Disk (classic)](svg/Microsoft_Azure_Classic_Compute/Disks.svg) | Microsoft.ClassicStorage/ storageAccounts/ disks |
 | [Domain Name](svg/Microsoft_Azure_Classic_Compute/DomainName.svg) |  |
-| [Confidential clean room  PREVIEW](svg/Microsoft_Azure_CleanRooms/CleanRoom.svg) | Microsoft.CleanRoom/ Collaborations |
+| [Clean room](svg/Microsoft_Azure_CleanRooms/CleanRoom.svg) | Microsoft.CleanRoom/ Collaborations |
 | [Sovereign view](svg/Microsoft_Azure_CloudforSovereignty/SovereignView.svg) | microsoft.sovereign/ sovereignViews |
 | [Sovereign Control Panel](svg/Microsoft_Azure_CloudforSovereignty/SovereigntyAsset.svg) |  |
 | [Azure Cloud HSM](svg/Microsoft_Azure_CloudHSM/CloudHSM.svg) | Microsoft.HardwareSecurityModules/ cloudHsmClusters |
