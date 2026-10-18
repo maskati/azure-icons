@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.306.2.1 on 2026-10-17.
+Extracted from Azure Portal version 18.306.2.1 on 2026-10-18.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -937,7 +937,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Power BI Embedded](svg/Microsoft_Azure_PowerBIDedicated/PowerBIDedicated.svg) | Microsoft.PowerBIDedicated/ capacities |
 | [Power Platform](svg/Microsoft_Azure_PowerPlatform/PowerPlatform.svg) |  |
 | [Private DNS zone](svg/Microsoft_Azure_PrivateDNS/PrivateDnsZone.svg) | Microsoft.Network/ privateDnsZones |
+| [Topology Map](svg/Microsoft_Azure_PrivateTrafficManager/TopologyMap.svg) | Microsoft.Network/ topologyMaps |
 | [Private Traffic Manager Profile](svg/Microsoft_Azure_PrivateTrafficManager/PrivateTrafficManagerProfile.svg) | Microsoft.Network/ privateTrafficManagerProfiles |
+| [Probing Gateway](svg/Microsoft_Azure_PrivateTrafficManager/ProbingGateway.svg) | Microsoft.Network/ probingGateways |
 | [Microsoft Purview account](svg/Microsoft_Azure_ProjectBabylon/PurviewAccountResource.svg) | Microsoft.Purview/ Accounts |
 | [Translator](svg/Microsoft_Azure_ProjectOxford/TextTranslation.svg) | Microsoft.CognitiveServices/ BrowseTextTranslation |
 | [Language](svg/Microsoft_Azure_ProjectOxford/TextAnalyticsWithConfiguration.svg) |  |
@@ -1093,16 +1095,16 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Built-in template spec](svg/Microsoft_Azure_TemplateSpecs/ArmBuiltInTemplateSpec.svg) | Microsoft.Resources/ builtInTemplateSpecs |
 | [Azure Toolbox](svg/Microsoft_Azure_Toolbox/Overview.svg) |  |
 | [Azure Toolbox](svg/Microsoft_Azure_Toolbox/Gallery.svg) |  |
-| [Microsoft.UsageBilling accounts validation workspaces sign off](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_validationworkspaces_signoffs_2025_12_01_preview.svg) | microsoft.usagebilling/ accounts/ validationworkspaces/ signoffs |
-| [Microsoft.UsageBilling accounts validation workspace](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_validationworkspaces_2025_12_01_preview.svg) | microsoft.usagebilling/ accounts/ validationworkspaces |
-| [Microsoft.UsageBilling accounts stream output](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_streamoutputs_2025_12_01_preview.svg) | microsoft.usagebilling/ accounts/ streamoutputs |
-| [Microsoft.UsageBilling accounts pipelines output selector](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_pipelines_outputselectors_2025_12_01_preview.svg) | microsoft.usagebilling/ accounts/ pipelines/ outputselectors |
-| [Microsoft.UsageBilling accounts pipeline](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_pipelines_2025_12_01_preview.svg) | microsoft.usagebilling/ accounts/ pipelines |
-| [Microsoft.UsageBilling accounts pav2output](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_pav2outputs_2025_12_01_preview.svg) | microsoft.usagebilling/ accounts/ pav2outputs |
-| [Microsoft.UsageBilling accounts metric export](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_metricexports_2025_12_01_preview.svg) | microsoft.usagebilling/ accounts/ metricexports |
-| [Microsoft.UsageBilling accounts input](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_inputs_2025_12_01_preview.svg) | microsoft.usagebilling/ accounts/ inputs |
-| [Microsoft.UsageBilling accounts data export](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_dataexports_2025_12_01_preview.svg) | microsoft.usagebilling/ accounts/ dataexports |
-| [Microsoft.UsageBilling account](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_2025_12_01_preview.svg) | microsoft.usagebilling/ accounts |
+| [Microsoft.UsageBilling accounts validation workspaces sign off](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_validationworkspaces_signoffs_2026_02_01_preview.svg) | microsoft.usagebilling/ accounts/ validationworkspaces/ signoffs |
+| [Microsoft.UsageBilling accounts validation workspace](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_validationworkspaces_2026_02_01_preview.svg) | microsoft.usagebilling/ accounts/ validationworkspaces |
+| [Microsoft.UsageBilling accounts stream output](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_streamoutputs_2026_02_01_preview.svg) | microsoft.usagebilling/ accounts/ streamoutputs |
+| [Microsoft.UsageBilling accounts pipelines output selector](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_pipelines_outputselectors_2026_02_01_preview.svg) | microsoft.usagebilling/ accounts/ pipelines/ outputselectors |
+| [Microsoft.UsageBilling accounts pipeline](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_pipelines_2026_02_01_preview.svg) | microsoft.usagebilling/ accounts/ pipelines |
+| [Microsoft.UsageBilling accounts pav2output](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_pav2outputs_2026_02_01_preview.svg) | microsoft.usagebilling/ accounts/ pav2outputs |
+| [Microsoft.UsageBilling accounts metric export](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_metricexports_2026_02_01_preview.svg) | microsoft.usagebilling/ accounts/ metricexports |
+| [Microsoft.UsageBilling accounts input](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_inputs_2026_02_01_preview.svg) | microsoft.usagebilling/ accounts/ inputs |
+| [Microsoft.UsageBilling accounts data export](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_dataexports_2026_02_01_preview.svg) | microsoft.usagebilling/ accounts/ dataexports |
+| [Microsoft.UsageBilling account](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_2026_02_01_preview.svg) | microsoft.usagebilling/ accounts |
 | [Workload](svg/Microsoft_Azure_VirtualEnclaves/Workload.svg) | Microsoft.Mission/ virtualEnclaves/ workloads |
 | [Enclave](svg/Microsoft_Azure_VirtualEnclaves/Enclave.svg) | Microsoft.Mission/ virtualenclaves |
 | [Transit hub](svg/Microsoft_Azure_VirtualEnclaves/TransitHub.svg) | Microsoft.Mission/ communities/ transitHubs |
