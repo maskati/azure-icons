@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.306.2.1 on 2026-10-20.
+Extracted from Azure Portal version 18.306.2.1 on 2026-10-21.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -668,6 +668,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Cortex](svg/Microsoft_Azure_HybridNetworking/GlobalSecureAccess.svg) |  |
 | [Route Server](svg/Microsoft_Azure_HybridNetworking/VirtualRoutermanager.svg) |  |
 | [Microsoft.Network/virtualHub](svg/Microsoft_Azure_HybridNetworking/VirtualRouter.svg) | Microsoft.Network/ virtualHubs |
+| [Virtual network gateway](svg/Microsoft_Azure_HybridNetworking/VirtualNetworkGatewayVpn.svg) | Microsoft.Network/ VirtualNetworkGatewayVpn |
+| [ExpressRoute gateway](svg/Microsoft_Azure_HybridNetworking/VirtualNetworkGatewayExpressRoute.svg) | Microsoft.Network/ VirtualNetworkGatewayExpressRoute |
 | [Virtual network gateway](svg/Microsoft_Azure_HybridNetworking/VirtualNetworkGateway.svg) | Microsoft.Network/ virtualNetworkGateways |
 | [Route filter](svg/Microsoft_Azure_HybridNetworking/RouteFilter.svg) | Microsoft.Network/ routeFilters |
 | [Network security](svg/Microsoft_Azure_HybridNetworking/NetworkSecurity.svg) |  |
@@ -684,9 +686,12 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Microsoft.Network express route gateways express route connection](svg/Microsoft_Azure_HybridNetworking/Microsoft_Network_expressRouteGateways_expressRouteConnections_2022_01_01.svg) | Microsoft.Network/ expressRouteGateways/ expressRouteConnections |
 | [ExpressRoute Direct](svg/Microsoft_Azure_HybridNetworking/ExpressRouteDirect.svg) | Microsoft.Network/ expressRoutePorts |
 | [ExpressRoute circuit](svg/Microsoft_Azure_HybridNetworking/ExpressRoute.svg) | Microsoft.Network/ expressRouteCircuits |
+| [Virtual Network Connection](svg/Microsoft_Azure_HybridNetworking/VirtualNetworkConnections.svg) | Microsoft.Network/ virtualNetworkConnections |
+| [ExpressRoute connection](svg/Microsoft_Azure_HybridNetworking/ExpressRouteConnections.svg) | Microsoft.Network/ expressRouteConnections |
 | [Connection](svg/Microsoft_Azure_HybridNetworking/Connection.svg) | Microsoft.Network/ connections |
 | [Firewall](svg/Microsoft_Azure_HybridNetworking/CloudNativeFirewall.svg) | Microsoft.Network/ azureFirewalls |
 | [Bastion](svg/Microsoft_Azure_HybridNetworking/BastionHost.svg) | Microsoft.Network/ bastionHosts |
+| [Authentication Policy](svg/Microsoft_Azure_HybridNetworking/AuthenticationPolicy.svg) | Microsoft.Network/ authenticationPolicies |
 | [Application gateway](svg/Microsoft_Azure_HybridNetworking/ApplicationGateway.svg) | Microsoft.Network/ applicationGateways |
 | [Application Gateway for Containers](svg/Microsoft_Azure_HybridNetworking/AppGwForContainers.svg) | Microsoft.ServiceNetworking/ trafficControllers |
 | [Infrastructure as Code Automation](svg/Microsoft_Azure_IacAutomation/ArcIacAutomation.svg) | Microsoft.DevHub/ iacProfiles |
@@ -896,7 +901,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Network Security Perimeter](svg/Microsoft_Azure_NetworkSecurityPerimeter/NetworkSecurityPerimeter.svg) | Microsoft.Network/ networkSecurityPerimeters |
 | [Profile](svg/Microsoft_Azure_NetworkSecurityPerimeter/Profile.svg) | Microsoft.Network/ networkSecurityPerimeters/ profiles |
 | [Global Secure Access](svg/Microsoft_Azure_Network_Access/NetworkAccess.svg) |  |
-| [Neuro Shield](svg/Microsoft_Azure_NeuroShield/NeuroShield.svg) | Microsoft.Network/ neuroShields |
+| [Adaptive Virtual Patching](svg/Microsoft_Azure_NeuroShield/AdaptiveVirtualPatching.svg) |  |
+| [Adaptive Shield](svg/Microsoft_Azure_NeuroShield/AdaptiveShield.svg) | Microsoft.NetworkSecurity/ neuroShields |
 | [Notification Hub](svg/Microsoft_Azure_NotificationHubs/NotificationHub.svg) | Microsoft.NotificationHubs/ namespaces/ notificationHubs |
 | [Notification Hub Namespace](svg/Microsoft_Azure_NotificationHubs/Namespace.svg) | Microsoft.NotificationHubs/ namespaces |
 | [My Resource](svg/Microsoft_Azure_OneHome/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
