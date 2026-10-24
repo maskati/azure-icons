@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.357.4.1 on 2026-10-23.
+Extracted from Azure Portal version 18.357.4.1 on 2026-10-24.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -246,6 +246,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [API Management service](svg/Microsoft_Azure_ApiManagement/Service.svg) | Microsoft.ApiManagement/ service |
 | [Gateway](svg/Microsoft_Azure_ApiManagement/Gateway.svg) | Microsoft.ApiManagement/ gateways |
 | [API Center](svg/Microsoft_Azure_ApiManagement/Center.svg) | Microsoft.ApiCenter/ services |
+| [AI Gateway](svg/Microsoft_Azure_ApiManagement/AIGateway.svg) | Microsoft.ApiManagement/ aigateways |
 | [App Compliance Automation Tool for Microsoft 365](svg/Microsoft_Azure_AppComplianceAutomation/AppComplianceAutomation.svg) |  |
 | [Visual Studio Online Plan](svg/Microsoft_Azure_Appliance/MicrosoftVSOnlinePlans.svg) | Microsoft.VSOnline/ Plans |
 | [Managed application](svg/Microsoft_Azure_Appliance/ArmAppliance.svg) | Microsoft.Solutions/ applications |
@@ -255,6 +256,11 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Arc enabled resource](svg/Microsoft_Azure_ArcCenterUX/AllArcResourcesFairfax.svg) | Microsoft.Arc/ allFairfax |
 | [Azure Arc enabled resource](svg/Microsoft_Azure_ArcCenterUX/AllArcResources.svg) | Microsoft.Arc/ all |
 | [Azure Arc Kubernetes cluster](svg/Microsoft_Azure_ArcClusterUX/ArcK8Resources.svg) | Microsoft.Arc/ kubernetesResources |
+| [Pod Disruption Budgets](svg/Microsoft_Azure_ArcClusterUX/UpgradeInsightsPodDisruptionBudgets.svg) | Microsoft.Arc/ upgradeInsightsPodDisruptionBudgets |
+| [Node readiness](svg/Microsoft_Azure_ArcClusterUX/UpgradeInsightsNodeReadiness.svg) | Microsoft.Arc/ upgradeInsightsNodeReadiness |
+| [Deprecated APIs](svg/Microsoft_Azure_ArcClusterUX/UpgradeInsightsDeprecatedApis.svg) | Microsoft.Arc/ upgradeInsightsDeprecatedApis |
+| [Component compatibility](svg/Microsoft_Azure_ArcClusterUX/UpgradeInsightsComponentCompatibility.svg) | Microsoft.Arc/ upgradeInsightsComponentCompatibility |
+| [API server health](svg/Microsoft_Azure_ArcClusterUX/UpgradeInsightsApiServerHealth.svg) | Microsoft.Arc/ upgradeInsightsApiServerHealth |
 | [Kubernetes - Azure Arc](svg/Microsoft_Azure_ArcClusterUX/ConnectedClusters.svg) | Microsoft.Kubernetes/ connectedClusters |
 | [Kubernetes - Azure Arc extension](svg/Microsoft_Azure_ArcClusterUX/ConnectedClusterExtension.svg) | Microsoft.Kubernetes/ connectedClusters/ Microsoft.KubernetesConfiguration/ extensions |
 | [Arc Load Balancer](svg/Microsoft_Azure_ArcNetworking/ArcNetworking.svg) | microsoft.kubernetesruntime/ loadbalancers |
@@ -427,7 +433,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Copilot admin center](svg/Microsoft_Azure_Copilot/CopilotSettingsAsset.svg) |  |
 | [Space](svg/Microsoft_Azure_Copilot/Space.svg) | Microsoft.Copilot/ spaces |
 | [Copilot](svg/Microsoft_Azure_Copilot/Copilot.svg) | Microsoft.PortalServices/ copilots |
-| [Chat agent](svg/Microsoft_Azure_Copilot/ChatAgent.svg) | Microsoft.Copilot/ chatAgents |
+| [Azure Copilot agent](svg/Microsoft_Azure_Copilot/ChatAgent.svg) | Microsoft.Copilot/ chatAgents |
 | [Cost exports](svg/Microsoft_Azure_CostManagement/Exports.svg) |  |
 | [Cost Management](svg/Microsoft_Azure_CostManagement/CostManagement.svg) |  |
 | [Cost analysis](svg/Microsoft_Azure_CostManagement/CostAnalysis.svg) |  |
@@ -637,6 +643,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Multicloud synced resource](svg/Microsoft_Azure_HybridCompute/AwsSyncedResources.svg) | Microsoft.HybridConnectivity/ publicCloudConnectors/ awssyncedresources |
 | [Site server](svg/Microsoft_Azure_HybridCompute/MecmSiteServers.svg) | Microsoft.HybridCompute/ machinesMecmSiteServer |
 | [Device](svg/Microsoft_Azure_HybridCompute/MecmDevices.svg) | Microsoft.HybridCompute/ machinesMecmDevice |
+| [Windows role](svg/Microsoft_Azure_HybridCompute/MachineInventoryWindowsRoles.svg) | Microsoft.GuestConfiguration/ windowsRoles |
 | [User](svg/Microsoft_Azure_HybridCompute/MachineInventoryUsers.svg) | Microsoft.GuestConfiguration/ users |
 | [Service](svg/Microsoft_Azure_HybridCompute/MachineInventoryServices.svg) | Microsoft.GuestConfiguration/ services |
 | [Group](svg/Microsoft_Azure_HybridCompute/MachineInventoryGroups.svg) | Microsoft.GuestConfiguration/ groups |
@@ -646,6 +653,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/HybridCompute.svg) | Microsoft.HybridCompute/ machines |
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/ArcServerWithWac.svg) | Microsoft.HybridCompute/ arcServerWithWac |
 | [Machine Configuration](svg/Microsoft_Azure_HybridCompute/MachineConfiguration.svg) |  |
+| [Guest Assignment](svg/Microsoft_Azure_HybridCompute/GuestAssignment.svg) |  |
 | [WinRe rule](svg/Microsoft_Azure_HybridCompute/MachineConfigurationWinRe.svg) | Microsoft.HybridCompute/ winReStatuses |
 | [Baseline settings assignment](svg/Microsoft_Azure_HybridCompute/BaselineSettingsAssignments.svg) | Microsoft.MachineConfiguration/ baselineSettingsAssignments |
 | [List of deployed resources on the custom location](svg/Microsoft_Azure_HybridCompute/CustomLocationDeployedResources.svg) | Microsoft.HybridCompute/ CustomLocationDeployedResources |
@@ -708,8 +716,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Key](svg/Microsoft_Azure_KeyVault/Key.svg) |  |
 | [Certificate](svg/Microsoft_Azure_KeyVault/Certificate.svg) |  |
 | [Kubernetes center](svg/Microsoft_Azure_KubernetesFleet/KubernetesHub.svg) |  |
-| [Model deployment](svg/Microsoft_Azure_KubernetesFleet/AIManagerModelDeployments.svg) | Microsoft.ContainerService/ aiManagers/ namespaces/ modelDeployments |
-| [AI Manager](svg/Microsoft_Azure_KubernetesFleet/AIManagers.svg) | Microsoft.ContainerService/ aiManagers |
+| [AI Manager Namespace (Preview)](svg/Microsoft_Azure_KubernetesFleet/AIManagerNamespaces.svg) | Microsoft.ContainerService/ aiManagers/ namespaces |
+| [Model deployment (Preview)](svg/Microsoft_Azure_KubernetesFleet/AIManagerModelDeployments.svg) | Microsoft.ContainerService/ aiManagers/ namespaces/ modelDeployments |
+| [AI Manager (Preview)](svg/Microsoft_Azure_KubernetesFleet/AIManagers.svg) | Microsoft.ContainerService/ aiManagers |
 | [Container Instances Standby Pool](svg/Microsoft_Azure_KubernetesFleet/StandbyContainerGroupPools.svg) | Microsoft.StandbyPool/ standbyContainerGroupPools |
 | [Container Instances Center](svg/Microsoft_Azure_KubernetesFleet/ContainerInstancesCenter.svg) |  |
 | [Container group profile](svg/Microsoft_Azure_KubernetesFleet/ContainerGroupProfiles.svg) | Microsoft.ContainerInstance/ containerGroupProfiles |
