@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.357.4.1 on 2026-10-27.
+Extracted from Azure Portal version 18.357.4.1 on 2026-10-28.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -40,7 +40,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Global Rulestack](svg/Azure_Marketplace_PaloAltoNetworks_Cloudngfw/PaloAltoNetworksGlobalRulestack.svg) | PaloAltoNetworks.Cloudngfw/ globalRulestacks |
 | [Cloud NGFW by Palo Alto Networks](svg/Azure_Marketplace_PaloAltoNetworks_Cloudngfw/PaloAltoNetworksCloudNGFW.svg) | PaloAltoNetworks.Cloudngfw/ firewalls |
 | [Storage pool](svg/Azure_Marketplace_PureStorage/purestorage_block_storagepools.svg) | purestorage.block/ storagepools |
-| [Azure Native Pure Storage Cloud Service](svg/Azure_Marketplace_PureStorage/purestorage_block_reservations.svg) | purestorage.block/ reservations |
+| [Everpure Cloud Azure Native Service](svg/Azure_Marketplace_PureStorage/purestorage_block_reservations.svg) | purestorage.block/ reservations |
 | [PureStorage.Block storage pools avs storage container](svg/Azure_Marketplace_PureStorage/purestorage_block_storagepools_avsstoragecontainers.svg) | purestorage.block/ storagepools/ avsstoragecontainers |
 | [Azure Native Qumulo Scalable File Service](svg/Azure_Marketplace_Qumulo/MyResource.svg) | Qumulo.Storage/ fileSystems |
 | [Tag](svg/HubsExtension/Tag.svg) |  |
@@ -716,8 +716,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Key](svg/Microsoft_Azure_KeyVault/Key.svg) |  |
 | [Certificate](svg/Microsoft_Azure_KeyVault/Certificate.svg) |  |
 | [Kubernetes center](svg/Microsoft_Azure_KubernetesFleet/KubernetesHub.svg) |  |
-| [Model deployment](svg/Microsoft_Azure_KubernetesFleet/AIManagerModelDeployments.svg) | Microsoft.ContainerService/ aiManagers/ namespaces/ modelDeployments |
-| [AI Manager](svg/Microsoft_Azure_KubernetesFleet/AIManagers.svg) | Microsoft.ContainerService/ aiManagers |
+| [AI Manager Namespace (Preview)](svg/Microsoft_Azure_KubernetesFleet/AIManagerNamespaces.svg) | Microsoft.ContainerService/ aiManagers/ namespaces |
+| [Model deployment (Preview)](svg/Microsoft_Azure_KubernetesFleet/AIManagerModelDeployments.svg) | Microsoft.ContainerService/ aiManagers/ namespaces/ modelDeployments |
+| [AI Manager (Preview)](svg/Microsoft_Azure_KubernetesFleet/AIManagers.svg) | Microsoft.ContainerService/ aiManagers |
 | [Container Instances Standby Pool](svg/Microsoft_Azure_KubernetesFleet/StandbyContainerGroupPools.svg) | Microsoft.StandbyPool/ standbyContainerGroupPools |
 | [Container Instances Center](svg/Microsoft_Azure_KubernetesFleet/ContainerInstancesCenter.svg) |  |
 | [Container group profile](svg/Microsoft_Azure_KubernetesFleet/ContainerGroupProfiles.svg) | Microsoft.ContainerInstance/ containerGroupProfiles |
@@ -1007,6 +1008,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Recovery Services vault](svg/Microsoft_Azure_RecoveryServices/RecoveryServicesResource.svg) | Microsoft.RecoveryServices/ vaults |
 | [Replication job](svg/Microsoft_Azure_RecoveryServices/ReplicationJobAsset.svg) |  |
 | [WCF Relay](svg/Microsoft_Azure_Relay/WcfRelay.svg) | Microsoft.Relay/ namespaces/ WcfRelays |
+| [Relay Cluster](svg/Microsoft_Azure_Relay/RelayCluster.svg) | Microsoft.Relay/ clusters |
 | [Relay](svg/Microsoft_Azure_Relay/Relay.svg) | Microsoft.Relay/ namespaces |
 | [Hybrid Connection](svg/Microsoft_Azure_Relay/HybridConnection.svg) | Microsoft.Relay/ namespaces/ HybridConnections |
 | [Flex Spend Plan term](svg/Microsoft_Azure_Reservations/SpendPlansTermsBrowseAsset.svg) | microsoft.billingbenefits/ spendplans/ terms |
