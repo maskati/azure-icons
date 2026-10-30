@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.357.4.1 on 2026-10-29.
+Extracted from Azure Portal version 18.357.4.1 on 2026-10-30.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -320,7 +320,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Disk (classic)](svg/Microsoft_Azure_Classic_Compute/Disks.svg) | Microsoft.ClassicStorage/ storageAccounts/ disks |
 | [Domain Name](svg/Microsoft_Azure_Classic_Compute/DomainName.svg) |  |
 | [Confidential clean room  PREVIEW](svg/Microsoft_Azure_CleanRooms/CleanRoom.svg) | Microsoft.CleanRoom/ Collaborations |
-| [Sovereign view](svg/Microsoft_Azure_CloudforSovereignty/SovereignView.svg) | microsoft.sovereign/ sovereignViews |
+| [Sovereign view](svg/Microsoft_Azure_CloudforSovereignty/SovereignView.svg) | Microsoft.Sovereign/ sovereignViews |
 | [Sovereign Control Panel](svg/Microsoft_Azure_CloudforSovereignty/SovereigntyAsset.svg) |  |
 | [Azure Cloud HSM](svg/Microsoft_Azure_CloudHSM/CloudHSM.svg) | Microsoft.HardwareSecurityModules/ cloudHsmClusters |
 | [Application Template](svg/Microsoft_Azure_CloudNative/ApplicationTemplates.svg) |  |
@@ -985,7 +985,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Metrics advisor](svg/Microsoft_Azure_ProjectOxford/MetricsAdvisor.svg) | Microsoft.CognitiveServices/ BrowseMetricsAdvisor |
 | [Language understanding](svg/Microsoft_Azure_ProjectOxford/LUIS.svg) | Microsoft.CognitiveServices/ BrowseLUIS |
 | [Immersive reader](svg/Microsoft_Azure_ProjectOxford/ImmersiveReader.svg) | Microsoft.CognitiveServices/ BrowseImmersiveReader |
-| [Health Insights](svg/Microsoft_Azure_ProjectOxford/HealthInsights.svg) | Microsoft.CognitiveServices/ BrowseHealthInsights |
+| [Health insights](svg/Microsoft_Azure_ProjectOxford/HealthInsights.svg) | Microsoft.CognitiveServices/ BrowseHealthInsights |
 | [Health decision support](svg/Microsoft_Azure_ProjectOxford/HealthDecisionSupport.svg) | Microsoft.CognitiveServices/ BrowseHealthDecisionSupport |
 | [Document intelligence](svg/Microsoft_Azure_ProjectOxford/FormRecognizer.svg) | Microsoft.CognitiveServices/ BrowseFormRecognizer |
 | [Face API](svg/Microsoft_Azure_ProjectOxford/Face.svg) | Microsoft.CognitiveServices/ BrowseFace |
