@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.401.0.1 on 2026-10-31.
+Extracted from Azure Portal version 18.401.0.1 on 2026-11-01.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -548,7 +548,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Microsoft Defender EASM (Preview)](svg/Microsoft_Azure_EASM/PrivateEasmWorkspace.svg) | Private.Easm/ workspaces |
 | [Impact Reporting Connector](svg/Microsoft_Azure_ECE/microsoft_impact_connectors_2025_01_01_preview.svg) | microsoft.impact/ connectors |
 | [Impact Reporting](svg/Microsoft_Azure_ECE/ImpactRP.svg) |  |
-| [Edge Action (Preview)](svg/Microsoft_Azure_EdgeAction/EdgeAction.svg) | Microsoft.Cdn/ EdgeActions |
+| [Edge Action](svg/Microsoft_Azure_EdgeAction/EdgeAction.svg) | Microsoft.Cdn/ EdgeActions |
 | [My Resource](svg/Microsoft_Azure_EdgeAIExtension/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Approval](svg/Microsoft_Azure_EdgeApprovalsPortal/Approvals.svg) |  |
 | [Azure Stack Edge / Data Box Gateway](svg/Microsoft_Azure_EdgeGateway/EdgeGateway.svg) | Microsoft.DataBoxEdge/ dataBoxEdgeDevices |
@@ -1011,8 +1011,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Relay Cluster](svg/Microsoft_Azure_Relay/RelayCluster.svg) | Microsoft.Relay/ clusters |
 | [Relay](svg/Microsoft_Azure_Relay/Relay.svg) | Microsoft.Relay/ namespaces |
 | [Hybrid Connection](svg/Microsoft_Azure_Relay/HybridConnection.svg) | Microsoft.Relay/ namespaces/ HybridConnections |
-| [Flex Spend Plan term](svg/Microsoft_Azure_Reservations/SpendPlansTermsBrowseAsset.svg) | microsoft.billingbenefits/ spendplans/ terms |
-| [Flex Spend Plan](svg/Microsoft_Azure_Reservations/SpendPlansBrowseAsset.svg) | microsoft.billingbenefits/ spendplans |
+| [Flex Plan term](svg/Microsoft_Azure_Reservations/SpendPlansTermsBrowseAsset.svg) | microsoft.billingbenefits/ spendplans/ terms |
+| [Flex Plan](svg/Microsoft_Azure_Reservations/SpendPlansBrowseAsset.svg) | microsoft.billingbenefits/ spendplans |
 | [Billing Benefits Resource](svg/Microsoft_Azure_Reservations/BillingBenefitsAllResources.svg) | Microsoft.BillingBenefits/ allResources |
 | [Savings plan order](svg/Microsoft_Azure_Reservations/SavingsPlanOrderServiceAdminAsset.svg) | Microsoft.BillingBenefits/ savingsPlanOrders |
 | [Savings plan order](svg/Microsoft_Azure_Reservations/SavingsPlanOrderAsset.svg) | Microsoft.Billing/ billingAccounts/ savingsPlanOrders |
@@ -1023,6 +1023,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Savings plan](svg/Microsoft_Azure_Reservations/SavingsPlanItemAsset.svg) | Microsoft.Billing/ billingAccounts/ savingsPlanOrders/ savingsPlans |
 | [Reservation](svg/Microsoft_Azure_Reservations/ReservationAsset.svg) | Microsoft.Capacity/ reservationorders/ reservations |
 | [Credit Transaction](svg/Microsoft_Azure_Reservations/CreditTransactionScopedBrowseAsset.svg) | Microsoft.BillingBenefits/ credits/ transactions |
+| [Notification](svg/Microsoft_Azure_Reservations/CreditNotificationScopedBrowseAsset.svg) | Microsoft.BillingBenefits/ notifications |
 | [Credit](svg/Microsoft_Azure_Reservations/CreditBrowseAsset.svg) | Microsoft.BillingBenefits/ credits |
 | [Conditional Credit](svg/Microsoft_Azure_Reservations/ConditionalCreditBrowseAsset.svg) | Microsoft.BillingBenefits/ conditionalCredits |
 | [Savings plan](svg/Microsoft_Azure_Reservations/SavingsPlanBrowseAsset.svg) |  |
