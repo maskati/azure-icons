@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.401.0.1 on 2026-11-01.
+Extracted from Azure Portal version 18.401.0.1 on 2026-11-02.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -958,6 +958,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Integration Environment](svg/Microsoft_Azure_PaasServerless/IntegrationSpace.svg) | Microsoft.IntegrationSpaces/ spaces |
 | [Durable Task Scheduler](svg/Microsoft_Azure_PaasServerless/DurableTaskScheduler.svg) | Microsoft.DurableTask/ Schedulers |
 | [Business Process](svg/Microsoft_Azure_PaasServerless/BusinessProcessTracking.svg) | Microsoft.Logic/ businessprocesses |
+| [App Service Builder (preview)](svg/Microsoft_Azure_PaasServerless/BuilderApps.svg) | Microsoft.Web/ builderApps |
 | [Azure Payment HSM v2](svg/Microsoft_Azure_PaymentHSM/PaymentHSM.svg) | Microsoft.HardwareSecurityModules/ paymentHsmClusters |
 | [Registered prefix](svg/Microsoft_Azure_Peering/RegisteredPrefix.svg) | Microsoft.Peering/ peerings/ registeredPrefixes |
 | [Registered ASN](svg/Microsoft_Azure_Peering/RegisteredAsn.svg) | Microsoft.Peering/ peerings/ registeredAsns |
