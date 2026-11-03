@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.401.0.1 on 2026-11-02.
+Extracted from Azure Portal version 18.401.0.1 on 2026-11-03.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -39,6 +39,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Local Rulestack for Cloud NGFW by Palo Alto Networks](svg/Azure_Marketplace_PaloAltoNetworks_Cloudngfw/PaloAltoNetworksLocalRulestack.svg) | PaloAltoNetworks.Cloudngfw/ localRulestacks |
 | [Global Rulestack](svg/Azure_Marketplace_PaloAltoNetworks_Cloudngfw/PaloAltoNetworksGlobalRulestack.svg) | PaloAltoNetworks.Cloudngfw/ globalRulestacks |
 | [Cloud NGFW by Palo Alto Networks](svg/Azure_Marketplace_PaloAltoNetworks_Cloudngfw/PaloAltoNetworksCloudNGFW.svg) | PaloAltoNetworks.Cloudngfw/ firewalls |
+| [Azure Pilot](svg/Azure_Marketplace_Pilot/Pilot.svg) | Microsoft.LiftrPilot/ organizations |
 | [Storage pool](svg/Azure_Marketplace_PureStorage/purestorage_block_storagepools.svg) | purestorage.block/ storagepools |
 | [Everpure Cloud Azure Native Service](svg/Azure_Marketplace_PureStorage/purestorage_block_reservations.svg) | purestorage.block/ reservations |
 | [PureStorage.Block storage pools avs storage container](svg/Azure_Marketplace_PureStorage/purestorage_block_storagepools_avsstoragecontainers.svg) | purestorage.block/ storagepools/ avsstoragecontainers |
@@ -238,6 +239,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Device Update for IoT Hub](svg/Microsoft_Azure_ADU/IotDUResource.svg) | Microsoft.DeviceUpdate/ accounts |
 | [Agentic Web App](svg/Microsoft_Azure_AfdAgenticWebApp/AfdAgenticWebApp.svg) | Microsoft.Cdn/ webAgents |
 | [Front Door](svg/Microsoft_Azure_AFDX/FrontdoorProfile.svg) | microsoft.cdn/ profiles |
+| [Agent Fabric](svg/Microsoft_Azure_AgentFabric/AgentFabricHome.svg) |  |
 | [Agent Fabric (Dev Build)](svg/Microsoft_Azure_AgentFabric/AgentFabric.svg) | Microsoft.NetworkSecurity/ agentFabrics |
 | [Analysis Services](svg/Microsoft_Azure_AnalysisServices/AnalysisServices.svg) | Microsoft.AnalysisServices/ servers |
 | [Fabric Capacity](svg/Microsoft_Azure_Analytics/REDIDCILDCBJNGCP.svg) | Microsoft.Fabric/ capacities |
@@ -958,7 +960,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Integration Environment](svg/Microsoft_Azure_PaasServerless/IntegrationSpace.svg) | Microsoft.IntegrationSpaces/ spaces |
 | [Durable Task Scheduler](svg/Microsoft_Azure_PaasServerless/DurableTaskScheduler.svg) | Microsoft.DurableTask/ Schedulers |
 | [Business Process](svg/Microsoft_Azure_PaasServerless/BusinessProcessTracking.svg) | Microsoft.Logic/ businessprocesses |
-| [App Service Builder (preview)](svg/Microsoft_Azure_PaasServerless/BuilderApps.svg) | Microsoft.Web/ builderApps |
 | [Azure Payment HSM v2](svg/Microsoft_Azure_PaymentHSM/PaymentHSM.svg) | Microsoft.HardwareSecurityModules/ paymentHsmClusters |
 | [Registered prefix](svg/Microsoft_Azure_Peering/RegisteredPrefix.svg) | Microsoft.Peering/ peerings/ registeredPrefixes |
 | [Registered ASN](svg/Microsoft_Azure_Peering/RegisteredAsn.svg) | Microsoft.Peering/ peerings/ registeredAsns |
