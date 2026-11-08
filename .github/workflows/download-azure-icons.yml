@@ -2,7 +2,7 @@ name: Download Azure Icons
 
 on:
   schedule:
-    - cron: '12 3 * * *'
+    - cron: '12 3 * * 0'
   workflow_dispatch:
     inputs:
       dry_run:
