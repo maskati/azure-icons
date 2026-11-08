@@ -377,6 +377,9 @@ jobs:
             $src=(@($_.singularDisplayName,$_.pluralDisplayName,$_.keywords,$_.resourceType,($_.name -creplace '(?<=[a-z0-9])(?=[A-Z])|(?<=[A-Z])(?=[A-Z][a-z])',' ')) -join ' ').ToLowerInvariant()
             $words=@([regex]::Matches($src,'[\p{L}\p{N}]+')|%{$_.Value}|?{$_.Length -gt 1 -or $_ -match '\d'})
             if($_.resourceType){$words+=$_.resourceType.ToLowerInvariant()}
+            # Library-specific tag: draw.io ranks equal matches by load order (built-in shapes first),
+            # so 'azureportal <term>' is the way to get only this library's icons
+            $words+='azureportal'
             [ordered]@{
               h=50;w=50;
               aspect='fixed';
