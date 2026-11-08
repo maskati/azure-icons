@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.401.0.1 on 2026-11-07.
+Extracted from Azure Portal version 18.401.0.1 on 2026-11-08.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -239,9 +239,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Device Update for IoT Hub](svg/Microsoft_Azure_ADU/IotDUResource.svg) | Microsoft.DeviceUpdate/ accounts |
 | [Agentic Web App](svg/Microsoft_Azure_AfdAgenticWebApp/AfdAgenticWebApp.svg) | Microsoft.Cdn/ webAgents |
 | [Front Door](svg/Microsoft_Azure_AFDX/FrontdoorProfile.svg) | microsoft.cdn/ profiles |
-| [Agent Fabric](svg/Microsoft_Azure_AgentFabric/AgentFabricHome.svg) |  |
 | [Agent Fabric (Dev Build)](svg/Microsoft_Azure_AgentFabric/AgentFabric.svg) | Microsoft.NetworkSecurity/ agentFabrics |
-| [Agent Fabric policy group (Dev Build)](svg/Microsoft_Azure_AgentFabric/PolicyGroup.svg) | Microsoft.NetworkSecurity/ policyGroups |
 | [Analysis Services](svg/Microsoft_Azure_AnalysisServices/AnalysisServices.svg) | Microsoft.AnalysisServices/ servers |
 | [Fabric Capacity](svg/Microsoft_Azure_Analytics/REDIDCILDCBJNGCP.svg) | Microsoft.Fabric/ capacities |
 | [Verifier Workspace](svg/Microsoft_Azure_ANMVerifier/verifierWorkspace.svg) | Microsoft.Network/ networkManagers/ verifierWorkspaces |
@@ -625,6 +623,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Healthcare Agent Services (Private Test)](svg/Microsoft_Azure_HealthBot/PrivateHealthBot.svg) | Private.HealthBotTest/ healthBots |
 | [Healthcare agent service](svg/Microsoft_Azure_HealthBot/HealthBot.svg) | Microsoft.HealthBot/ healthBots |
 | [De-identification Service](svg/Microsoft_Azure_HealthDataDeidentification/DeidService.svg) | Microsoft.HealthDataAIServices/ DeidServices |
+| [Health Model (preview)](svg/Microsoft_Azure_HealthModels/AzureHealthModel.svg) | Microsoft.HealthModel/ healthmodels |
 | [VMware + AVS virtual machine](svg/Microsoft_Azure_HybridCompute/VMwareVmV2.svg) | Microsoft.HybridCompute/ Machines/ Microsoft.ConnectedVMwarevSphere/ virtualMachineInstances |
 | [VMware + AVS virtual machine](svg/Microsoft_Azure_HybridCompute/VMwareVm.svg) | Microsoft.ConnectedVMwarevSphere/ VirtualMachines |
 | [VMware vCenter](svg/Microsoft_Azure_HybridCompute/VMwarevCenter.svg) | Microsoft.connectedVMwareVSphere/ vCenters |
@@ -1307,6 +1306,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [My Resource](svg/VLCentral_Amendments/VLCentral_Amendments.svg) |  |
 | [Approvals](svg/VLCentral_Approval/VLCentral_Approval.svg) |  |
 | [My Cases & Support](svg/VLCentral_CaseManagement/VLCentralCaseManagement.svg) |  |
+| [VLCentral Deal Modeler](svg/VLCentral_DealModeler/VLCentralDealModeler.svg) |  |
 | [VLCentral Help](svg/VLCentral_HelpAndSupport/VLCentralHelp.svg) |  |
 | [VLCentral Home](svg/VLCentral_Home/VLCentralHome.svg) |  |
 | [My Resource](svg/VLCentral_OrderCredits/MyResource.svg) |  |
@@ -1314,6 +1314,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [My Resource](svg/VLCentral_OrganizationManagementService/MyResource.svg) |  |
 | [Deals](svg/VLCentral_Quote/VLCentralQuote.svg) |  |
 | [Reporting & Analytics](svg/VLCentral_ReportingNAnalytics/VLCentralReporting.svg) |  |
+| [VLCentral Seller Home](svg/VLCentral_SellerHome/VLCentralSellerHome.svg) |  |
 | [User Management](svg/VLCentral_UUM/VLCentralUUM.svg) |  |
 | [Azure VMware Solution private cloud](svg/VMCP/PrivateCloud.svg) | Microsoft.AVS/ privateClouds |
 | [App Service (Slot)](svg/WebsitesExtension/WebsiteSlot.svg) | Microsoft.Web/ sites/ slots |
