@@ -373,10 +373,15 @@ jobs:
         run: |
           $icondata=gc icon-data.json|convertfrom-json
           $mxicons=$icondata|%{
+            # draw.io only searches custom-library entries by their space-separated "tags", not by title
+            $src=(@($_.singularDisplayName,$_.pluralDisplayName,$_.keywords,$_.resourceType,($_.name -creplace '(?<=[a-z0-9])(?=[A-Z])|(?<=[A-Z])(?=[A-Z][a-z])',' ')) -join ' ').ToLowerInvariant()
+            $words=@([regex]::Matches($src,'[\p{L}\p{N}]+')|%{$_.Value}|?{$_.Length -gt 1 -or $_ -match '\d'})
+            if($_.resourceType){$words+=$_.resourceType.ToLowerInvariant()}
             [ordered]@{
               h=50;w=50;
               aspect='fixed';
               title=(@($_.singularDisplayName, $_.name, $_.resourcetype)|?{-not [string]::isnullorwhitespace($_)}) -join ' | ';
+              tags=($words|select -unique) -join ' ';
               data="data:image/svg+xml;base64,$([convert]::tobase64string([text.encoding]::utf8.getbytes($_.svg)))";
             }
           }
