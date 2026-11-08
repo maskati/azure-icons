@@ -4,7 +4,20 @@ on:
   schedule:
     - cron: '12 3 * * *'
   workflow_dispatch:
-  
+    inputs:
+      dry_run:
+        description: 'Build and upload artifacts only, do not commit'
+        type: boolean
+        default: false
+      icons_url_template:
+        description: 'Optional override for the extension icon bundle URL ({0} = iconsRef hash)'
+        type: string
+        default: ''
+      max_unresolved_percent:
+        description: 'Fail the run (no commit) if more than this % of icons cannot be resolved'
+        type: string
+        default: '5'
+
 jobs:
 
   download:
@@ -17,66 +30,248 @@ jobs:
       - id: src
         name: Download sources
         shell: pwsh
+        env:
+          ICONS_URL_TEMPLATE: ${{ inputs.icons_url_template }}
         run: |
+          $ErrorActionPreference='Stop'
+          function Get-Text([string]$u){
+            try{
+              $r=Invoke-WebRequest -Uri $u -SkipHttpErrorCheck -MaximumRetryCount 2 -RetryIntervalSec 2
+              $c=$r.Content; if($c -is [byte[]]){$c=[text.encoding]::utf8.getstring($c)}
+              [pscustomobject]@{status=[int]$r.StatusCode;content=[string]$c}
+            }catch{[pscustomobject]@{status=-1;content=[string]$_.Exception.Message}}
+          }
           # Azure Portal config
-          $portalconfig=if((irm "https://portal.azure.com/") -match 'MsPortalImpl\.redirect\(([^)]+)\)'){$matches[1]|convertfrom-json}else{throw}
+          $portalhome=(Get-Text "https://portal.azure.com/").content
+          $portalconfig=if($portalhome -match 'MsPortalImpl\.redirect\(([^)]+)\)'){$matches[1]|convertfrom-json}else{throw 'Portal config not found'}
+          $portalconfig|convertto-json -depth 100|out-file portal-config.json
           $portalconfighash=$portalconfig.portalServerConfig.portalQuery.configHash
           "confighash=$portalconfighash" >> $env:GITHUB_OUTPUT
           $portalconfigpageversion=$portalconfig.portalServerConfig.portalQuery.pageVersion
           "pageversion=$portalconfigpageversion" >> $env:GITHUB_OUTPUT
           "Downloading from Azure Portal version $portalconfigpageversion with config hash $portalconfighash" >> $env:GITHUB_STEP_SUMMARY
           # Requires config
-          $portalrequiresfile=if((irm "https://portal.azure.com/?configHash=$portalconfighash&pageVersion=$portalconfigpageversion") -match '"/Content/PortalRequireConfig/([^"]+)"'){$matches[1]}else{throw}
-          $portalrequires=if((irm "https://portal.azure.com/Content/PortalRequireConfig/$portalrequiresfile") -match 'MsPortalImpl\.setRequireConfig\(([^)]+)\)'){$matches[1]|convertfrom-json}else{throw}
+          $portalpage=(Get-Text "https://portal.azure.com/?configHash=$portalconfighash&pageVersion=$portalconfigpageversion").content
+          $portalrequiresfile=if($portalpage -match '"/Content/PortalRequireConfig/([^"]+)"'){$matches[1]}else{throw 'Require config not found'}
+          $portalrequiresjs=(Get-Text "https://portal.azure.com/Content/PortalRequireConfig/$portalrequiresfile").content
+          $portalrequires=if($portalrequiresjs -match 'MsPortalImpl\.setRequireConfig\(([^)]+)\)'){$matches[1]|convertfrom-json}else{throw 'Require config payload not found'}
           # Icon Styles CSS
           $portalcssfile=($portalrequires.requireConfig.dependencyTree.psobject.properties|?{$_.value.psobject.properties.name -contains '_generated/Less/MsPortalImpl/Base/Base.Images.css'}).name
-          $iconstyles=if((irm "https://portal.azure.com/$($portalcssfile).js") -match 'define\("_generated/Less/MsPortalImpl/Base/Base\.Images\.css".*return{css:"([^"]+)"'){$matches[1]}else{throw}
+          $iconstyles=if((Get-Text "https://portal.azure.com/$($portalcssfile).js").content -match 'define\("_generated/Less/MsPortalImpl/Base/Base\.Images\.css".*return{css:"([^"]+)"'){$matches[1]}else{throw 'Icon styles not found'}
           $iconstyles|out-file icon-styles.css -nonewline
-          # Image Library JSON
+          # Image Library JSON (numbered shared icons)
+          # Tolerant extraction: any minified variable name, ", ' or ` quoting, escaped characters inside the SVG.
+          $libhead=[regex]'([A-Za-z_$][\w$]*)\.type=(\d+),\1\.data=(["''`])'
+          $libbody=@{
+            '"'=[regex]'\G(?:\\.|[^"\\])*'
+            "'"=[regex]"\G(?:\\.|[^'\\])*"
+            '`'=[regex]'\G(?:\\.|[^`\\])*'
+          }
+          function Get-LibraryIcons([string]$js,[string]$file){
+            foreach($m in $libhead.Matches($js)){
+              $q=$m.Groups[3].Value
+              $raw=$libbody[$q].Match($js,$m.Index+$m.Length).Value
+              $val=$raw; try{$val=[regex]::Unescape($raw)}catch{}
+              $t=$val.Trim()
+              if($t.StartsWith('<?xml') -and $t.Contains('<svg')){$t=$t.Substring($t.IndexOf('<svg'))}
+              [pscustomobject]@{type=[int]$m.Groups[2].Value;svg=$(if($t.StartsWith('<svg')){$t}else{$null});file=$file;sample=$(if($t.StartsWith('<svg')){''}else{$raw.Substring(0,[math]::min(200,$raw.Length))})}
+            }
+          }
+          new-item -itemtype directory -name library-js -force|out-null
+          $libraryjs=@{}
           $imagelibraryfile=($portalrequires.requireConfig.dependencyTree.psobject.properties|?{$_.value.psobject.properties.name -contains 'MsPortalImpl/Base/Base.ImageLibrary'}).name
-          $imagelibraryjs=irm "https://portal.azure.com/$($imagelibraryfile).js"
-          $imagelibrary=([regex]'e\.type=(\d+),e\.data="(<svg[^"]+</svg>)"').matches($imagelibraryjs)|select @{n='type';e={[int]($_.groups[1].value)}},@{n='svg';e={$_.groups[2].value}}
-          $svglibrary=$portalrequires.requireConfig.dependencyTree.psobject.properties|?{$_.value.psobject.properties.name -like '*.svg'}|select -exp name|sort-object -unique|%{([regex]'e\.type=(\d+),e\.data="(<svg[^"]+</svg>)"').matches((irm "https://portal.azure.com/$($_).js"))|select @{n='type';e={[int]($_.groups[1].value)}},@{n='svg';e={$_.groups[2].value}}}
-          $iconlibrary=$imagelibrary+$svglibrary
+          $libraryfiles=@($imagelibraryfile)+@($portalrequires.requireConfig.dependencyTree.psobject.properties|?{$_.value.psobject.properties.name -like '*.svg'}|select -exp name|sort-object -unique)
+          foreach($f in ($libraryfiles|?{$_}|select -unique)){
+            $js=(Get-Text "https://portal.azure.com/$($f).js").content
+            $libraryjs[$f]=$js
+            $js|out-file ("library-js/"+($f -replace '[^\w.-]','_')+".js") -nonewline
+          }
+          $libentries=@($libraryjs.GetEnumerator()|%{Get-LibraryIcons $_.Value $_.Key})
+          $iconlibrary=@($libentries|?{$_.svg}|select type,svg)
           $iconlibrary|sort-object type|convertto-json -depth 100|out-file icon-library.json
-          "Got total of $($iconlibrary.count) library icons" >> $env:GITHUB_STEP_SUMMARY
+          "Got total of $($iconlibrary.count) library icons ($(@($iconlibrary.type|select -unique).count) distinct numbers) from $($libraryjs.count) files" >> $env:GITHUB_STEP_SUMMARY
           # Icon Assets JSON
           $manifestindex=$portalconfig.portalServerConfig.supportedLanguages.IndexOf('en')
-          $manifesthash=$portalconfig.portalServerConfig.environment.extensionsManifestHash.assetTypes[$manifestindex][0]
-          $iconassets=(irm "https://portal.azure.com/Content/ExtensionManifest/$manifesthash.json").manifest
+          $manifesthashes=$portalconfig.portalServerConfig.environment.extensionsManifestHash
+          "extensionsManifestHash keys: $($manifesthashes.psobject.properties.name -join ', ')" >> $env:GITHUB_STEP_SUMMARY
+          $manifesthash=$manifesthashes.assetTypes[$manifestindex][0]
+          $iconassets=(Invoke-RestMethod "https://portal.azure.com/Content/ExtensionManifest/$manifesthash.json").manifest
           $iconassets|convertto-json -depth 100|out-file icon-assets.json
           "Got total of $($iconassets.psobject.properties.value.count) manifests and $($iconassets.psobject.properties.value.assettypes.count) assets" >> $env:GITHUB_STEP_SUMMARY
+
+          # Diagnostics for numbered icons the assets need but the library does not provide
+          $libtypes=@{}; $iconlibrary|%{$libtypes[[int]$_.type]=$true}
+          $needed=@($iconassets.psobject.properties.value.assettypes|?{$_.icon -and -not $_.icon.ref -and -not $_.icon.data}|%{[int]$_.icon.type}|?{$_ -gt 1 -and -not $libtypes.Contains($_)}|sort-object -unique)
+          $diag=[text.stringbuilder]::new()
+          [void]$diag.AppendLine("# Missing library numbers: $($needed -join ', ')")
+          foreach($t in $needed){
+            [void]$diag.AppendLine("`n## type $t")
+            $libentries|?{$_.type -eq $t}|%{[void]$diag.AppendLine("- matched in $($_.file) but data is not SVG: $($_.sample)")}
+            foreach($kv in $libraryjs.GetEnumerator()){
+              foreach($m in [regex]::Matches($kv.Value,"\btype\s*[=:]\s*$t\b")){
+                $a=[math]::max(0,$m.Index-150); $len=[math]::min(450,$kv.Value.Length-$a)
+                [void]$diag.AppendLine("- $($kv.Key) @ $($m.Index): ``$($kv.Value.Substring($a,$len) -replace '`','')``")
+              }
+            }
+          }
+          $diag.ToString()|out-file library-diagnostics.md
+          "Library numbers still missing: $(if($needed.count){$needed -join ', '}else{'none'})" >> $env:GITHUB_STEP_SUMMARY
+
+          # ---------------------------------------------------------------------------------
+          # Extension icon bundles (portal 18.401+): asset icons are now {type:1, ref:"<hash>"}
+          # and the SVGs live in a per-extension bundle identified by the extension's iconsRef.
+          # ---------------------------------------------------------------------------------
+          function ConvertTo-Svg($s){
+            if($s -isnot [string]){return $null}
+            $t=$s.Trim()
+            if($t.StartsWith('<svg')){return $t}
+            if($t.StartsWith('<?xml') -and $t.Contains('<svg')){return $t.Substring($t.IndexOf('<svg'))}
+            if($t -match '^data:image/svg\+xml;base64,(.+)$'){return ConvertTo-Svg ([text.encoding]::utf8.getstring([convert]::frombase64string($matches[1])))}
+            if($t -match '^data:image/svg\+xml[;,](?:utf8,|charset=utf-8,)?(.+)$'){return ConvertTo-Svg ([uri]::unescapedatastring($matches[1]))}
+            return $null
+          }
+          function Add-Svgs($node,$map,[string]$key){
+            if($null -eq $node){return}
+            if($node -is [string]){ if($key){$svg=ConvertTo-Svg $node; if($svg){$map[$key]=$svg}}; return }
+            if($node -is [System.Collections.IDictionary]){
+              $id=$null; foreach($k in 'ref','id','key','name'){ if($node.Contains($k) -and $node[$k] -is [string]){$id=$node[$k];break} }
+              $svg=$null; foreach($k in 'data','svg','content','value'){ if($node.Contains($k)){ $svg=ConvertTo-Svg $node[$k]; if($svg){break} } }
+              if($svg){ if($id){$map[$id]=$svg}; if($key -and -not $map.Contains($key)){$map[$key]=$svg} }
+              foreach($e in @($node.GetEnumerator())){ Add-Svgs $e.Value $map ([string]$e.Key) }
+              return
+            }
+            if($node -is [System.Collections.IEnumerable]){ foreach($e in $node){ Add-Svgs $e $map $null } }
+          }
+          function Get-BundleMap([string]$raw){
+            $map=@{}
+            $obj=$null
+            try{$obj=$raw|convertfrom-json -ashashtable}catch{
+              $i=$raw.IndexOf('{'); $j=$raw.LastIndexOf('}')
+              if($i -ge 0 -and $j -gt $i){ try{$obj=$raw.Substring($i,$j-$i+1)|convertfrom-json -ashashtable}catch{} }
+            }
+            if($obj){Add-Svgs $obj $map $null}
+            if($map.Count -eq 0){
+              # Last resort for JS-wrapped bundles: "ref":"<svg..."  or  ref:{...data:"<svg..."}
+              foreach($mm in [regex]::Matches($raw,'["'']?([A-Za-z0-9_\-]{6,})["'']?\s*:\s*(?:\{[^{}]*?["'']?data["'']?\s*:\s*)?"(<svg(?:\\.|[^"\\])*)"')){
+                try{$map[$mm.Groups[1].Value]=('"'+$mm.Groups[2].Value+'"')|convertfrom-json}catch{}
+              }
+            }
+            $map
+          }
+          $iconsrefs=@($iconassets.psobject.properties.value|%{$_.iconsRef}|?{$_}|sort-object -unique)
+          $refcount=@($iconassets.psobject.properties.value.assettypes|?{$_.icon -and $_.icon.ref}).count
+          "Found $($iconsrefs.count) extension icon bundles referenced by $refcount assets" >> $env:GITHUB_STEP_SUMMARY
+          $bundles=@{}
+          if($iconsrefs.count -gt 0){
+            # Candidate URL templates: explicit override, well-known guesses, plus any /Content/<folder>/ seen in portal pages
+            $folders=@('ExtensionIcons','ExtensionManifest','ExtensionIconManifest','ExtensionManifestIcons','IconManifest','Icons','Dynamic')
+            $folders+=([regex]::Matches("$portalpage`n$portalrequiresjs",'/Content/([A-Za-z0-9]+)/')|%{$_.Groups[1].Value})
+            $folders=$folders|?{$_ -ne 'PortalRequireConfig'}|select -unique
+            $templates=@()
+            if($env:ICONS_URL_TEMPLATE){$templates+=$env:ICONS_URL_TEMPLATE}
+            foreach($f in $folders){ $templates+="https://portal.azure.com/Content/$f/{0}.json"; $templates+="https://portal.azure.com/Content/$f/{0}.js" }
+            foreach($f in $folders){ $templates+="https://portal.azure.com/Content/$f/Icons/{0}.json" }
+            $probe=$iconsrefs[0]; $template=$null
+            "### Icon bundle URL probe (iconsRef $probe)" >> $env:GITHUB_STEP_SUMMARY
+            foreach($t in $templates){
+              $u=$t -f $probe; $r=Get-Text $u
+              $ok=$r.status -eq 200 -and $r.content -match '<svg'
+              "- ``$u`` -> $($r.status), $($r.content.Length) chars$(if($ok){' ✅'})" >> $env:GITHUB_STEP_SUMMARY
+              if($ok){$template=$t;break}
+            }
+            if(-not $template){
+              "::warning::Could not locate extension icon bundles. Find the URL in browser dev tools (Network tab, search for '$probe') and re-run with the icons_url_template input." | write-host
+              "**No icon bundle URL found.** Open the portal, search the Network tab for ``$probe``, and re-run with the *icons_url_template* input." >> $env:GITHUB_STEP_SUMMARY
+            }else{
+              "icons_url_template=$template" >> $env:GITHUB_STEP_SUMMARY
+              new-item -itemtype directory -name icon-bundles -force|out-null
+              $downloads=$iconsrefs|ForEach-Object -ThrottleLimit 16 -Parallel {
+                $ref=$_; $u=$using:template -f $ref
+                try{
+                  $r=Invoke-WebRequest -Uri $u -SkipHttpErrorCheck -MaximumRetryCount 3 -RetryIntervalSec 2
+                  $c=$r.Content; if($c -is [byte[]]){$c=[text.encoding]::utf8.getstring($c)}
+                  [pscustomobject]@{ref=$ref;status=[int]$r.StatusCode;content=[string]$c}
+                }catch{[pscustomobject]@{ref=$ref;status=-1;content=''}}
+              }
+              $failed=0
+              foreach($d in $downloads){
+                if($d.status -ne 200){$failed++;continue}
+                $d.content|out-file "icon-bundles/$($d.ref).txt" -nonewline
+                $bundles[$d.ref]=Get-BundleMap $d.content
+              }
+              $svgcount=($bundles.Values|%{$_.Count}|measure-object -sum).sum
+              "Downloaded $($bundles.count) icon bundles ($failed failed) containing $svgcount SVGs" >> $env:GITHUB_STEP_SUMMARY
+            }
+          }
+          $bundles|convertto-json -depth 5 -compress|out-file icon-refs.json
       - id: upload-src
         name: Save sources
+        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: src
           compression-level: 9
+          if-no-files-found: ignore
           path: |
+            portal-config.json
             icon-styles.css
             icon-library.json
             icon-assets.json
+            icon-refs.json
+            icon-bundles/
+            library-js/
+            library-diagnostics.md
       - name: Convert sources to icon data
         shell: pwsh
+        env:
+          MAX_UNRESOLVED_PERCENT: ${{ inputs.max_unresolved_percent || '5' }}
         run: |
+          function ConvertTo-Svg($s){
+            if($s -isnot [string]){return $null}
+            $t=$s.Trim()
+            if($t.StartsWith('<svg')){return $t}
+            if($t.StartsWith('<?xml') -and $t.Contains('<svg')){return $t.Substring($t.IndexOf('<svg'))}
+            if($t -match '^data:image/svg\+xml;base64,(.+)$'){return ConvertTo-Svg ([text.encoding]::utf8.getstring([convert]::frombase64string($matches[1])))}
+            if($t -match '^data:image/svg\+xml[;,](?:utf8,|charset=utf-8,)?(.+)$'){return ConvertTo-Svg ([uri]::unescapedatastring($matches[1]))}
+            return $null
+          }
           $iconstyles=gc icon-styles.css -raw
           $iconlibrary=gc icon-library.json|convertfrom-json
           $iconassets=gc icon-assets.json|convertfrom-json
+          $iconrefs=if(test-path icon-refs.json){gc icon-refs.json -raw|convertfrom-json -ashashtable}else{$null}
+          if(-not $iconrefs){$iconrefs=@{}}
           $iconlibraryhashtable=$iconlibrary|%{$ht=@{}}{$ht[[int]$_.type]=$_.svg}{$ht}
+          $stats=@{inline=0;ref=0;library=0}
+          $unresolved=[System.Collections.Generic.List[object]]::new()
           $icondata=$iconassets.psobject.properties|?{$_.value.assetTypes}|%{
             $m=$_.name
-            $_.value.assetTypes|?{$_.icon.length -gt 0}|%{
-              $firsticon=$null
-              $firsticon=$_.icon[0]
+            $bundle=$_.value.iconsRef
+            $_.value.assetTypes|?{$_.icon}|%{
+              $firsticon=@($_.icon)[0]
               $firsticontype=[int]$firsticon.type
-              if($firsticon.data -like '<svg*'){
-                $svg=$firsticon.data
-              }elseif($firsticontype -gt 1 -and $iconlibraryhashtable.contains($firsticontype)){
-                $svg=$iconlibraryhashtable[$firsticontype]
-              }else{
-                $svg='<svg viewBox="0 0 50 50" xmlns="http://www.w3.org/2000/svg"><text x="0" y="25" class="small">'+$firsticontype+'</text></svg>'
+              $source='inline'
+              $svg=ConvertTo-Svg $firsticon.data
+              if(-not $svg -and $firsticon.ref){
+                $source='ref'
+                if($bundle -and $iconrefs.Contains($bundle) -and $iconrefs[$bundle].Contains($firsticon.ref)){
+                  $svg=$iconrefs[$bundle][$firsticon.ref]
+                }else{
+                  foreach($b in $iconrefs.Values){ if($b.Contains($firsticon.ref)){$svg=$b[$firsticon.ref];break} }
+                }
               }
-              $svgxml=[xml]$svg
+              if(-not $svg -and $firsticontype -gt 1 -and $iconlibraryhashtable.Contains($firsticontype)){
+                $source='library'
+                $svg=$iconlibraryhashtable[$firsticontype]
+              }
+              if(-not $svg){
+                $unresolved.Add([pscustomobject]@{name="$m/$($_.name)";type=$firsticontype;ref=$firsticon.ref;bundle=$bundle})
+                return
+              }
+              try{$svgxml=[xml]$svg}catch{
+                $unresolved.Add([pscustomobject]@{name="$m/$($_.name)";type=$firsticontype;ref="invalid xml";bundle=$bundle})
+                return
+              }
+              $stats[$source]++
               $svgxmlns=$svgxml.documentelement.attributes|?{$_.prefix -eq 'xmlns' -and $_.value -eq 'http://www.w3.org/2000/svg'}
               if($svgxmlns){
                 [void]$svgxml.documentelement.removeattributenode($svgxmlns)
@@ -116,15 +311,31 @@ jobs:
               }
             }
           }
-          "Resolved $($icondata.count) icons" >> $env:GITHUB_STEP_SUMMARY
+          $total=@($icondata).count+$unresolved.count
+          $pct=if($total){[math]::round(100*$unresolved.count/$total,1)}else{100}
+          "Resolved $(@($icondata).count) icons (inline $($stats.inline), bundle ref $($stats.ref), library $($stats.library)); unresolved $($unresolved.count) of $total ($pct%)" >> $env:GITHUB_STEP_SUMMARY
+          if($unresolved.count){
+            "<details><summary>Unresolved icons (skipped)</summary>`n`n| Asset | Type | Ref | Bundle |`n| --- | --- | --- | --- |" >> $env:GITHUB_STEP_SUMMARY
+            $unresolved|select -first 200|%{"| $($_.name) | $($_.type) | $($_.ref) | $($_.bundle) |"} >> $env:GITHUB_STEP_SUMMARY
+            "`n</details>" >> $env:GITHUB_STEP_SUMMARY
+          }
+          $unresolved|convertto-json -depth 5|out-file icon-unresolved.json
           $icondata|convertto-json -depth 100|out-file icon-data.json
+          if($pct -gt [double]$env:MAX_UNRESOLVED_PERCENT){
+            "::error::$pct% of icons could not be resolved (limit $($env:MAX_UNRESOLVED_PERCENT)%). Not publishing." | write-host
+            exit 1
+          }
       - id: upload-data
         name: Upload icon data
+        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: data
           compression-level: 9
-          path: icon-data.json
+          if-no-files-found: ignore
+          path: |
+            icon-data.json
+            icon-unresolved.json
       - name: Save SVG icons
         shell: pwsh
         run: |
@@ -139,7 +350,7 @@ jobs:
           $html=$icondata|% `
             {"<html><head><meta name=`"viewport`" content=`"width=device-width, initial-scale=1`"><title>Azure Icons</title><style>body{margin:0}table,th,td{border:1px solid #CCCCCC;border-collapse:collapse;padding:3px}tbody{word-break:break-all;}thead,tfoot{position:sticky;}thead{inset-block-start:0;background-color:#CCCCCC}tfoot{inset-block-end:0;background-color:#CCCCCC}a:link,a:visited,a:hover{color:black}a:active{color:blue}</style><script>function download(uri, name){const a=document.createElement(`"a`");a.href=uri;a.download=name+`".svg`";a.click();}</script></head><body><table><thead><tr><th scope=`"col`" style=`"width: 10%`">Click to download</th><th scope=`"col`" style=`"width: 20%`">Name</th><th scope=`"col`" style=`"width: 20%`">Type</th><th scope=`"col`" style=`"width: 20%`">Keywords</th><th scope=`"col`" style=`"width: 30%`">Description</th></tr></thead><tbody>"} `
             {"<tr title=`"$($_.name)`"><td><img loading=`"lazy`" decoding=`"async`" src=`"svg/$($_.name).svg`" alt=`"$($_.singularDisplayName)`" title=`"Click to download`" onclick=`"download(this.src, this.alt)`" /></td><td>$($_.singularDisplayName)</td><td>$($_.resourceType)</td><td>$($_.keywords)</td><td>$($_.description)</td></tr>"} `
-            {"</tbody><tfoot><tr><td colspan=`"5`">Extracted from Azure Portal version ${{ steps.src.outputs.pageversion }} on $(get-date -f 'yyyy-MM-dd'). Icons <a target=`"_blank`" href=`"https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions`">used with permission from Microsoft</a>. Source on <a target=`"_blank`" href=`"https://github.com/maskati/azure-icons`">GitHub</a>.</td></tr></tfoot></table></body></html>"}|out-string
+            {"</tbody><tfoot><tr><td colspan=`"5`">Extracted from Azure Portal version ${{ steps.src.outputs.pageversion }} on $(get-date -f 'yyyy-MM-dd'). Icons <a target=`"_blank`" href=`"https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions`">used with permission from Microsoft</a>. Source on <a target=`"_blank`" href=`"https://github.com/${{ github.repository }}`">GitHub</a> (based on <a target=`"_blank`" href=`"https://github.com/maskati/azure-icons`">maskati/azure-icons</a>).</td></tr></tfoot></table></body></html>"}|out-string
           $html|out-file index.html
           "Created HTML of $([math]::round((gi index.html).length/1024/1024, 1))MB" >> $env:GITHUB_STEP_SUMMARY
       - id: upload-azure-icons
@@ -182,8 +393,10 @@ jobs:
         shell: pwsh
         run: |
           $icondata=gc icon-data.json|convertfrom-json
+          $owner='${{ github.repository_owner }}'
+          $repo='${{ github.event.repository.name }}'
           $markdown=$icondata|% `
-            {"# Azure Icons`n`nExtracted from Azure Portal version ${{ steps.src.outputs.pageversion }} on $(get-date -f 'yyyy-MM-dd').`n`n[View icons](https://maskati.github.io/azure-icons/)`n`n[Open in draw.io](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fmaskati%2Fazure-icons%2Frefs%2Fheads%2Fmain%2Fdrawio.xml)`n`nIcons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).`n`n| Icon | Type |`n| --- | --- |"} `
+            {"# Azure Icons`n`nExtracted from Azure Portal version ${{ steps.src.outputs.pageversion }} on $(get-date -f 'yyyy-MM-dd').`n`n[View icons](https://$owner.github.io/$repo/)`n`n[Open in draw.io](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2F$owner%2F$repo%2Frefs%2Fheads%2Fmain%2Fdrawio.xml)`n`nIcons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions). Based on [maskati/azure-icons](https://github.com/maskati/azure-icons).`n`n| Icon | Type |`n| --- | --- |"} `
             {"| [$($_.singularDisplayName -replace '\[|\]|\|','')](svg/$($_.name).svg) | $($_.resourceType -replace '/','/ ') |"} `
             {""}|out-string
           $markdown|out-file README.md
@@ -194,10 +407,11 @@ jobs:
           name: markdown
           compression-level: 9
           path: README.md
-          
+
   commit:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
     name: Commit
+    if: ${{ !inputs.dry_run }}
     permissions:
       actions: write # required for workflow_dispatch
       contents: write # required for git push
@@ -205,6 +419,8 @@ jobs:
     steps:
       - name: Git checkout
         uses: actions/checkout@v4
+      - name: Remove previous icons (prunes stale and placeholder files)
+        run: rm -rf svg
       - name: Download Azure Icons
         uses: actions/download-artifact@v4
         with:
@@ -226,10 +442,13 @@ jobs:
           git config user.email "<>"
       - name: Git add and commit if changed
         run: |
-          git add svg
-          git diff-index --quiet HEAD || \
-            git add index.html README.md drawio.xml && \
-            (git diff-index --quiet HEAD || git commit -m 'Update to version ${{ needs.download.outputs.pageversion }} with hash ${{ needs.download.outputs.confighash }}')
+          git add -A svg
+          if ! git diff --cached --quiet; then
+            git add index.html README.md drawio.xml
+            git commit -m 'Update to version ${{ needs.download.outputs.pageversion }} with hash ${{ needs.download.outputs.confighash }}'
+          else
+            echo 'No icon changes'
+          fi
       - name: Git push
         id: push
         run: |
