@@ -10,9 +10,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 
 | Icon | Type |
 | --- | --- |
-| [](svg/Microsoft_Azure_Automation/UpdateAgentTroubleshooting.svg) |  |
-| [](svg/Microsoft_Azure_Automation/Variable.svg) |  |
-| [](svg/Microsoft_Azure_ContainerRegistries/CreateConnectedRegistryArcResource.svg) | Microsoft.KubernetesConfiguration/ extensions |
 | [1ES](svg/Microsoft_Azure_CloudTest/CloudTest.svg) |  |
 | [1ES Build Cache](svg/Microsoft_Azure_CloudTest/CloudTestBuildCache.svg) | Microsoft.CloudTest/ buildcaches |
 | [1ES Hosted Pool](svg/Microsoft_Azure_CloudTest/HostedPools.svg) | Microsoft.CloudTest/ hostedpools |
@@ -430,6 +427,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Cost Management + Billing](svg/Microsoft_Azure_Billing/Billing.svg) |  |
 | [Cost Management + Billing](svg/Microsoft_Azure_GTM/Billing.svg) |  |
 | [Cost Management for AWS](svg/Microsoft_Azure_CostManagement/Connectors.svg) |  |
+| [Create Connected Registry Arc Resource](svg/Microsoft_Azure_ContainerRegistries/CreateConnectedRegistryArcResource.svg) | Microsoft.KubernetesConfiguration/ extensions |
 | [Create custom Microsoft Entra roles](svg/Microsoft_AAD_IAM/CreateCustomRole.svg) |  |
 | [Create Quick Access configuration](svg/Microsoft_AAD_IAM/QuickAccess.svg) |  |
 | [Credentials](svg/Microsoft_AAD_IAM/CardsListBlade.svg) |  |
@@ -540,7 +538,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Endpoint security](svg/Microsoft_Intune_Workflows/SecurityManagementAsset.svg) |  |
 | [Engage Center Connector](svg/Microsoft_ServicesHub_Extension/Connector.svg) | Microsoft.ServicesHub/ connectors |
 | [EngageHub Portal](svg/Microsoft_AzureCXP_EngageHub/EngageHubPortalMenu.svg) |  |
-| [Enriched Microsoft 365 Logs​](svg/Microsoft_AAD_IAM/EnrichedLogs.svg) |  |
+| [Enriched Microsoft 365 Logs](svg/Microsoft_AAD_IAM/EnrichedLogs.svg) |  |
 | [Enrollment manager](svg/Microsoft_Intune_Edu/EnrollmentAccounts.svg) |  |
 | [Enterprise application](svg/Microsoft_AAD_IAM/Application.svg) |  |
 | [Enterprise Application Overview](svg/Microsoft_AAD_IAM/EnterpriseAppsOverview.svg) |  |
@@ -622,7 +620,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Front Door WAF policy](svg/Microsoft_Azure_Network/FrontdoorWafPolicy.svg) | Microsoft.Network/ FrontDoorWebApplicationFirewallPolicies |
 | [Gateway](svg/Microsoft_Azure_ApiManagement/Gateway.svg) | Microsoft.ApiManagement/ gateways |
 | [GeoCatalog](svg/Microsoft_Azure_Orbital/geoCatalogs.svg) | Microsoft.Orbital/ geoCatalogs |
-| [Get started with Global Secure Access​](svg/Microsoft_AAD_IAM/GetStarted.svg) |  |
+| [Get started with Global Secure Access](svg/Microsoft_AAD_IAM/GetStarted.svg) |  |
 | [GitHub](svg/Microsoft_Azure_Resources/GitHub.svg) |  |
 | [GitOps configuration](svg/Microsoft_Azure_ContainerService/ConnectedClustersGitOpsConfiguration.svg) | Microsoft.Kubernetes/ connectedClusters/ Microsoft.KubernetesConfiguration/ fluxConfigurations |
 | [GitOps configuration](svg/Microsoft_Azure_ContainerService/ManagedClustersGitOpsConfiguration.svg) | Microsoft.ContainerService/ managedClusters/ Microsoft.KubernetesConfiguration/ fluxConfigurations |
@@ -756,7 +754,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Log Analytics query pack](svg/Microsoft_OperationsManagementSuite_Workspace/QueryPack.svg) | Microsoft.OperationalInsights/ querypacks |
 | [Log Analytics workspace](svg/Microsoft_OperationsManagementSuite_Workspace/Workspace.svg) | Microsoft.OperationalInsights/ workspaces |
 | [Log search alert rule](svg/Microsoft_Azure_Monitoring_Alerts/LogSearchAlertRule.svg) | microsoft.insights/ scheduledqueryrules |
-| [Logging with Global Secure Access​](svg/Microsoft_AAD_IAM/Logging.svg) |  |
+| [Logging with Global Secure Access](svg/Microsoft_AAD_IAM/Logging.svg) |  |
 | [Logic app](svg/Microsoft_Azure_EMA/Workflow.svg) | Microsoft.Logic/ workflows |
 | [Logic app template](svg/Microsoft_Azure_EMA/LogicAppsTemplate.svg) | Microsoft.Logic/ templates |
 | [Logic Apps Custom Connector](svg/Microsoft_Azure_EMA/CustomConnector.svg) | Microsoft.Web/ customApis |
@@ -821,7 +819,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Microsoft Entra Connect](svg/Microsoft_AAD_IAM/AADConnectBlade.svg) |  |
 | [Microsoft Entra Connect Get Started](svg/Microsoft_AAD_IAM/ProvisioningGetStarted.svg) |  |
 | [Microsoft Entra Connect Health](svg/Microsoft_Azure_ADHybridHealth/RootAsset.svg) |  |
-| [Microsoft Entra Domain Services   ](svg/Microsoft_AAD_DomainServices/AADDomainService.svg) | Microsoft.AAD/ domainServices |
+| [Microsoft Entra Domain Services](svg/Microsoft_AAD_DomainServices/AADDomainService.svg) | Microsoft.AAD/ domainServices |
 | [Microsoft Entra ID](svg/Microsoft_AAD_IAM/AzureActiveDirectory.svg) |  |
 | [Microsoft Entra ID](svg/Microsoft_AAD_IAM/TenantOverview.svg) |  |
 | [Microsoft Entra ID Protection](svg/Microsoft_AAD_IAM/IdentityProtectionRootAsset.svg) |  |
@@ -1156,7 +1154,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Service Linker](svg/ServiceLinkerExtension/ServiceLinkerGlobal.svg) |  |
 | [Service principal](svg/Microsoft_Azure_HybridCompute/ServicePrincipalBrowse.svg) | Microsoft.HybridCompute/ ServicePrincipals |
 | [Service providers](svg/Microsoft_Azure_CustomerHub/ServiceProviders.svg) |  |
-| [Session Management​](svg/Microsoft_AAD_IAM/Security.svg) |  |
+| [Session Management](svg/Microsoft_AAD_IAM/Security.svg) |  |
 | [Shared dashboard](svg/HubsExtension/Dashboards.svg) | Microsoft.Portal/ dashboards |
 | [Sign-in Log](svg/Microsoft_AAD_IAM/SignInLogs.svg) |  |
 | [Sign-In Risk Policy](svg/Microsoft_AAD_IAM/SignInRiskPolicyBlade.svg) |  |
@@ -1236,8 +1234,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Tenant setting](svg/Microsoft_Intune_Edu/TenantSettings.svg) |  |
 | [Term of Use](svg/Microsoft_Intune_Edu/TermsOfUse.svg) |  |
 | [Topology Map](svg/Microsoft_Azure_PrivateTrafficManager/TopologyMap.svg) | Microsoft.Network/ topologyMaps |
-| [Traffic Forwarding​](svg/Microsoft_AAD_IAM/ForwardingProfile.svg) |  |
-| [Traffic Logs​](svg/Microsoft_AAD_IAM/TrafficLogs.svg) |  |
+| [Traffic Forwarding](svg/Microsoft_AAD_IAM/ForwardingProfile.svg) |  |
+| [Traffic Logs](svg/Microsoft_AAD_IAM/TrafficLogs.svg) |  |
 | [Traffic Manager profile](svg/Microsoft_Azure_DNS/TrafficManager.svg) | Microsoft.Network/ trafficmanagerprofiles |
 | [Transit hub](svg/Microsoft_Azure_VirtualEnclaves/TransitHub.svg) | Microsoft.Mission/ communities/ transitHubs |
 | [Translator](svg/Microsoft_Azure_ProjectOxford/TextTranslation.svg) | Microsoft.CognitiveServices/ BrowseTextTranslation |
@@ -1245,6 +1243,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Trunked Network](svg/Microsoft_Azure_NetworkCloud/ClusterTrunkedNetworksResource.svg) | Microsoft.NetworkCloud/ clusterTrunkedNetworks |
 | [Trunked Network](svg/Microsoft_Azure_NetworkCloud/TrunkedNetworksResource.svg) | Microsoft.NetworkCloud/ trunkedNetworks |
 | [Universal Print](svg/Universal_Print/universal_Print.svg) |  |
+| [Update Agent Troubleshooting](svg/Microsoft_Azure_Automation/UpdateAgentTroubleshooting.svg) |  |
 | [Update Rule](svg/Microsoft_Azure_Automation/UpdateRule.svg) | microsoft.updatemanager/ updaterules |
 | [User](svg/Microsoft_Azure_HybridCompute/MachineInventoryUsers.svg) | Microsoft.GuestConfiguration/ users |
 | [User and group quota](svg/Microsoft_Azure_NetApp/NfsVolumeQuotaRule.svg) | Microsoft.NetApp/ netAppAccounts/ capacityPools/ volumes/ volumeQuotaRules |
@@ -1260,6 +1259,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Users Registration](svg/Microsoft_AAD_IAM/PasswordResetPolicyDetailRegistrationBlade.svg) |  |
 | [Validation](svg/Microsoft_Azure_ChangeSafety/changesafety_validations.svg) | microsoft.changesafety/ validations |
 | [Validation](svg/Microsoft_Azure_Resources/changesafety_validations.svg) | microsoft.changesafety/ validations |
+| [Variable](svg/Microsoft_Azure_Automation/Variable.svg) |  |
 | [Verified ID](svg/Microsoft_AAD_DecentralizedIdentity/PortableIdentityCards.svg) |  |
 | [Verified ID Settings](svg/Microsoft_AAD_IAM/IssuerSettingsBlade.svg) |  |
 | [Verified ID Setup](svg/Microsoft_AAD_IAM/SetupBlade.svg) |  |
@@ -1311,7 +1311,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Wave Migration](svg/Microsoft_Azure_WaveMigration/WaveMigrationResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [WCF Relay](svg/Microsoft_Azure_Relay/WcfRelay.svg) | Microsoft.Relay/ namespaces/ WcfRelays |
 | [Web App](svg/WebsitesExtension/Webapp.svg) |  |
-| [Web Filtering Policy​](svg/Microsoft_AAD_IAM/WebFilteringPolicy.svg) |  |
+| [Web Filtering Policy](svg/Microsoft_AAD_IAM/WebFilteringPolicy.svg) |  |
 | [Web PubSub Service](svg/Microsoft_Azure_SignalR/WebPubSub.svg) | Microsoft.SignalRService/ WebPubSub |
 | [Web PubSub Service Replica](svg/Microsoft_Azure_SignalR/WebPubSubReplica.svg) | Microsoft.SignalRService/ WebPubSub/ replicas |
 | [Weekly Digest](svg/Microsoft_AAD_IAM/IpcDigestSettingsBlade.svg) |  |
