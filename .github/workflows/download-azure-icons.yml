@@ -378,8 +378,8 @@ jobs:
             $words=@([regex]::Matches($src,'[\p{L}\p{N}]+')|%{$_.Value}|?{$_.Length -gt 1 -or $_ -match '\d'})
             if($_.resourceType){$words+=$_.resourceType.ToLowerInvariant()}
             # Library-specific tag: draw.io ranks equal matches by load order (built-in shapes first),
-            # so 'azureportal <term>' is the way to get only this library's icons
-            $words+='azureportal'
+            # so 'azicon <term>' (e.g. 'azicon vm') returns only this library's icons.
+            $words+='azicon'
             [ordered]@{
               h=50;w=50;
               aspect='fixed';
