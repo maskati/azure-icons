@@ -248,6 +248,9 @@ jobs:
             $bundle=$_.value.iconsRef
             $_.value.assetTypes|?{$_.icon}|%{
               $firsticon=@($_.icon)[0]
+              # Display name; a few portal entries have none, so derive one from the internal name (e.g. UpdateAgentTroubleshooting -> Update Agent Troubleshooting)
+              $dn=(($_.singularDisplayName -replace "`n",'') -replace '[\u200B-\u200D\uFEFF]','').Trim()
+              if(-not $dn){$dn=($_.name -creplace '(?<=[a-z0-9])(?=[A-Z])|(?<=[A-Z])(?=[A-Z][a-z])',' ') -replace '_',' '}
               $firsticontype=[int]$firsticon.type
               $source='inline'
               $svg=ConvertTo-Svg $firsticon.data
@@ -284,7 +287,7 @@ jobs:
               }else{
                 $svgxml.documentelement.prependchild($svgxml.createelement('desc')).innertext=$desctext
               }
-              $titletext=[web.httputility]::htmlencode(($_.singularDisplayName -replace "`n",''))
+              $titletext=[web.httputility]::htmlencode($dn)
               $titles=$svgxml.documentelement.getelementsbytagname('title')
               if($titles.count -gt 0){
                 $titles|%{$_.innertext=$titletext}
@@ -303,7 +306,7 @@ jobs:
               [pscustomobject]@{
                 name="$($m)/$($_.name)"
                 svg=$svgxml.outerxml
-                singularDisplayName=$_.singularDisplayName -replace "`n",''
+                singularDisplayName=$dn
                 pluralDisplayName=$_.pluralDisplayName -replace "`n",''
                 resourceType=$_.resourceType.resourceTypeName -replace "`n",''
                 keywords=$_.keywords -replace "`n",' '
