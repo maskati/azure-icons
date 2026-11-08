@@ -2,11 +2,11 @@
 
 Extracted from Azure Portal version 18.401.0.1 on 2026-11-08.
 
-[View icons](https://maskati.github.io/azure-icons/)
+[View icons](https://wshamroukh.github.io/azure-icons/)
 
-[Open in draw.io](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fmaskati%2Fazure-icons%2Frefs%2Fheads%2Fmain%2Fdrawio.xml)
+[Open in draw.io](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fwshamroukh%2Fazure-icons%2Frefs%2Fheads%2Fmain%2Fdrawio.xml)
 
-Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
+Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions). Based on [maskati/azure-icons](https://github.com/maskati/azure-icons).
 
 | Icon | Type |
 | --- | --- |
@@ -623,7 +623,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Healthcare Agent Services (Private Test)](svg/Microsoft_Azure_HealthBot/PrivateHealthBot.svg) | Private.HealthBotTest/ healthBots |
 | [Healthcare agent service](svg/Microsoft_Azure_HealthBot/HealthBot.svg) | Microsoft.HealthBot/ healthBots |
 | [De-identification Service](svg/Microsoft_Azure_HealthDataDeidentification/DeidService.svg) | Microsoft.HealthDataAIServices/ DeidServices |
-| [Health Model (preview)](svg/Microsoft_Azure_HealthModels/AzureHealthModel.svg) | Microsoft.HealthModel/ healthmodels |
 | [VMware + AVS virtual machine](svg/Microsoft_Azure_HybridCompute/VMwareVmV2.svg) | Microsoft.HybridCompute/ Machines/ Microsoft.ConnectedVMwarevSphere/ virtualMachineInstances |
 | [VMware + AVS virtual machine](svg/Microsoft_Azure_HybridCompute/VMwareVm.svg) | Microsoft.ConnectedVMwarevSphere/ VirtualMachines |
 | [VMware vCenter](svg/Microsoft_Azure_HybridCompute/VMwarevCenter.svg) | Microsoft.connectedVMwareVSphere/ vCenters |
@@ -961,7 +960,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Integration Environment](svg/Microsoft_Azure_PaasServerless/IntegrationSpace.svg) | Microsoft.IntegrationSpaces/ spaces |
 | [Durable Task Scheduler](svg/Microsoft_Azure_PaasServerless/DurableTaskScheduler.svg) | Microsoft.DurableTask/ Schedulers |
 | [Business Process](svg/Microsoft_Azure_PaasServerless/BusinessProcessTracking.svg) | Microsoft.Logic/ businessprocesses |
-| [App Service Builder (preview)](svg/Microsoft_Azure_PaasServerless/BuilderApps.svg) | Microsoft.Web/ builderApps |
 | [Azure Payment HSM v2](svg/Microsoft_Azure_PaymentHSM/PaymentHSM.svg) | Microsoft.HardwareSecurityModules/ paymentHsmClusters |
 | [Registered prefix](svg/Microsoft_Azure_Peering/RegisteredPrefix.svg) | Microsoft.Peering/ peerings/ registeredPrefixes |
 | [Registered ASN](svg/Microsoft_Azure_Peering/RegisteredAsn.svg) | Microsoft.Peering/ peerings/ registeredAsns |
@@ -1306,7 +1304,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [My Resource](svg/VLCentral_Amendments/VLCentral_Amendments.svg) |  |
 | [Approvals](svg/VLCentral_Approval/VLCentral_Approval.svg) |  |
 | [My Cases & Support](svg/VLCentral_CaseManagement/VLCentralCaseManagement.svg) |  |
-| [VLCentral Deal Modeler](svg/VLCentral_DealModeler/VLCentralDealModeler.svg) |  |
 | [VLCentral Help](svg/VLCentral_HelpAndSupport/VLCentralHelp.svg) |  |
 | [VLCentral Home](svg/VLCentral_Home/VLCentralHome.svg) |  |
 | [My Resource](svg/VLCentral_OrderCredits/MyResource.svg) |  |
@@ -1314,21 +1311,16 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [My Resource](svg/VLCentral_OrganizationManagementService/MyResource.svg) |  |
 | [Deals](svg/VLCentral_Quote/VLCentralQuote.svg) |  |
 | [Reporting & Analytics](svg/VLCentral_ReportingNAnalytics/VLCentralReporting.svg) |  |
-| [VLCentral Seller Home](svg/VLCentral_SellerHome/VLCentralSellerHome.svg) |  |
 | [User Management](svg/VLCentral_UUM/VLCentralUUM.svg) |  |
 | [Azure VMware Solution private cloud](svg/VMCP/PrivateCloud.svg) | Microsoft.AVS/ privateClouds |
 | [App Service (Slot)](svg/WebsitesExtension/WebsiteSlot.svg) | Microsoft.Web/ sites/ slots |
 | [App Service](svg/WebsitesExtension/Website.svg) | Microsoft.Web/ sites |
 | [App Service plan](svg/WebsitesExtension/WebHostingPlan.svg) | Microsoft.Web/ serverFarms |
 | [Web App](svg/WebsitesExtension/Webapp.svg) |  |
-| [Task Hub](svg/WebsitesExtension/TaskHub.svg) | Microsoft.DurableTask/ Schedulers/ TaskHubs |
 | [Static Web App](svg/WebsitesExtension/StaticSite.svg) | Microsoft.Web/ StaticSites |
 | [App Service Certificate](svg/WebsitesExtension/SslCertificate.svg) | Microsoft.CertificateRegistration/ certificateOrders |
-| [Azure SRE Agent](svg/WebsitesExtension/SreAgentResources.svg) |  |
-| [Azure SRE Agent](svg/WebsitesExtension/SreAgentCustomMenu.svg) |  |
 | [Container Apps Sandbox group](svg/WebsitesExtension/SandboxGroups.svg) | Microsoft.App/ sandboxGroups |
 | [Mobile App](svg/WebsitesExtension/MobileApp.svg) |  |
-| [Durable Task Scheduler](svg/WebsitesExtension/DurableTaskScheduler.svg) | Microsoft.DurableTask/ Schedulers |
 | [Container App Session Pool](svg/WebsitesExtension/ContainerAppSessionPool.svg) | Microsoft.App/ sessionPools |
 | [Container App Job](svg/WebsitesExtension/ContainerAppJobs.svg) | Microsoft.App/ jobs |
 | [Container Apps Environment](svg/WebsitesExtension/ContainerAppEnvironment.svg) | Microsoft.App/ managedEnvironments |
