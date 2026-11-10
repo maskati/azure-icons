@@ -305,6 +305,8 @@ jobs:
               }
               [pscustomobject]@{
                 name="$($m)/$($_.name)"
+                # Fingerprint of the source artwork (before the title/description are added), used to merge duplicates in drawio.xml
+                srckey=[convert]::ToHexString([security.cryptography.sha256]::HashData([text.encoding]::utf8.getbytes($svg.Trim())))
                 svg=$svgxml.outerxml
                 singularDisplayName=$dn
                 pluralDisplayName=$_.pluralDisplayName -replace "`n",''
@@ -326,6 +328,67 @@ jobs:
           # Alphabetical by display name (ignoring stray zero-width characters), then by asset path for ties
           $icondata=@($icondata|sort-object @{e={($_.singularDisplayName -replace '[\u200B-\u200D\uFEFF]','').Trim()}},name)
           $icondata|convertto-json -depth 100|out-file icon-data.json
+          # ---------------------------------------------------------------------------------
+          # Extras: portal images that no resource type uses (unnamed shared library images and
+          # unreferenced extension bundle images). Published separately as drawio-extras.xml.
+          # ---------------------------------------------------------------------------------
+          try{
+            function Format-ExtraSvg([string]$svg,[string]$title){
+              try{$x=[xml]$svg}catch{return $null}
+              $ns=$x.documentelement.attributes|?{$_.prefix -eq 'xmlns' -and $_.value -eq 'http://www.w3.org/2000/svg'}
+              if($ns){[void]$x.documentelement.removeattributenode($ns)}
+              $x.documentelement.setattribute('xmlns','http://www.w3.org/2000/svg')
+              $tt=$x.documentelement.getelementsbytagname('title')
+              if($tt.count -gt 0){$tt|%{$_.innertext=$title}}else{$x.documentelement.prependchild($x.createelement('title')).innertext=$title}
+              $x.documentelement.appendchild($x.createelement('style')).innerxml=$iconstyles
+              $x.selectnodes('//@*')|%{$i=0}{
+                if($_.value -match 'url\(#(?<guid>[0-9a-fA-F-]{36})\)'){
+                  $_.value="url(#definition-$($i++;$i))"
+                  $x.selectnodes("//@id[.='$($matches['guid'])']")|%{$_.value="definition-$($i)"}
+                }
+              }
+              $x.outerxml
+            }
+            $usedrefs=@{}; $usedtypes=@{}
+            $iconassets.psobject.properties.value.assettypes|?{$_.icon}|%{
+              $fi=@($_.icon)[0]
+              if($fi.ref){$usedrefs[[string]$fi.ref]=$true}
+              elseif($fi.type -and [int]$fi.type -gt 1){$usedtypes[[int]$fi.type]=$true}
+            }
+            $usedsvgs=[System.Collections.Generic.HashSet[string]]::new()
+            foreach($t in @($usedtypes.Keys)){ if($iconlibraryhashtable.Contains($t)){[void]$usedsvgs.Add($iconlibraryhashtable[$t])} }
+            foreach($b in @($iconrefs.Values)){ foreach($r in @($b.Keys)){ if($usedrefs.Contains([string]$r)){[void]$usedsvgs.Add($b[$r])} } }
+            $bundleowner=@{}
+            $iconassets.psobject.properties|?{$_.value.iconsRef}|%{ if(-not $bundleowner.Contains($_.value.iconsRef)){$bundleowner[$_.value.iconsRef]=$_.name} }
+            $seen=[System.Collections.Generic.HashSet[string]]::new()
+            $extras=[System.Collections.Generic.List[object]]::new()
+            $libcount=@{}
+            foreach($e in @($iconlibrary|sort-object {[int]$_.type})){
+              $t=[int]$e.type; $svg=[string]$e.svg
+              if(-not $svg -or $usedtypes.Contains($t) -or $usedsvgs.Contains($svg) -or -not $seen.Add($svg)){continue}
+              $libcount[$t]=1+$(if($libcount.Contains($t)){$libcount[$t]}else{0})
+              $suffix=if($libcount[$t] -gt 1){"-$($libcount[$t])"}else{''}
+              $extras.Add([pscustomobject]@{name="PortalLibrary/$t$suffix";title="Portal image $t$suffix";group='Portal library';svg=$svg})
+            }
+            $libextras=$extras.Count
+            foreach($b in @($iconrefs.Keys|sort-object)){
+              $ext=if($bundleowner.Contains($b)){$bundleowner[$b]}else{$b}
+              foreach($r in @($iconrefs[$b].Keys|sort-object)){
+                $svg=[string]$iconrefs[$b][$r]
+                if(-not $svg -or $usedrefs.Contains([string]$r) -or $usedsvgs.Contains($svg) -or -not $seen.Add($svg)){continue}
+                $extras.Add([pscustomobject]@{name="$ext/$r";title="$ext image $r";group=$ext;svg=$svg})
+              }
+            }
+            $extrasdata=@($extras|%{
+              $s=Format-ExtraSvg $_.svg $_.title
+              if($s){[pscustomobject]@{name=$_.name;title=$_.title;group=$_.group;svg=$s}}
+            })
+            ConvertTo-Json -InputObject $extrasdata -Depth 10|out-file extras-data.json
+            "Extras: $($extrasdata.count) portal images not used by any resource type ($libextras from the shared library, $($extras.Count-$libextras) from extension bundles)" >> $env:GITHUB_STEP_SUMMARY
+          }catch{
+            "::warning::Could not build extras: $($_.Exception.Message)" | write-host
+            "Extras could not be built: $($_.Exception.Message)" >> $env:GITHUB_STEP_SUMMARY
+          }
           if($pct -gt [double]$env:MAX_UNRESOLVED_PERCENT){
             "::error::$pct% of icons could not be resolved (limit $($env:MAX_UNRESOLVED_PERCENT)%). Not publishing." | write-host
             exit 1
@@ -355,7 +418,7 @@ jobs:
           $html=$icondata|% `
             {"<html><head><meta name=`"viewport`" content=`"width=device-width, initial-scale=1`"><title>Azure Icons</title><style>body{margin:0}table,th,td{border:1px solid #CCCCCC;border-collapse:collapse;padding:3px}tbody{word-break:break-all;}td img{width:48px;height:48px;cursor:pointer}thead,tfoot{position:sticky;}thead{inset-block-start:0;background-color:#CCCCCC}tfoot{inset-block-end:0;background-color:#CCCCCC}a:link,a:visited,a:hover{color:black}a:active{color:blue}</style><script>function download(uri, name){const a=document.createElement(`"a`");a.href=uri;a.download=name+`".svg`";a.click();}</script></head><body><table><thead><tr><th scope=`"col`" style=`"width: 10%`">Click to download</th><th scope=`"col`" style=`"width: 20%`">Name</th><th scope=`"col`" style=`"width: 20%`">Type</th><th scope=`"col`" style=`"width: 20%`">Keywords</th><th scope=`"col`" style=`"width: 30%`">Description</th></tr></thead><tbody>"} `
             {"<tr title=`"$($_.name)`"><td><img loading=`"lazy`" decoding=`"async`" src=`"svg/$($_.name).svg`" alt=`"$($_.singularDisplayName)`" title=`"Click to download`" onclick=`"download(this.src, this.alt)`" /></td><td>$($_.singularDisplayName)</td><td>$($_.resourceType)</td><td>$($_.keywords)</td><td>$($_.description)</td></tr>"} `
-            {"</tbody><tfoot><tr><td colspan=`"5`">Extracted from Azure Portal version ${{ steps.src.outputs.pageversion }} on $(get-date -f 'yyyy-MM-dd'). Icons <a target=`"_blank`" href=`"https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions`">used with permission from Microsoft</a>. Source on <a target=`"_blank`" href=`"https://github.com/${{ github.repository }}`">GitHub</a>.</td></tr></tfoot></table></body></html>"}|out-string
+            {"</tbody><tfoot><tr><td colspan=`"5`">Extracted from Azure Portal version ${{ steps.src.outputs.pageversion }} on $(get-date -f 'yyyy-MM-dd'). Icons <a target=`"_blank`" href=`"https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions`">used with permission from Microsoft</a>. Source on <a target=`"_blank`" href=`"https://github.com/${{ github.repository }}`">GitHub</a> (based on <a target=`"_blank`" href=`"https://github.com/maskati/azure-icons`">maskati/azure-icons</a>).</td></tr></tfoot></table></body></html>"}|out-string
           $html|out-file index.html
           "Created HTML of $([math]::round((gi index.html).length/1024/1024, 1))MB" >> $env:GITHUB_STEP_SUMMARY
       - id: upload-azure-icons
@@ -372,29 +435,74 @@ jobs:
         shell: pwsh
         run: |
           $icondata=gc icon-data.json|convertfrom-json
-          $mxicons=$icondata|%{
-            # draw.io only searches custom-library entries by their space-separated "tags", not by title
-            $src=(@($_.singularDisplayName,$_.pluralDisplayName,$_.keywords,$_.resourceType,($_.name -creplace '(?<=[a-z0-9])(?=[A-Z])|(?<=[A-Z])(?=[A-Z][a-z])',' ')) -join ' ').ToLowerInvariant()
-            $words=@([regex]::Matches($src,'[\p{L}\p{N}]+')|%{$_.Value}|?{$_.Length -gt 1 -or $_ -match '\d'})
-            if($_.resourceType){$words+=$_.resourceType.ToLowerInvariant()}
+          # Many resource types use the same artwork. Keep one library entry per distinct image and merge
+          # the names, resource types and keywords of all resource types that share it into its title and tags.
+          # Groups are put back in order of first appearance, so the alphabetical order is kept.
+          $firstseen=@{}; $n=0
+          foreach($i in @($icondata)){ $k=[string]$i.srckey; if(-not $firstseen.ContainsKey($k)){$firstseen[$k]=$n}; $n++ }
+          $grouped=@($icondata|group-object -property srckey|sort-object -property @{e={$firstseen[[string]$_.Name]}})
+          $mxicons=foreach($g in $grouped){
+            $members=@($g.Group)
+            $first=$members[0]
+            $words=@()
+            foreach($m in $members){
+              $src=(@($m.singularDisplayName,$m.pluralDisplayName,$m.keywords,$m.resourceType,([string]$m.name -creplace '(?<=[a-z0-9])(?=[A-Z])|(?<=[A-Z])(?=[A-Z][a-z])',' ')) -join ' ').ToLowerInvariant()
+              foreach($match in [regex]::Matches($src,'[\p{L}\p{N}]+')){
+                $w=$match.Value
+                if($w.Length -gt 1 -or $w -match '\d'){$words+=$w}
+              }
+              if($m.resourceType){$words+=([string]$m.resourceType).ToLowerInvariant()}
+            }
             # Library-specific tag: draw.io ranks equal matches by load order (built-in shapes first),
             # so 'azicon <term>' (e.g. 'azicon vm') returns only this library's icons.
             $words+='azicon'
+            $names=@($members|%{[string]$_.singularDisplayName}|?{$_}|select-object -unique)
+            if($members.Count -eq 1){
+              $title=(@($first.singularDisplayName,$first.name,$first.resourceType)|?{-not [string]::isnullorwhitespace($_)}) -join ' | '
+            }else{
+              $title=(@($names|select-object -first 3)) -join ' / '
+              if($names.Count -gt 3){$title+=" (+$($names.Count-3) more)"}
+              $types=@($members|%{[string]$_.resourceType}|?{$_}|select-object -unique)
+              if($types.Count -gt 0){$title+=' | '+((@($types|select-object -first 2)) -join ', ')}
+            }
             [ordered]@{
               h=50;w=50;
               aspect='fixed';
-              title=(@($_.singularDisplayName, $_.name, $_.resourcetype)|?{-not [string]::isnullorwhitespace($_)}) -join ' | ';
-              tags=($words|select -unique) -join ' ';
-              data="data:image/svg+xml;base64,$([convert]::tobase64string([text.encoding]::utf8.getbytes($_.svg)))";
+              title=$title;
+              tags=(@($words|select-object -unique)) -join ' ';
+              data="data:image/svg+xml;base64,$([convert]::tobase64string([text.encoding]::utf8.getbytes([string]$first.svg)))";
             }
           }
+          $mxicons=@($mxicons)
           $mxiconsjson=$mxicons|convertto-json -compress -depth 100
           $xml=[xml.xmldocument]::new()
           $mxlibrary=$xml.createelement('mxlibrary')
           $xml.appendchild($mxlibrary)|out-null
           $mxlibrary.innertext=$mxiconsjson
           $xml.outerxml|out-file drawio.xml
-          "Created drawio library of $([math]::round((gi drawio.xml).length/1024/1024, 1))MB" >> $env:GITHUB_STEP_SUMMARY
+          "Created drawio library with $($mxicons.count) distinct icons for $(@($icondata).count) resource types ($(@($icondata).count-$mxicons.count) duplicates merged), $([math]::round((gi drawio.xml).length/1024/1024, 1))MB" >> $env:GITHUB_STEP_SUMMARY
+          # Separate library with the extras (portal images not used by any resource type)
+          if(test-path extras-data.json){
+            $extrasdata=@(gc extras-data.json -raw|convertfrom-json)
+            $mxextras=@($extrasdata|%{
+              $etitle=[string]$_.title; $egroup=[string]$_.group; $esvg=[string]$_.svg
+              $ewords=@([regex]::Matches((($etitle+' '+$egroup) -creplace '(?<=[a-z0-9])(?=[A-Z])',' ').ToLowerInvariant(),'[\p{L}\p{N}]+')|%{$_.Value}|?{$_.Length -gt 1 -or $_ -match '\d'})
+              $ewords+='azicon'; $ewords+='azextra'
+              [ordered]@{
+                h=50;w=50;
+                aspect='fixed';
+                title=$etitle;
+                tags=($ewords|select -unique) -join ' ';
+                data="data:image/svg+xml;base64,$([convert]::tobase64string([text.encoding]::utf8.getbytes($esvg)))";
+              }
+            })
+            $xml2=[xml.xmldocument]::new()
+            $lib2=$xml2.createelement('mxlibrary')
+            $xml2.appendchild($lib2)|out-null
+            $lib2.innertext=(ConvertTo-Json -InputObject $mxextras -Compress -Depth 100)
+            $xml2.outerxml|out-file drawio-extras.xml
+            "Created drawio extras library with $($mxextras.count) images, $([math]::round((gi drawio-extras.xml).length/1024/1024, 1))MB" >> $env:GITHUB_STEP_SUMMARY
+          }
       - name: Upload drawio library
         uses: actions/upload-artifact@v4
         with:
@@ -402,6 +510,7 @@ jobs:
           compression-level: 9
           path: |
             drawio.xml
+            drawio-extras.xml
       - name: Compose Markdown
         shell: pwsh
         run: |
@@ -409,7 +518,7 @@ jobs:
           $owner='${{ github.repository_owner }}'
           $repo='${{ github.event.repository.name }}'
           $markdown=$icondata|% `
-            {"# Azure Icons`n`nExtracted from Azure Portal version ${{ steps.src.outputs.pageversion }} on $(get-date -f 'yyyy-MM-dd').`n`n[View icons](https://$owner.github.io/$repo/)`n`n[Open in draw.io](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2F$owner%2F$repo%2Frefs%2Fheads%2Fmain%2Fdrawio.xml)`n`nIcons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).`n`n| Icon | Type |`n| --- | --- |"} `
+            {"# Azure Icons`n`nExtracted from Azure Portal version ${{ steps.src.outputs.pageversion }} on $(get-date -f 'yyyy-MM-dd').`n`n[View icons](https://$owner.github.io/$repo/)`n`n[Open in draw.io](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2F$owner%2F$repo%2Frefs%2Fheads%2Fmain%2Fdrawio.xml)`n`n[Open extras in draw.io](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2F$owner%2F$repo%2Frefs%2Fheads%2Fmain%2Fdrawio-extras.xml) (portal images not used by any resource type, named by number)`n`nIcons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions). Based on [maskati/azure-icons](https://github.com/maskati/azure-icons).`n`n| Icon | Type |`n| --- | --- |"} `
             {"| [$($_.singularDisplayName -replace '\[|\]|\|','')](svg/$($_.name).svg) | $($_.resourceType -replace '/','/ ') |"} `
             {""}|out-string
           $markdown|out-file README.md
@@ -457,6 +566,7 @@ jobs:
         run: |
           # drawio.xml has no date stamp, so it changes only when icons or their order change
           git add -A svg drawio.xml
+          if [ -f drawio-extras.xml ]; then git add drawio-extras.xml; fi
           if ! git diff --cached --quiet; then
             git add index.html README.md
             git commit -m 'Update to version ${{ needs.download.outputs.pageversion }} with hash ${{ needs.download.outputs.confighash }}'
