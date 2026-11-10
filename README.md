@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.401.0.1 on 2026-11-09.
+Extracted from Azure Portal version 18.401.0.1 on 2026-11-10.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -239,9 +239,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Device Update for IoT Hub](svg/Microsoft_Azure_ADU/IotDUResource.svg) | Microsoft.DeviceUpdate/ accounts |
 | [Agentic Web App](svg/Microsoft_Azure_AfdAgenticWebApp/AfdAgenticWebApp.svg) | Microsoft.Cdn/ webAgents |
 | [Front Door](svg/Microsoft_Azure_AFDX/FrontdoorProfile.svg) | microsoft.cdn/ profiles |
-| [Agent Fabric](svg/Microsoft_Azure_AgentFabric/AgentFabricHome.svg) |  |
 | [Agent Fabric (Dev Build)](svg/Microsoft_Azure_AgentFabric/AgentFabric.svg) | Microsoft.NetworkSecurity/ agentFabrics |
-| [Agent Fabric policy group (Dev Build)](svg/Microsoft_Azure_AgentFabric/PolicyGroup.svg) | Microsoft.NetworkSecurity/ policyGroups |
 | [Analysis Services](svg/Microsoft_Azure_AnalysisServices/AnalysisServices.svg) | Microsoft.AnalysisServices/ servers |
 | [Fabric Capacity](svg/Microsoft_Azure_Analytics/REDIDCILDCBJNGCP.svg) | Microsoft.Fabric/ capacities |
 | [Verifier Workspace](svg/Microsoft_Azure_ANMVerifier/verifierWorkspace.svg) | Microsoft.Network/ networkManagers/ verifierWorkspaces |
@@ -568,8 +566,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Education](svg/Microsoft_Azure_Education/Education.svg) |  |
 | [Elastic SAN](svg/Microsoft_Azure_ElasticSan/ElasticSan.svg) | Microsoft.ElasticSan/ elasticsans |
 | [Logic app](svg/Microsoft_Azure_EMA/Workflow.svg) | Microsoft.Logic/ workflows |
-| [Connector Namespace](svg/Microsoft_Azure_EMA/ConnectorGatewayResources.svg) | Microsoft.Web/ connectorGateways |
-| [Connector Namespace](svg/Microsoft_Azure_EMA/ConnectorGateway.svg) |  |
+| [Connector Namespace (preview)](svg/Microsoft_Azure_EMA/ConnectorGatewayResources.svg) | Microsoft.Web/ connectorGateways |
+| [Connector Namespace (preview)](svg/Microsoft_Azure_EMA/ConnectorGateway.svg) |  |
 | [Managed connector](svg/Microsoft_Azure_EMA/ManagedConnector.svg) | Microsoft.Logic/ integrationServiceEnvironments/ managedApis |
 | [Logic app template](svg/Microsoft_Azure_EMA/LogicAppsTemplate.svg) | Microsoft.Logic/ templates |
 | [Integration account](svg/Microsoft_Azure_EMA/IntegrationAccount.svg) | Microsoft.Logic/ integrationAccounts |
