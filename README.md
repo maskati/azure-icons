@@ -1,12 +1,14 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.401.0.1 on 2026-11-08.
+Extracted from Azure Portal version 18.401.0.1 on 2026-11-10.
 
 [View icons](https://wshamroukh.github.io/azure-icons/)
 
 [Open in draw.io](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fwshamroukh%2Fazure-icons%2Frefs%2Fheads%2Fmain%2Fdrawio.xml)
 
-Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
+[Open extras in draw.io](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fwshamroukh%2Fazure-icons%2Frefs%2Fheads%2Fmain%2Fdrawio-extras.xml) (portal images not used by any resource type, named by number)
+
+Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions). Based on [maskati/azure-icons](https://github.com/maskati/azure-icons).
 
 | Icon | Type |
 | --- | --- |
@@ -649,7 +651,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Health events](svg/Microsoft_Azure_ComputeHub/HealthEvents.svg) | Microsoft.ComputeHub/ HealthEvents |
 | [Health insights](svg/Microsoft_Azure_ProjectOxford/HealthInsights.svg) | Microsoft.CognitiveServices/ BrowseHealthInsights |
 | [Health model](svg/Microsoft_CloudHealth_HealthModels/AzureHealthModel.svg) | Microsoft.CloudHealth/ healthmodels |
-| [Health Model (preview)](svg/Microsoft_Azure_HealthModels/AzureHealthModel.svg) | Microsoft.HealthModel/ healthmodels |
 | [Healthcare agent service](svg/Microsoft_Azure_HealthBot/HealthBot.svg) | Microsoft.HealthBot/ healthBots |
 | [Healthcare Agent Services (Private Dev)](svg/Microsoft_Azure_HealthBot/PrivateHealthBotDev.svg) | Private.HealthBotDev/ healthBots |
 | [Healthcare Agent Services (Private Test)](svg/Microsoft_Azure_HealthBot/PrivateHealthBot.svg) | Private.HealthBotTest/ healthBots |
@@ -1284,10 +1285,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Virtual network terminal access point](svg/Microsoft_Azure_Network/VirtualNetworkTAP.svg) | microsoft.network/ virtualnetworktaps |
 | [Virtual WAN](svg/Microsoft_Azure_HybridNetworking/VirtualWan.svg) | Microsoft.Network/ virtualWans |
 | [Visual Studio Online Plan](svg/Microsoft_Azure_Appliance/MicrosoftVSOnlinePlans.svg) | Microsoft.VSOnline/ Plans |
-| [VLCentral Deal Modeler](svg/VLCentral_DealModeler/VLCentralDealModeler.svg) |  |
 | [VLCentral Help](svg/VLCentral_HelpAndSupport/VLCentralHelp.svg) |  |
 | [VLCentral Home](svg/VLCentral_Home/VLCentralHome.svg) |  |
-| [VLCentral Seller Home](svg/VLCentral_SellerHome/VLCentralSellerHome.svg) |  |
 | [VM application definition](svg/Microsoft_Azure_DiskMgmt/GalleryApplication.svg) | Microsoft.Compute/ galleries/ applications |
 | [VM application version](svg/Microsoft_Azure_DiskMgmt/GalleryApplicationVersion.svg) | Microsoft.Compute/ galleries/ applications/ versions |
 | [VM image (classic)](svg/Microsoft_Azure_Classic_Compute/VmUserImages.svg) | Microsoft.ClassicStorage/ storageAccounts/ vmimages |
