@@ -415,12 +415,28 @@ jobs:
         shell: pwsh
         run: |
           $icondata=gc icon-data.json|convertfrom-json
-          $html=$icondata|% `
-            {"<html><head><meta name=`"viewport`" content=`"width=device-width, initial-scale=1`"><title>Azure Icons</title><style>body{margin:0}table,th,td{border:1px solid #CCCCCC;border-collapse:collapse;padding:3px}tbody{word-break:break-all;}td img{width:48px;height:48px;cursor:pointer}thead,tfoot{position:sticky;}thead{inset-block-start:0;background-color:#CCCCCC}tfoot{inset-block-end:0;background-color:#CCCCCC}a:link,a:visited,a:hover{color:black}a:active{color:blue}</style><script>function download(uri, name){const a=document.createElement(`"a`");a.href=uri;a.download=name+`".svg`";a.click();}</script></head><body><table><thead><tr><th scope=`"col`" style=`"width: 10%`">Click to download</th><th scope=`"col`" style=`"width: 20%`">Name</th><th scope=`"col`" style=`"width: 20%`">Type</th><th scope=`"col`" style=`"width: 20%`">Keywords</th><th scope=`"col`" style=`"width: 30%`">Description</th></tr></thead><tbody>"} `
-            {"<tr title=`"$($_.name)`"><td><img loading=`"lazy`" decoding=`"async`" src=`"svg/$($_.name).svg`" alt=`"$($_.singularDisplayName)`" title=`"Click to download`" onclick=`"download(this.src, this.alt)`" /></td><td>$($_.singularDisplayName)</td><td>$($_.resourceType)</td><td>$($_.keywords)</td><td>$($_.description)</td></tr>"} `
-            {"</tbody><tfoot><tr><td colspan=`"5`">Extracted from Azure Portal version ${{ steps.src.outputs.pageversion }} on $(get-date -f 'yyyy-MM-dd'). Icons <a target=`"_blank`" href=`"https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions`">used with permission from Microsoft</a>. Source on <a target=`"_blank`" href=`"https://github.com/${{ github.repository }}`">GitHub</a> (based on <a target=`"_blank`" href=`"https://github.com/maskati/azure-icons`">maskati/azure-icons</a>).</td></tr></tfoot></table></body></html>"}|out-string
-          $html|out-file index.html
-          "Created HTML of $([math]::round((gi index.html).length/1024/1024, 1))MB" >> $env:GITHUB_STEP_SUMMARY
+          # One row per distinct image (same srckey as the drawio library); every resource type that shares
+          # the image is listed in that row. Groups keep the alphabetical order of their first member.
+          $firstseen=@{}; $n=0
+          foreach($i in @($icondata)){ $k=[string]$i.srckey; if(-not $firstseen.ContainsKey($k)){$firstseen[$k]=$n}; $n++ }
+          $grouped=@($icondata|group-object -property srckey|sort-object -property @{e={$firstseen[[string]$_.Name]}})
+          function enc([string]$s){[System.Net.WebUtility]::HtmlEncode($s)}
+          $sb=[System.Text.StringBuilder]::new()
+          [void]$sb.Append("<html><head><meta charset=`"utf-8`"><meta name=`"viewport`" content=`"width=device-width, initial-scale=1`"><title>Azure Icons</title><style>body{margin:0}table,th,td{border:1px solid #CCCCCC;border-collapse:collapse;padding:3px;vertical-align:top}tbody{word-break:break-all;}td img{width:48px;height:48px;cursor:pointer}thead,tfoot{position:sticky;}thead{inset-block-start:0;background-color:#CCCCCC}tfoot{inset-block-end:0;background-color:#CCCCCC}a:link,a:visited,a:hover{color:black}a:active{color:blue}.n{color:#666;font-size:smaller}</style><script>function download(uri, name){const a=document.createElement(`"a`");a.href=uri;a.download=name+`".svg`";a.click();}</script></head><body><table><thead><tr><th scope=`"col`" style=`"width: 10%`">Click to download</th><th scope=`"col`" style=`"width: 20%`">Name</th><th scope=`"col`" style=`"width: 20%`">Type</th><th scope=`"col`" style=`"width: 20%`">Keywords</th><th scope=`"col`" style=`"width: 30%`">Description</th></tr></thead><tbody>")
+          foreach($g in $grouped){
+            $members=@($g.Group)
+            $first=$members[0]
+            $names=@($members|%{[string]$_.singularDisplayName}|?{$_}|select-object -unique)
+            $types=@($members|%{[string]$_.resourceType}|?{$_}|select-object -unique)
+            $kw=@($members|%{[string]$_.keywords}|?{$_}|select-object -unique)
+            $desc=@($members|%{[string]$_.description}|?{$_}|select-object -unique)
+            $namecell=(@($names|%{enc $_}) -join '<br>')
+            if($members.Count -gt 1){$namecell+="<br><span class=`"n`">($($members.Count) resource types share this icon)</span>"}
+            [void]$sb.Append("<tr title=`"$(enc $first.name)`"><td><img loading=`"lazy`" decoding=`"async`" src=`"svg/$(enc $first.name).svg`" alt=`"$(enc $first.singularDisplayName)`" title=`"Click to download`" onclick=`"download(this.src, this.alt)`" /></td><td>$namecell</td><td>$((@($types|%{enc $_}) -join '<br>'))</td><td>$((@($kw|%{enc $_}) -join '; '))</td><td>$((@($desc|%{enc $_}) -join '<br>'))</td></tr>")
+          }
+          [void]$sb.Append("</tbody><tfoot><tr><td colspan=`"5`">$($grouped.Count) distinct icons for $(@($icondata).Count) resource types. Extracted from Azure Portal version ${{ steps.src.outputs.pageversion }} on $(get-date -f 'yyyy-MM-dd'). Icons <a target=`"_blank`" href=`"https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions`">used with permission from Microsoft</a>. Source on <a target=`"_blank`" href=`"https://github.com/${{ github.repository }}`">GitHub</a> (based on <a target=`"_blank`" href=`"https://github.com/maskati/azure-icons`">maskati/azure-icons</a>).</td></tr></tfoot></table></body></html>")
+          $sb.ToString()|out-file index.html -encoding utf8
+          "Created HTML with $($grouped.Count) rows for $(@($icondata).Count) resource types, $([math]::round((gi index.html).length/1024/1024, 1))MB" >> $env:GITHUB_STEP_SUMMARY
       - id: upload-azure-icons
         name: Upload Azure Icons
         uses: actions/upload-artifact@v4
