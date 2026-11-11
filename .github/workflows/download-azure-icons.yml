@@ -327,6 +327,25 @@ jobs:
           $unresolved|convertto-json -depth 5|out-file icon-unresolved.json
           # Alphabetical by display name (ignoring stray zero-width characters), then by asset path for ties
           $icondata=@($icondata|sort-object @{e={($_.singularDisplayName -replace '[\u200B-\u200D\uFEFF]','').Trim()}},name)
+          # Name for icons shared by several resource types (used for the label, title and sort position).
+          # Taking the first name alphabetically gave e.g. "All resources" (a Compute hub page) for the virtual
+          # machine icon. Instead: ignore portal hub pages (Microsoft.*Hub/...) and entries without a resource
+          # type, take the display name used by most of the remaining resource types, prefer a real top-level
+          # ARM type (Provider/type, not Microsoft.All), then the shorter name.
+          foreach($g in @($icondata|group-object -property srckey)){
+            $ms=@($g.Group)
+            $cand=@($ms|?{$_.resourceType -and ([string]$_.resourceType) -notmatch '^(?i)microsoft\.[a-z]*hub/' -and -not [string]::isnullorwhitespace($_.singularDisplayName)})
+            if(-not $cand){$cand=@($ms|?{-not [string]::isnullorwhitespace($_.singularDisplayName)})}
+            if(-not $cand){$cand=$ms}
+            $best=$cand|group-object -property {([string]$_.singularDisplayName).Trim().ToLowerInvariant()}|sort-object `
+              @{e={$_.Count};descending=$true},
+              @{e={@($_.Group|?{([string]$_.resourceType) -notmatch '^(?i)microsoft\.all/' -and ([string]$_.resourceType).Split('/').Count -eq 2}).Count -gt 0};descending=$true},
+              @{e={$_.Name.Length}},
+              Name|select-object -first 1
+            $gn=([string]$best.Group[0].singularDisplayName).Trim()
+            if(-not $gn){$gn=([string]$best.Group[0].name -replace '^.*/','' -creplace '(?<=[a-z0-9])(?=[A-Z])|(?<=[A-Z])(?=[A-Z][a-z])',' ')}
+            foreach($m in $ms){$m|add-member -notepropertyname groupname -notepropertyvalue $gn -force}
+          }
           $icondata|convertto-json -depth 100|out-file icon-data.json
           # ---------------------------------------------------------------------------------
           # Extras: portal images that no resource type uses (unnamed shared library images and
@@ -419,20 +438,21 @@ jobs:
           # the image is listed in that row. Groups keep the alphabetical order of their first member.
           $firstseen=@{}; $n=0
           foreach($i in @($icondata)){ $k=[string]$i.srckey; if(-not $firstseen.ContainsKey($k)){$firstseen[$k]=$n}; $n++ }
-          $grouped=@($icondata|group-object -property srckey|sort-object -property @{e={$firstseen[[string]$_.Name]}})
+          # Groups are sorted by their chosen name (groupname, set in "Convert sources to icon data")
+          $grouped=@($icondata|group-object -property srckey|sort-object -property @{e={([string]$_.Group[0].groupname -replace '[\u200B-\u200D\uFEFF]','').Trim()}},@{e={$firstseen[[string]$_.Name]}})
           function enc([string]$s){[System.Net.WebUtility]::HtmlEncode($s)}
           $sb=[System.Text.StringBuilder]::new()
           [void]$sb.Append("<html><head><meta charset=`"utf-8`"><meta name=`"viewport`" content=`"width=device-width, initial-scale=1`"><title>Azure Icons</title><style>body{margin:0}table,th,td{border:1px solid #CCCCCC;border-collapse:collapse;padding:3px;vertical-align:top}tbody{word-break:break-all;}td img{width:48px;height:48px;cursor:pointer}thead,tfoot{position:sticky;}thead{inset-block-start:0;background-color:#CCCCCC}tfoot{inset-block-end:0;background-color:#CCCCCC}a:link,a:visited,a:hover{color:black}a:active{color:blue}.n{color:#666;font-size:smaller}</style><script>function download(uri, name){const a=document.createElement(`"a`");a.href=uri;a.download=name+`".svg`";a.click();}</script></head><body><table><thead><tr><th scope=`"col`" style=`"width: 10%`">Click to download</th><th scope=`"col`" style=`"width: 20%`">Name</th><th scope=`"col`" style=`"width: 20%`">Type</th><th scope=`"col`" style=`"width: 20%`">Keywords</th><th scope=`"col`" style=`"width: 30%`">Description</th></tr></thead><tbody>")
           foreach($g in $grouped){
             $members=@($g.Group)
             $first=$members[0]
-            $names=@($members|%{[string]$_.singularDisplayName}|?{$_}|select-object -unique)
+            $names=@(@([string]$first.groupname)+@($members|%{[string]$_.singularDisplayName})|?{$_}|select-object -unique)
             $types=@($members|%{[string]$_.resourceType}|?{$_}|select-object -unique)
             $kw=@($members|%{[string]$_.keywords}|?{$_}|select-object -unique)
             $desc=@($members|%{[string]$_.description}|?{$_}|select-object -unique)
             $namecell=(@($names|%{enc $_}) -join '<br>')
             if($members.Count -gt 1){$namecell+="<br><span class=`"n`">($($members.Count) resource types share this icon)</span>"}
-            [void]$sb.Append("<tr title=`"$(enc $first.name)`"><td><img loading=`"lazy`" decoding=`"async`" src=`"svg/$(enc $first.name).svg`" alt=`"$(enc $first.singularDisplayName)`" title=`"Click to download`" onclick=`"download(this.src, this.alt)`" /></td><td>$namecell</td><td>$((@($types|%{enc $_}) -join '<br>'))</td><td>$((@($kw|%{enc $_}) -join '; '))</td><td>$((@($desc|%{enc $_}) -join '<br>'))</td></tr>")
+            [void]$sb.Append("<tr title=`"$(enc $first.name)`"><td><img loading=`"lazy`" decoding=`"async`" src=`"svg/$(enc $first.name).svg`" alt=`"$(enc $(if($first.groupname){$first.groupname}else{$first.singularDisplayName}))`" title=`"Click to download`" onclick=`"download(this.src, this.alt)`" /></td><td>$namecell</td><td>$((@($types|%{enc $_}) -join '<br>'))</td><td>$((@($kw|%{enc $_}) -join '; '))</td><td>$((@($desc|%{enc $_}) -join '<br>'))</td></tr>")
           }
           [void]$sb.Append("</tbody><tfoot><tr><td colspan=`"5`">$($grouped.Count) distinct icons for $(@($icondata).Count) resource types. Extracted from Azure Portal version ${{ steps.src.outputs.pageversion }} on $(get-date -f 'yyyy-MM-dd'). Icons <a target=`"_blank`" href=`"https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions`">used with permission from Microsoft</a>. Source on <a target=`"_blank`" href=`"https://github.com/${{ github.repository }}`">GitHub</a> (based on <a target=`"_blank`" href=`"https://github.com/maskati/azure-icons`">maskati/azure-icons</a>).</td></tr></tfoot></table></body></html>")
           $sb.ToString()|out-file index.html -encoding utf8
@@ -456,7 +476,19 @@ jobs:
           # Groups are put back in order of first appearance, so the alphabetical order is kept.
           $firstseen=@{}; $n=0
           foreach($i in @($icondata)){ $k=[string]$i.srckey; if(-not $firstseen.ContainsKey($k)){$firstseen[$k]=$n}; $n++ }
-          $grouped=@($icondata|group-object -property srckey|sort-object -property @{e={$firstseen[[string]$_.Name]}})
+          # Groups are sorted by their chosen name (groupname, set in "Convert sources to icon data")
+          $grouped=@($icondata|group-object -property srckey|sort-object -property @{e={([string]$_.Group[0].groupname -replace '[\u200B-\u200D\uFEFF]','').Trim()}},@{e={$firstseen[[string]$_.Name]}})
+          # Same merge, written twice: drawio.xml inserts a plain image; drawio-labeled.xml inserts the icon
+          # with its name as a label underneath (a shape entry: compressed mxGraphModel, as draw.io itself saves).
+          function Compress-Drawio([string]$s){
+            $bytes=[text.encoding]::ascii.getbytes([uri]::EscapeDataString($s))
+            $ms=[io.memorystream]::new()
+            $ds=[io.compression.deflatestream]::new($ms,[io.compression.compressionlevel]::Optimal)
+            $ds.write($bytes,0,$bytes.length); $ds.dispose()
+            [convert]::tobase64string($ms.toarray())
+          }
+          function Escape-Xml([string]$s){[System.Security.SecurityElement]::Escape($s)}
+          $labeled=[System.Collections.Generic.List[object]]::new()
           $mxicons=foreach($g in $grouped){
             $members=@($g.Group)
             $first=$members[0]
@@ -472,7 +504,7 @@ jobs:
             # Library-specific tag: draw.io ranks equal matches by load order (built-in shapes first),
             # so 'azicon <term>' (e.g. 'azicon vm') returns only this library's icons.
             $words+='azicon'
-            $names=@($members|%{[string]$_.singularDisplayName}|?{$_}|select-object -unique)
+            $names=@(@([string]$first.groupname)+@($members|%{[string]$_.singularDisplayName})|?{$_}|select-object -unique)
             if($members.Count -eq 1){
               $title=(@($first.singularDisplayName,$first.name,$first.resourceType)|?{-not [string]::isnullorwhitespace($_)}) -join ' | '
             }else{
@@ -481,12 +513,31 @@ jobs:
               $types=@($members|%{[string]$_.resourceType}|?{$_}|select-object -unique)
               if($types.Count -gt 0){$title+=' | '+((@($types|select-object -first 2)) -join ', ')}
             }
+            $tags=(@($words|select-object -unique)) -join ' '
+            $svgb64=[convert]::tobase64string([text.encoding]::utf8.getbytes([string]$first.svg))
+            # Label = the group's chosen name (see "Convert sources to icon data"); falls back to the derived name.
+            $label=[string]$first.groupname
+            if([string]::isnullorwhitespace($label)){$label=[string]$first.singularDisplayName}
+            if([string]::isnullorwhitespace($label)){$label=([string]$first.name -creplace '(?<=[a-z0-9])(?=[A-Z])|(?<=[A-Z])(?=[A-Z][a-z])',' ')}
+            # draw.io styles cannot hold ';', so the image is written as data:image/svg+xml,<base64> (draw.io's own form).
+            $style="image;aspect=fixed;html=1;points=[];align=center;verticalLabelPosition=bottom;verticalAlign=top;fontSize=12;image=data:image/svg+xml,$svgb64;"
+            # The name sits in a zero-size, centred box: draw.io sizes the sidebar preview to the shape's bounds,
+            # and a normal label would shrink the icon there. On the canvas the label shows in full.
+            $labelwrap='<div style="width:0;height:0;margin:0 auto;display:flex;justify-content:center;white-space:nowrap">{0}</div>'
+            $cellxml="<mxGraphModel><root><mxCell id=`"0`"/><mxCell id=`"1`" parent=`"0`"/><mxCell id=`"2`" value=`"$(Escape-Xml ($labelwrap -f [System.Net.WebUtility]::HtmlEncode($label)))`" style=`"$(Escape-Xml $style)`" vertex=`"1`" parent=`"1`"><mxGeometry width=`"50`" height=`"50`" as=`"geometry`"/></mxCell></root></mxGraphModel>"
+            $labeled.Add([ordered]@{
+              xml=(Compress-Drawio $cellxml);
+              w=50;h=50;
+              aspect='fixed';
+              title=$title;
+              tags=$tags;
+            })
             [ordered]@{
               h=50;w=50;
               aspect='fixed';
               title=$title;
-              tags=(@($words|select-object -unique)) -join ' ';
-              data="data:image/svg+xml;base64,$([convert]::tobase64string([text.encoding]::utf8.getbytes([string]$first.svg)))";
+              tags=$tags;
+              data="data:image/svg+xml;base64,$svgb64";
             }
           }
           $mxicons=@($mxicons)
@@ -496,6 +547,12 @@ jobs:
           $xml.appendchild($mxlibrary)|out-null
           $mxlibrary.innertext=$mxiconsjson
           $xml.outerxml|out-file drawio.xml
+          $xml3=[xml.xmldocument]::new()
+          $lib3=$xml3.createelement('mxlibrary')
+          $xml3.appendchild($lib3)|out-null
+          $lib3.innertext=(ConvertTo-Json -InputObject @($labeled) -Compress -Depth 100)
+          $xml3.outerxml|out-file drawio-labeled.xml
+          "Created drawio labeled library (name under each icon) with $($labeled.count) icons, $([math]::round((gi drawio-labeled.xml).length/1024/1024, 1))MB" >> $env:GITHUB_STEP_SUMMARY
           "Created drawio library with $($mxicons.count) distinct icons for $(@($icondata).count) resource types ($(@($icondata).count-$mxicons.count) duplicates merged), $([math]::round((gi drawio.xml).length/1024/1024, 1))MB" >> $env:GITHUB_STEP_SUMMARY
           # Separate library with the extras (portal images not used by any resource type)
           if(test-path extras-data.json){
@@ -526,6 +583,7 @@ jobs:
           compression-level: 9
           path: |
             drawio.xml
+            drawio-labeled.xml
             drawio-extras.xml
       - name: Compose Markdown
         shell: pwsh
@@ -534,7 +592,7 @@ jobs:
           $owner='${{ github.repository_owner }}'
           $repo='${{ github.event.repository.name }}'
           $markdown=$icondata|% `
-            {"# Azure Icons`n`nExtracted from Azure Portal version ${{ steps.src.outputs.pageversion }} on $(get-date -f 'yyyy-MM-dd').`n`n[View icons](https://$owner.github.io/$repo/)`n`n[Open in draw.io](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2F$owner%2F$repo%2Frefs%2Fheads%2Fmain%2Fdrawio.xml)`n`n[Open extras in draw.io](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2F$owner%2F$repo%2Frefs%2Fheads%2Fmain%2Fdrawio-extras.xml) (portal images not used by any resource type, named by number)`n`nIcons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions). Based on [maskati/azure-icons](https://github.com/maskati/azure-icons).`n`n| Icon | Type |`n| --- | --- |"} `
+            {"# Azure Icons`n`nExtracted from Azure Portal version ${{ steps.src.outputs.pageversion }} on $(get-date -f 'yyyy-MM-dd').`n`n[View icons](https://$owner.github.io/$repo/)`n`n[Open in draw.io](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2F$owner%2F$repo%2Frefs%2Fheads%2Fmain%2Fdrawio.xml)`n`n[Open in draw.io with names under the icons](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2F$owner%2F$repo%2Frefs%2Fheads%2Fmain%2Fdrawio-labeled.xml)`n`n[Open extras in draw.io](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2F$owner%2F$repo%2Frefs%2Fheads%2Fmain%2Fdrawio-extras.xml) (portal images not used by any resource type, named by number)`n`nIcons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions). Based on [maskati/azure-icons](https://github.com/maskati/azure-icons).`n`n| Icon | Type |`n| --- | --- |"} `
             {"| [$($_.singularDisplayName -replace '\[|\]|\|','')](svg/$($_.name).svg) | $($_.resourceType -replace '/','/ ') |"} `
             {""}|out-string
           $markdown|out-file README.md
@@ -583,6 +641,7 @@ jobs:
           # drawio.xml has no date stamp, so it changes only when icons or their order change
           git add -A svg drawio.xml
           if [ -f drawio-extras.xml ]; then git add drawio-extras.xml; fi
+          if [ -f drawio-labeled.xml ]; then git add drawio-labeled.xml; fi
           if ! git diff --cached --quiet; then
             git add index.html README.md
             git commit -m 'Update to version ${{ needs.download.outputs.pageversion }} with hash ${{ needs.download.outputs.confighash }}'
