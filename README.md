@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.401.0.1 on 2026-11-12.
+Extracted from Azure Portal version 18.462.0.1 on 2026-11-13.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -396,6 +396,10 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Container registry replication](svg/Microsoft_Azure_ContainerRegistries/ReplicationResource.svg) | Microsoft.ContainerRegistry/ registries/ replications |
 | [Container registry](svg/Microsoft_Azure_ContainerRegistries/RegistryResource.svg) | Microsoft.ContainerRegistry/ registries |
 | [](svg/Microsoft_Azure_ContainerRegistries/CreateConnectedRegistryArcResource.svg) | Microsoft.KubernetesConfiguration/ extensions |
+| [Workflow Factory](svg/Microsoft_Azure_ContainerRegistries_Workflows/WorkflowFactoryResource.svg) | Microsoft.ContainerRegistry/ workflowFactories |
+| [Container Registry Trigger](svg/Microsoft_Azure_ContainerRegistries_Workflows/TriggerResource.svg) | Microsoft.ContainerRegistry/ workflowFactories/ triggers |
+| [Container Registry Workflow](svg/Microsoft_Azure_ContainerRegistries_Workflows/WorkflowResource.svg) | Microsoft.ContainerRegistry/ workflowFactories/ workflows |
+| [Connection](svg/Microsoft_Azure_ContainerRegistries_Workflows/ConnectionResource.svg) | Microsoft.ContainerRegistry/ workflowFactories/ connections |
 | [GitOps configuration](svg/Microsoft_Azure_ContainerService/ManagedClustersGitOpsConfiguration.svg) | Microsoft.ContainerService/ managedClusters/ Microsoft.KubernetesConfiguration/ fluxConfigurations |
 | [GitOps configuration](svg/Microsoft_Azure_ContainerService/ConnectedClustersGitOpsConfiguration.svg) | Microsoft.Kubernetes/ connectedClusters/ Microsoft.KubernetesConfiguration/ fluxConfigurations |
 | [Kubernetes Namespace](svg/Microsoft_Azure_ContainerService/ManagedClusterNamespaces.svg) | Microsoft.ContainerService/ managedClusters/ Microsoft.KubernetesConfiguration/ namespaces |
@@ -433,7 +437,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Anyscale Cloud Resource](svg/Microsoft_Azure_ContainerService/AnyscaleCloudResourcesDev.svg) | Private.AnyscaleDev/ clouds/ cloudResources |
 | [Anyscale Cloud](svg/Microsoft_Azure_ContainerService/AnyscaleCloudsDev.svg) | Private.AnyscaleDev/ clouds |
 | [Container storage](svg/Microsoft_Azure_ContainerStorage/ContainerStorage.svg) | Microsoft.ContainerStorage/ pools |
-| [Space file](svg/Microsoft_Azure_Copilot/SpaceFiles.svg) | microsoft.copilot/ spaces/ files |
 | [Azure Copilot admin center](svg/Microsoft_Azure_Copilot/CopilotSettingsAsset.svg) |  |
 | [Space](svg/Microsoft_Azure_Copilot/Space.svg) | Microsoft.Copilot/ spaces |
 | [Copilot](svg/Microsoft_Azure_Copilot/Copilot.svg) | Microsoft.PortalServices/ copilots |
@@ -569,8 +572,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Education](svg/Microsoft_Azure_Education/Education.svg) |  |
 | [Elastic SAN](svg/Microsoft_Azure_ElasticSan/ElasticSan.svg) | Microsoft.ElasticSan/ elasticsans |
 | [Logic app](svg/Microsoft_Azure_EMA/Workflow.svg) | Microsoft.Logic/ workflows |
-| [Connector Namespace (preview)](svg/Microsoft_Azure_EMA/ConnectorGatewayResources.svg) | Microsoft.Web/ connectorGateways |
-| [Connector Namespace (preview)](svg/Microsoft_Azure_EMA/ConnectorGateway.svg) |  |
+| [Connector Namespace](svg/Microsoft_Azure_EMA/ConnectorGatewayResources.svg) | Microsoft.Web/ connectorGateways |
+| [Connector Namespace](svg/Microsoft_Azure_EMA/ConnectorGateway.svg) |  |
 | [Managed connector](svg/Microsoft_Azure_EMA/ManagedConnector.svg) | Microsoft.Logic/ integrationServiceEnvironments/ managedApis |
 | [Logic app template](svg/Microsoft_Azure_EMA/LogicAppsTemplate.svg) | Microsoft.Logic/ templates |
 | [Integration account](svg/Microsoft_Azure_EMA/IntegrationAccount.svg) | Microsoft.Logic/ integrationAccounts |
