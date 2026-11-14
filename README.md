@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.462.0.1 on 2026-11-13.
+Extracted from Azure Portal version 18.462.0.1 on 2026-11-14.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -437,6 +437,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Anyscale Cloud Resource](svg/Microsoft_Azure_ContainerService/AnyscaleCloudResourcesDev.svg) | Private.AnyscaleDev/ clouds/ cloudResources |
 | [Anyscale Cloud](svg/Microsoft_Azure_ContainerService/AnyscaleCloudsDev.svg) | Private.AnyscaleDev/ clouds |
 | [Container storage](svg/Microsoft_Azure_ContainerStorage/ContainerStorage.svg) | Microsoft.ContainerStorage/ pools |
+| [Space file](svg/Microsoft_Azure_Copilot/SpaceFiles.svg) | microsoft.copilot/ spaces/ files |
 | [Azure Copilot admin center](svg/Microsoft_Azure_Copilot/CopilotSettingsAsset.svg) |  |
 | [Space](svg/Microsoft_Azure_Copilot/Space.svg) | Microsoft.Copilot/ spaces |
 | [Copilot](svg/Microsoft_Azure_Copilot/Copilot.svg) | Microsoft.PortalServices/ copilots |
@@ -1022,6 +1023,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Hybrid Connection](svg/Microsoft_Azure_Relay/HybridConnection.svg) | Microsoft.Relay/ namespaces/ HybridConnections |
 | [Flex Plan term](svg/Microsoft_Azure_Reservations/SpendPlansTermsBrowseAsset.svg) | microsoft.billingbenefits/ flexplans/ terms |
 | [Flex Plan](svg/Microsoft_Azure_Reservations/SpendPlansBrowseAsset.svg) | microsoft.billingbenefits/ flexplans |
+| [Flex Plan term](svg/Microsoft_Azure_Reservations/LegacySpendPlansTermsAsset.svg) | microsoft.billingbenefits/ spendplans/ terms |
+| [Flex Plan](svg/Microsoft_Azure_Reservations/LegacySpendPlansAsset.svg) | microsoft.billingbenefits/ spendplans |
 | [Billing Benefits Resource](svg/Microsoft_Azure_Reservations/BillingBenefitsAllResources.svg) | Microsoft.BillingBenefits/ allResources |
 | [Savings plan order](svg/Microsoft_Azure_Reservations/SavingsPlanOrderServiceAdminAsset.svg) | Microsoft.BillingBenefits/ savingsPlanOrders |
 | [Savings plan order](svg/Microsoft_Azure_Reservations/SavingsPlanOrderAsset.svg) | Microsoft.Billing/ billingAccounts/ savingsPlanOrders |
@@ -1082,7 +1085,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Database for SAP solutions](svg/Microsoft_Azure_SAPManagement/SAP_DB_Server_instance.svg) | Microsoft.Workloads/ sapVirtualInstances/ databaseInstances |
 | [Central service instance for SAP solutions](svg/Microsoft_Azure_SAPManagement/SAP_Central_Server_instance.svg) | Microsoft.Workloads/ sapVirtualInstances/ centralInstances |
 | [App server instance for SAP solutions](svg/Microsoft_Azure_SAPManagement/SAP_App_Server_instance.svg) | Microsoft.Workloads/ sapVirtualInstances/ applicationInstances |
-| [Search service (Foundry IQ)](svg/Microsoft_Azure_Search/SearchService.svg) | Microsoft.Search/ searchServices |
+| [Foundry IQ (Azure AI Search)](svg/Microsoft_Azure_Search/SearchService.svg) | Microsoft.Search/ searchServices |
 | [Microsoft Defender for Cloud](svg/Microsoft_Azure_Security/SecurityDashboard.svg) |  |
 | [Security Alert](svg/Microsoft_Azure_Security/SecurityAlerts.svg) | microsoft.security/ locations/ alerts |
 | [Security Private Link](svg/Microsoft_Azure_Security_CloudNativeCompute/PrivateLinkResource.svg) | Microsoft.Security/ privatelinks |
