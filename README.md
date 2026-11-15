@@ -1,10 +1,12 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.401.0.1 on 2026-11-10.
+Extracted from Azure Portal version 18.462.0.1 on 2026-11-15.
 
 [View icons](https://wshamroukh.github.io/azure-icons/)
 
 [Open in draw.io](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fwshamroukh%2Fazure-icons%2Frefs%2Fheads%2Fmain%2Fdrawio.xml)
+
+[Open in draw.io with names under the icons](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fwshamroukh%2Fazure-icons%2Frefs%2Fheads%2Fmain%2Fdrawio-labeled.xml)
 
 [Open extras in draw.io](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fwshamroukh%2Fazure-icons%2Frefs%2Fheads%2Fmain%2Fdrawio-extras.xml) (portal images not used by any resource type, named by number)
 
@@ -47,10 +49,12 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [ADR schema registry](svg/Microsoft_Azure_DeviceRegistry/schemaRegistries.svg) | microsoft.deviceregistry/ schemaRegistries |
 | [ADR software update (preview) instance](svg/Microsoft_Azure_DeviceRegistry/deviceRegistryUpdateInstances.svg) | microsoft.deviceupdate/ updateinstances |
 | [Advisor](svg/Microsoft_Azure_Expert/AzureAdvisor.svg) |  |
-| [Agent Fabric (Dev Build)](svg/Microsoft_Azure_AgentFabric/AgentFabric.svg) | Microsoft.NetworkSecurity/ agentFabrics |
 | [Agent ID](svg/Microsoft_AAD_RegisteredApps/AgentIdentity.svg) |  |
 | [Agent Pool](svg/Microsoft_Azure_NetworkCloud/AgentPoolResource.svg) | Microsoft.NetworkCloud/ kubernetesClusters/ agentPools |
 | [Agent Private Access](svg/Microsoft_Azure_Chaos/privateAccess.svg) | microsoft.chaos/ privateaccesses |
+| [AgentGrid](svg/Microsoft_Azure_AgentFabric/AgentFabric.svg) | Microsoft.NetworkSecurity/ agentFabrics |
+| [AgentGrid](svg/Microsoft_Azure_AgentFabric/AgentFabricHome.svg) |  |
+| [AgentGrid policy group](svg/Microsoft_Azure_AgentFabric/PolicyGroup.svg) | Microsoft.NetworkSecurity/ policyGroups |
 | [Agentic Web App](svg/Microsoft_Azure_AfdAgenticWebApp/AfdAgenticWebApp.svg) | Microsoft.Cdn/ webAgents |
 | [Agents](svg/Microsoft_Intune_DeviceSettings/AgentsAsset.svg) |  |
 | [AI Gateway](svg/Microsoft_Azure_ApiManagement/AIGateway.svg) | Microsoft.ApiManagement/ aigateways |
@@ -211,9 +215,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure HDInsight on AKS cluster](svg/Microsoft_Azure_HDInsight/HDInsightClusterGen2.svg) |  |
 | [Azure HDInsight on AKS cluster pool](svg/Microsoft_Azure_HDInsight/HDInsightClusterPool.svg) |  |
 | [Azure Health Data and AI Services](svg/Microsoft_Healthcare_APIs/HealthDataAIServices.svg) | Microsoft.Test/ healthDataAIServices |
-| [Azure HorizonDB (Preview)](svg/Microsoft_Azure_OSSDatabases/PostgreSqlHorizonDB.svg) | Microsoft.HorizonDB/ clusters |
-| [Azure HorizonDB (Preview)](svg/Microsoft_Azure_OSSDatabases/PostgreSqlOrionDB.svg) | Microsoft.OrionDB/ clusters |
-| [Azure HorizonDB (Preview) parameter group](svg/Microsoft_Azure_OSSDatabases/PostgreSqlHorizonDBParameterGroups.svg) | Microsoft.HorizonDB/ parameterGroups |
+| [Azure HorizonDB](svg/Microsoft_Azure_OSSDatabases/PostgreSqlHorizonDB.svg) | Microsoft.HorizonDB/ clusters |
+| [Azure HorizonDB](svg/Microsoft_Azure_OSSDatabases/PostgreSqlOrionDB.svg) | Microsoft.OrionDB/ clusters |
+| [Azure HorizonDB parameter group](svg/Microsoft_Azure_OSSDatabases/PostgreSqlHorizonDBParameterGroups.svg) | Microsoft.HorizonDB/ parameterGroups |
 | [Azure IoT Hub Device Provisioning Service (DPS)](svg/Microsoft_Azure_IotHub/DeviceProvisioning.svg) | Microsoft.Devices/ ProvisioningServices |
 | [Azure Iot Hub Security](svg/Microsoft_Azure_Security_IoT/AzureIoTSecurity.svg) |  |
 | [Azure IoT Operations](svg/Microsoft_Azure_IoTOperations/IoTOperations.svg) | Microsoft.IoTOperations/ instances |
@@ -389,10 +393,11 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Connected Cache for ISP](svg/Microsoft_ConnectedCache_ISP/MCCIspResource.svg) | Microsoft.ConnectedCache/ ispCustomers |
 | [Connected Organization](svg/Microsoft_AAD_IAM/PartnerListBlade.svg) |  |
 | [Connected Resource](svg/Microsoft_Azure_Resources/ServiceGroupRelationships.svg) | microsoft.relationships/ serviceGroupRelationships |
+| [Connection](svg/Microsoft_Azure_ContainerRegistries_Workflows/ConnectionResource.svg) | Microsoft.ContainerRegistry/ workflowFactories/ connections |
 | [Connection](svg/Microsoft_Azure_CtsExtension/CloudTransferConnection.svg) | Microsoft.AzureDataTransfer/ Connections |
 | [Connection](svg/Microsoft_Azure_HybridNetworking/Connection.svg) | Microsoft.Network/ connections |
-| [Connector Namespace (preview)](svg/Microsoft_Azure_EMA/ConnectorGateway.svg) |  |
-| [Connector Namespace (preview)](svg/Microsoft_Azure_EMA/ConnectorGatewayResources.svg) | Microsoft.Web/ connectorGateways |
+| [Connector Namespace](svg/Microsoft_Azure_EMA/ConnectorGateway.svg) |  |
+| [Connector Namespace](svg/Microsoft_Azure_EMA/ConnectorGatewayResources.svg) | Microsoft.Web/ connectorGateways |
 | [Consistency group](svg/Microsoft_Azure_NetApp/NfsConsistencyGroup.svg) | Microsoft.NetApp/ netAppAccounts/ consistencyGroups |
 | [Container App](svg/WebsitesExtension/ContainerApp.svg) | Microsoft.App/ containerApps |
 | [Container App Job](svg/WebsitesExtension/ContainerAppJobs.svg) | Microsoft.App/ jobs |
@@ -408,7 +413,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Container registry replication](svg/Microsoft_Azure_ContainerRegistries/ReplicationResource.svg) | Microsoft.ContainerRegistry/ registries/ replications |
 | [Container registry scope map](svg/Microsoft_Azure_ContainerRegistries/ScopeMapResource.svg) | Microsoft.ContainerRegistry/ registries/ scopeMaps |
 | [Container registry token](svg/Microsoft_Azure_ContainerRegistries/TokenResource.svg) | Microsoft.ContainerRegistry/ registries/ tokens |
+| [Container Registry Trigger](svg/Microsoft_Azure_ContainerRegistries_Workflows/TriggerResource.svg) | Microsoft.ContainerRegistry/ workflowFactories/ triggers |
 | [Container registry webhook](svg/Microsoft_Azure_ContainerRegistries/WebhookResource.svg) | Microsoft.ContainerRegistry/ registries/ webhooks |
+| [Container Registry Workflow](svg/Microsoft_Azure_ContainerRegistries_Workflows/WorkflowResource.svg) | Microsoft.ContainerRegistry/ workflowFactories/ workflows |
 | [Container storage](svg/Microsoft_Azure_ContainerStorage/ContainerStorage.svg) | Microsoft.ContainerStorage/ pools |
 | [Content Delivery Network WAF policy](svg/Microsoft_Azure_Network/ContentDeliveryNetworkWafPolicy.svg) | Microsoft.Cdn/ CdnWebApplicationFirewallPolicies |
 | [Content moderator](svg/Microsoft_Azure_ProjectOxford/ContentModerator.svg) | Microsoft.CognitiveServices/ BrowseContentModerator |
@@ -603,14 +610,17 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Firewall Policy](svg/Microsoft_Azure_HybridNetworking/FirewallPolicy.svg) | Microsoft.Network/ firewallPolicies |
 | [Firmware analysis](svg/Microsoft_Azure_FIST/FirmwareDefender.svg) |  |
 | [Firmware analysis workspace](svg/Microsoft_Azure_FIST/FirmwareAnalysisWorkspace.svg) | microsoft.iotfirmwaredefense/ workspaces |
-| [Flex Plan](svg/Microsoft_Azure_Reservations/SpendPlansBrowseAsset.svg) | microsoft.billingbenefits/ spendplans |
-| [Flex Plan term](svg/Microsoft_Azure_Reservations/SpendPlansTermsBrowseAsset.svg) | microsoft.billingbenefits/ spendplans/ terms |
+| [Flex Plan](svg/Microsoft_Azure_Reservations/LegacySpendPlansAsset.svg) | microsoft.billingbenefits/ spendplans |
+| [Flex Plan](svg/Microsoft_Azure_Reservations/SpendPlansBrowseAsset.svg) | microsoft.billingbenefits/ flexplans |
+| [Flex Plan term](svg/Microsoft_Azure_Reservations/LegacySpendPlansTermsAsset.svg) | microsoft.billingbenefits/ spendplans/ terms |
+| [Flex Plan term](svg/Microsoft_Azure_Reservations/SpendPlansTermsBrowseAsset.svg) | microsoft.billingbenefits/ flexplans/ terms |
 | [Flow](svg/Microsoft_Azure_CtsExtension/CloudTransferFlow.svg) | Microsoft.AzureDataTransfer/ Connections/ Flows |
 | [Flow log](svg/Microsoft_Azure_Network/NSGFlowLog.svg) | microsoft.network/ networkwatchers/ flowlogs |
 | [Flow log](svg/Microsoft_Azure_Network/VnetFlowLog.svg) | microsoft.network/ virtualnetworks/ flowlogs |
 | [Flow Profile](svg/Microsoft_Azure_CtsExtension/CloudTransferFlowProfile.svg) | Microsoft.AzureDataTransfer/ pipelines/ flowprofiles |
 | [Fluid Relay](svg/Microsoft_Azure_FluidRelay/FrsResource.svg) | Microsoft.FluidRelay/ fluidRelayServers |
 | [Foundry](svg/Microsoft_Azure_ProjectOxford/CognitiveServicesAccount.svg) | Microsoft.CognitiveServices/ accounts |
+| [Foundry IQ (Azure AI Search)](svg/Microsoft_Azure_Search/SearchService.svg) | Microsoft.Search/ searchServices |
 | [Foundry project](svg/Microsoft_Azure_ProjectOxford/AIFoundryProject.svg) | Microsoft.CognitiveServices/ accounts/ projects |
 | [Fraud Alert](svg/Microsoft_AAD_IAM/FraudAlertBlade.svg) |  |
 | [Free service](svg/Microsoft_Azure_Billing/FreeServices.svg) |  |
@@ -1126,7 +1136,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [SCVMM virtual machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/ArcVmScVmm.svg) | Microsoft.scvmm/ virtualMachines |
 | [SCVMM virtual machine template](svg/Microsoft_Azure_ArcPrivateCloudUX/ScVmmTemplates.svg) | microsoft.scvmm/ virtualmachinetemplates |
 | [SCVMM virtual network](svg/Microsoft_Azure_ArcPrivateCloudUX/ScVmmNetworks.svg) | microsoft.scvmm/ virtualnetworks |
-| [Search service (Foundry IQ)](svg/Microsoft_Azure_Search/SearchService.svg) | Microsoft.Search/ searchServices |
 | [Secret](svg/Microsoft_Azure_KeyVault/Secret.svg) |  |
 | [Security](svg/Microsoft_AAD_IAM/SecurityQuickStart.svg) |  |
 | [Security Alert](svg/Microsoft_Azure_Security/SecurityAlerts.svg) | microsoft.security/ locations/ alerts |
@@ -1180,6 +1189,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Sovereign Control Panel](svg/Microsoft_Azure_CloudforSovereignty/SovereigntyAsset.svg) |  |
 | [Sovereign view](svg/Microsoft_Azure_CloudforSovereignty/SovereignView.svg) | Microsoft.Sovereign/ sovereignViews |
 | [Space](svg/Microsoft_Azure_Copilot/Space.svg) | Microsoft.Copilot/ spaces |
+| [Space file](svg/Microsoft_Azure_Copilot/SpaceFiles.svg) | microsoft.copilot/ spaces/ files |
 | [Speech service](svg/Microsoft_Azure_ProjectOxford/SpeechServices.svg) | Microsoft.CognitiveServices/ BrowseSpeechServices |
 | [SQL database](svg/SqlAzureExtension/Database.svg) | Microsoft.Sql/ servers/ databases |
 | [SQL elastic pool](svg/SqlAzureExtension/ElasticPool.svg) | Microsoft.Sql/ servers/ elasticpools |
@@ -1322,6 +1332,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [WinRe rule](svg/Microsoft_Azure_HybridCompute/MachineConfigurationWinRe.svg) | Microsoft.HybridCompute/ winReStatuses |
 | [Workbook](svg/Microsoft_AAD_IAM/Workbooks.svg) |  |
 | [Workflow](svg/Microsoft_AAD_IAM/WorkflowOverview.svg) |  |
+| [Workflow Factory](svg/Microsoft_Azure_ContainerRegistries_Workflows/WorkflowFactoryResource.svg) | Microsoft.ContainerRegistry/ workflowFactories |
 | [Workflow Settings](svg/Microsoft_AAD_IAM/Settings.svg) |  |
 | [Workload](svg/Microsoft_Azure_VirtualEnclaves/Workload.svg) | Microsoft.Mission/ virtualEnclaves/ workloads |
 | [Workload Component](svg/Microsoft_Azure_WorkloadHub/WorkloadComponentAsset.svg) | Microsoft.Workloads/ virtualInstances/ components |
