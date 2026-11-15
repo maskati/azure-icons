@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.462.0.1 on 2026-11-14.
+Extracted from Azure Portal version 18.401.0.1 on 2026-11-15.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -955,9 +955,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Ground Station](svg/Microsoft_Azure_Orbital/GroundStations.svg) | Microsoft.Orbital/ GroundStations |
 | [GeoCatalog](svg/Microsoft_Azure_Orbital/geoCatalogs.svg) | Microsoft.Orbital/ geoCatalogs |
 | [Edge Site](svg/Microsoft_Azure_Orbital/EdgeSites.svg) | Microsoft.Orbital/ EdgeSites |
-| [Azure HorizonDB (Preview)](svg/Microsoft_Azure_OSSDatabases/PostgreSqlOrionDB.svg) | Microsoft.OrionDB/ clusters |
-| [Azure HorizonDB (Preview) parameter group](svg/Microsoft_Azure_OSSDatabases/PostgreSqlHorizonDBParameterGroups.svg) | Microsoft.HorizonDB/ parameterGroups |
-| [Azure HorizonDB (Preview)](svg/Microsoft_Azure_OSSDatabases/PostgreSqlHorizonDB.svg) | Microsoft.HorizonDB/ clusters |
+| [Azure HorizonDB](svg/Microsoft_Azure_OSSDatabases/PostgreSqlOrionDB.svg) | Microsoft.OrionDB/ clusters |
+| [Azure HorizonDB parameter group](svg/Microsoft_Azure_OSSDatabases/PostgreSqlHorizonDBParameterGroups.svg) | Microsoft.HorizonDB/ parameterGroups |
+| [Azure HorizonDB](svg/Microsoft_Azure_OSSDatabases/PostgreSqlHorizonDB.svg) | Microsoft.HorizonDB/ clusters |
 | [Azure Database for PostgreSQL flexible server](svg/Microsoft_Azure_OSSDatabases/PostgreSqlFlexibleServer.svg) | Microsoft.DBforPostgreSQL/ flexibleServers |
 | [Azure Database for MySQL flexible server](svg/Microsoft_Azure_OSSDatabases/MySqlFlexibleServer.svg) | Microsoft.DBforMySQL/ flexibleServers |
 | [Task Hub](svg/Microsoft_Azure_PaasServerless/TaskHub.svg) | Microsoft.DurableTask/ Schedulers/ TaskHubs |
