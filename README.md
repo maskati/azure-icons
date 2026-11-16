@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.401.0.1 on 2026-11-15.
+Extracted from Azure Portal version 18.462.0.1 on 2026-11-16.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -713,6 +713,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Application Gateway for Containers](svg/Microsoft_Azure_HybridNetworking/AppGwForContainers.svg) | Microsoft.ServiceNetworking/ trafficControllers |
 | [Infrastructure as Code Automation](svg/Microsoft_Azure_IacAutomation/ArcIacAutomation.svg) | Microsoft.DevHub/ iacProfiles |
 | [My Resource](svg/Microsoft_Azure_IdentityGovernance/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
+| [Infinity account](svg/Microsoft_Azure_Infinity/MyResource.svg) | Private.Infinity/ accounts |
 | [IoT Central Application](svg/Microsoft_Azure_IoTCentral/IoTApps.svg) | Microsoft.IoTCentral/ IoTApps |
 | [IoT Hub](svg/Microsoft_Azure_IotHub/IotHubs.svg) | Microsoft.Devices/ IotHubs |
 | [Azure IoT Hub Device Provisioning Service (DPS)](svg/Microsoft_Azure_IotHub/DeviceProvisioning.svg) | Microsoft.Devices/ ProvisioningServices |
