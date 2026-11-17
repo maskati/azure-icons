@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.462.0.1 on 2026-11-16.
+Extracted from Azure Portal version 18.462.0.1 on 2026-11-17.
 
 [View icons](https://maskati.github.io/azure-icons/)
 
@@ -1222,6 +1222,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [COSMIC Namespace](svg/Microsoft_Exchange_Cosmic/CosmicNamespace.svg) | Microsoft.Cosmic/ namespaces |
 | [COSMIC Health Metadata](svg/Microsoft_Exchange_Cosmic/CosmicHealthMetadata.svg) | Microsoft.Cosmic/ namespaces/ healthMetadatas |
 | [COSMIC Environment](svg/Microsoft_Exchange_Cosmic/CosmicEnvironment.svg) | Microsoft.Cosmic/ namespaces/ environments |
+| [COSMIC Deployment](svg/Microsoft_Exchange_Cosmic/CosmicDeployment.svg) | Microsoft.Cosmic/ namespaces/ environments/ deployments |
 | [FHIR service](svg/Microsoft_Healthcare_APIs/JupiterFhirService.svg) | Microsoft.HealthcareApis/ workspaces/ fhirservices |
 | [Azure Health Data and AI Services](svg/Microsoft_Healthcare_APIs/HealthDataAIServices.svg) | Microsoft.Test/ healthDataAIServices |
 | [Health Data Services workspace](svg/Microsoft_Healthcare_APIs/HealthcareApisService.svg) | Microsoft.HealthcareApis/ workspaces |
