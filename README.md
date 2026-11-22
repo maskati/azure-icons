@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 18.462.0.1 on 2026-11-15.
+Extracted from Azure Portal version 18.462.0.1 on 2026-11-22.
 
 [View icons](https://wshamroukh.github.io/azure-icons/)
 
@@ -424,6 +424,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Copilot](svg/Microsoft_Azure_Copilot/Copilot.svg) | Microsoft.PortalServices/ copilots |
 | [Copilot](svg/Microsoft_Entra_Copilot/SidecarChatAsset.svg) |  |
 | [Core42](svg/Microsoft_Azure_MLTeamAccounts/Core42.svg) |  |
+| [COSMIC Deployment](svg/Microsoft_Exchange_Cosmic/CosmicDeployment.svg) | Microsoft.Cosmic/ namespaces/ environments/ deployments |
 | [COSMIC Environment](svg/Microsoft_Exchange_Cosmic/CosmicEnvironment.svg) | Microsoft.Cosmic/ namespaces/ environments |
 | [COSMIC Health Metadata](svg/Microsoft_Exchange_Cosmic/CosmicHealthMetadata.svg) | Microsoft.Cosmic/ namespaces/ healthMetadatas |
 | [COSMIC Namespace](svg/Microsoft_Exchange_Cosmic/CosmicNamespace.svg) | Microsoft.Cosmic/ namespaces |
@@ -685,6 +686,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Immersive reader](svg/Microsoft_Azure_ProjectOxford/ImmersiveReader.svg) | Microsoft.CognitiveServices/ BrowseImmersiveReader |
 | [Impact Reporting](svg/Microsoft_Azure_ECE/ImpactRP.svg) |  |
 | [Impact Reporting Connector](svg/Microsoft_Azure_ECE/microsoft_impact_connectors_2025_01_01_preview.svg) | microsoft.impact/ connectors |
+| [Infinity account](svg/Microsoft_Azure_Infinity/MyResource.svg) | Microsoft.InfinityDB/ accounts |
 | [Informatica Organization](svg/Azure_Marketplace_Informatica/Informatica.svg) | Informatica.DataManagement/ organizations |
 | [Infrastructure as Code Automation](svg/Microsoft_Azure_IacAutomation/ArcIacAutomation.svg) | Microsoft.DevHub/ iacProfiles |
 | [Instance](svg/Microsoft_Azure_Compute/ComputeFleetInstance.svg) | microsoft.compute/ computefleetinstances |
@@ -1150,6 +1152,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Service Bus Queue](svg/Microsoft_Azure_ServiceBus/ServiceBusQueue.svg) | Microsoft.ServiceBus/ namespaces/ queues |
 | [Service Bus Subscription](svg/Microsoft_Azure_ServiceBus/ServiceBusSubscription.svg) | Microsoft.ServiceBus/ namespaces/ topics/ subscriptions |
 | [Service Bus Topic](svg/Microsoft_Azure_ServiceBus/ServiceBusTopic.svg) | Microsoft.ServiceBus/ namespaces/ topics |
+| [Service catalog](svg/Microsoft_Azure_VirtualEnclaves/ServiceCatalog.svg) | Microsoft.Mission/ serviceCatalogs |
 | [Service catalog managed application definition](svg/Microsoft_Azure_Appliance/ApplianceDefinition.svg) | Microsoft.Solutions/ applicationDefinitions |
 | [Service Connector](svg/Microsoft_Azure_CloudPC/ServiceConnector.svg) | Microsoft.Windows365/ serviceConnectors |
 | [Service endpoint policy](svg/Microsoft_Azure_Network/ServiceEndpointPolicy.svg) | Microsoft.Network/ serviceEndpointPolicies |
